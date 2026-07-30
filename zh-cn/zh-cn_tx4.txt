@@ -1,0 +1,481 @@
+%FAMILY zh-cn
+
+// ========================================================================
+// 231006 カタログの追加要素
+
+&&CatalogI_tab_shopping 可购入此物品的商店
+// 素材回収の木/池で開いたときのピックアップタイトル
+&&Catalog_pickup_current_reel_spot 素材收集点（&1）
+
+
+// ==================
+// 231008 宝箱を手に入れた際にアイテムがいっぱい
+&&MoneyBox_adding_need_enough_room 但是背包中物品太多已经拿不下了……
+&&MoneyBox_adding_need_bottle 但是因为没有&1，所以无法获取……
+
+
+// ========================================================
+// MARK : ver0.25
+// ========================================================
+
+
+&&Area_school  贝尔米特\b士官学园
+&&Area_sacred  恩惠圣母之石
+
+&&GM_error_sacred 警告：检测到周边魔力已达到致死浓度，请立刻疏散至安全场所。
+
+// ========================================================
+// MARK : Dojo Game
+// ========================================================
+&&Mgm_dojo_tutorial 热身运动
+/* ___ Mgm_dojo_tutorial_desc ___ */
+查看小游戏的规则和教程。
+另外，在小游戏中败北
+不会受到失败惩罚。
+
+/* ___ Mgm_dojo_generator_desc ___ */
+难度： &1
+/* ___ Mgm_dojo_generator_count ___ */
+已挑战次数： &1 （胜利次数：&2 /最小失误次数：&3）
+/* ___ Mgm_dojo_generator_count_not_played ___ */
+已挑战次数： &1 （胜利次数：&2）
+
+
+/* ___ Mgm_dojo_confirm_tutorial ___ */
+千里之行始于足下。
+磨炼伊始，当将本道场之规矩熟识于心。
+
+
+/* ___ Mgm_dojo_confirm_learned ___ */
+虽为已得之术，
+亦不当松懈每日温习。
+
+/* ___ Mgm_dojo_confirm_not_learned_first ___ */
+汝若渴求学习未得之术，
+一口缴纳此价，方可任意操练直至纯熟。
+
+/* ___ Mgm_dojo_confirm_not_learned ___ */
+先前汝止于半途，未能掌握要领。
+倒而不馁，试而不疲，此乃习得技术必由之路。
+
+
+/* ___ Mgm_dojo_confirm_choose ___ */
+开始「&1」之切磋！
+
+/* ___ Mgm_dojo_confirm_choose_tutorial ___ */
+开始热身运动！
+
+
+&&Mgm_dojo_confirm_btn_ok 请多指教！
+&&Mgm_dojo_confirm_btn_cancel 待会儿再说
+
+
+
+
+&&Mgm_dojo_tuto_play_rest    剩余 &1 回合
+&&Mgm_dojo_tuto_play0    跟随节奏使出石头<key la/>吧
+&&Mgm_dojo_tuto_play1    跟随节奏使出剪刀<key ra/>吧
+&&Mgm_dojo_tuto_play2    跟随节奏使出布<key ta/>吧
+&&Mgm_dojo_tuto_play4    跟随节奏使出克制对手的手势吧
+&&Mgm_dojo_indicate_next_hand    选择该手势
+
+// ミニゲームUI
+
+&&Mgm_ui_highscore 最高分数记录：
+&&Mgm_ui_playcount 挑战次数：
+&&Mgm_ui_playcount_content &1 次
+&&Mgm_ui_updated_highscore 高分记录已刷新！
+
+// Museum Viewer
+&&Museum_image_index &1<font size="20">/&2</font>
+&&KD_museum_viewer <key rem/>隐藏UI <key shift/>+<key ba/><key ta/>放大/缩小
+&&KD_museum_viewer_move 切换
+&&KD_museum_viewer_quit <key menu/>停止
+&&KD_museum_viewer_comment <key c/>品鉴
+
+
+
+// 状態異常
+// アクチール: Actihol
+
+&&SerTitle_drunk    晕乎乎
+/* ___ SerDesc_drunk ___ */
+摄入酿精后意识飘飘欲仙。
+
+// 後半は↓ orgasm_after とほぼ同じ文章です。
+
+/* ___ SerDesc_drunk_1 ___ */
+从料理中获得的增益效果减少&1%。
+
+/* ___ SerDesc_drunk_2 ___ */
+偶尔会踉踉跄跄跌倒在地。
+
+/* ___ SerDesc_drunk_3 ___ */
+真不应该喝那么多的……
+
+/* ___ SerDesc_drunk_0 ___ */
+一定程度上防止MP计量槽发生破裂，
+但魔力恢复效率降低。
+该效果无法通过坐在长椅上解除，
+只能通过进行一段时间的战斗，
+或者喝水来恢复。
+
+
+
+// 買い物での飲食
+// tx2 の lunch_confirm / tx3 の lunch_drink_confirm に対応しています。
+
+&&lunchstore_drink_confirm 要买<b>「&1」</b>来喝吗？
+&&lunchstore_drink_confirm_burst <font color="ff:#A00B35">肚子胀鼓鼓的大概喝不完…确定要买</font>\n<b>「&1」</b>喝吗？
+&&lunchstore_drink_confirm_dupe <font color="ff:#B828AC">大概没办法完全吸收营养…确定要买</font>\n<b>「&1」</b>来喝吗？
+
+
+&&lunchstore_confirm 要买<b>「&1」</b>来吃吗？
+&&lunchstore_confirm_burst <font color="ff:#A00B35">肚子胀鼓鼓的大概吃不完…确定要买</font>\n<b>「&1」</b>来吃吗？
+&&lunchstore_confirm_dupe <font color="ff:#B828AC">大概没办法完全吸收营养…确定要买</font>\n<b>「&1」</b>来吃吗？
+
+&&Eat_Buy 买下并吃掉&1
+&&Eat_Buy_Drink 买下并喝掉&1
+
+&&SerTitle_overrun_tired    疲惫
+/* ___ SerDesc_overrun_tired ___ */
+魔力枯竭时仍勉强使用魔法
+导致疲劳不堪，增加受到的伤害。
+MP计量槽变得容易碎裂，
+且更容易进入「晕厥」状态。
+可通过在地图间移动来缓解。
+
+&&SerTitle_milky    母乳体质
+/* ___ SerDesc_milky ___ */
+在大地奇异力量的作用下，
+本应漏出诺艾儿汁的时候，
+流出的却常常是诺艾儿乳。
+究其原理……总之就是大地的奇异力量。
+
+
+&&SerTitle_clt_broken    服装损坏
+/* ___ SerDesc_clt_broken ___ */
+衣服破破烂烂的。
+坐在长椅上可以重新修补好。
+
+/* ___ SerDesc_clt_broken_detail ___ */
+受到的伤害变为原来的1.5倍。
+闪避的无敌时间延长。
+
+
+/* ___ Store_BarUnder_Help_Title ___ */
+酒吧的秘密贮藏室
+
+/* ___ Store_BarUnder_Help_Contents ___ */
+通过「卖出」背包中的诺艾儿汁/诺艾儿乳/诺艾儿卵来
+换取特殊货币<font color="ff:#646D00">精萃<img mesh="money_juice"/> </font>，
+获得的<font color="ff:#646D00">精萃<img mesh="money_juice"/> </font>可以在贮藏室购买商品。
+
+购买结束后，剩余的<font color="ff:#646D00">精萃<img mesh="money_juice"/> </font>
+将由酒保代为保管，作为你的余额以供你进行下一次交易。
+
+换到足够多的精萃，就能尽情地丰富里世界的设置法则了~
+
+&&Store_selling_worthless 那个东西在这里可卖不掉。
+
+/* ___ Item_special_config_detail ___ */
+此物品会在您的设置菜单中
+添加新的选项。
+它本身不会出现在物品菜单中。
+
+&&Alert_spconfig_activate 已解锁新的设置项。
+
+&&Alert_explode_bomb_in_inventory 携带的爆炸物被引爆了…
+
+&&deperture_dialog 要去哪里呢？
+&&deperture_home 据点
+
+// ========================================================
+// MARK : ver0.25d 錬金術カタログ 新要素
+// ========================================================
+
+&&Catalog_enemyspot_dangerous 危险度: &1
+
+&&Catalog_pickup_reel_on_map 转轮获取点(&1)
+
+// ↓戦闘エリア関連の一覧が追加されます。
+
+&&Catalog_categ_item_summoner 战斗点
+&&KD_reel_detail 转轮详情
+&&KD_enemyspot 战斗点详情
+
+
+&&CatalogI_tab_enemyspot 可获取此物品的战斗点
+&&CatalogI_tab_enemydrop 可掉落此物品的敌人
+&&CatalogN_enemyspot_defeated 战胜次数总计：&1次
+
+// ↓英語などの言語で「このアイテムを取得できる宝箱」というカテゴリーとして
+// 実装されていましたが、新しく「この戦闘エリアで得られる宝箱」というカテゴリーが追加されます。
+
+&&CatalogI_tab_chest_from_here 可在此战斗点获取的宝箱
+
+&&CatalogI_tab_address 地点
+&&catalog_show 显示
+
+&&recipe_categ_actihol 鸡尾饮料
+&&name_recipe_actihol 调配方法：&1
+
+
+
+// ========================================================
+// MARK : ver0.25f
+// ========================================================
+
+&&Alert_new_config_on_barunder  贮藏室里上架了新商品。
+
+// ゲームオーバーの際、拘束解除/シャッフルボタンが追加されます。
+&&KD_go_escape_from_bind  解除拘束
+&&KD_shuffle_enemy_position  变换魔族位置
+
+
+
+// 錬金術カタログの減少カテゴリ
+&&Catalog_categ_sub_reduce_hp 降低HP
+&&Catalog_categ_sub_reduce_mp 降低MP
+&&Catalog_categ_sub_reduce_ep 降低兴奋率
+
+/* ___ Alert_new_keybind_for_check ___ */
+请注意，由于此版本新增了许多交互功能，
+从ver0.25b开始，我们对键位系统进行了调整。
+
+若您在游戏中遇到了键位异常（如互动键失灵）
+等情况，请检查或重设您的键位设置。
+
+// ========================================================
+// MARK : ver0.26
+// ========================================================
+
+&&Item_cmd_respawn 复活
+&&Item_cmd_respawn_useless （复活）
+
+
+&&Mgm_eggremove_KD 看准时机长按 <key submit/> 
+//如果排卵到一半高潮了的话……
+&&Mgm_eggremove_retry 再努努力……
+&&Mgm_eggremove_abort 放弃……
+// 要是压根就没有卵了就等于是在自慰了……
+&&Mgm_eggremove_noegg_retry 再玩一会儿……
+&&Mgm_eggremove_noegg_abort 结束
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+
+// ver0.26b 予約
+// 自慰行為
+
+// &&Select_see_masturbate 进行自慰
+&&Select_skip_masturbate 进行自慰（跳过演出）
+&&Select_no_masturbate 再忍忍……
+
+
+/* ___ Title_error_no_sound_driver ___ */
+驱动初始化失败，无法加载音频资源。
+&1
+
+/* ___ Title_error_no_sound_driver_nosound ___ */
+游戏将以静音状态继续运行。
+
+
+
+&&SerTitle_web_trapped    黏糊糊
+&&SerDesc_web_trapped    身上挂满粘液因此更难摆脱拘束攻击。\n在挣脱出来之前无法行动。
+
+&&Alert_rebagacha 快速连打方向键！
+
+
+
+
+&&Bench_Cmd_restroom_cure_egged_no_tool 努力排出来…
+&&Bench_Cmd_restroom_cure_egged_tool 使用取卵器
+
+
+&&bomb_selfexplode 身上携带的炸弹被引爆了…
+&&Recipe_do_not_rotten 不会因战斗而腐烂
+
+
+&&SerTitle_stone    石化
+&&SerTitle_stone_complete    完全石化
+
+
+
+/* ___ SerDesc_stone_suffix ___ */
+通过挣扎（快速连打方向键）
+可以更快地解除此状态。
+此状态下受到的伤害会减少。
+
+/* ___ SerDesc_stone_complete_suffix ___ */
+身体从内到外都变成石头无法复原了……
+
+&&SerTitle_orgasm_stack    高潮蓄积
+&&SerDesc_orgasm_stack    无法高潮带来的渴求感积少成多…\n在最终释放解脱的时候想必会汹涌而出。
+
+&&Alert_item_reduced_memorychip 情急之下又把&1给弄丢了…
+
+
+// ========================================================
+// MARK : ver0.27 潜行
+// ========================================================
+
+&&sneaking_MG_KD_top <key ta/>向上
+&&sneaking_MG_KD_btm <key ba/>向下
+&&sneaking_MG_KD_goout_right <key ra/>走出掩体
+&&sneaking_MG_KD_goout_left <key la/>走出掩体
+
+&&Alert_item_reduced_memorychip_success 把&1交给了蒂格蕾娜。
+
+
+
+// ========================================================
+// MARK : ver0.27 図鑑拡張
+// ========================================================
+
+&&CatalogI_tab_appear_enemyspot 目标战斗点 - &1
+
+
+//レーションはコストが高いが倍の速度で減少する
+&&Recipe_cost_reduce_ratio 消耗速度: &1%
+
+
+&&Status_Tab_battle_abort 放弃…
+
+
+&&ItemConfirm_do_not_obtain 当前尚未取得所需物品。
+
+&&Map_show_target 在地图上显示目标
+
+&&CatalogI_drop_enemy 会掉落此物品的敌人
+&&Recipe_edible_in_battle 可在战斗中使用
+
+
+// チップス確認タブ
+&&Scenario_Tab_tips TIPS
+
+
+// ========================================================
+// MARK : ver0.28
+// ========================================================
+&&Catalog_categ_item_cane 魔法设备
+
+&&Cane_graph_near_reach 近战攻击距离
+&&Cane_graph_near 近战威力
+&&Cane_graph_far 射击威力
+&&Cane_graph_lockon 锁定性能
+&&Cane_graph_stability 魔力稳定性
+&&Cane_graph_mp_use_ratio 魔力消耗效率
+&&Cane_graph_neutral 魔力亲和性
+&&Cane_graph_casttime 咏唱速度
+&&Cane_graph_near_punch_speed 近战挥击速度
+
+&&Item_cmd_equip_cane 装备
+&&Item_cmd_equip_cane_disable (装备)
+
+&&Alert_current_cane 已经装备了该法杖。
+
+
+
+// ========================================================
+// MARK : 28
+// ========================================================
+&&Area_mount   拓荒者山岳 
+
+
+
+// 鍛冶屋さん ========================
+&&ForgeUi_replace_cost 更换手续费：&1
+&&ForgeUi_buy_tester_cost 开始测试任务的手续费：&1
+
+/* ___ ForgeUi_buy_tester_applied_damage ___ */
+此法杖已造成的伤害：  
+&1 / &2　&3
+&&ForgeUi_buy_tester_completed 任务完成！
+
+/* ___ Forge_quest_applied_damage ___ */
+&1: &2 / &3
+/* ___ Forge_quest_applied_damage_on_quest_tracker ___ */
+&1:
+&2 / &3
+
+/* ___ Forge_detail_quest_target ___ */
+进行中的测试任务：  
+&1
+
+&&ForgeUi_cmd_replace 立即更换 &1
+&&ForgeUi_cmd_buy 开始测试任务 &1
+&&ForgeUi_cmd_buy_asking 手续费太贵了吧？ 
+&&ForgeUi_cmd_testfiring 试用
+
+&&ForgeUi_return_testfire_cane 已将 &1 交还给铁匠铺。
+&&ForgeUi_replace_cane &1 加工完成。
+&&ForgeUi_invalid_room_inventory 物品栏已满。
+&&ForgeUi_invalid_already_has 您已拥有此物品。
+&&ForgeUi_invalid_already_buy_src 您尚未完成当前法杖的测试任务。
+&&ForgeUi_invalid_already_buy 您已经是该法杖的测试员了。
+
+/* ___ ForgeUi_buy_description ___ */
+选择「开始测试任务」即可领用此法杖，
+并进行法杖的测试任务。  
+该任务需使用此法杖对敌人造成指定量的伤害，  任务完成后
+即可接受下一个测试任务，测试用法杖无需退回。
+
+/* ___ ForgeUi_buy_description_current ___ */
+目前您正在进行该法杖的测试任务。 
+
+
+/* ___ ForgeUi_confirm_replace ___ */
+将 &1 更换为 &2。  
+若要重新换回 &1，则将再次收取手续费。  
+是否确认更换？  
+
+/* ___ ForgeUi_confirm_buy ___ */
+是否接下 &1 的测试任务？  
+（对敌人造成 &2 点伤害，即视为任务完成。  
+此后该法杖将归诺艾儿所有。）  
+
+/* ___ ForgeUi_confirm_buy_already ___ */
+当前正在进行法杖「&1」的测试任务。
+是否要取消该任务，并转而接下    
+新法杖「&2」的测试任务？
+<font size="80%" alpha="0.5" linespacing=0.7>（已达成的伤害不会被重置，但当您下次重新开始
+进行该法杖的测试任务时，需重新支付任务手续费。）</font>
+
+
+
+
+&&CatalogI_tab_cane 法杖性能
+
+
+
+&&GO_KeyHelp_pause_lockon_switch <key submit/>选中此对象
+
+
+
+
+// ========================================================
+// MARK : 250710追加分
+// ========================================================
+
+&&Bench_Cmd_empty_stomach 清空已吃下的食物
+&&Bench_Cmd_empty_stomach_get_juice 清空已吃下的食物（并回收体液）
+&&Bench_Cmd_empty_stomach_juice_drop 清空已吃下的食物（并舍弃体液）
+&&Alert_do_it_in_restroom 这种事还是去厕所吧。
+
+
+
+
+// ========================================================
+// MARK : ver0.28d サウンドエラー対処
+// ========================================================
+
+/* ___ Title_error_sha_error ___ */
+<font color="ff:#000000"><b>游戏完整性校验出现错误。</b></font>
+…这可能是游戏资源文件损坏导致的。
+请尝试再次解压游戏文件，若问题仍然存在，请考虑重新下载游戏。
+
+

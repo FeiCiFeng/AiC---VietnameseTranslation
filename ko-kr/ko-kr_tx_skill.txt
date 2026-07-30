@@ -1,0 +1,305 @@
+%FAMILY ko-kr
+
+// ========================================================
+// MARK : SKILL
+// ========================================================
+
+/* ___ Skill_desc_punch ___ */
+지팡이를 휘둘러 적을 공격.
+위력은 약하지만 마력이 부족할 때
+적으로부터 마력을 빼앗는데 도움이 된다.
+
+
+&&Skill_title_shotgun 샷건
+&&Skill_manipulate_shotgun 마술 보존중 <key z/> 
+
+/* ___ Skill_desc_shotgun ___ */
+마력을 근거리에서 폭발시켜
+적에게 큰 피해를 입힌다.
+위력과 효과는 영창한 마술에 의존한다.
+
+
+
+&&Skill_title_sliding 슬라이딩
+&&Skill_manipulate_sliding <key ba/>+<key z/> 
+
+/* ___ Skill_desc_sliding ___ */
+아래 방향에의 못미더운 공격.
+적에게 맞거나 단차에서의 낙하로 인해
+넘어질 수 있으니 주의.
+
+
+
+&&Skill_title_guard 실드
+&&Skill_manipulate_guard <key lsh/> 
+
+/* ___ Skill_desc_guard ___ */
+적의 공격이나 유독가스로부터 몸을 지킨다.
+물리 공격을 여러번 받으면 파괴된다.
+
+
+&&Skill_title_evade 회피
+&&Skill_manipulate_evade <key lsh/>+<key la/><key ra/> 
+
+/* ___ Skill_desc_evade ___ */ 
+
+일시적으로 무적 상태가 되며 적의 공격을 회피한다.
+<key la/><key ra/>를 누르는 시간에 따라 이동거리를 조절할 수 있다.
+공중에서도 사용할 수 있어 체공시간을
+조금 늘릴 수 있다.
+
+
+&&Skill_title_guard_bush 실드 배쉬
+&&Skill_manipulate_guard_bush <key lsh/>+<key z/> 
+
+/* ___ Skill_desc_guard_bush ___ */
+실드의 에너지를 확산.
+적의 공격에 타이밍 좋게 맞추면
+적을 강하게 튕겨낼 수 있다.
+
+
+
+&&Skill_title_guard_lariat 오비탈 실드
+&&Skill_manipulate_guard_lariat <key lsh/>+<key la/><key ra/>+<key z/>
+
+/* ___ Skill_desc_guard_lariat ___ */
+실드를 술사 중심으로 휘두른다.
+명중할 경우 실드의 강도를 소모하기 때문에
+몇 번이고 연속해서 사용할 수는 없다.
+휘두르는 중에 적이 내부로 침입할 경우
+무방비하게 노출되기 때문에 주의.
+
+
+
+&&Skill_title_burst 버스트
+&&Skill_manipulate_burst <key PR_BURST/>길게 입력 
+
+
+
+
+
+&&Skill_title_wheel 사이클론 슬래시
+&&Skill_manipulate_wheel 공중에서 <key z/>+<key la/><key ra/> 
+
+/* ___ Skill_desc_wheel ___ */
+회전하며 적에게 돌진한다.
+마술 보존중에는 명중한 적 전체에게
+약한 위력의 샷건의 효과를 가한다.
+사용 전후로 빈틈이 크다.
+
+
+
+&&Skill_title_comet 코멧 다이브
+&&Skill_manipulate_comet 공중에서 <key z/>+<key ba/> 
+
+/* ___ Skill_desc_comet ___ */
+수직으로 고속낙하하여 공격. 낙하중에는 거의 무적.
+마술 보존중에는 명중한 적 하나에게
+강한 위력의 샷견의 효과를 가한다.
+위력은 약공격과 같다.
+
+
+&&Skill_title_hp5 HP+5
+&&Skill_manipulate_hp5 
+
+/* ___ Skill_desc_hp5 ___ */
+최대 HP가 5 증가한다.
+
+
+&&Skill_title_hp10 HP+10
+&&Skill_manipulate_hp10 
+
+/* ___ Skill_desc_hp10 ___ */
+최대 HP가 10 증가한다.
+
+
+&&Skill_title_hp20 HP+20
+&&Skill_manipulate_hp20 
+
+/* ___ Skill_desc_hp20 ___ */
+최대 HP가 20 증가한다.
+
+
+&&Skill_title_mp5 MP+5
+&&Skill_manipulate_mp5 
+
+/* ___ Skill_desc_mp5 ___ */
+최대 MP가 5 증가한다.
+
+
+&&Skill_title_mp10 MP+10
+&&Skill_manipulate_mp10 
+
+/* ___ Skill_desc_mp10 ___ */
+최대 MP가 10 증가한다. 
+
+&&Skill_title_mp20 MP+20
+&&Skill_manipulate_mp20 
+
+/* ___ Skill_desc_mp20 ___ */
+최대 MP가 20 증가한다. 
+
+/* ___ Skill_title_sp_bird ___ */
+날개 부적
+/* ___ Skill_desc_sp_bird ___ */
+구시대의 생물 새가 그려진 부적.
+적의 공격이나 공기의 오염으로부터 몸을 지키는 실드와
+일시적으로 무적이 되는 회피행동을 사용할 수 있게 된다.
+
+
+// ========================================================
+// MARK : 2022 2月
+// ========================================================
+
+
+&&Skill_title_ukemi 수신
+&&Skill_manipulate_ukemi <key lsh/>+<key la/><key ra/> 
+
+/* ___ Skill_desc_ukemi ___ */ 
+
+적에게 공격당해 날아갔을 때 착지하는 순간에
+회피하여 몸을 지킨다.
+고갈 상태 등 회피할 수 없는 상태에서 사용할 경우
+회피 후에 넘어지게 된다.
+
+
+/* ___ Skill_title_sp_difficulty0 ___ */
+하니와 부적 
+
+/* ___ Skill_desc_sp_difficulty0 ___ */
+HP,MP 최대치를 크게 증가시키지만, 보물상자를 얻을 확률이 감소한다.
+사용할 때에는 <key menu/>로 메뉴를 열어
+'스킬' 탭에서 '사용한다'에 체크해 주세요.
+
+
+// ========================================================
+// MARK : ver022
+// ========================================================
+
+
+/* ___ Skill_title_dashpunch ___ */
+대쉬 스트라이크
+&&Skill_manipulate_dashpunch 어느정도 달린 후 <key z/>
+
+/* ___ Skill_desc_dashpunch ___ */
+달리는 기세를 실어 전방의 적을 공격한다.
+마술 보존중에는 명중한 단일 적에게
+강한 위력의 샷건의 효과를 가한다.
+위력은 약공격과 같다.
+
+
+
+
+/* ___ Skill_title_airpunch ___ */
+에어 슬래시
+&&Skill_manipulate_airpunch 공중에서 <key z/>
+
+/* ___ Skill_desc_airpunch ___ */
+공중에서 조금 전방으로 접근하며 공격.
+마술 보존중에는 명중한 단일 적에게
+강한 위력의 샷건의 효과를 가한다.
+위력은 약공격과 같다.
+
+
+// ver 022d: 変更
+// ========================================================
+/* ___ Skill_desc_burst ___ */
+마력을 한순간에 폭발시켜 주위의 적을 날린다.
+이 스킬은 술사의 의식이 남아있는 한
+항상 사용할 수 있다.
+
+
+
+
+// ========================================================
+// MARK : ver027
+// ========================================================
+/* ___ Skill_title_smash ___ */
+페이탈 스매시
+&&Skill_manipulate_smash <key ba/>+<key z/>입력 유지
+
+
+/* ___ Skill_desc_smash ___ */
+힘을 모아 강하게 날려버리는
+강렬한 일격을 방출한다.
+마술 보존중에는 명중한 단일 적에게
+평소의 배의 위력의 샷건 효과를 가하지만
+공격이 빗나가더라도 마술을 잃는다.
+  
+
+
+// ========================================================
+// MARK : ver028
+// ========================================================
+/* ___ Skill_title_justguard ___ */
+저스트 가드
+&&Skill_manipulate_justguard 피탄 직전에 <key lsh/> 입력 해제
+
+
+/* ___ Skill_desc_justguard ___ */
+실드 전개 중 적의 공격이 맞기 직전에
+실드<key lsh/>를 해제한다.
+성공하면 실드의 강도가 회복되고
+적을 뚫고 이동할 수 있으며
+일부 스킬을 빠르게 발동할 수 있다.
+
+
+
+
+
+&&Skill_title_evade_dancing 댄싱 슬래시
+&&Skill_manipulate_evade_dancing 공격을 받아낸 직후 <key la/><key ra/>+<key z/>
+/* ___ Skill_desc_evade_dancing ___ */
+실드 배쉬 또는 저스트 실드로 적의 공격을 받아낸 직후에만 유효.
+춤추는 듯한 스텝과 함께 광범위하게 복수를 대상으로 한 일격을 내지른다.
+마력 보존중일 경우 일반적인 샷건보다 약간 위력이 감소한다.
+
+
+
+
+// ========================================================
+// MARK : ver029
+// ========================================================
+
+
+&&Skill_title_shine_booster 샤인 부스터
+&&Skill_manipulate_shine_booster 장거리 대시<key run/>+<key la/><key ra/>
+&&Skill_title_shine_booster_spark 라이트닝 스파크
+&&Skill_manipulate_shine_booster_spark 부스터 발동시 <key ba/>+<key jump/>
+/* ___ Skill_desc_shine_booster ___ */
+장거리를 달리면 몸이 발광하며 적에게 강력한 돌진공격을 가한다.
+/* ___ Skill_desc_shine_booster_spark ___ */
+샤인 부스터 발동시에 <key ba/>로 즉시 멈추며 스파크 대기상태에 진입.
+이 상태에서 좌우 조작 없이 점프<key jump/>해
+임의의 방향으로 돌진공격을 가한다.
+
+
+
+&&Skill_title_evade_jump 메타 이베이드
+&&Skill_manipulate_evade_jump 회피중 다시 <key la/><key ra/>
+/* ___ Skill_desc_evade_jump ___ */
+마력을 소비해 강력한 회피행동을 취한다.
+발동중에는 다양한 공격에 대해 무적이 된다.
+발동중에 방향을 지정<key la/><key ra/>해
+전격트랩 등을 돌파할 수 있다.
+
+
+
+
+
+&&Skill_title_hp15 HP+15
+&&Skill_manipulate_hp15 
+
+/* ___ Skill_desc_hp15 ___ */
+최대 HP가 15 증가한다.
+
+
+
+&&Skill_title_mp15 MP+15
+&&Skill_manipulate_mp15 
+
+/* ___ Skill_desc_mp15 ___ */
+최대 MP가 15 증가한다.
+
+&&Skill_manipulate_evade_jump__1 회피중 <key run/>
+ 

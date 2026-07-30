@@ -1,0 +1,436 @@
+%FAMILY zh-tc
+
+// ギルドクエスト
+&&GuildQ_categ_collectnew   採集
+/* ___ GuildQ_categ_desc_collectnew ___ */ 
+請收集指定物品。
+能繳納的物品只限定承接任務後，而新取得的物品。　
+
+&&GuildQ_categ_collect  　繳納
+/* ___ GuildQ_categ_desc_collect ___ */
+請將指定物品交付給公會櫃台。
+已經持有的情況，也能直接繳納。
+
+&&GuildQ_categ_defeat   驅逐
+/* ___ GuildQ_categ_desc_defeat ___ */
+請到指定地區進行戰鬥，並將敵人驅逐。
+
+
+&&GuildQ_categ_cook     料理
+/* ___ GuildQ_categ_desc_cook   ___ */
+&&GuildQ_categ_rescue   救出
+/* ___ GuildQ_categ_desc_rescue ___ */
+到指定地區的某處搜索需救助者，並將其救出。
+委託失敗的點數懲罰與其他任務更高，請謹慎行動。
+
+&&GuildQ_categ_weapon   戰鬥測驗
+/* ___ GuildQ_categ_desc_weapon ___ */
+由鐵匠鋪的特別委託。
+裝備他們配給的法杖，並進行一定次數的戰鬥。
+
+&&GuildQ_categ_deliver  運送
+/* ___ GuildQ_categ_desc_deliver___ */
+運送特殊物品的委託。運送中會有極高機率遭到魔族襲擊。
+每次受傷時物品會劣化，獲得的GP與金額將會減少請特別注意。
+委託進行中，不允許使用快速移動。　
+
+
+
+
+/* ___ GuildQ_categ_comment_collectnew_0 ___ */ 
+為了要調查古拉提亞附近的地質，
+希望有人能幫忙收集
+新鮮的&1。
+　　
+/* ___ GuildQ_categ_comment_collectnew_1 ___ */ 
+我想要調查&1
+在魔力曝曬下會如何劣化
+為了學術研究，
+如果能收集給我實在幫了大忙。　
+
+/* ___ GuildQ_categ_comment_collectnew_2 ___ */ 
+為了處理工事我需要&1
+但是我不要舊的
+我要現採的。　
+　　
+/* ___ GuildQ_categ_comment_collectnew_3 ___ */ 
+新鮮的&1那味道
+實在讓人難以忘懷
+好想再體驗一次那時的感動啊……。
+　
+/* ___ GuildQ_categ_comment_collectnew_4 ___ */ 
+為了提升工作的效率
+&1是不可或缺的。
+但是我沒有時間能自己去採集……
+誰能幫我去摘一些&1
+來給我呢？
+　　
+/* ___ GuildQ_categ_comment_collectnew_5 ___ */ 
+我小孩說他想要&1
+非常的固執。
+但是他又不想要別人用過
+二手的東西……
+實在冒昧但是有人能幫忙收集嗎？
+
+
+/* ___ GuildQ_categ_comment_collect_0 ___ */
+很急迫需要鍊金術的素材
+&1。
+就算是用剩的東西也沒關係，
+有誰可以讓給我的嗎？　
+/* ___ GuildQ_categ_comment_collect_1 ___ */
+為了清除瓦礫
+藥品有點不足的樣子。
+如果有人有&1的話，
+能賣一些將不勝感激。　
+/* ___ GuildQ_categ_comment_collect_2 ___ */
+祖父的膝蓋惡化了，
+為了治療需要一些&1。　
+/* ___ GuildQ_categ_comment_collect_3 ___ */
+我清點了一下倉庫的資材，
+注意到&1有些不太夠
+沒有那個我會非常不安，
+晚上都睡不著覺。　
+/* ___ GuildQ_categ_comment_collect_4 ___ */　
+作為某個遊戲的餘興節目，
+如果用些&1的話
+我想肯定會很有趣的
+/* ___ GuildQ_categ_comment_collect_5 ___ */　
+俺每天早上不攝取一些&1
+頭腦就沒辦法振作。
+有人能幫幫忙嗎。　
+/* ___ GuildQ_categ_comment_collect_6 ___ */　
+煩人的鄰居困擾著我……
+我想要稍微嚇嚇他，
+能給我一些&1用用嗎？　
+/* ___ GuildQ_categ_comment_collect_7 ___ */　
+我想在派對的禮服上
+用&1來裝飾一下。
+我相信這會是個美好的夜晚。　
+/* ___ GuildQ_categ_comment_collect_8 ___ */　
+咱家突然漏水了讓我很困擾。
+為此修理我需要&1。　
+/* ___ GuildQ_categ_comment_collect_9 ___ */　
+我家嬰兒沒有&1的話
+完全哭個不停。
+而且上次他才咬壞一個而已…… 
+/* ___ GuildQ_categ_comment_collect_10 ___ */ 
+我正在為作品最後的收尾
+尋找某樣東西。
+看來……如果有&1的話，
+肯定能成為罕見的傑作。　
+/* ___ GuildQ_categ_comment_collect_11 ___ */　
+想吸……&1不夠……
+給我……&1 
+/* ___ GuildQ_categ_comment_collect_12 ___ */ 
+最近的時尚流行趨勢
+果然是&1
+我要越多越好。　
+/* ___ GuildQ_categ_comment_collect_13 ___ */　
+看板的顏料需要&1
+有人可以給我嗎？　
+/* ___ GuildQ_categ_comment_collect_14 ___ */
+平常用慣椅子壞掉了
+我老公說如果要修理的話
+他需要有&1才行
+為什麼需要那個呢……
+/* ___ GuildQ_categ_comment_collect_15 ___ */
+老婆打呼聲實在有夠吵的
+為了讓他安靜點，
+能給我一些&1嗎？　
+/* ___ GuildQ_categ_comment_collect_16 ___ */　
+我女兒就讀的學校
+現在&1好像很流行的樣子呢。
+但是，這附近好像買不到啊…… 
+/* ___ GuildQ_categ_comment_collect_17 ___ */
+咱的秘製高湯裡&1
+是不可缺的，但是庫存快見底了。
+沒有那個的話
+可能會有倒閉的危機…… 
+/* ___ GuildQ_categ_comment_collect_18 ___ */
+不知道吃了啥怪東西的樣子，
+肚子痛的受不了……俺，會死嗎？
+醫生他說如果要治療
+必須要有&1才行…… 
+/* ___ GuildQ_categ_comment_collect_19 ___ */ 
+賭博都贏不了讓我很困擾，聽說只要
+在窗戶旁放上&1的話
+運氣就會變好的樣子。
+如果能弄到那東西，
+成為百萬富翁也不是夢呢。
+/* ___ GuildQ_categ_comment_collect_20 ___ */　
+為了某個交易
+無論如何我都需要&1
+幫幫忙了。　
+/* ___ GuildQ_categ_comment_collect_21 ___ */　
+家裡的門壞到完全進不去了。
+如果有&1的話
+應該可以打爆它。　
+/* ___ GuildQ_categ_comment_collect_22 ___ */　
+我想要收集比我先走的老伴
+他曾經喜歡的&1，
+但是我這老蠻腰
+要收集實在是無能為力。
+上了年紀真是討厭啊。
+/* ___ GuildQ_categ_comment_collect_23 ___ */
+為了擊退白目的奧客，
+我需要&1。
+/* ___ GuildQ_categ_comment_collect_24 ___ */　
+走在森林或山裡
+總是充滿各種危險呢。
+為此我需要&1
+來製作護身符。　
+
+/* ___ GuildQ_categ_comment_cook_0 ___ */　
+今天有種想吃&1的感覺。
+如果能幫我送過來就省事了。　
+/* ___ GuildQ_categ_comment_cook_1 ___ */
+在老家吃過&1
+的味道實在讓我忘不了。
+有沒有一流的廚師
+能再現老媽的家常菜的味道呢？　
+/* ___ GuildQ_categ_comment_cook_2 ___ */　
+一次就好了
+我的夢想是希望能吃過一次
+&1。
+拜託要好吃的。　
+/* ___ GuildQ_categ_comment_cook_3 ___ */　
+我愛上爸爸在假日給我作的
+&1了。
+我想再試試類似的味道……
+能作一些給我嗎？　
+/* ___ GuildQ_categ_comment_cook_4 ___ */　
+我正在研究食物的味道，
+今天我想來點&1
+我對味道有點挑剔喔，你行嗎？　
+/* ___ GuildQ_categ_comment_cook_5 ___ */
+最近我習慣在上班前去吃點
+&1，
+但今天往常的食堂公休吃不了。
+有誰能準備還不賴的給我呢。　
+/* ___ GuildQ_categ_comment_cook_6 ___ */　　
+派對的開胃菜需要一些
+&1
+但我忘了下單了。
+能幫忙準備一些新鮮好吃的嗎？　
+
+
+/* ___ GuildQ_categ_comment_defeat_0 ___ */　　
+我們接獲了原先只在晚上
+出現的魔族，
+連在早上也出現的報告。
+為了防患未然
+必須將危險的種子給摘除掉才行。
+/* ___ GuildQ_categ_comment_defeat_1 ___ */　　
+我們確認了有
+強力的魔族出現的事態。
+想必會是個艱難的戰鬥，
+僱請人員至該地點進行驅除。
+/* ___ GuildQ_categ_comment_defeat_2 ___ */　　
+在特定的戰鬥地點那
+檢測到了異常的磁流。
+請公會手頭閒著的人，
+能到現場討伐魔族。　
+/* ___ GuildQ_categ_comment_defeat_3 ___ */　　
+某個魔力植物的自生地
+出現了大量的魔族而困擾著。
+希望有人能迅速地除掉它們，
+好讓道路能夠通行　
+/* ___ GuildQ_categ_comment_defeat_4 ___ */　　
+在來城鎮的途中，
+我感覺到了散亂的魔力……
+或許是我想過頭了，
+希望有人出現狀況之前
+幫我前去調查看看？
+
+
+/* ___ GuildQ_categ_comment_rescue_0 ___ */　　
+我的女兒失蹤了。
+說不定是被魔族給抓去了，
+好擔心啊…… 
+我告訴你失散的位置，
+能請您到附近找找嗎？
+
+/* ___ GuildQ_categ_comment_rescue_1 ___ */　　
+我和好友走散了。
+我還記得最後跟他走散的地方……。
+
+/* ___ GuildQ_categ_comment_rescue_2 ___ */　　
+我的戀人被魔族給抓走了。
+雖然想去救她，
+可是我沒有辦法戰鬥…… 
+我會告訴你最後見到她的地方，
+還懇請您能幫忙搜索。
+
+
+/* ___ GuildQ_categ_comment_rescue_3 ___ */　　
+有一名學生
+從家裡去上學的途中失蹤了。
+希望能在事態變嚴重前將他找出。
+
+/* ___ GuildQ_categ_comment_weapon_0 ___ */　　
+我需要有人幫忙新的法杖測試。
+哪邊的魔族都行，
+拿著它打倒一定數量的魔族
+並記錄法杖的性能。
+
+
+/* ___ GuildQ_categ_comment_deliver_0 ___ */　　
+這是要交給客人的東西。
+但是最要緊的事是新鮮度………
+能盡早送到就幫了大忙。
+/* ___ GuildQ_categ_comment_deliver_1 ___ */　　
+我兒子忘了帶今天工作時
+需要用到的報告了。
+似乎是個重要的發表會，
+能幫我送過去嗎？
+
+/* ___ GuildQ_categ_comment_deliver_2 ___ */　　
+咱的外送平台速度是最大賣點，
+但是原先要外送的年經人睡過頭了。
+能替代我們送一下嗎？
+
+/* ___ GuildQ_categ_comment_deliver_3 ___ */　　
+我本來為了慶祝女友的生日
+準備了一個驚喜禮物要給她，
+結果忘在家裡了。
+能在今天內幫我拿過來嗎。
+
+// ========================
+
+/* ___ Guild_alert_progressing ___ */
+現在有&1件公會委託正在進行中。
+承接新的委託，這些委託將取消，
+並受到&2 GP 的點數懲罰。
+你確定嗎？
+
+/* ___ Guild_alert_progressing_one ___ */
+
+將這&1個委託取消的，
+並受到&2 GP 的點數懲罰。
+你確定嗎？
+
+
+&&Guild_rank 現在的公會階級:
+&&Guild_current_gp &1 GP
+&&Guild_progress_gp <font color="&2"> → &1 GP</font>
+
+&&Guild_tab_current_prgoress 承接中的委託
+
+&&Guild_entry_title 【&1】
+&&Guild_entry_title_collect &1 &2 x&3
+
+&&Guild_detail_obtain_money 獲得<img mesh="money_icon" width=18 />: &1
+&&Guild_detail_obtain_rank 獲得 &1 GP  / 失敗時喪失 &2 GP 
+&&Guild_detail_receivable_quest 承接任務數 &1 / &2
+
+
+&&Guild_total_reward_money 報酬合計: <img mesh="money_icon" width="30" scale="1" /><font size="120%" color="ff:#4150FF">&1</font>
+/* ___ Guild_collect_detail ___ */
+收集目標: &1
+
+&&Guild_recieving_ask 要承接委託嗎？
+&&Guild_recieving_temp 在離開櫃台前\n都可取消委託。
+&&Guild_recieving_already 這個委託承接中。
+
+&&Guild_Btn_recieve_quest 承接委託
+&&Guild_Btn_abort_quest_ask 要取消委託...
+&&Guild_Btn_abort_quest 取消委託
+&&Guild_Btn_abort_quest_temp 果然還是不接了
+&&Guild_Btn_deliver_ask 繳納...
+&&Guild_Btn_deliver 繳納
+&&Guild_Btn_recipebook <key d/>+<key a/>在圖鑑確認
+
+&&Guild_Btn_abort_recieve_new 取消並到下一個委託
+&&Guild_Btn_confirm_quest 確認承接的委託
+&&Guild_Btn_confirm_quest_cancel 還是不接了
+
+
+&&Guild_Inventory_mine 手中／倉庫
+&&Guild_Inventory_deliver 要繳納東西
+&&Guild_item_deliver_count 還要繳納 &1 個
+
+&&Guild_cmd_map_return <key cancel/>結束捲動地圖
+
+&&KD_guild_add <key add/>承接委託
+&&KD_guild_rem <key rem/>放棄承接
+
+/* ___ Guild_alert_cannotreceive_max ___ */
+超過了能承接的委託數上限
+現階級只能承接（&1）個委託。
+
+/* ___ Guild_alert_cannotreceive_not_discovered ___ */
+你還沒發現這個戰鬥場所。
+
+
+// ========================
+&&subquest_gq_report 向公會報告
+
+
+&&Guild_pickup_fof_fieldguide 追蹤這個任務
+
+
+&&subquest_gq_collect 獲取指定物品
+&&subquest_gq_collect_new 獲取新的指定物品
+&&subquest_gq_defeat 到指定戰鬥區域獲得勝利
+
+&&subquest_gq_defeat_count 戰鬥x&1
+// 【雨】 などなど
+&&subquest_gq_defeat_dangerousness 危險度補正:+&1
+&&subquest_gq_defeat_weather 【天氣:&1】
+&&subquest_gq_defeat_attr 【屬性附加】
+&&subquest_gq_defeat_attr_detail 【屬性附加:&1】
+&&subquest_gq_defeat_fix_enemy 【固定敵人:&1】
+
+
+// ========================
+&&Guild_reel_submit 開啟全部的寶箱\n<font size="12">（將會使用全部的效果轉盤）</font>
+
+&&Guild_reward 報酬轉盤
+&&Guild_Btn_open_quest_tab 開啟任務頁面
+&&Submit_gohome_abort_quest 了解並回到據點
+
+/* ___ Guild_reel_hold ___ */
+現在於公會持有&1 個效果轉盤 ，
+以及&2 個寶箱轉盤。
+
+/* ___ Guild_reel_hold_2 ___ */
+寶箱轉盤只能保留 &1 個。 
+
+/* ___ Guild_reel_hold_over ___ */
+寶箱轉盤的上限數超過了（&1）個。
+請在這將全部的寶箱轉盤開啟，
+來確認報酬。
+
+
+/* ___ Guild_reel_failure_penalty ___ */
+作為委託失敗的懲罰，
+將在這開啟全部的寶箱轉盤，
+來確認報酬。
+
+
+/* ___ Guild_alert_goout_another_area ___ */
+現在於公會所承接的 &1 委託。
+如果就這樣前往 &2 的話，
+委託有可能無法達成。
+確定要就這樣子出發嗎？
+
+/* ___ Guild_alert_backhome_without_clear ___ */
+於公會所承接的 &1 個委託裡
+有 &2 個還處於未達成的狀態。
+如果就這樣回到據點的話，
+未達成的委託將被取消。
+
+
+
+
+&&Guild_reward_multi_quest 連續完成獎勵
+
+&&Guild_reward_chip 小費
+
+// ========================================================
+// MARK : 0.27c ギルド終了画面用の修正
+// ========================================================
+
+&&Guild_whole_quit 結束
+&&Guild_back_quest_selection 返回任務一覽

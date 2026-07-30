@@ -1,0 +1,3 @@
+%FAMILY ko-kr
+
+&&PicView_STAND 통상

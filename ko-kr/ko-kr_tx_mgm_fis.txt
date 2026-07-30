@@ -1,0 +1,53 @@
+%FAMILY ko-kr
+// ミニゲーム 魚釣り用
+
+&&Select_fish_start 찌를 던진다
+&&Select_fish_settings 떡밥・낚싯대 변경
+&&fish_feed_submit 떡밥을 푼다
+&&fish_feed_target 살포 대상
+&&fish_feed_counter &1 / &2 
+&&fish_KD_pickup_from_water 끌어당긴다
+&&fish_KD_tutorial_slow 길게 눌러 느리게 관찰
+
+/* ___ fish_alert_feed_override ___ */
+떡밥을 뿌리면
+이전의 떡밥의 효과는 사라집니다.
+
+/* ___ fish_alert_no_rod ___ */
+낚싯대를 가지고 있지 않습니다.
+
+/* ___ fish_result_success ___ */
+<font color="ff:#ff9d45">&1</font> 을/를 낚아올렸다!
+/* ___ fish_result_length ___ */
+크기: &1cm
+
+&&fish_gyotaku_len 스코어: &1<font color="ff:#666666"> / &2cm</font>
+&&fish_gyotaku_meet 만난 수: &1마리
+&&fish_gyotaku_catch 포획한 수: &1마리
+
+
+/* ___ fish_catchermgm_press ___ */
+포획 구역을 물고기에게 맞춘다
+/* ___ fish_catchermgm_keep ___ */
+킵!
+
+/* ___ fish_result_highscore ___ */
+어탁 갱신!
+
+&&FishUi_equip 장비중인 낚싯대
+&&FishUi_pond_state 현재 연못의 상태
+&&FishUi_pond_no_feed 떡밥을 뿌리지 않았습니다
+&&FishUi_pond_time_left_minute (앞으로 &1분 &2초)
+&&FishUi_pond_time_left (앞으로 &1초)
+&&FishUi_pond_appear_fish 현재 낚을 수 있을 것 같은 물고기: 
+&&FishUi_catcharea_cfg_manipulate 포획시의 좌우 조작
+&&FishUi_catcharea_cfg_manipulate0 그대로
+&&FishUi_catcharea_cfg_manipulate1 반전
+
+
+/* ___ FishUi_in_item_description ___ */
+낚아올린 물고기의 총 마릿수: &1
+낚시 경험치: &2 (Lv.&3)
+
+/* ___ fish_result_max_score ___ */
+최대 크기! 경험치x2

@@ -1,0 +1,245 @@
+%FAMILY _
+
+&&KD_tips_next <key submit/>Next
+
+/* ___ tips_punch_0 ___ */
+<key z/>Use your Weak Attack to knock mana out of a monster
+for you to collect. You can also stun some monsters this way.
+
+/* ___ tips_shotgun_0 ___ */
+Press<key z/>while preparing to cast a spell to store it
+in your staff. The stored spell can be instantly cast afterwards,
+or used to transform any Weak Attack hit into a shotgun blast!
+
+/* ___ tips_shotgun_1 ___ */
+Shotgun attacks have different strength and effects depending on
+the spell that was used. A stored Ground Bomb, for example,
+has an extremely high chance of inflicting Stun.
+
+/* ___ tips_evade ___ */
+Dodge often (<key lsh/>+<key la/>or<key ra/>) to keep out of harm's way.
+
+/* ___ tips_shield ___ */
+Your shield (<key lsh/>) protects you from drowning
+and the effects of toxic gas while up.
+
+/* ___ tips_sliding ___ */
+Slide with <key ba/>+<key z/>. Be careful not to hit
+enemies with it, or you’ll lose your balance.
+
+/* ___ tips_magic_damage ___ */
+Enemies take greatly reduced damage from
+magic attacks while off-screen.
+
+/* ___ tips_noon_night ___ */
+Different enemies start to appear as day turns to night.
+Weaker ones begin to swarm, and powerful, unique enemies
+will aggressively ambush passersby.
+
+/* ___ tips_treasure_0 ___ */
+The amount and grade of items from treasure chests are
+affected by reel modifiers. Hold off on opening them while
+gathering reel modifiers to increase the reward potential.
+
+/* ___ tips_treasure_1 ___ */
+When Noel is defeated, all held treasure chests are
+opened immediately with no reel modifiers applied.
+
+/* ___ tips_treasure_2 ___ */
+Defeat contaminated enemy variants for a
+shot at obtaining special materials.
+
+/* ___ tips_battle_nusi_1 ___ */
+Repel the Lord of the Forest's seeds and thorn
+bushes with a weak attack or Shield Bash.
+
+/* ___ tips_nusi_shield_bush_0 ___ */
+Repel incoming projectiles with a Shield Bash(<key lsh/>+<key z/>).
+
+/* ___ tips_grazia_omorashi ___ */
+If the bartender really is a monster, he shouldn’t
+be able to resist elven fluids. It would be
+ill-mannered to spray some in the bar, but...
+
+/* ___ tips_noel_egg ___ */
+To collect monster eggs, they must be removed
+while out of combat. Rumor has it the merchant
+has an item to help collect them more safely.
+
+/* ___ tips_nightingale_bell ___ */
+Waiting at a bench while you have the "Merchant’s Bell"
+will increase the likelihood of the merchant appearing.
+
+/* ___ tips_granade_0 ___ */
+If you’re holding more than four grenades,
+they may self-destruct when you take fire damage.
+
+
+
+// ========================================================
+// MARK : ver0.28. 救済措置
+// ========================================================
+
+
+&&Select_hint Hint
+&&Select_hint_next Next
+&&Select_hint_previous Previous
+&&Select_skipboss_q Skip boss?
+&&Select_hint_cancel Return
+
+/* ___ skipboss_confirm_boss ___ */
+Mark the boss encounter as cleared and proceed with the story.
+You can come back and rematch the boss afterwards.
+
+&&Select_skipboss Skip the boss
+
+// ヘビ戦
+/* ___ bosshint_102_0 ___ */
+Drop a Ground Bomb beneath your feet and trick
+the Molesnake into eating it, then attack it
+while it's disoriented.
+
+/* ___ bosshint_102_1 ___ */
+If Noel is directly on top of a Ground Bomb
+when the Molesnake emerges, priority is given
+to the Ground Bomb.
+
+Standing directly on top of your own bomb is
+the safest place to be.
+
+
+// ヌシ戦
+/* ___ bosshint_104_0 ___ */
+A lot of the Lord of the Forest's attacks leave
+behind gas, spikes, and fire, limiting safe
+spaces to stand while fighting.
+
+Use ranged attacks, such as <font color="ff:#ffff33">Shield Bash</font>
+to knock the spores, bushes, and grenades it drops before they
+detonate to keep the area clear.
+
+/* ___ bosshint_104_1 ___ */
+If you're on fire, use your Burst<key PR_BURST/> skill
+to clear the negative effects. This is risky if you do
+it too often, but it might be better than running into
+spikes or other hazards.
+
+
+// ヌシ戦
+/* ___ bosshint_104_noburst_0 ___ */
+Ixia seems to have dropped something important.
+Use<key a/>to locate it.
+
+// タワーディフェンス
+
+/* ___ bosshint_107_0 ___ */
+Use the "Auto-build" function if you're not sure
+where to start. You can edit the resulting loadout afterwards.
+
+/* ___ bosshint_107_1 ___ */
+Place a few cadets up in Tigrina's tower to help
+keep things smooth during battle.
+
+Cadets placed up there will help her reload,
+allowing her to fire more rapidly. This has
+diminishing returns though, so don't place too many.
+
+
+/* ___ tips_boss_general_0 ___ */
+If an encounter is giving you trouble, try
+coming back after getting some buffs from a cooked meal.
+
+// まだ料理そのものを教わってない
+/* ___ tips_boss_general_0_not_lectured ___ */
+Talk to Tilde in the kitchen. He might be able to
+give you some pointers on cooking.
+
+
+/* ___ tips_boss_general_1 ___ */
+Use any and all items necessary to win a battle.
+The live cadet with no items is much richer than the
+dead cadet with a full inventory.
+
+
+// ========================================================
+// MARK : 250710
+// ========================================================
+
+/* ___ tips_overcharger ___ */
+Charger slots store one spell's worth of mana in
+them during battle by collecting mana leaking out
+from a cracked gauge.
+
+/* ___ tips_summoner_menu ___ */
+You can give up in the middle of any battle
+via the menu. (You'll lose your reels)
+
+
+/* ___ tips_coffeemaker ___ */
+Use your Siphon Tickets at the coffeemaker and he'll
+stock better brews and beans in the future.
+
+
+/* ___ tips_cancel_magic ___ */
+Press and hold<key PR_BURST/>to cancel out of an attack.
+
+
+// ========================================================
+// MARK : 029
+// ========================================================
+/* ___ tips_darkcave ___ */
+Store a spell in your staff or cast Energy Ball
+to help navigate dark areas.
+
+/* ___ tips_magic_absorb_map_end ___ */
+Green and gold mana will automatically be collected
+when you leave.
+
+/* ___ bosshint_209_0 ___ */
+Use your <font color="ff:#ffff33">Gravity Well<key BLACKHOLE/></font> to help manage projectiles
+and swarms of small monsters.
+
+
+/* ___ tips_fear_buff ___ */
+When max MP is reduced by fear, magic attacks increase in power.
+(Max 50% increase on Normal and above, 100% on Casual.)
+
+/* ___ tips_fear_cure_by_food ___ */
+Eating food will slightly lower your fear level
+next time you sit at a bench.
+
+/* ___ tips_blackhole_with_fireball ___ */
+Firing an Energy Ball into a Gravity Well
+increases the blast radius.
+
+/* ___ tips_watershard_for_lava ___ */
+Watershard reduces fire and acid damage
+while in contact with you.
+
+/* ___ tips_flowerycircle_1 ___ */
+Flowery Circle prevents certain floor hazard effects
+within its range.
+
+
+// 蜘蛛用ヒント
+
+/* ___ bosshint_210_0 ___ */
+If the Mountain Spider is not on screen,
+start chanting a Gravity Well<key BLACKHOLE/> immediately.
+
+/* ___ bosshint_210_1 ___ */
+Gravity Well<key blackhole/> can nullify most
+of the Mountain Spider’s attacks.
+
+
+/* ___ bosshint_210_2 ___ */
+Enemies crawling on walls or hanging from ceilings
+can be knocked off balance by a shotgun attack.
+
+/* ___ tips_gztool_0 ___ */
+Check out the Special Tools options within the Magic menu.
+
+// 特殊機能を買ったのにアサインしていない時の説明追加
+/* ___ tips_gztool_1 ___ */
+Editing shortcuts allows you to call special functions
+with a long press of <key s/>.

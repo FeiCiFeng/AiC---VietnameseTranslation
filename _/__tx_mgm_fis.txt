@@ -1,0 +1,53 @@
+%FAMILY _
+// ミニゲーム 魚釣り用
+
+&&Select_fish_start 竿を投げる
+&&Select_fish_settings エサ・竿の変更
+&&fish_feed_submit エサを撒く
+&&fish_feed_target エサ撒き対象
+&&fish_feed_counter &1 / &2 
+&&fish_KD_pickup_from_water 引き揚げる
+&&fish_KD_tutorial_slow 長押しでスローで観察
+
+/* ___ fish_alert_feed_override ___ */
+エサを投げ入れると、
+古いエサの効果は失われます。
+
+/* ___ fish_alert_no_rod ___ */
+釣り竿を持っていません
+
+/* ___ fish_result_success ___ */
+<font color="ff:#ff9d45">&1</font> を引き揚げた！
+/* ___ fish_result_length ___ */
+体長： &1cm
+
+&&fish_gyotaku_len スコア： &1<font color="ff:#666666">／&2cm</font>
+&&fish_gyotaku_meet 出会った数： &1匹
+&&fish_gyotaku_catch 捕獲した数： &1匹
+
+
+/* ___ fish_catchermgm_press ___ */
+捕獲エリアを魚に合わせる
+/* ___ fish_catchermgm_keep ___ */
+キープ！
+
+/* ___ fish_result_highscore ___ */
+魚拓更新！
+
+&&FishUi_equip 装備中の釣り竿
+&&FishUi_pond_state 現在の池の状態
+&&FishUi_pond_no_feed エサが撒かれていません
+&&FishUi_pond_time_left_minute (あと&1分&2秒)
+&&FishUi_pond_time_left (あと&1秒)
+&&FishUi_pond_appear_fish 現在釣れそうな魚: 
+&&FishUi_catcharea_cfg_manipulate 捕獲時の左右操作
+&&FishUi_catcharea_cfg_manipulate0 ノーマル
+&&FishUi_catcharea_cfg_manipulate1 リバース
+
+
+/* ___ FishUi_in_item_description ___ */
+釣り上げた魚の総数:&1
+釣り経験値:&2 (Lv.&3)
+
+/* ___ fish_result_max_score ___ */
+最大サイズ! 経験値x2

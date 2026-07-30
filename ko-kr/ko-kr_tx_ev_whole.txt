@@ -1,0 +1,527 @@
+%FAMILY ko-kr
+&&Talker_Noel 노엘 코르넬
+&&Talker_Laevi 래비가터 코르넬
+&&Talker_Primula 프리뮬라
+&&Talker_Ixia 익시아 폴리스타키아
+
+
+// ========================================================
+// MARK : 220115追加
+// ========================================================
+
+&&Talker_Unknown ???
+&&Talker_Mob *
+&&Talker_Nightingale 나이팅게일
+&&Talker_Alma 알마 오펜하임
+&&Talker_Guard 마을의 위병
+
+&&EV_access_alchemy   연금한다
+&&EV_access_cook   조리한다
+&&EV_access_atelier   언니의 아틀리에로
+&&EV_access_myroom   내 방으로
+&&EV_access_shower   목욕탕으로
+&&EV_access_restroom   화장실으로
+&&EV_access_dadroom   아버지의 방으로
+&&EV_access_terrace   테라스로
+
+&&EV_access_warp_oneway 체크포인트로 돌아간다(일방통행)
+&&EV_access_warp 워프한다
+
+&&EV_access_fasttravel 이동한다
+
+
+
+&&Select_yes 예
+&&Select_no 아니오
+&&Select_yep 응
+&&Select_nope 딱히…
+&&Select_see_masturbate 자위 연출을 본다
+&&Select_skip 스킵
+&&Select_buying 상점을 이용한다
+&&Select_talk 대화한다
+&&Select_nothanks 지금은 됐어
+
+
+&&Select_gate 정문
+&&Select_entrance 현관
+&&Select_garden 정원
+&&Select_myroom 내 방
+
+
+&&EvTitle_YourName 당신의 이름
+&&EvTitle_ReasonForMoving 이동하는 이유
+&&EvTitle_Wanted 용의자
+&&EvTitle_hp_red HP가 적어
+
+
+
+
+
+&&Tuto_punch <key z/> 약공격
+
+
+&&Select_sitdown 옆에 앉는다 
+&&Select_stop_sitdown 그만둔다
+
+//選択肢
+&&Select_daijoubu 괜찮아
+&&Select_notgood 별로…
+
+
+
+// 選択肢 ～～
+&&Select_noproblem 문제 없어
+&&Select_weird 이상해
+
+
+// ========================================================
+// MARK : 2202 追加分
+// ========================================================
+&&Talker_Tilde 틸데 코르넬
+&&Talker_NoelDad 델피니 코르넬
+&&Talker_Customer 손님
+&&Talker_Ostrea 오스트레아
+&&Talker_Army 병사
+
+&&Talker_elf_man 엘프 남성
+&&Talker_elf_madam 엘프 언니
+&&Talker_elf_woman 엘프 여성
+&&Talker_elf_student 엘프 학생
+&&Talker_NoelCane 노엘의 지팡이
+&&Talker_IxiaCane 익시아의 지팡이
+
+&&Tuto_collect <key submit/> 수집한다
+&&Tuto_magic <key x/> 길게 눌러 마법을 영창한다
+&&Tuto_map <key a/> 맵을 표시해 목적지를 확인
+&&Tuto_wakeup <key submit/> 일어난다
+&&Tuto_magic_dropbomb <key DROPBOMB /> 그라운드 봄
+&&Tuto_menu 메뉴를 연다
+&&Tuto_guard <key lsh/> 길게 눌러… 실드 전개
+&&Tuto_evade <key lsh/>+<key la/><key ra/> …회피
+&&Tuto_evade_0 <key lsh/>+<key la/><key ra/> …회피 앞으로 세 번
+&&Tuto_evade_1 <key lsh/>+<key la/><key ra/> …회피 앞으로 두 번
+&&Tuto_evade_2 <key lsh/>+<key la/><key ra/> …회피 앞으로 한 번
+
+&&Tuto_fireball <key FIREBALL la/> 으로 에너지 볼 발사 후 <key ta/> 으로 궤도 수정
+
+&&Select_kitchen 부엌
+&&EV_access_costume_change   갈아입는다(미구현)
+&&EV_access_scene_memory   회상
+&&EV_access_theroom_occupied   자는 방(사용중)
+&&EV_access_theroom_wip   자는 방(미구현)
+&&EV_access_read 읽는다
+
+
+&&EV_access_collect_by_attack 공격/마술으로 채집
+&&EV_access_collected_already 이미 채집함
+
+
+
+
+&&Select_cook_tutorial 요리 방법을 배운다
+&&Select_lunchtime 요리를 먹는다
+
+&&EvTitle_AboutMana 마력에 대해서
+&&EvTitle_Cane 지팡이
+&&EvTitle_Cooking 요리
+&&EvTitle_Cooking2 요리를 먹는 것의 메리트
+&&EvTitle_Cooking3 요리를 만들자!
+&&EvTitle_StomachAndEfficient 포만감와 영향도
+
+
+&&EvTitle_HomeRoad 돌아가는 길
+&&EvTitle_ForestRoad 숲길
+&&EvTitle_Village 엘프 마을
+
+&&EvTitle_MtrQuality 소재의 질에 대해서
+&&EvTitle_Dangerousness 위험도
+&&EvTitle_BattleReward 마족을 쓰러트리는 것의 보상
+&&EvTitle_Weather 기후
+
+&&EvTitle_Quake 굉음
+&&EvTitle_Memory 추억
+&&EvTitle_Sell 상품
+
+
+
+// ========================================================
+// MARK : ver0.22 追加
+// ========================================================
+
+
+&&Talker_beastman 산의 수인
+
+&&EvTitle_nusi 대형 마족
+
+&&Talker_Walross 발로스
+&&Talker_Soldier 병사
+&&Talker_Mepha 메피아 그리프야드
+// Mepha Gridyard
+
+// ========================================================
+// MARK : ver0.23 added
+// ========================================================
+
+&&Select_itsfunny 재미있을 것 같아
+&&Select_notfunny 웃지 않는다
+&&EV_access_theroom  자는 방
+&&EV_access_theroom_aloma  아로마 준비
+
+
+/ ========================================================
+// MARK : ver0.24
+// ========================================================
+
+
+&&Talker_EnemyPuppet 목각 마족
+&&Talker_CoffeeMaker 커피메이커
+&&Select_use_pot 냄비를 빌린다
+
+
+&&Select_buying_puppet 거래한다
+&&EV_access_manipulate  조작한다
+
+&&Select_alchemy_coffee 사이펀을 빌린다
+
+&&Select_switch_old_portrait 전투 스탠딩을 구버전으로 변경
+&&EV_access_costume_change2   갈아입기
+
+
+
+// ========================================================
+// MARK : ver 0.25
+// ========================================================
+
+&&Talker_dojo_teacher 사범
+&&Talker_dojo_student 문하생
+&&Talker_dairy_farmer 낙농가
+
+&&Select_dojo_study 단련한다
+
+&&Select_dojo_practice 시범 경기
+
+
+&&EvTitle_dojo_statue 석상에 대해
+&&EvTitle_dojo_cap 모자……?
+
+
+&&Select_do_farming 해본다
+&&Select_check_rule 룰 확인
+
+&&Select_cfg_stick_thresh_on 스틱 주행 역치를 0으로 설정
+&&Select_cfg_stick_thresh_off 스틱 주행 역치: 0
+
+&&Select_cfg_auto_run_on 자동 달리기: 온
+&&Select_cfg_auto_run_off 자동 달리기: 오프
+&&Select_start_mini_game 게임 시작
+&&Select_nothanks_mini_game 역시 그만둔다
+&&Select_quit_mini_game 종료한다
+
+
+&&EV_access_suckmilk   짜낸다
+&&KD_farm_suck  <key ba/>길게 눌러 짜낸다
+
+
+
+&&EvTitle_uniform 제복
+&&EvTitle_curemagic 회복 마술
+&&EvTitle_boring 심심하지 않아?
+&&EvTitle_4ascend_ixia 익시아 씨와 논다 <img mesh="icon_4ascend" />
+
+&&EvTitle_road2city 거리까지의 길
+&&EvTitle_battle_w1nusi 주인
+&&EvTitle_boardgame 보드게임
+&&EvTitle_4ascend_primula 선생님과 논다 <img mesh="icon_4ascend" />
+
+&&EvTitle_alma 알마 씨
+
+
+&&Talker_teacher 선생님
+&&Select_go_class 수업을 받는다
+&&Select_wait_a_minute 잠깐만
+
+&&Talker_museum 박물관장
+
+&&Select_pay 산다
+&&Select_dont_pay 사지 않는다
+&&Select_cannot_pay 살 수 없다
+
+
+&&EvTitle_camera 영사기
+&&EvTitle_structure DIY
+&&EV_access_restroom2   샤워실
+
+&&Talker_army 군인
+&&Talker_engineer 엔지니어
+
+
+&&EvTitle_bar 술집
+&&EvTitle_fight 싸움에 대해서
+&&EvTitle_forklore 옛이야기
+&&EvTitle_replacable 긴 수명
+
+
+&&EvTitle_4ascend 포 어센드 <img mesh="icon_4ascend" />
+&&EvTitle_4ascend_play 포 어센드를 한다 <img mesh="icon_4ascend" />
+&&EvTitle_4ascend_ostrea 오스트레아 씨와 한다 <img mesh="icon_4ascend" />
+
+
+&&Talker_Barten 바텐더
+
+
+&&Select_speak_to 대화한다
+&&EvTitle_similar_person 닮은 사람
+
+&&EvTitle_secret_about_walross 발로스 씨의 비밀
+
+&&Select_buy_order 주문한다
+&&Select_ask_you_are_monster0 마족인가요?
+&&Select_ask_you_are_monster1 정말 수인?
+&&Select_ask_you_are_monster2 역시 마족이군요
+&&Select_ask_you_are_monster3 …………
+&&Select_drunker …………??
+
+&&Select_imsorry 죄송해요
+&&Select_ask_you_sucked 빠셨나요?
+
+
+&&Tuto_backlog <key add/> 백 로그
+
+
+&&EV_access_city_cafe   카페 '타이거 릴리'
+&&EV_access_ring_bell 종을 울린다
+
+
+// ========================================================
+// MARK : ver0.26
+// ========================================================
+&&EvTitle_nightingale_quest00 심부름
+&&EvTitle_nightingale_quest00_1 금기의 사과를 건네준다
+
+
+&&Select_find_nightingale 찾아본다
+&&Select_callback_nightingale (건전 모드) 부른다
+
+
+&&Select_choose_bottle 빈 병을 꺼낸다
+&&Select_excrete 못참겠어…!
+
+&&Timer_find_bottle 빈 병을 꺼낸다
+
+
+
+// ========================================================
+// MARK : ver0.27
+// ========================================================
+
+&&EV_access_mirror 거울
+&&Select_guild_get_quest 퀘스트 수주/납품
+&&Select_guild_desc 설명을 듣는다
+&&Select_guild_register 길드에 등록한다
+
+
+&&Select_smnc 모의전투
+
+
+&&Talker_Tigrina 티그리나 소러
+
+&&Select_s14_help 협력한다
+&&Select_s14_later 다음에……
+
+&&Select_s14_go_armory 무기고에 침입!
+
+&&Select_back 역시 돌아간다
+&&Select_continue_sneaking 힘낸다
+
+
+
+&&Select_accept 허가한다
+&&Select_reset_garage 창고의 배치물을 리셋
+
+
+
+// 学園のお店 (西B1)
+&&EV_access_tuckshop 구매
+// 森軍地区の食堂
+&&EV_access_cafeteria 식당
+
+
+&&EvTitle_t_unlock_enemy  새로운 적 해금
+&&EvTitle_t_enemydrop  소재를 모으는 법: 에너미 드롭
+&&EvTitle_t_elecboard  소재를 모으는 법: 전자기판
+
+&&Select_tilde_open_box  상자를 열어달라고 한다
+
+
+&&Select_osioki_progress  명령에 따른다
+&&Select_osioki_progress_sensitive  명령에 따른다 (초건전모드 오프)
+&&Select_osioki_skip  바닥의 무늬를 관찰한다 (스킵) 
+
+// ========================================================
+// MARK : 0.28
+// ========================================================
+
+&&EV_access_hvn_book_abyss '유령 퇴치의 수인'
+&&EV_access_hvn_book_cane '그라치아의 시작'
+&&EV_access_hvn_book_orthodoxy '그라치아 정교'
+&&EV_access_hvn_book_cooking '오늘은 내가 요리사 계절의 아이디어 편'
+&&EV_access_hvn_book_elfbody '우리의 몸'
+&&EV_access_hvn_book_demon '마족의 생태에 대해'
+&&EV_access_hvn_book_urasima '어떤 표류자의 기록'
+&&EV_access_hvn_book_uv '황금 메두사'
+
+&&Select_forge_choose 지팡이 개조
+&&Select_forge_choose_buy 지팡이 개조 / 테스터 업무
+
+&&Select_forge_buy 지팡이를 사기 위해서는?
+&&Select_guild_talk 기능 설명
+&&Select_guild_talk2 기능 / 업무 설명
+&&EvTitle_t_desc_buy 테스터 업무 노하우
+
+
+&&Talker_Blacksmith 대장장이
+
+&&Talker_Grazia_forge 대장간(그라치아)
+
+
+&&EV_access_hvn_bottom   천변시설 병동
+
+&&Tuto_watershard_04 <key WATERSHARD/>워터 샤드 발사 직후 <key lsh/> 로 수괴 보존
+&&Tuto_watershard_mv_2 <font size="70%" linespacing=0.8>수괴 보존중 이동이나\n다른 마술 영창 가능.</font>
+
+&&Tuto_watershard_05 <key WATERSHARD/>워터 샤드 발사 상태에서 <key ta/> 입력 유지로 수괴 발사
+&&Tuto_watershard_06 <key WATERSHARD/>워터 샤드 발사 상태에서 <key la/><key ra/> 입력 유지로 수괴 발사
+
+&&Tuto_watershard_07 <key WATERSHARD/>워터 샤드 발사 상태에서 방향을 지정하지 않고 다수 록온
+
+&&Select_retry_again 같은 연습을 한 번 더 하고 싶어
+&&Select_finish_lecture 이해했어요
+
+
+&&Talker_instructor 교관
+
+&&Talker_Cane 지팡이
+
+&&Talker_Alice 앨리스
+
+&&EV_remember 떠올린다
+
+&&Select_guessing 위화감
+
+&&Select_playagain_ixia_matoate 익시아와 연습
+&&Select_playagain_td 그라치아 방위전
+&&Select_playagain 재도전!
+&&Select_playagain_td1 재도전 (낮)
+&&Select_playagain_td2 재도전 (저녁)
+&&Select_playagain_td3 재도전 (밤)
+
+/* ___ desc_playagain_ixia_matoate ___ */
+워터 샤드의 연습으로
+익시아와 과녁 맞추기로 겨룬 것을
+회상합니다.
+
+/* ___ desc_playagain_td ___ */
+베르밋 방위작전을 회상합니다.
+본편에는 사용할 수 없던 그레네이드 종류도 회상 내에서는 사용할 수 있습니다.
+회상 내에서 사용한 아이템은 회상 종류 후 반환됩니다.
+
+
+
+// 防衛戦後ティグリナ
+&&EvTitle_t_after_td 방위작전
+
+&&Select_ruokay 괜찮으세요?
+
+
+
+// 防衛戦中のガレージ
+&&Select_return_BGM 평소의 곡
+
+
+&&Select_about_cane 지팡이
+&&Select_replace_cane 지팡이를 개조한다! <font alpha="0.8">(현재 지팡이는 사라집니다)</font>
+&&Select_wanna_test 테스트해봐도 될까요?
+
+&&Select_abort 그만둔다
+
+
+&&Select_replace_cane_back 지팡이를 원래대로 되돌리고싶어
+
+
+
+// ========================================================
+// MARK : ver029
+// ========================================================
+&&Tuto_Jump <key jump/>점프(길게 눌러 더 높게 점프)
+
+&&Tuto_Through_Lift <key ba/>리프트에서 내려온다
+
+
+&&EV_access_carry_block_release 꺼낸다
+
+
+
+&&Talker_ghost 유령 
+
+&&Select_leave 놓아준다
+&&Select_arrest_ghost 붙잡는다
+
+
+&&EV_access_fishing   낚시
+
+&&Select_fishing_tutorial   낚시의 시범을 본다
+
+&&Select_getit 받는다
+&&Select_getit_enough 지금은 받을 수 없다
+
+&&Select_no_fishing_tutorial 아무튼 해본다
+&&Select_watch_again 한 번 더 본다
+
+&&Select_pinch 볼을 꼬집는다
+&&Select_giving 무언가 준다
+&&Select_watching 지켜본다
+&&Select_think_hint 생각한다(힌트)
+&&Select_think_myself 음~
+
+&&Alert_item_reduced_alice &1 을 붉은 눈의 소녀에게 주었다.
+
+
+
+&&Select_guild_enough_point1 포인트에 대해
+&&Select_guild_enough_point2 남은 포인트에 대해 좀 더 자세하게
+
+&&Select_business_ooparts 오파츠에 대해
+
+
+&&Alert_item_reduced_ooparts &1 을 고고학자에게 건넸다.
+
+
+&&Talker_laboman 수인 고고학자
+
+&&Select_ooparts 오파츠
+
+&&Select_send_ooparts 오파츠를 건낸다
+
+&&Select_send_taco 타코를 만들어왔어요
+
+&&Select_launch_elec_faciliy 전력을 복구
+
+&&Tuto_evade_jump 회피중 다시 <key la/><key ra/>: 메타 이베이드
+
+
+
+
+&&Alert_item_reduced_ooparts_tigrina &1 을 티그리나 씨에게 주었다.
+
+
+
+&&Select_tellme2 알려줘
+
+&&Tuto_flowerycircle <key FLOWERYCIRCLE/>플라워리 서클
+
+
+&&Select_ok OK
+
+&&Select_back_to_guild 길드로 돌아간다
+&&Select_back_to_home_normal 거점으로 돌아간다
+ 

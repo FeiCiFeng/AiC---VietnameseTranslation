@@ -1,0 +1,375 @@
+
+%FAMILY _
+&&Enemy_WORMS 蟲たち
+&&Enemy_OTHER 敵
+&&Enemy_MUSH キノコ
+&&Enemy_MAGE 愚者
+&&Enemy_TENTACLE 触手
+
+&&Summoner_forest_mush_coroseum 菌糸の王
+&&Summoner_forest_cliff_portal 闇夜の帳
+
+&&Summoner_forestS_swamp 潮騒
+
+// ========================================================
+// MARK : 220121追加
+// ========================================================
+
+&&Summoner_forest_mushpot2 胞子の踊り場
+&&Summoner_forest_mush_narrowroad 頭上注意
+&&Summoner_forest_foxhall 炎舞神楽
+&&Summoner_forest_buibui 流鏑馬の集い
+&&Summoner_forest_wood_slash 飛瀑の虚
+&&Summoner_forest_senzyo 土竜の巣
+&&Summoner_forest_tikuwar 卑しき補給兵
+&&Summoner_forest_nightlake 湖面の幻気楼
+&&Summoner_forest_clocktower からくり人形
+&&Summoner_forest_acid_lake 酸底の針鼠
+&&Summoner_forest_tomato 血の制圧者
+&&Summoner_forest_treecrack 裂け目の番人
+&&Summoner_forest_darkpotu ジャックインザボックス
+&&Summoner_forest_toybox 盗掘者
+&&Summoner_forest_senzyo2cliff  ドッグラン
+&&Summoner_forest_wood_hall  酸木のオードブル
+&&Summoner_forest_wood_right_exit  空中回廊
+&&Summoner_forest_nightacid  酸溜まりの奈落
+
+
+&&Enemy_PUPPY 子犬
+
+
+&&Enemy_GOLEM 木偶
+&&Enemy_GOLEM_OD 巨人
+&&Enemy_GOLEM_OD2 巨人
+&&Enemy_FOX 妖狐
+&&Enemy_UNI 剣山
+// Sea Urchin
+&&Enemy_SNAKE 土蛇
+&&Enemy_SPONGE 海綿
+
+&&Summoner_can_battle_in_night 夜間のみ戦闘可能
+
+
+
+// ========================================================
+// MARK : ver022 追加
+// ========================================================
+
+&&Enemy_GECKO トカゲ
+&&Enemy_FROG 沼蛙
+&&Enemy_FROG_VORE 沼蛙の丸呑み
+&&Enemy_BEAM 催淫線
+&&Enemy_BOSS_NUSI 森のヌシ
+
+&&Summoner_forest_toylabo  継ぎ接ぎラボラトリー
+&&Summoner_forest_coroseum_frog  貪欲なる溺惑
+&&Summoner_forest_rwood_column 古駅の夜宴
+&&Summoner_forest_geckoland 滑脱する鶴と亀
+&&Summoner_forest_swamp 蠱惑なる沼
+&&Summoner_forest_wind_senzyo 風のアトリウム
+
+&&Summoner_forest_nusi_coroseum  森のヌシ
+
+
+// ========================================================
+// MARK : 221229 追加
+// ========================================================
+&&Enemy_MKB 木馬
+
+
+
+// ========================================================
+// MARK : ver 0.24
+// ========================================================
+
+&&Enemy_MECHGOLEM 機甲木偶
+
+
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+/* ___ Enemy_description_SLIME ___ */
+原始的な魔族。
+知能は低いが意外と跳躍力がある。
+群れを為して襲われて魔力をドレインされないよう注意。
+
+/* ___ Enemy_description_SLIME_OD ___ */
+多くの魔力を吸い、さらに正気を失っている。
+エルフを丸呑みすると本能のままに卵管を差し込んでくるため、
+決して捕まらないように。
+
+/* ___ Enemy_description_GOLEM ___ */
+主に廃坑道にコロニーを形成して生息する魔族。
+様々な工作技術によってエルフを翻弄する。
+彼らが何かを組み上げ始めたら、作業が終わる前に排除するべき。
+
+/* ___ Enemy_description_GOLEM_OD ___ */
+巨体になり投石機を巨大な棍棒に持ち替えた。
+粗暴な出で立ちだが意外なほどに知能は高いようだ。
+二連撃を飛び越えるなどして避け、背後から攻撃するのが良い。
+
+
+
+/* ___ Enemy_description_MUSH ___ */
+じめじめした場所に生息する魔族。
+胞子団子を射出して攻撃する。
+地面に隠れているときは攻撃が通りにくいが、
+ショットガンで引っ張り出せる。
+
+
+/* ___ Enemy_description_MUSH_OD ___ */
+元々動けなかった鬱憤を晴らしたいのか、驚くほどに俊敏。
+大量の胞子ガスをばらまいて「宿り木」の状態異常を付与してくる。
+ただし、一度ガス欠になった後は胞子の再装填が
+目に見えて鈍くなるため、そこを叩こう。
+
+/* ___ Enemy_description_PUPPY ___ */
+多数のワーム型の幼体を身にまとって走り回る魔族。
+動きが早いので、ホワイトアローでは捉えにくい。
+幼体をまとっている間はHPダメージをMPで肩代わりする。
+エナジーボールを直撃させ、爆風で吹き飛ばすのが楽。
+
+/* ___ Enemy_description_SPONGE ___ */
+節から生えた黒球に多くの魔力を蓄えられる魔族。
+他の魔族に向かって魔力弾を放ち、魔力の回復を図ってくる。
+近づくと暴れ出すが、大人しくなった頃を見計らって
+ショットガンを当てるのが良い。
+
+/* ___ Enemy_description_UNI ___ */
+全身をトゲで覆った魔族。
+ふらふらと宙を飛んでいるかと思いきや、
+突然トゲを一方向に集中させ突撃してくることも。
+これといった弱点はないので、早めに魔術を集中的に当てて倒そう。
+
+
+/* ___ Enemy_description_UNI_OD ___ */
+汚染体化したことで重くなり、地面や壁にトゲを突き立てて
+転がることしかできなくなった。
+大きな鳴き声を上げたときに行う広範囲の突き刺しに注意。
+
+/* ___ Enemy_description_SNAKE ___ */
+地面に潜り、相手の足元から飛び出して
+拘束をしかける魔族。
+飛び出す場所にグラウンドボムが置かれていると、
+それを食べてスタンする。
+
+
+/* ___ Enemy_description_GECKO ___ */
+壁を四足で走り回る魔族。
+攻撃を一発当てるとひっくり返って隙を見せる。
+飛びかかってきた所を軽くこずいてあげよう。
+
+/* ___ Enemy_description_MAGE ___ */
+第一世代魔術「サンダーボルト」のレプリカを
+学習した夜にのみ出現する、特殊な魔族。
+魔術でロックオンするとワープなどの回避行動を取る。
+動きに惑わされぬよう、こちらもフェイントを入れて
+相手の動きの先を読もう。
+
+/* ___ Enemy_description_FOX ___ */
+森の特定位置を縄張りとする希少魔族。
+地面に撒き散らされた火炎はしばらく残るので、
+なるべく高所で戦うべき。
+殲滅能力が高い分燃費は悪く、常に魔力植物のある
+場所に向かって移動する習性を持つ。
+
+
+/* ___ Enemy_description_FROG ___ */
+沼を縄張りとする希少魔族。
+こちらが攻撃意思を見せたと判断すると、
+飛びかかって凍結弾を打ってくる。
+背を向けて詠唱し、先に相手が
+ジャンプするのを待ってからカウンターを食らわせよう。
+
+
+
+
+/* ___ Enemy_description_BOSS_NUSI ___ */
+森に生息する大型魔族。
+里のエルフ軍が倒した……ことになっている。
+
+
+// 敵属性
+&&Enattr_atk 攻撃力アップ
+&&Enattr_def 防御力アップ
+&&Enattr_mp_stable 魔力安定体
+&&Enattr_fire 火
+&&Enattr_ice 氷
+&&Enattr_thunder 雷
+&&Enattr_slimy 粘液
+&&Enattr_acme 淫毒
+&&Enattr_invisible 不可視
+
+&&Enemy_GOLEMTOY_MKB 木馬
+// 「雑念」を撒き散らす奴
+&&Enemy_GOLEMTOY_RM レインメーカー
+&&Enemy_GOLEMTOY_POD ミサイルポッド
+&&Enemy_GOLEMTOY_BOW ビーム装置
+
+&&Enemy_PENTAPOD 五脚
+&&Enemy_PIG 野豚
+
+&&Enemy_ROAPER ローパー
+
+&&Enemy_GOLEM_0_NM 木偶(非動作)
+
+
+
+/* ___ Enemy_description_PIG ___ */
+山に生息する魔族。
+巨体ながら動きは俊敏であり、特に
+巨大な白いキバは周りの敵を吹き飛ばすほどの
+パワーを持っている。
+近接攻撃を当てるとカウンターの押し潰し攻撃を
+行うため、遠距離攻撃主体で戦うことが望ましい。
+
+
+
+/* ___ Enemy_description_PENTAPOD ___ */
+山に生息する魔族。
+上部に吹き上げている頭部からビームを発射する。
+ビームに当たると石化してしまうことがあり、
+連続で食らうと身動きが取れなくなり大変危険である。
+根本は固いが僅かでも攻撃を当てれば怯むため、
+ボムなどで怯ませた後頭部に強い攻撃を叩き込もう。
+
+
+
+/* ___ Enemy_description_ROAPER ___ */
+山に生息する魔族。
+ひょろ長い身体からいくつもの触手を伸ばし、
+エルフに取り付いて魔力を吸収する。
+雄叫びを上げた時は、さらに大量の触手を使って
+強力な拘束をしてくる合図。
+雄叫びの最中にダメージを与えると
+クリティカルヒットとなる。
+
+
+&&EnemyKind_devil 魔族
+&&EnemyKind_machine 機械
+
+
+// ========================================================
+// MARK : 028
+// ========================================================
+&&Enemy_RAMDA 徳利
+/* ___ Enemy_description_RAMDA ___ */
+山に生息する魔族。
+小型ではあるが獲物を丸呑みする
+大きく展開可能な口を持つ。
+捕食した獲物を巣に持ち帰り、
+幼体のエサとして被捕食者の
+磁性が尽きるまで魔力を搾り取る。
+
+
+// Hive
+&&Enemy_EHOME 巣
+
+
+/* ___ Enemy_description_EHOME ___ */
+地面に根を下ろし、小型の魔族を召喚する。
+吐き出した敵はそのエリアの本来の同時出現上限には
+カウントされないため、場が魔族で溢れかえる前に
+早めに撃破するのが望ましい。
+
+
+&&Summoner_SmnC_garage 模擬戦(ガレージ)
+
+&&Summoner_SmnC_td グラティア防衛作戦
+
+&&Enattr_big 巨大化
+
+&&Enemy_HONEYCOMB ハニカム
+
+
+/* ___ Enemy_description_HONEYCOMB ___ */
+六角形構造の巣の内部に大量の幼体を蓄えている魔族。
+幼体でありながら強磁性を持つ個体を
+盾のように周囲に浮遊させることで
+本体へのダメージを最小限に防ぎつつ、
+それら群体を操って攻撃を行う。
+重力操作によって体勢を崩させる以外の有効打はない。
+
+
+&&Enemy_SYABON シャボン玉
+
+
+// ========================================================
+// MARK : 029
+// ========================================================
+
+&&Enemy_LEECH 山蛭
+&&Enemy_LEECHQUEEN 女王蛭
+&&Enemy_EMPRESS 女帝
+
+/* ___ Enemy_description_LEECH ___ */
+山に生息する小さなワーム状の魔族。
+一体一体は脆くグラウンドボム等の広い爆風を起こす魔術で
+簡単に対処可能だが、死角からの飛びつきに
+足をとられないよう注意。
+
+
+&&Summoner_mount_windtower たゆたう山颪
+
+&&Summoner_mount_honeypit 虫巣食う落とし穴
+
+&&Summoner_mount_ruinroad 高原の群生地
+&&Summoner_mount_busstop 狙撃手のトーチカ
+
+&&Summoner_mount_trash_cr 廃棄場のバンディット
+&&Summoner_mount_junk_senzyo ジャンクフィリア
+
+
+
+&&Summoner_mount_mine0 常闇の廃坑道
+
+
+&&Summoner_mount_sand_senzyo 奈落の暴竜
+
+
+
+
+&&Summoner_mount_poison_lake 毒浸しの水澄
+
+
+
+&&Summoner_mount_poison_cave 闇夜の泡沫
+
+&&Summoner_mount_mine_1 眠る不発弾
+
+
+
+&&Summoner_mount_honey_darkpit 砂の暴君
+
+
+&&Summoner_mount_cave_honey0 糸繰りの巨人
+
+
+
+
+
+&&Summoner_mount_spider_coroseum ウサギの穴
+
+&&Summoner_mount_mine_lt オーバータイム・ワーク
+
+
+&&Summoner_mount_cannon_senzyo 火砲のダンスパーティー
+
+
+
+
+
+&&Summoner_mount_darkcave 漆黒の胎動
+
+&&Summoner_mount_woodslash 縦穴の渡し守
+
+
+
+&&Enattr_acme_on_fear_mode 闇
+
+
+&&Enemy_BOSS_SPIDER 山蜘蛛
+
+&&Enemy_MIMIC ミミック

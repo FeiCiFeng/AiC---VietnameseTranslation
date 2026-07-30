@@ -1,0 +1,362 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+// ========================================================
+// MARK : 会話
+// ========================================================
+
+*___city_hvn/___portal_front mb_00
+Greetings, Miss! Are you here to visit a patient?
+*
+Visitations require an appointment, but you can still browse the library and our shop!
+
+// 2回目
+
+*___city_hvn/___portal_front n_10
+<think>I shouldn't bother them unless I actually need something...
+
+
+// フロントにいる獣人
+*___city_hvn/front_bst_00 mb_00
+Beastmen are reborn fully grown so they can get back to fulfilling their role more quickly.
+*
+It really makes me appreciate seeing children at play in the park.
+
+*mb_01
+I hear there's an orphanage in the mountains where beastmen take care of young elves.
+*
+Sigh, I've lived in Grazia almost all my lives. Maybe I should see if I can get reassigned there.
+
+
+// 図書室のエルフ
+
+*___city_hvn/library_elf_00 mb_00
+Oh, hey. Nice to see another elf here.
+*
+This is an impressive archive. Lots to think about.
+*
+Like the Grazian Orthodoxy, for example. What does it mean by "goblins"?
+
+*mb_01
+The goblins went underground? Where underground? This whole thing is ridiculous.
+*
+Has anyone ever fact checked this stuff? Or cross-referenced it with...
+*
+Wait, is this a cipher? Maybe there's something here after all.
+<m scary>Hmmm...
+
+
+
+// ========================================================
+// MARK : Books
+// ========================================================
+// 天辺施設 書籍
+// 地底への危険意識喚起の童話
+
+*___city_hvn/book_abyss b00
+
+Once upon a time, there was an elven girl named Lily.
+She lived peacefully in the forest village with the other elves.
+
+Until one day, Lily didn't come home.
+*
+"Could she have gotten lost in the forest?", thought the villagers.
+
+They searched, but could not find her.
+
+"Maybe she went to...the caves.", said the village elder.
+*
+The caves were located in a dark corner of the forest, far off the beaten path.
+
+Some say if you listen real closely on a quiet night, you can hear the soft weeping...of a ghost.
+
+Those who venture to close to the mouth of the cave get swallowed up and are never heard from again...
+*
+The elves sought out the beastmen at the foot of the mountain.
+
+"Please! Rescue our Lily!", they cried.
+
+The beastmen nodded.
+
+"Leave it to us! We'll get her back safely!"
+*
+The beastmen bravely approached the cave.
+From the back, a piercing voice echoed,
+
+"Why have you come!?"
+
+"We're here for the girl. Return her at once!", they replied.
+*
+Before they had even finished their demand, the beastman pointed something into the cave, and a light began to shine from it.
+
+"The light! So bright!", the ghost shrieked.
+*
+As the ghost fled into the caves, the beastmen ran in and rescued Lily.
+
+Returning to the village, the elves breathed a sigh of relief.
+
+"Thank goodness you’re alright!"
+*
+And so the village returned to peaceful times, thanks to the strength and wisdom of the beastmen.
+
+Heed Lily’s tale, never venture into the caves.
+
+"Or else a ghost will get you!"
+
+
+// ========================================================
+// MARK : 童話: 村の興り
+// ========================================================
+
+*___city_hvn/book_cane b00
+Emil was a curious young beastman living at the base of the mountain.
+
+He knew of the elven village deep in the forest, but had never been there himself.
+He decided to visit one day to learn more about them.
+*
+The elves built their village within the tops of the trees, but Emil was a natural climber.
+
+Poking his head over the edge of the village, he laid eyes on a beautiful elf girl.
+She was startled to see him, but Emil's kindness and charm quickly put her at ease.
+*
+Her name was Leena. She had lived in the village her entire life, never venturing outside due to her frailty.
+
+Emil felt sorry for her. What a shame it was for her to not experience all the wonders of the outside world.
+He rushed back to his workshop, determined to invent a way to help her.
+*
+Day in and day out he studied, learning everything he could about elves and their environment, until suddenly...
+
+Eurika! Elven biology metabolizes mana from the atmosphere by breathing it in. Leena's system wasn't metabolizing it fast enough for the mana-rich environment of the forest.
+And so, Emil invented a device that could safely remove mana from her system at will.
+*
+This was the invention of the very first staff.
+
+Emil moved to the village and lived happily with Leena...
+*
+...for a time.
+
+Leena used the staff to invent new spells, many of which still see use today.
+*
+But the elders saw this as an affront to nature.
+
+They banished Emil and Leena from the village.
+*
+The pair traveled to the edge of the forest where they came upon a band of merchants.
+
+They set up a workshop and were visited by other travelers who heard stories of their magic and inventions.
+*
+They told tales to those who would listen, passing on their wisdom and skills. Some decided to stay, and built roads, bridges, and waterways.
+
+With all these blessings in one place, people eventually built houses, and a city began to form.
+*
+The town of Grazia was born.
+
+
+// ========================================================
+// MARK : 小説: 黄金のメデューサ
+// ========================================================
+// 紫外線の擬人化の話。
+
+*___city_hvn/book_uv b00
+<i>O ye amber golden light, Medusa’s petrifying gaze turns, descends upon the earth.</i>
+	-Scripture
+*
+Down from the heavens to the forest floor, a golden glow danced through the swaying leaves.
+
+Believing it to be a blessing from the gods, priest Elias of Grazia reached out to touch it.
+*
+A searing pain shot through his arm.
+
+He recoiled and screamed in agony.
+
+His hands began to redden, blister, then char.
+*
+As it spread up his arms and to the rest of his body, he shouted unto the heavens,
+
+"Medusa, why do you forsake me!?"
+*
+But the skies remained silent as the golden light consumed him.
+
+Days later, other priests found his body, arms still outstretched.
+*
+Even now, Medusa still watches.
+
+Golden gaze tempting us.
+
+But it is a curse.
+
+Don’t touch the light.
+
+
+// ========================================================
+// MARK : 季節のレシピ
+// ========================================================
+
+*___city_hvn/book_cooking b00
+Strawberry Tart
+Crispy golden tart with strawberries and honey
+
+Ingredients: Flour, butter, sugar, water, salt, honey, lemon juice, strawberries, red currant jam
+
+Preheat oven to 190 (375). Mix flour, butter, sugar, and salt in bowl until crumbly. Add water in small amounts until clumps form. Roll clumps into ball and press into tart pan. Poke holes in bottom of dough and bake for 15 minutes or until golden brown. Mix sugar, lemon juice, and red currant jam in small saucepan. Place saucepan on stove and bring to low boil. Pour the hot mixture into the tart and place fresh strawberries evenly throughout. Drizzle honey evenly onto strawberries. Try with cold whipped cream for an extra sweet treat.
+*
+Chicken Soup w/ Soy Milk
+
+Ingredients: Cabbage, chicken breast, leek, ginger, soy milk, water
+
+Grind chicken meat and roll into tablespoon sized balls. When water comes to a boil, carefully add the chicken meat. Skim any bits off the top and sides. Simmer heat and add chopped cabbage and leek. Remove from heat and add soy milk. Season to taste and reheat for 3 minutes, then serve. Cabbage can be substituted with turnips for a more peppery flavor.
+*
+Lamb's Meat Breaded Meatballs
+
+Ingredients: Lamb, cabbage, onion, bread crumbs, egg, salt, pepper, licorice powder
+
+Finely chop half a head of cabbage and sprinkle with salt. Mix cabbage with ground lamb, onion, cabbage, egg, licorice powder, salt, and pepper in a bowl and knead into small balls. Heat oil in a frying pan and sear the meatballs until the outside is brown. Let cool slightly, then add bread crumbs to bowl and roll meatballs to form a shell. Brush shells with beaten egg and poke holes before baking. Cook in oven until golden brown then serve.
+
+*n_00 
+<think>That’s enough of that.
+Too many veggies...
+
+
+// ========================================================
+// MARK : 魔族の生態
+// ========================================================
+
+*___city_hvn/book_demon b00
+
+Monsters are primitive creatures with extremely short lifespans that reproduce at an equivalent rate.
+
+These short generational cycles lead to mutations appearing practically in real time.
+
+Each species possesses evolutionary traits adaptive to their environment, making identifying unique species effortless. However, these traits exist only on the surface.
+
+At their core, all monsters are the same. 
+*
+Their intelligence levels were previously thought to be low, but recent observations have brought this into question.
+
+They've been seen using tools of their own making, and engage in social behavior with one another.
+*
+Their territory is demarcated by mana plants, which they are fiercely protective of and will immediately swarm anything they believe to be a threat to the plants.
+
+Attempts to study this behavior as well as mana plants themselves have proven to be equal parts difficult and dangerous.
+
+// ========================================================
+// MARK : 漂流者のレポート
+// ========================================================
+
+//fill 内は黒塗りになります。
+*___city_hvn/book_urasima b00
+
+Report
+
+Subject name: <fill>Daiko</fill>
+Elf, male, 25
+
+Subject was reported missing during a geological survey near <fill>Pioneer's Mountain, Cave 2</fill>.
+
+A search team was dispatched, but was unable to find any trace of him and called off their efforts days later. Subject resurfaced on their own one month later, alive and well. 
+*
+Subject was wearing the same clothes as when he disappeared and appeared to be in perfect health.
+
+When informed that he had been missing for a month, subject stated that he had only been wandering in the caves for “a day or two”.
+*
+Our team at first attributed this to a case of delirium brought on by dehydration, but with no supplies on his person when he went missing, dehydration would have been severe enough to cause death long before a month had passed.
+
+Subject’s team was approaching the Mother Stone at time of disappearance. Our team is now working under the hypothesis that the stone <fill>can warp localized pockets of time and space</fill>.
+
+
+// ========================================================
+// MARK : エルフの身体
+// ========================================================
+
+
+*___city_hvn/book_elfbody b00
+The Brain
+
+The command center of your nervous system. The brain is a specialized organ housed in your skull that is responsible for receiving and processing information from the sensory nervous system.
+
+The cerebrum controls logical thinking and language, the cerebellum coordinates movement, and the brainstem is responsible for automating breathing, heartbeat, and other vital functions.
+
+Everything that you do, think, and experience is a result of your brain reacting to the data it takes in.
+*
+Stomach
+
+A muscular, hollow organ that plays a vital role in the digestion of food.
+
+Enzymes and acids are secreted by gastric glands which break down and soften food before sending it to the small intestine. 
+*
+Small and large intestine
+
+The small intestine is where the majority of nutrients from food are absorbed into the body. It has three distinct regions - the duodenum, jejunum, and ileum.
+
+The large intestine is where any remaining liquids are absorbed into the body and where waste matter begins to accumulate. There are also bacteria within the intestine which help with vitamins and immunity.
+*
+Liver and pancreas
+
+The liver is the largest organ inside your body and performs a variety of functions, including metabolizing nutrients, breaking down toxins, and the decomposition of red blood cells. Actihol and other drugs are also processed here.
+
+The pancreas works with the small intestine to break down fats, sugars, and proteins. It also helps regulate blood sugar levels.
+*
+Kidneys
+
+A pair of bean-shaped organs located on both sides of your waist. Kidneys help filter waste from the body and send it to the bladder to be excreted. They also play a key role in red blood cell production and regulate your body’s water and electrolyte levels.
+*
+Dilators
+
+A pair of small organs found on both sides of your chest. A subset of the respiratory system, these organs take mana from the air you breathe and store it in red blood cells to circulate throughout your body.
+
+Mana can still be drawn out once metabolized, but may be painful depending on the method.
+*
+Heart
+
+Part of the circulatory system. Pumps blood throughout your body to get oxygen and mana to organs that need it. Has four chambers and works by expanding and contracting based on electrical signals.
+
+
+// ========================================================
+// MARK : グラティア正教 
+// ========================================================
+// グラティア正教 (the Grazian Orthodoxy)
+
+*___city_hvn/book_orthodoxy b00
+In the beginning, chaos and strife ruled the world.
+
+From the heavens, Medusa scorched the earth with thunder and lightning.
+
+From the sea, crimson and black monsters devoured all traces of life.
+
+From the land, goblins dug tunnels deep underground, despoiling any chance of the world recovering.
+*
+Our Father looked upon the devastation and wept.
+
+His tears became the stone; the stone became soil, and took root our hope.
+*
+Our Mother had arrived. Through her grace, love spread to every corner of the world.
+
+From the ashes of chaos arose her children, the elves.
+
+Sheltered by her benevolence, we grew strong. Touched by her wisdom, we flourished.
+*
+Her breath, the lifeblood that flows through us.
+
+Her voice, that taught us to love one another.
+
+Her hair, that shields us from the thunder of chaos.
+
+Her hands, that push back the raging waves.
+
+Her feet, that level the soil to keep the monsters underground.
+*
+Her body, that gave life to countless wise beasts.
+
+It is through their wisdom, their tenacity, that we elves survived. May they continue to <rb c="serve">teach</rb> us forever more.
+*
+Above the clouds that bring the blessed rains, cradled high atop the Mother Tree, our Father lies in sleep.
+
+Two children, heirs of Mother’s spirit.
+May their life be eternal, and may we prosper.

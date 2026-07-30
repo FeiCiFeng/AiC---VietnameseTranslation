@@ -1,0 +1,126 @@
+%FAMILY zh-cn
+// WePlay用
+/* ___ Wpl_title_mountain_diff_title_0 ___ */
+WPE Edition
+/* ___ Wpl_title_mountain_diff_desc_0 ___ */
+为WePlay Expo<img mesh="weplay_star" />打造的特别游戏模式
+可以直接进入开发中的0.29版本，并抢先
+体验新地图「拓荒者山岳」哦。
+
+/* ___ Wpl_title_mountain_diff_title_1 ___ */
+普通体验版
+/* ___ Wpl_title_mountain_diff_desc_1 ___ */
+可以正常推进剧情到第1章中段（编织者之森全地图）。
+此版本和官网发布的体验版相比，
+有一些细节上的调整。
+
+// ========================
+
+/* ___ Tuto_wpl_00 ___ */
+感谢各位玩家能够拨冗专程来到上海的
+WePlay Expo会场，并试玩我们新开发的
+「Alice in Cradle」展会特别版！
+
+我们的游戏女主角是一名叫做诺艾儿的
+炼金术士少女，你将以横版动作游戏的视角，
+跟随她一起探索这个充满魔力的奇异世界。
+
+/* ___ Tuto_wpl_01 ___ */
+除了按下<key z/>进行普通攻击之外，
+诺艾儿还能通过<key x/>使用魔法。
+
+<key x/> <font color="ff:#ffff33">长按… 纯白之箭</font>
+
+
+/* ___ Tuto_wpl_02 ___ */
+遇到死胡同了——真是这样吗？
+周围到处找找看，说不定有什么
+隐藏起来的通道还没发现呢。
+
+/* ___ Tuto_wpl_02b ___ */
+有些看似坚硬的墙壁，
+实际上可以用地面炸弹来炸开！
+如果发现可疑的地形，
+就大胆地试试看吧。
+
+<key x/>+<key ba/> <font color="ff:#ffff33">地面炸弹</font>
+
+&&Summoner_mount_wpl_02 临时洞穴
+
+/* ___ Tuto_wpl_03 ___ */
+这些会发光的植物被称为“魔力植物”。顾名思义——
+从中就可以提取出魔法所需的力量源泉，也就是魔力。不过要注意，  
+<font color="ff:#ffff33">这种植物的群生地无一例外都是魔族的领地。</font>
+采集魔力植物就意味着  
+入侵了魔族的势力范围。
+
+不过，现在似乎已经被困在这里了。  
+与魔族战斗，  杀出一条生路吧！
+
+<key z/> <font color="ff:#ffff33">使用轻攻击采集</font>
+
+/* ___ Tuto_wpl_03a ___ */
+周围诡异的气息消失了。  
+继续寻找离开这里的路线吧。
+
+
+/* ___ Tuto_wpl_04 ___ */
+魔法的攻击方式并不只是咏唱后发射而已。  
+通过敲击将咏唱好的魔力直接打入敌人身体，
+就能造成高额伤害，
+这就是<font color="ff:#ffff33">魔法霰弹</font>攻击。
+试着对→右边那个长得像堵墙一样的魔族  
+使用魔法霰弹吧。
+
+<font color="ff:#ffff33"><key x/>咏唱中按下<key z/>使用魔法霰弹</font>
+
+
+
+
+/* ___ Tuto_wpl_end ___ */
+从→方向开始，  
+诺艾儿的冒险正式启程。  
+善用魔法与魔法霰弹，  
+以及途中获得的各种技能，  
+潇洒帅气地探索山岳地带吧！
+
+&&Title_wpl_alert_svd 可能会留有前一位玩家的存档数据。
+&&Title_wpl_alert_cfg 游戏开始时，大部分设定会被初始化。
+
+
+/* ___  Board_forest2grazia_wpl ___ */
+森林篇到这里就结束啦。  
+想体验后续剧情的话，  
+请前往官方网站下载  
+Alice in Cradle ver0.28 继续冒险吧！
+
+
+
+&&Select_Talk_wpl 对话<img mesh="weplay_star"/>
+&&EvTitle_wpl_nig_00_weather 天气
+&&EvTitle_wpl_nig_01_poison 关于中毒
+&&EvTitle_wpl_nig_02_athletic 如何探索
+&&EvTitle_wpl_nig_03_evade 闪避
+&&EvTitle_wpl_nig_04_magic 魔法
+
+/* ___  Board_WePlay_busstop ___ */
+这次的WePlay Expo特别版中，我们在主线剧情的线路外
+还隐藏了各种各样的隐藏通道和机关，
+请务必仔细探索，这样才能发现
+更多散落的宝物，解锁独特的冒险体验哦。
+
+对了，<font color="ff:#fffff33">聚能火球</font>这个魔法，你找到了吗？
+如果没有的话，悄悄告诉你——
+它就藏在你初次见到商人小姐的那地方附近哦。
+
+另外，别忘了在长椅上可以随时
+快速移动到其他长椅的位置哦。
+
+
+
+/* ___  Board_spiderrt ___ */
+感谢游玩！
+
+
+/* ___ bosshint_209_1 ___ */
+Boss的弱点是尾巴。

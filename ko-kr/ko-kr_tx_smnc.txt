@@ -1,0 +1,528 @@
+%FAMILY ko-kr
+
+&&Smnc_title_enemy 등장하는 적:
+
+&&Smnc_ui_files_create +신규작성
+&&Smnc_ui_file 파일 &1
+
+&&Smnc_title_makenew_object 어느 오브젝트를 추가하시겠습니까?
+
+&&Smnc_ui_enemy_appear 동시에 출현하는 최대 수: &1마리
+&&Smnc_ui_enemy_appear_whole  동시에 출현하는 최대 수(모든 적 합계): &1마리
+&&Smnc_ui_enemy_appear_infinity ∞
+
+&&Smnc_ui_enemy_row &1 (MP &2〜&3%) : &4마리
+&&Smnc_ui_enemy_mp_min_ratio 마력 최소치: &1%
+&&Smnc_ui_enemy_mp_max_ratio 마력 최대치: &1%
+&&Smnc_ui_enemy_total 등장하는 수: 
+&&Smnc_ui_enemy_count &1마리
+&&Smnc_ui_enemy_total_sum ( 총합 &1마리 )
+
+&&Smnc_ui_enemy_edit_kind 종류
+&&Smnc_ui_enemy_edit_attr 속성
+
+&&Smnc_KD_filesel <key add/>복제 <key rem/>제거 <key submit/>편집 개시
+&&Smnc_KD_submit <key submit/>결정
+&&Smnc_KD_put_end <key submit/>배치하고 종료
+&&Smnc_KD_put_continue <key add/>연속 배치
+
+
+&&Smnc_start_battle_submit 전투 개시!
+
+&&Smnc_KD_stageedit_move <key la/><key ba/><key ta/><key ra/>파츠 이동
+&&Smnc_KD_stageedit_move_flip <key sort/>좌우반전
+
+&&Smnc_stageedit_move <key submit/>파츠 이동
+&&Smnc_stageedit_add <key add/>파츠 추가
+&&Smnc_stageedit_rem 파츠 제거
+&&Smnc_stageedit_plant 마력식물 편집 
+&&Smnc_KD_enemyedit_garage <key sort/>적 편집
+&&Smnc_KD_start_battle_garage <key menu/>모의 전투 개시
+
+&&Smnc_start_battle_randomize_nattr 위험도 상승에 맞춰 속성을 자동 부여
+&&Smnc_start_battle_seed 난수 시트 \n(0으로 랜덤)
+
+
+/* ___ Smnc_alert_no_plants ___ */
+마력식물이 배치되어있지 않습니다.
+/* ___ Smnc_alert_no_enemypos ___ */ 
+적의 초기 위치가 배정되어있지 않아 완전히 랜덤한 위치에 출현합니다.
+
+/* ___ Smnc_alert_invalid_start ___ */
+노엘의 초기 위치가 블럭에 파묻혀있습니다.
+
+/* ___ Smnc_alert_no_enemy ___ */ 
+적이 배치되어있지 않습니다. <key sort/>(으)로 적의 정보를 편집해주세요.
+
+&&Smnc_KD_plant_0 마력식물의 추가 / 제거
+&&Smnc_KD_plant_1 추가
+&&Smnc_KD_plant_2 <key rem/>제거
+
+
+&&Smnc_confirm_fileremove 파일 &1 을 삭제합니다.\n계속하시겠습니까?
+&&Smnc_confirm_fileremove_btn 삭제한다
+
+&&UiSmnCreator_smnc_generate_pr 노엘의 초기 위치
+&&UiSmnCreator_smnc_generate_en 적의 출현 위치
+&&UiSmnCreator_smnc_generate_en_fix 적의 출현 위치(위치 고정)
+
+&&UiSmnCreator_smnc_cliff_00 블럭 4x4
+&&UiSmnCreator_smnc_cliff_01 블럭 2x2
+&&UiSmnCreator_smnc_cliff_02 블럭 4x8
+&&UiSmnCreator_smnc_smallbar_00 블럭 4x1
+&&UiSmnCreator_smnc_smallbar_01 블럭 1x4
+&&UiSmnCreator_smnc_smallbar_02 블럭 8x1
+&&UiSmnCreator_smnc_lift_4 리프트 4x1
+&&UiSmnCreator_smnc_stair_00 3단계단
+&&UiSmnCreator_smnc_stair_01 4단계단
+
+
+&&UiSmnCreator_smnc_spike_00 가시바닥 4x1
+&&UiSmnCreator_smnc_spike_01 가시바닥 8x1
+&&UiSmnCreator_smnc_spike_02 가시벽 1x4
+&&UiSmnCreator_smnc_spike_03 가시벽 1x8
+
+&&UiSmnCreator_smnc_icefloor_4 얼음바닥 4x1
+&&UiSmnCreator_smnc_icefloor_8 얼음바닥 8x1
+
+
+&&UiSmnCreator_smnc_thundertrap_b 전격 트랩(아래)
+&&UiSmnCreator_smnc_thundertrap_r 전격 트랩(옆)
+&&UiSmnCreator_smnc_thundertrap_t 전격 트랩(위)
+
+
+&&Status_Tab_current_battle 전투 구역 - &1
+&&Status_Tab_drop_change 드롭률: &1 %
+
+&&Status_Tab_smnc_abort 모의전투를 중단
+&&Status_Tab_dangerousness_till_sunset 일몰까지:
+&&Status_Tab_dangerousness_till_sunrise 일출까지:
+&&Status_Tab_enemy_rest 남은 적:
+
+&&Status_Tab_battlearea 위험도 / 전투
+
+
+&&KD_check_unlock_how <key submit> 해금 조건을 확인
+
+&&Smnc_ui_enemy_kind_unlock_how &1의 해금 조건:
+&&Smnc_ui_enemy_kind_unlock_count &1마리 격파한다 
+&&Smnc_ui_enemy_kind_unlock_count_rest (앞으로 &1마리)
+&&Smnc_ui_enemy_kind_unlock_item 또는 이하의 아이템을 납품:
+/* ___ Smnc_ui_enemy_kind_unlock_count_auto ___ */
+격파수가 기준치에 도달해
+새로운 적을 모의 전투에서
+사용할 수 있게 되었습니다!
+
+&&Smnc_save_file 파일 내보내기
+&&Smnc_load_file 파일 불러오기 
+
+
+
+//狐を氷属性で出すことはできない、などのアラート表示です
+
+/* ___ Smnc_alert_wrong_attr ___ */ 
+등장하는 적 일부는 설정한 속성으로 출현할 수 없습니다. 
+
+
+// ========================================================
+// MARK : 0.28
+// ========================================================
+
+/* ___ Smnc_stgo_desc_generate_en ___ */
+적의 출현위치.
+대량의 적이 배치될 때 적은 출현위치에서 크게 벗어나지 않은 장소에서 등장합니다. 이에 의해 벽을 뚫을 경우 위치 고정판을 사용해주세요.
+
+
+/* ___ Smnc_stgo_desc_generate_en_fix ___ */
+적의 출현위치.
+대량의 적이 배치될 때에도 이곳에서 등장하는 적은 항상 같은 위치에서 등장합니다.
+
+
+/* ___ Smnc_stgo_desc_block ___ */
+아무런 특징 없는 블럭. 바닥, 벽, 천장 등 다양한 용도로 사용할 수 있습니다.
+
+/* ___ Smnc_stgo_desc_lift ___ */
+아무런 특징 없는 리프트. 발판의 확보에 활용.
+/* ___ Smnc_stgo_desc_stair ___ */
+계단입니다.
+
+/* ___ Smnc_stgo_desc_spike ___ */
+뾰족뾰족한 블럭.
+분명 홀로그램인데 만지면 아프고 옷도 찢어집니다.
+
+
+/* ___ Smnc_stgo_desc_ice ___ */
+미끌미끌한 얼음 바닥.
+움직이기 시작하는게 약간 힘들어집니다.
+
+
+/* ___ Smnc_stgo_desc_thundertrap ___ */
+전격 레이저 트랩. 발사구에서 벽까지 무한하게 늘어납니다.
+
+
+&&Smnc_KD_enemy_info 상세 정보 편집
+&&Smnc_KD_enemy_how_to_unlock 해금 조건 확인
+
+// ========================================================
+// MARK : tower defence
+// ========================================================
+
+
+&&Smnc_KD_start_battle_td <key menu/>요격 개시
+
+
+
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+다른 타입의 파일이 지정되었습니다.
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+다른 타입의 파일이 지정되었습니다.
+
+&&Smnc_stageedit_caster_add 인원 배치
+&&Smnc_stageedit_caster  인원 배치 / 소거
+
+
+&&UiSmnCreator_smnc_manatower 마력탑
+/* ___ smnc_desc_manatower ___ */
+마력을 모은 저장탑입니다. 노엘은 직접 공격으로 마력을 회복할 수 있으며 동료 또한 마력이 소모되었을 때 마력의 회복에 사용합니다. 파괴되지는 않지만 저장량에는 한계가 있으며 적에게 공격당할 경우 적색 마력을 비산시킵니다.
+
+
+&&UiSmnCreator_smnc_barricade_spike 바리케이드
+/* ___ smnc_desc_barricade_spike ___ */
+나무로 만든 간단한 바리케이드. 접촉한 적에게 피해를 입히지만 아군에게 피격 판정은 발생하지 않습니다. 잠시 시간을 버는 데 사용할 수 있을지도.
+
+&&UiSmnCreator_smnc_barricade_wood_wall 나무 방벽
+/* ___ smnc_desc_barricade_wood_wall ___ */
+아군은 걸어서 지나다닐 수 있지만 마족은 통과할 수 없습니다. 화이트 애로우를 쏘기 위해 높이가 낮지만 적의 마술이나 속성공격에는 의외로 잘 버팁니다.
+
+&&UiSmnCreator_smnc_barricade_offensive_wall 공성방벽
+/* ___ smnc_desc_barricade_offensive_wall ___ */
+마력적인 결계를 펼쳐 적의 침입을 막는 강력한 방벽입니다. 아군의 마력을 통과시키기 때문에 다루기도 쉽습니다.
+
+&&UiSmnCreator_smnc_watchtower 망루
+/* ___ smnc_desc_watchtower ___ */
+높이가 조금 높은 감시탑.
+지상에 있는 적의 대부분은 탑에 올라간 아군을 공격하지 않습니다. 벽 밖의 전선에 배치하면 효율 좋게 적을 쓰러트릴 수 있지만 아군이 당할 경우 구조가 어렵습니다. 탑에 인원을 배치할 때에는 탑 위에 사람을 직접 올려주세요. (3명까지)
+
+&&UiSmnCreator_smnc_finalwall 베르밋 교사
+
+/* ___ smnc_desc_finalwall ___ */
+최후의 보루. 옮길 수 없습니다. 이곳이 파괴될 경우 강제로 게임 오버처리됩니다.
+
+
+&&UiSmnCreator_smnc_healtent 구호 텐트
+
+/* ___ smnc_desc_healtent ___ */
+쓰러진 아군을 구조하는 텐트입니다. 이곳에 몇 명의 인원을 배치해둘 경우 전선에서 쓰러진 아군을 재빠르게 구조할 수 있습니다.
+
+&&UiSmnCreator_smnc_td_cannon <img mesh="IconTigrina"/>고정포대
+
+/* ___ smnc_desc_td_cannon ___ */
+티그리나를 시작으로 저격병이 탑승하는 포좌입니다. <key submit/>으로 대포에 장전할 탄을 편집할 수 있습니다. 추가로 인원을 배치할 때에는
+
+
+/* ___ smnc_alert_td_notice ___ */
+방위작전을 개시합니다.
+노엘 양, 사관생도 여러분,
+부디 무사하기를.
+
+/* ___ Smnc_alert_td_no_caster ___ */
+<font size="16">인원이 배치되어있지 않습니다.
+노엘 단독 전투가 되며
+상당히 힘든 싸움이 될 것입니다.
+정말로 진행하시겠습니까?
+
+
+&&Alert_gameover_td 방위작전에 실패했어...
+
+
+&&Smnc_td_show_rule 설명과 조언
+
+&&Smnc_td_rule_title0 개요
+
+/* ___ Smnc_td_rule0 ___ */
+산 방면에서 공격해오는 마족으로부터 마을을 보호하기 위해
+방벽을 건축해 대군세를 섬멸, 격퇴합시다.
+적은 3웨이브로 나뉘어 올 것으로 예상됩니다.
+
+적이 맵 왼쪽 끝까지 도달해
+마지막 방벽을 돌파하면 강제 패배 처리됩니다.
+
+
+&&Smnc_td_rule_title1 기본 배치
+/* ___ Smnc_td_rule1 ___ */
+우선 최대한 많은 방벽을 설치합시다.
+방벽은 무한히 설치할 수는 없고
+군에서 지급된 예산 내에서 해결해야 합니다.
+
+이 때 벽끼리의 간격이 너무 좁으면 후술할
+인원 배치시 벽 하나당 방위에 임하는
+인원이 줄어듭니다.
+각각 3-4칸정도 간격을 두고 건설하는 것이 기본입니다.
+
+
+&&Smnc_td_rule_title2 엄호 사격. 1
+
+/* ___ Smnc_td_rule2 ___ */
+티그리나는 숙소 옥상 포대에서
+엄호 사격을 통해 전투에 참가합니다.
+
+또한 포대에 장전할 탄약은 무한하지 않고
+이 또한 예산 내에서 해결해야 합니다.
+벽 건축 후 남은 자금을 들이부으면 좋겠죠.
+
+
+&&Smnc_td_rule_title3  엄호 사격. 2
+
+/* ___ Smnc_td_rule3 ___ */
+티그리나는 4종류의 탄약 중
+상황에 따라 최적의 것을 골라 발사합니다.
+
+탄약에는 노엘과 아군이
+말려들 수 있는 것들이 있으므로
+노엘이 벽 밖에서 활동한다면
+티그리나가 탄을 발사하기 힘들어집니다.
+
+
+
+&&Smnc_td_rule_title4 인원 배치
+/* ___ Smnc_td_rule4 ___ */
+'인원 배치'에서는 함께 방위작전에 참가할
+아군을 배치할 수 있습니다. (최대 &1명)
+
+인원을 배치하는 장소에 의해 자동으로
+보병, 의무병, 포병 중 하나의
+역할이 배정됩니다.
+
+&&Smnc_td_rule_title5 보병. 1
+/* ___ Smnc_td_rule5 ___ */
+방벽에 가깝거나 감시탑 위에 배치된
+인원은 보병이 됩니다.
+
+보병은 방벽을 지키기 위해 화이트 애로우 또는
+에너지 볼로 마족을 공격해 격퇴합니다.
+(탑 위의 보병은 에너지 볼을 우선합니다)
+
+
+&&Smnc_td_rule_title6 보병. 2
+/* ___ Smnc_td_rule6 ___ */
+
+방벽이 파괴되면 보병은 알아서 전선을 물리고
+뒷쪽 방벽에서 공격합니다.
+
+마력이 부족하면 싸울 수 없으니
+마력탑을 벽 안쪽에 하나 지어두면
+방위가 안정될 것입니다.
+
+&&Smnc_td_rule_title7 포병
+/* ___ Smnc_td_rule7 ___ */
+숙소 옥상, 티그리나 근처에 인원을
+배치할 경우 그 인원은 포병이 됩니다.
+
+포병은 직접 전선에 나가지는 않지만
+배치해두면 티그리나의 대포의
+발사 속도가 빨라집니다.
+(인원이 너무 많으면 상승 효율이 감소합니다)
+
+&&Smnc_td_rule_title8 의무병
+/* ___ Smnc_td_rule8 ___ */
+구호 텐트 주변에 배치한 인원은 의무병이 되며
+아이콘에 보라색 마크가 붙습니다.
+의무병은 쓰러진 아군에게 달려가
+구호 텐트로 이송합니다.
+
+들것으로 옮기기 쉽게 하기 위해 2인 1조로
+인원을 배치하는 것이 기본입니다.
+
+&&Smnc_td_rule_title9 구호 텐트
+/* ___ Smnc_td_rule9 ___ */
+구호 텐트에 옮겨진 쓰러진 아군은
+잠시 후 회복해 전투에 복귀합니다.
+
+구호 텐트를 건설하면 프리뮬라가 전장에 등장합니다.
+프리뮬라가 텐트에서 치료 활동을 하는 동안에는
+아군 한 명의 회복속도가 증가합니다.
+
+&&Smnc_td_rule_title10 구호 텐트
+/* ___ Smnc_td_rule10 ___ */
+노엘이 쓰러졌을 때에도
+방벽 안이라면 의무병이 구조해줍니다.
+마지막까지 포기하지 말고 마을을
+지키기 위해 전력을 다합시다.
+
+&&Smnc_td_rule_title11 위험물 반입
+/* ___ Smnc_td_rule11 ___ */
+방위작전에 있어 그레네이드 계열의 사용은
+사고 방지를 위해 금지되어 있습니다.
+
+/* ___ Smnc_td_rule11_2 ___ */
+이 회상에 한해서 아이템을 얼마나 사용해도
+전트 종료 후에 리셋됩니다.
+폭탄 사용을 포함해 마음껏 날뛰고
+완전무결하게 마족을 격퇴합시다.
+
+// ========================================================
+// MARK : キャノン砲
+// ========================================================
+
+
+&&Smnc_td_cannon_type_0 고폭탄
+&&Smnc_td_cannon_type_1 충격파탄
+&&Smnc_td_cannon_type_2 그레네이드
+&&Smnc_td_cannon_type_3 마력 그레네이드
+&&Smnc_td_cannon_type_4 그래비티 봄
+
+
+
+/* ___ Smnc_td_cannon_type_0_desc ___ */
+에너지 볼의 폭풍을 발생시키는 탄입니다. 위력은 꽤 나오지만 밀쳐내는 힘은 노엘이 영창한 마술보다 떨어집니다. 아군이 휘말릴 일이 없어 쏘기 편하고 폭넓은 활용이 가능합니다.
+
+/* ___ Smnc_td_cannon_type_1_desc ___ */
+지면을 타고 퍼지는 충격파를 발생시키는 탄입니다. 밀쳐내는 힘이 강하고 지상의 가벼은 적의 진형을 무너트리는 데에 특화되었습니다.
+
+
+/* ___ Smnc_td_cannon_type_2_desc ___ */
+화속성 폭풍을 발생시키는 탄입니다.
+아군에게도 영향이 있기 때문에 먼 곳의 적을 노리고 발사됩니다.
+
+/* ___ Smnc_td_cannon_type_3_desc ___ */
+적의 마력을 빼앗는 폭풍을 발생시키는 탄입니다.
+폭풍은 잠시 유지되며 범위 내의 적에게서 마력을 빼앗습니다.
+강력하지만 장전이 오래걸립니다.
+
+
+/* ___ Smnc_td_cannon_type_4_desc ___ */
+페이즈 3 방위전에서 벌집 타입에만 발사하는 특별한 탄약입니다. 소형 적이나 부유하는 적을 빨아들여 자세를 무너트리는 중력장을 발생시킵니다.
+
+
+
+&&Smnc_KD_count_switch <key la/><key ra/>탄약 증감
+
+&&Smnc_cannon_bullet_edit <img mesh="IconTigrina" width=40/>탄약 편집
+&&Smnc_cannon_per_cost &1 /개
+
+/* ___ Smnc_td_assigned_cc ___ */ 
+보병: &1명 (중 탑 위에 &2명) ／ 의무병: &3명 ／ 포병: &4명
+
+
+/* ___ Smnc_alert_no_wall ___ */
+벽이 배치되어있지 않습니다. 이 상태는 매우 위험합니다.
+
+/* ___ Smnc_alert_no_cannon_bullet ___ */
+대포의 탄이 준비되지 않았습니다.
+
+/* ___ Smnc_alert_no_healer_in_tent  ___ */
+의무병이 배치되지 않아 구호 텐트가 운용되지 않습니다.
+/* ___ Smnc_alert_healer_is_solo  ___ */
+의무병이 1명 뿐일 경우 쓰러진 아군을 들것으로 옮기기 힘들어집니다.
+/* ___ Smnc_alert_no_manatower ___ */
+마력탑이 배치되지 않았습니다. 후반에 아군이 마력부족에 시달릴 가능성이 있습니다.
+
+
+
+/* ___ Smnc_confirm_reset ___ */
+현재 배치된 건축물 및 인원을 초기화합니다.
+진행하시겠습니까?
+
+&&Smnc_omakase 자동 배치
+
+/* ___ Smnc_confirm_omakase ___ */
+현재 배치된 건축물 및 인원을 초기화하고
+자동으로 배치합니다.
+진행하시겠습니까?
+
+&&Smnc_omakase_execute 자동 배치 실행
+
+
+
+
+&&UiSmnCreator_smnc_signpole 사인 폴
+/* ___ smnc_desc_signpole ___ */
+파괴되지 않지만
+적의 침입을 막을 수도 없습니다.
+임의의 장소에 보병을 배치하고 싶다고
+표시하는 용도로만 사용할 수 있습니다.
+이 표식만 배치하고 방위전을
+시작하는 것은 자살행위나 다름없는 것입니다.
+
+
+&&UiSmnCreator_smnc_eyescope 망원경
+/* ___ smnc_desc_eyescope ___ */
+주위를 둘러보는 망원경입니다.
+파괴되지 않습니다.
+전황을 둘러보는 데 사용할 수 있습니다.
+
+
+&&Smnc_ui_enemy_only_attr 방위전에서는 적의 수와 종류를 변경할 수 없습니다.
+
+&&Smnc_title_enemy_attr_addition 추가되는 속성: 
+
+
+
+
+
+/* ___ Smnc_alert_no_gravity  ___ */
+그래비티 봄이 포대에 배치되지 않았습니다.
+
+&&Smnc_restore_items 전투 후에 사용한 아이템을 복구한다
+
+// ========================================================
+// MARK : 0.28
+// ========================================================
+
+
+
+&&UiSmnCreator_smnc_enemylift 적 전용 발판
+
+/* ___ Smnc_stgo_smnc_enemylift ___ */
+적만 이용할 수 있는 발판.
+
+
+&&Smnc_stageedit_cc_guest 게스트 추가
+&&Smnc_cc_colvari 색상:
+&&Smnc_cc_KD_switch_list_mode 리스트 편집 모드
+&&Smnc_cc_KD_switch_guest_mode 게스트 추가 모드
+
+&&Smnc_cc_KD_swap 상하로 이동
+
+
+
+&&Smnc_cc_name_woman_elf_student_1 카논
+&&Smnc_cc_name_woman_elf_student_oneesan 엘리시아
+&&Smnc_cc_name_woman_elf_thin_student 바즈라
+&&Smnc_cc_name_woman_elf_student_black 세리스
+&&Smnc_cc_name_woman_elf_student_8 미스하
+&&Smnc_cc_name_woman_elf_oneesan_student 미라
+&&Smnc_cc_name_woman_elf_thin_student_1 네리아
+&&Smnc_cc_name_woman_elf_thin_student_9 소피
+&&Smnc_cc_name_woman_elf_thin_student_sister_0 루티아
+&&Smnc_cc_name_woman_elf_thin_student_sister_1 베로니카
+&&Smnc_cc_name_woman_elf_student_6 베란
+&&Smnc_cc_name_woman_elf_student_9 이리스
+&&Smnc_cc_name_woman_elf_thin_student_sister_2 토리
+&&Smnc_cc_name_woman_elf_student_10 파이
+&&Smnc_cc_name_woman_elf_thin_student_sister_3 티아나
+
+
+
+/* ___ Smnc_alert_no_cc_generator ___ */ 
+게스트의 초기 위치가 설정되어있지 않아 노엘의 초기 위치에 배치됩니다.
+
+
+&&UiSmnCreator_smnc_generate_cc 게스트의 초기 위치
+
+/* ___ smnc_desc_generate_cc ___ */
+게스트를 초기에 이곳에 배치합니다.
+이것을 복수 배치하면 게스트의 추가 화면에서 설정한
+순서대로 한 명씩 분배해 배치합니다.
+
+&&Smnc_ui_enemy_position 이 적의 초기 위치: 
+
+&&Smnc_ui_enemy_position_all 랜덤
+&&Smnc_ui_seed_previous 直前のシード: &1
+
+&&UiSmnCreator_cc_attack_ratio 게스트의 공격 빈도(전 인원 공통)
+ 

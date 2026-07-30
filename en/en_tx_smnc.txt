@@ -1,0 +1,454 @@
+%FAMILY _
+
+&&Smnc_title_enemy Enemies:
+
+&&Smnc_ui_files_create New
+&&Smnc_ui_file  File &1
+
+&&Smnc_title_makenew_object Choose an object
+
+&&Smnc_ui_enemy_appear Max concurrent enemies: &1
+&&Smnc_ui_enemy_appear_whole Max concurrent enemies: &1
+&&Smnc_ui_enemy_appear_infinity ∞
+
+&&Smnc_ui_enemy_row &1 (MP &2〜&3%) : &4
+&&Smnc_ui_enemy_mp_min_ratio Enemy min mana: &1%
+&&Smnc_ui_enemy_mp_max_ratio Enemy max mana: &1%
+&&Smnc_ui_enemy_total Total enemies: 
+&&Smnc_ui_enemy_count &1
+&&Smnc_ui_enemy_total_sum (Total enemies: &1)
+
+&&Smnc_ui_enemy_edit_kind Type
+&&Smnc_ui_enemy_edit_attr Attribute
+
+&&Smnc_KD_filesel <key add/>Copy <key rem/>Delete <key submit/>Edit
+&&Smnc_KD_submit <key submit/>Select
+&&Smnc_KD_put_end <key submit/>Close
+&&Smnc_KD_put_continue <key add/>Place
+
+
+&&Smnc_start_battle_submit FIGHT!
+
+&&Smnc_KD_stageedit_move <key la/><key ba/><key ta/><key ra/>Move
+&&Smnc_KD_stageedit_move_flip <key sort/>Flip
+
+&&Smnc_stageedit_move <key submit/>Move
+&&Smnc_stageedit_add <key add/>Add
+&&Smnc_stageedit_rem Remove
+&&Smnc_stageedit_plant Mana Plant
+&&Smnc_KD_enemyedit_garage <key sort/>Edit enemies
+&&Smnc_KD_start_battle_garage <key menu/>Menu
+
+&&Smnc_start_battle_randomize_nattr Attributes are automatically assigned as the danger level increases.
+&&Smnc_start_battle_seed Random Seed\n(Set to 0 if not using)
+
+
+/* ___ Smnc_alert_no_plants ___ */
+There are no mana plants.
+
+/* ___ Smnc_alert_no_enemypos ___ */ 
+No enemy spawn points designated. Enemies will spawn in random locations.
+
+/* ___ Smnc_alert_invalid_start ___ */
+Noel’s starting location is blocked.
+
+/* ___ Smnc_alert_no_enemy ___ */ 
+No enemy types designated. Use <key sort/> to choose one.
+
+&&Smnc_KD_plant_0 Add/Remove Mana Plant
+&&Smnc_KD_plant_1 Add
+&&Smnc_KD_plant_2 <key rem/>Remove
+
+
+&&Smnc_confirm_fileremove Delete File &1?
+&&Smnc_confirm_fileremove_btn Delete
+
+&&UiSmnCreator_smnc_generate_pr Noel’s starting location
+&&UiSmnCreator_smnc_generate_en Enemy spawn point
+&&UiSmnCreator_smnc_generate_en_fix Enemy spawn point (fixed)
+
+&&UiSmnCreator_smnc_cliff_00 Block 4x4
+&&UiSmnCreator_smnc_cliff_01 Block 2x2
+&&UiSmnCreator_smnc_cliff_02 Block 4x8
+&&UiSmnCreator_smnc_smallbar_00 Block 4x1
+&&UiSmnCreator_smnc_smallbar_01 Block 1x4
+&&UiSmnCreator_smnc_smallbar_02 Block 8x1
+&&UiSmnCreator_smnc_lift_4 Lift 4x1
+&&UiSmnCreator_smnc_stair_00 Stairs 3
+&&UiSmnCreator_smnc_stair_01 Stairs 4
+
+
+&&UiSmnCreator_smnc_spike_00 Spike Floor 4x1
+&&UiSmnCreator_smnc_spike_01 Spike Floor 8x1
+&&UiSmnCreator_smnc_spike_02 Spike Wall 1x4
+&&UiSmnCreator_smnc_spike_03 Spike Wall 1x8
+
+&&UiSmnCreator_smnc_icefloor_4 Ice Floor 4x1
+&&UiSmnCreator_smnc_icefloor_8 Ice Floor 8x1
+
+
+&&UiSmnCreator_smnc_thundertrap_b Zap Trap (↓)
+&&UiSmnCreator_smnc_thundertrap_r Zap Trap (←→)
+&&UiSmnCreator_smnc_thundertrap_t Zap Trap (↑)
+
+
+&&Status_Tab_current_battle Combat Area - &1
+&&Status_Tab_drop_change Drop chance: &1%
+
+&&Status_Tab_smnc_abort Terminate simulation
+&&Status_Tab_dangerousness_till_sunset Dusk:
+&&Status_Tab_dangerousness_till_sunrise Dawn:
+&&Status_Tab_enemy_rest Remaining enemies:
+
+&&Status_Tab_battlearea Danger / Weather
+
+&&KD_check_unlock_how <key submit/>How to unlock
+
+&&Smnc_ui_enemy_kind_unlock_how &1 Unlock count:
+&&Smnc_ui_enemy_kind_unlock_count Defeat &1
+&&Smnc_ui_enemy_kind_unlock_count_rest (&1 more)
+&&Smnc_ui_enemy_kind_unlock_item Or give Tigrina:
+
+/* ___ Smnc_ui_enemy_kind_unlock_count_auto ___ */
+New enemies are now available in the simulation!
+
+&&Smnc_save_file Save
+&&Smnc_load_file Load
+
+
+//狐を氷属性で出すことはできない、などのアラート表示です
+
+/* ___ Smnc_alert_wrong_attr ___ */ 
+Some enemies are incompatible with the attribute you set, they will spawn without the modifier.
+
+
+// ========================================================
+// MARK : 0.28
+// ========================================================
+
+/* ___ Smnc_stgo_desc_generate_en ___ */
+敵の出現位置。
+大量の敵が配置されるとき、\b敵は出現位置からわずかに\bズレた位置から登場します。\bこれによる壁抜けなどを避ける\b場合は、位置固定版を使って下さい。
+
+
+/* ___ Smnc_stgo_desc_generate_en_fix ___ */
+敵の出現位置。
+大量の敵が配置される場合でも、\bここから出る敵は常に\b同じ位置から登場します。
+
+
+/* ___ Smnc_stgo_desc_block ___ */
+何の変哲もないブロック。\b床、壁、天井の\bあらゆる用途に使えます。
+
+/* ___ Smnc_stgo_desc_lift ___ */
+何の変哲もないリフト。\b足場の確保に。
+/* ___ Smnc_stgo_desc_stair ___ */
+階段です。
+
+/* ___ Smnc_stgo_desc_spike ___ */
+トゲトゲしたブロック。
+ホログラムのはずなのに触ると\bちゃんと痛いし服も破れます。
+
+
+/* ___ Smnc_stgo_desc_ice ___ */
+ツルツルした氷の床。
+動き始めがちょっとだけ\b大変になります。
+
+
+/* ___ Smnc_stgo_desc_thundertrap ___ */
+電撃レーザートラップ。\b発射口から壁まで\b無限に伸びます。
+
+
+&&Smnc_KD_enemy_info 詳細な情報編集
+&&Smnc_KD_enemy_how_to_unlock 解放条件の確認
+
+// ========================================================
+// MARK : tower defence
+// ========================================================
+
+
+&&Smnc_KD_start_battle_td <key menu/>Defend!
+
+/* ___ Smnc_alert_wrong_type ___ */
+Unrecognized file format.
+
+/* ___ Smnc_alert_wrong_type ___ */
+Unrecognized file format.
+
+&&Smnc_stageedit_caster_add Add Cadet
+&&Smnc_stageedit_caster Add/Move Cadet
+
+&&UiSmnCreator_smnc_manatower Mana Silo
+/* ___ smnc_desc_manatower ___ */
+A large, indestructible repository of mana. Scatters blue mana when struck by Noel or her allies and red mana when struck by monsters.
+
+&&UiSmnCreator_smnc_barricade_spike Barricade
+/* ___ smnc_desc_barricade_spike ___ */
+A simple, wooden structure to keep monsters at bay for a very short time. Can cause incidental damage if they bumble into it.
+
+&&UiSmnCreator_smnc_barricade_wood_wall Bulwark
+/* ___ smnc_desc_barricade_wood_wall ___ */
+A sturdy wooden wall that blocks most monsters and spells from passing. Noel, her allies, and the White Arrow spell are nimble enough to easily move through it.
+
+&&UiSmnCreator_smnc_barricade_offensive_wall Forcefield
+/* ___ smnc_desc_barricade_offensive_wall ___ */
+A high-tech barrier that only allows allies and their spells to pass through.
+
+&&UiSmnCreator_smnc_watchtower Watchtower
+/* ___ smnc_desc_watchtower ___ */
+Gives the high ground to your allies (max 3), making them more difficult for monsters to attack, but also makes recovery efforts more difficult if they get knocked out. Place allies directly on top of the Watchtower to assign them to it.
+
+&&UiSmnCreator_smnc_finalwall Bermit
+/* ___ smnc_desc_finalwall ___ */
+The last bastion. If it goes down, you go down with it.
+
+&&UiSmnCreator_smnc_healtent Tent
+/* ___ smnc_desc_healtent ___ */
+For healing wounded allies. Cadets assigned here will retrieve fallen allies and bring them back for healing.
+
+&&UiSmnCreator_smnc_td_cannon <img mesh="IconTigrina"/>Magicannons
+/* ___ smnc_desc_td_cannon ___ */
+It’s Tigrina raining magical cannon fire from up high! Check and edit her ammo supply with <key submit/>. You can also place cadets up here to help her reload faster.
+
+
+/* ___ smnc_alert_td_notice ___ */
+Intercept and rout the monsters.
+Noel, fellow cadets, we’re counting on you.
+
+/* ___ Smnc_alert_td_no_caster ___ */
+No cadets deployed. Noel will fight alone.
+Are you sure you want to do that?
+
+&&Alert_gameover_td Defenses have been breached!
+
+&&Smnc_td_show_rule View how-to
+
+&&Smnc_td_rule_title0 Overview
+/* ___ Smnc_td_rule0 ___ */
+Intercept the monsters descending from the mountains and protect the city!
+
+If they break through your defenses and breach the walls of Bermit,
+the city will be doomed!
+
+
+&&Smnc_td_rule_title1 Basics
+/* ___ Smnc_td_rule1 ___ */
+Use the provided funds to build walls and barriers
+to slow the monster’s advance.
+
+Space the walls apart (3 - 4 tiles) to allow room for cadets
+to be stationed at each one to provide offensive countermeasures.
+
+
+&&Smnc_td_rule_title2 Covering Fire
+/* ___ Smnc_td_rule2 ___ */
+Tigrina will provide long range cannon fire from the roof.
+
+Her ammo is limited and must be purchased prior to the battle.
+This is a good place to spend remaining funds once the
+main defenses have been built.
+
+
+&&Smnc_td_rule_title3 Covering Fire 2
+/* ___ Smnc_td_rule3 ___ */
+Tigrina has 4 different types of ammo available. Some directly damage monsters while others help set up opportunities for cadets to capitalize on.
+
+Stay inside your defenses with your allies so you don't get caught in her crossfire.
+
+
+&&Smnc_td_rule_title4 Deploying Cadets
+/* ___ Smnc_td_rule4 ___ */
+Place allies on the battlefield to assist in the fight. (Max &1 units)
+
+Depending on where they are placed, they will automatically act as infantry,
+support, or artillery.
+
+
+&&Smnc_td_rule_title5 Infantry
+/* ___ Smnc_td_rule5 ___ */
+When placed at a barrier or watchtower, cadets will act as infantry and fire
+White Arrows and Energy Balls at nearby monsters.
+
+Cadets placed on watchtowers will prioritize casting Energy Ball.
+
+
+&&Smnc_td_rule_title6 Infantry 2
+/* ___ Smnc_td_rule6 ___ */
+When their post is destroyed, infantry will retreat
+and continue attacking from the rear.
+
+Placing a Mana Silo within your defenses will help infantry units
+defend their posts.
+
+
+&&Smnc_td_rule_title7 Artillery
+/* ___ Smnc_td_rule7 ___ */
+Cadets placed on the roof with Tigrina will assist her with reloading,
+allowing her to fire more rapidly.
+
+Deploying too many cadets here will produce diminishing returns.
+
+
+&&Smnc_td_rule_title8 Support
+/* ___ Smnc_td_rule8 ___ */
+Cadets placed near tents become support soldiers marked with a purple icon.
+They will rescue injured infantry and get them back in the fight.
+
+They work most efficiently when placed in pairs.
+
+
+&&Smnc_td_rule_title9 Tents
+/* ___ Smnc_td_rule9 ___ */
+Fallen allies will recover within the tents and return to battle
+after a short time.
+
+If Primula is working in the tent, recovery speed will be increased.
+
+
+&&Smnc_td_rule_title10 Tents 2
+/* ___ Smnc_td_rule10 ___ */
+The benefits of the recovery tent also extend to Noel while she's within the defensive lines.
+
+Even if you’re knocked down, get back up and fight to the bitter end.
+
+
+&&Smnc_td_rule_title11 For Your Safety
+/* ___ Smnc_td_rule11 ___ */
+Grenades are not allowed in this fight to prevent friendly fire accidents.
+
+/* ___ Smnc_td_rule11_2 ___ */
+All consumables will be returned to you after the battle is over.
+
+Go wild. Show those monsters no mercy!
+
+
+// ========================================================
+// MARK : キャノン砲
+// ========================================================
+
+&&Smnc_td_cannon_type_0 Burst
+&&Smnc_td_cannon_type_1 Shockwave
+&&Smnc_td_cannon_type_2 Grenade
+&&Smnc_td_cannon_type_3 Magic Grenade
+&&Smnc_td_cannon_type_4 Gravity Bomb
+
+
+/* ___ Smnc_td_cannon_type_0_desc ___ */
+A basic Energy Ball that packs less of a punch than what your standard caster can conjure. Does not harm allies.
+
+/* ___ Smnc_td_cannon_type_1_desc ___ */
+Generates a blast that travels along the ground and knocks smaller enemies away. Useful for breaking up groups.
+
+/* ___ Smnc_td_cannon_type_2_desc ___ */
+Generates a fiery blast. Launched at long range to prevent potential friendly fire.
+
+/* ___ Smnc_td_cannon_type_3_desc ___ */
+Generates an anti-magic field that drains enemies of their mana. Powerful, but takes time to set up.
+
+/* ___ Smnc_td_cannon_type_4_desc ___ */
+Special ammo reserved for special targets in the final wave. Generates a gravity well that pulls in small enemies.
+
+
+&&Smnc_KD_count_switch <key la/><key ra/>Change amount 
+
+&&Smnc_cannon_bullet_edit <img mesh="IconTigrina" width=40/>Edit ammo
+&&Smnc_cannon_per_cost &1 /per
+
+/* ___ Smnc_td_assigned_cc ___ */ 
+Infantry: &1 (Watchtower &2) / Support: &3 / Artillery: &4
+
+
+/* ___ Smnc_alert_no_wall ___ */
+There are no barriers of any kind. Defending the city will be all but impossible.
+
+/* ___ Smnc_alert_no_cannon_bullet ___ */
+Tigrina has no ammo.
+
+/* ___ Smnc_alert_no_healer_in_tent  ___ */
+No cadets have been assigned to one of the tents.
+
+/* ___ Smnc_alert_healer_is_solo  ___ */
+Only one cadet is assigned to one of the tents. They’ll have a rough time retrieving fallen allies.
+
+/* ___ Smnc_alert_no_manatower ___ */
+There is no Mana Silo. Allies will likely run out of mana and be unable to contribute.
+
+
+/* ___ Smnc_confirm_reset ___ */
+Reset everything?
+
+&&Smnc_omakase Auto-build
+
+/* ___ Smnc_confirm_omakase ___ */
+Do you want the system to build a basic defense for you?
+
+&&Smnc_omakase_execute Yes, please
+
+
+&&UiSmnCreator_smnc_signpole Sign pole
+/* ___ smnc_desc_signpole ___ */
+Used to deploy cadets at any arbitrary location without a post. Does nothing on its own. Indestructible.
+
+
+&&UiSmnCreator_smnc_eyescope Telescope
+/* ___ smnc_desc_eyescope ___ */
+Used to survey the land and get info on the upcoming battle. Indestructible.
+
+
+&&Smnc_ui_enemy_only_attr Monster species and quantity cannot be changed.
+
+&&Smnc_title_enemy_attr_addition Attribute to add:
+
+
+/* ___ Smnc_alert_no_gravity  ___ */
+Tigrina has no Gravity Bombs.
+That could be a problem.
+
+&&Smnc_restore_items Restore items afterwards
+
+
+// ========================================================
+// MARK : 0.29
+// ========================================================
+
+&&UiSmnCreator_smnc_enemylift Shadow Platform
+
+/* ___ Smnc_stgo_smnc_enemylift ___ */
+Only enemies can stand on it.
+
+&&Smnc_stageedit_cc_guest Add guests
+&&Smnc_cc_colvari Color:
+&&Smnc_cc_KD_switch_list_mode Switch to list edit mode
+&&Smnc_cc_KD_switch_guest_mode Switch to add guests mode
+
+&&Smnc_cc_KD_swap Invert movement
+
+&&Smnc_cc_name_woman_elf_student_1 Kana
+&&Smnc_cc_name_woman_elf_student_oneesan Elisha
+&&Smnc_cc_name_woman_elf_thin_student Byra
+&&Smnc_cc_name_woman_elf_student_black Cherise
+&&Smnc_cc_name_woman_elf_student_8 Misty
+&&Smnc_cc_name_woman_elf_oneesan_student Mira
+&&Smnc_cc_name_woman_elf_thin_student_1 Alexis
+&&Smnc_cc_name_woman_elf_thin_student_9 Sofie
+&&Smnc_cc_name_woman_elf_thin_student_sister_0 Lucia
+&&Smnc_cc_name_woman_elf_thin_student_sister_1 Veronica
+&&Smnc_cc_name_woman_elf_student_6 Naomi
+&&Smnc_cc_name_woman_elf_student_9 Iris
+&&Smnc_cc_name_woman_elf_thin_student_sister_2 Carrie
+&&Smnc_cc_name_woman_elf_student_10 Faye
+&&Smnc_cc_name_woman_elf_thin_student_sister_3 Tiana
+
+/* ___ Smnc_alert_no_cc_generator ___ */ 
+No guest starting position set. Guests will start at Noel’s starting position.
+
+&&UiSmnCreator_smnc_generate_cc Guest start pos.
+
+/* ___ smnc_desc_generate_cc ___ */
+Guests will start from the indicated position. If multiple positions are indicated, they will be placed sequentially in the order they were added.
+
+&&Smnc_ui_enemy_position Enemy start pos.:
+
+&&Smnc_ui_enemy_position_all Random
+&&Smnc_ui_seed_previous Previous seed: &1
+
+&&UiSmnCreator_cc_attack_ratio Guest attack freq.

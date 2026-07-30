@@ -1,0 +1,528 @@
+%FAMILY zh-cn
+&&Smnc_title_enemy 将出现的敌人：
+
+
+&&Smnc_ui_files_create +新建配置
+&&Smnc_ui_file 模拟战配置 &1
+
+&&Smnc_title_makenew_object 要放置什么物品呢？
+
+&&Smnc_ui_enemy_appear 战斗中此敌人的数量上限： &1
+&&Smnc_ui_enemy_appear_whole  战斗中所有敌人的数量上限：&1
+&&Smnc_ui_enemy_appear_infinity ∞
+
+&&Smnc_ui_enemy_row &1 （MP &2 ~ &3%）：&4只
+&&Smnc_ui_enemy_mp_min_ratio 魔力下限：&1%
+&&Smnc_ui_enemy_mp_max_ratio 魔力上限： &1%
+&&Smnc_ui_enemy_total 将出现的敌人总数：
+&&Smnc_ui_enemy_count &1
+&&Smnc_ui_enemy_total_sum （总计：&1）
+
+&&Smnc_ui_enemy_edit_kind 种类
+&&Smnc_ui_enemy_edit_attr 属性
+
+&&Smnc_KD_filesel <key add/>复制 <key rem/>删除 <key submit/>编辑
+&&Smnc_KD_submit <key submit/>确认
+&&Smnc_KD_put_end <key submit/>放置完成
+&&Smnc_KD_put_continue <key add/>连续放置相同物品
+
+
+&&Smnc_start_battle_submit 战斗开始！
+
+&&Smnc_KD_stageedit_move <key la/><key ba/><key ta/><key ra/>移动
+&&Smnc_KD_stageedit_move_flip <key sort/>左右翻转
+
+&&Smnc_stageedit_move <key submit/>重新放置
+&&Smnc_stageedit_add <key add/>新增地图设施
+&&Smnc_stageedit_rem 删除
+&&Smnc_stageedit_plant 配置魔力植物
+&&Smnc_KD_enemyedit_garage <key sort/>配置敌人
+&&Smnc_KD_start_battle_garage <key menu/>进行模拟战斗
+
+&&Smnc_start_battle_randomize_nattr 危险度上升自动给予属性
+&&Smnc_start_battle_seed 使用随机种子\n（0为不使用）
+
+
+/* ___ Smnc_alert_no_plants ___ */
+未配置魔力植物。
+/* ___ Smnc_alert_no_enemypos ___ */
+未配置怪物刷新点，敌人将会出现在随机位置。
+
+/* ___ Smnc_alert_invalid_start ___ */
+诺艾儿的起始站立点被障碍物遮挡。
+
+/* ___ Smnc_alert_no_enemy ___ */
+您尚未配置任何敌人，请按下<key sort/>配置敌人信息。
+
+&&Smnc_KD_plant_0 放置/移除魔力植物
+&&Smnc_KD_plant_1 放置
+&&Smnc_KD_plant_2 <key rem/>移除
+
+
+&&Smnc_confirm_fileremove 是否要删除配置 &1 ？
+&&Smnc_confirm_fileremove_btn 确认删除
+
+&&UiSmnCreator_smnc_generate_pr 诺艾儿起始站立点
+&&UiSmnCreator_smnc_generate_en 怪物刷新点
+&&UiSmnCreator_smnc_generate_en_fix 怪物刷新点（位置固定）
+
+&&UiSmnCreator_smnc_cliff_00 障碍块（4x4）
+&&UiSmnCreator_smnc_cliff_01 障碍块（2x2）
+&&UiSmnCreator_smnc_cliff_02 障碍块（4x8）
+&&UiSmnCreator_smnc_smallbar_00 障碍块（4x1）
+&&UiSmnCreator_smnc_smallbar_01 障碍块（1x4）
+&&UiSmnCreator_smnc_smallbar_02 障碍块（8x1）
+&&UiSmnCreator_smnc_lift_4 悬空跳板（4x1）
+&&UiSmnCreator_smnc_stair_00 台阶（高度3）
+&&UiSmnCreator_smnc_stair_01 台阶（高度4）
+
+
+&&UiSmnCreator_smnc_spike_00 尖刺（4x1）
+&&UiSmnCreator_smnc_spike_01 尖刺（8x1）
+&&UiSmnCreator_smnc_spike_02 尖刺（1x4）
+&&UiSmnCreator_smnc_spike_03 尖刺（1x8）
+
+&&UiSmnCreator_smnc_icefloor_4 冰面（4x1）
+&&UiSmnCreator_smnc_icefloor_8 冰面（8x1）
+
+
+&&UiSmnCreator_smnc_thundertrap_b 电击陷阱（向下）
+&&UiSmnCreator_smnc_thundertrap_r 电击陷阱（横置）
+&&UiSmnCreator_smnc_thundertrap_t 电击陷阱（向上）
+
+
+&&Status_Tab_current_battle 战斗点 - &1
+&&Status_Tab_drop_change 掉落率：&1 %
+
+&&Status_Tab_smnc_abort 终止模拟战斗
+&&Status_Tab_dangerousness_till_sunset 距离日落还有：
+&&Status_Tab_dangerousness_till_sunrise 距离日出还有：
+&&Status_Tab_enemy_rest 剩余的敌人：
+
+&&Status_Tab_battlearea 危险度/战斗
+
+
+&&KD_check_unlock_how <key submit/>查看解锁条件
+
+&&Smnc_ui_enemy_kind_unlock_how 解锁 &1 的条件：
+&&Smnc_ui_enemy_kind_unlock_count 在实战中击败此敌&1次
+&&Smnc_ui_enemy_kind_unlock_count_rest （剩余&1次）
+&&Smnc_ui_enemy_kind_unlock_item 或者收集此物品以供分析：
+/* ___ Smnc_ui_enemy_kind_unlock_count_auto ___ */
+条件达成，
+您现在可以在模拟战斗中
+召唤相应的敌人了！
+
+&&Smnc_save_file 保存配置
+&&Smnc_load_file 读取配置
+
+
+
+//狐を氷属性で出すことはできない、などのアラート表示です
+
+/* ___ Smnc_alert_wrong_attr ___ */
+您所选择的属性与部分敌人互斥，因此可能不会出现对应属性。
+
+
+// ========================================================
+// MARK : 0.28
+// ========================================================
+
+/* ___ Smnc_stgo_desc_generate_en ___ */
+怪物出现的位置。
+在模拟战中配置了大量怪物时，\b它们出现时可能会略微发生\b位置偏移以防过度重叠。
+
+
+/* ___ Smnc_stgo_desc_generate_en_fix ___ */
+怪物出现的位置。
+不论模拟战中配置了多少怪物，\b从这里出现的怪物都会严格出现在这一位置。
+
+
+/* ___ Smnc_stgo_desc_block ___ */
+坚不可摧的障碍块。\b可充当地面、墙壁、天花板，\b也可自行发掘其他用途。
+
+/* ___ Smnc_stgo_desc_lift ___ */
+平平无奇的跳板，\b可以跳上去并站立。
+/* ___ Smnc_stgo_desc_stair ___ */
+楼梯。
+
+/* ___ Smnc_stgo_desc_spike ___ */
+布满尖刺的障碍块。
+虽然只是全息影像，\b碰到还是会很痛，还会划破衣服。
+
+
+/* ___ Smnc_stgo_desc_ice ___ */
+滑溜溜的冰面。
+在上面要跑起来或是停下来\b都挺不容易的。
+
+
+/* ___ Smnc_stgo_desc_thundertrap ___ */
+电流激光发射器，\b发射出的激光会径直照射到墙上为止。
+
+
+&&Smnc_KD_enemy_info 了解详情
+&&Smnc_KD_enemy_how_to_unlock 查看解锁条件
+
+// ========================================================
+// MARK : tower defence
+// ========================================================
+
+
+&&Smnc_KD_start_battle_td <key menu/>迎战
+
+
+
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+所选文件类型错误。
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+所选文件类型错误。
+
+&&Smnc_stageedit_caster_add 部署人员
+&&Smnc_stageedit_caster  部署/撤去人员
+
+
+&&UiSmnCreator_smnc_manatower 魔力塔
+/* ___ smnc_desc_manatower ___ */
+内部蓄积着魔力的储藏塔。\b诺艾儿能通过\b敲击塔身来回收魔力，\b其他同伴魔力不足时\b也会前来恢复魔力。\b不会被摧毁，\b但魔力储藏量存在上限，此外\b被敌人攻击时会向四周\b散落出红色魔力。
+
+
+&&UiSmnCreator_smnc_barricade_spike 尖刺拒马
+/* ___ smnc_desc_barricade_spike ___ */
+简易的木质路障。\b触碰到它的敌人会受到伤害，\b但不会影响自己与友方人员穿行。\b想在战斗中争取少许时间的话，或许可以一用。
+
+&&UiSmnCreator_smnc_barricade_wood_wall 木制屏障
+/* ___ smnc_desc_barricade_wood_wall ___ */
+自己与友方人员可以\b自由穿行，\b但发射的魔法会被挡住。\b虽然考虑到需要从它背后发射纯白之箭，\b高度设计得较低，但在面对\b敌方魔法与属性攻击时，\b却出人意料地能展示出结实的一面。
+
+&&UiSmnCreator_smnc_barricade_offensive_wall 阻遏性主动屏障
+/* ___ smnc_desc_barricade_offensive_wall ___ */
+展开魔力结界，\b将敌方阻挡在外的强力屏障。\b不会阻挡自己与友方人员发射的魔力，\b因此在易用性上同样值得称道。
+
+&&UiSmnCreator_smnc_watchtower 瞭望塔台
+/* ___ smnc_desc_watchtower ___ */
+高度稍高的瞭望塔台。
+大部分地面敌人不会瞄准\b塔台上包括自己在内的人员\b发动攻击。\b若作为第一道防线部署在阵线之外，\b虽然能够对敌人产生有效杀伤，\b但如果其上的友方人员被击倒，\b则会难以救助。\b如果希望为塔台部署人员，\b只需将人员放置于塔台上即可。\b（最多3人）
+
+&&UiSmnCreator_smnc_finalwall 贝尔米特校舍
+
+/* ___ smnc_desc_finalwall ___ */
+最后的堡垒。无法移动位置。\b若此处被摧毁，\b将会强制迎来\b游戏结束。
+
+
+&&UiSmnCreator_smnc_healtent 战地医疗帐篷
+
+/* ___ smnc_desc_healtent ___ */
+为战斗中倒下的友方人员\b提供治疗的帐篷。\b预先在这里\b部署更多人员，\b在前线倒下的友方人员就能\b更及时地得到救助。
+
+&&UiSmnCreator_smnc_td_cannon <img mesh="IconTigrina"/>固定炮台
+
+/* ___ smnc_desc_td_cannon ___ */
+以蒂格蕾娜为首的\b长距离狙击人员所搭乘的炮台。\b按下<key submit/>可以更改大炮所使用的炮弹。\b若希望部署额外人员，\b请直接将人员放置于蒂格蕾娜身边\b（可以缩短炮弹的发射间隔）。
+
+
+
+/* ___ smnc_alert_td_notice ___ */
+保卫战即将开始。
+诺艾儿同学，诸位士官候补生，
+祝各位平安。
+
+/* ___ Smnc_alert_td_no_caster ___ */
+<font size="16">尚未部署人员。
+接下来将由诺艾儿单枪匹马上阵，
+本场战斗将会极其艰难。
+是否下达最终确认？
+
+
+&&Alert_gameover_td 保卫战失败了…
+
+
+&&Smnc_td_show_rule 详情介绍
+
+&&Smnc_td_rule_title0 概览
+
+/* ___ Smnc_td_rule0 ___ */
+为了将从山脉方向大举入侵的魔族挡在城镇之外，
+请打造一道坚固的防线，歼灭魔族大军，击退它们的进攻吧 ！
+敌人预计将会分成三波来袭。
+
+若魔族推进到地图的左端，
+并突破了最后防线，那么保卫战就失败了。
+
+
+&&Smnc_td_rule_title1 基本部署
+/* ___ Smnc_td_rule1 ___ */
+首先当然是部署足够的障壁作为防御工事。
+但工事的建造并非多多益善，
+一方面，建设的费用不能超过军方提供的预算。
+
+另一方面，障壁建造过密的话
+会导致工事之间的间隔过于局促，
+从而减少部署人员的空间，导致防卫力量分散。
+因此一般而言，屏障墙之间间隔3~4格为宜。
+
+
+&&Smnc_td_rule_title2 火力掩护.1
+
+/* ___ Smnc_td_rule2 ___ */
+蒂格蕾娜会在学园宿舍屋顶的炮台处
+为战场提供火力支援。
+
+炮台的弹药也是有限的，
+和防御工事一样受到军方预算的限制。
+不妨将工事建设剩余的资金抽出一部分\b用于购置炮弹吧。
+
+
+&&Smnc_td_rule_title3  火力支援.2
+
+/* ___ Smnc_td_rule3 ___ */
+蒂格蕾娜会从4种炮弹中
+选择最适合当前战况的进行使用。
+
+炮火不分敌我，因此当诺艾儿
+冲出防线外、与魔族缠斗在一起的时候，
+就有被卷入炮火受伤的风险，
+蒂格蕾娜也更难进行瞄准。
+
+
+
+&&Smnc_td_rule_title4 人员部署
+/* ___ Smnc_td_rule4 ___ */
+战场上可以部署若干友方人员，
+与诺艾儿一同参加保卫战（上限为&1人）。
+
+根据其各自的部署位置，
+他们将自动被分配为步兵、
+医疗兵或是炮兵。
+
+&&Smnc_td_rule_title5 步兵.1
+/* ___ Smnc_td_rule5 ___ */
+部署在防线工事附近，或是<rb c="瞭望塔台">高处</rb>的人员
+将会自动以步兵身份参战。
+
+守卫障壁的步兵，会使用纯白之箭
+或是聚能火球来击退敌人。
+（瞭望台上的步兵则会优先使用聚能火球。）
+
+
+&&Smnc_td_rule_title6 步兵.2
+/* ___ Smnc_td_rule6 ___ */
+
+障壁被摧毁时，其后的步兵将会自行将战线后撤，
+退到身后的障壁背面继续发起攻击。
+
+若魔力不足，战斗自然无从谈起，
+因此在防线内部建造魔力塔能够
+有效巩固防线。
+
+&&Smnc_td_rule_title7 炮兵
+/* ___ Smnc_td_rule7 ___ */
+部署在宿舍楼顶，位于蒂格蕾娜附近的人员
+将自动以炮兵身份参战。
+
+炮兵不会直接踏入战场，
+但部署的炮兵人数越多，蒂格蕾娜的大炮
+就能获得越快的射速。
+（超过一定人数以后射速提升的效率将会下降）
+
+&&Smnc_td_rule_title8 医疗兵
+/* ___ Smnc_td_rule8 ___ */
+部署在战地医疗帐篷附近的人员将会自动以医疗兵身份参战，
+其头像旁会出现紫色图标以作标识。
+友方人员在战斗中倒下时，医疗兵会赶往伤员身边，
+将其运往医疗帐篷。
+
+考虑到搬运担架的需求，一般在部署医疗兵时
+都会采取两人一组的形式。
+
+&&Smnc_td_rule_title9 医疗帐篷
+/* ___ Smnc_td_rule9 ___ */
+友方人员负伤后需要送到战地医疗帐篷中，
+在片刻救治后就能康复并回到战场。
+
+建设好战地医疗帐篷后，普莉姆拉会到场。
+当普莉姆拉在医疗帐篷中进行治疗时，
+将会有一名友方的康复速度得到提升。
+
+&&Smnc_td_rule_title10 医疗帐篷
+/* ___ Smnc_td_rule10 ___ */
+就算诺艾儿被击倒，只要仍在防线以内，
+医疗兵就能及时赶来救治。
+不要被伤痛打败，
+为了保卫城镇坚守到最后一刻吧！
+
+&&Smnc_td_rule_title11 危险品禁令
+/* ___ Smnc_td_rule11 ___ */
+出于安全起见，在保卫战中
+禁止使用榴弹类投掷武器。
+
+/* ___ Smnc_td_rule11_2 ___ */
+在此回想中，可以随意使用道具，
+战斗结束后将会自动重置消耗掉的物品。
+请尽情利用各类道具，包括炸弹等在内，
+将魔族们打得体无完肤吧！
+
+// ========================================================
+// MARK : キャノン砲
+// ========================================================
+
+
+&&Smnc_td_cannon_type_0 爆破弹
+&&Smnc_td_cannon_type_1 震波弹
+&&Smnc_td_cannon_type_2 榴弹
+&&Smnc_td_cannon_type_3 魔力榴弹
+&&Smnc_td_cannon_type_4 引力炸弹
+
+
+
+/* ___ Smnc_td_cannon_type_0_desc ___ */
+能够产生与聚能火球相同的\b爆炸气浪。\b威力还算勉勉强强，但其击退效果\b和诺艾儿咏唱的聚能火球相比\b稍逊一筹。\b不会误伤友军，因此便于迅速射击，面对各种情况都能发挥效果。
+
+/* ___ Smnc_td_cannon_type_1_desc ___ */
+能够产生沿地面传播扩散的\b冲击波。\b击退效果十分优秀，面对地面上体重较轻的敌人能够有效打乱其阵型。
+
+
+/* ___ Smnc_td_cannon_type_2_desc ___ */
+能够产生火属性的爆炸气浪。
+爆炸产生的杀伤不分敌我，\b因此会优先瞄准远处敌人发射。
+
+/* ___ Smnc_td_cannon_type_3_desc ___ */
+爆炸产生的气浪能够从敌方身上吸取魔力。
+气浪会在原地持续存在一段时间，\b不断吸收范围内所有敌人的魔力。
+效果强力，但装填所需时间更长。
+
+
+/* ___ Smnc_td_cannon_type_4_desc ___ */
+一种特殊炮弹，仅会瞄准保卫战第3阶段出现的\b蜂巢型魔族进行发射。\b能够生成引力场，将小型敌人及悬浮型敌人\b吸到中间，破坏其姿态平衡\b使之无法行动。
+
+
+
+&&Smnc_KD_count_switch <key la/><key ra/>增减炮弹数
+
+&&Smnc_cannon_bullet_edit <img mesh="IconTigrina" width=40/>修改炮弹
+&&Smnc_cannon_per_cost &1 /个
+
+/* ___ Smnc_td_assigned_cc ___ */
+步兵： &1人 (其中瞭望塔台上&2人) / 医疗兵： &3人 / 炮兵： &4
+
+
+/* ___ Smnc_alert_no_wall ___ */
+仍未部署障壁。以该状态开始防卫战将极其危险。
+
+/* ___ Smnc_alert_no_cannon_bullet ___ */
+仍未准备大炮所用炮弹。
+
+/* ___ Smnc_alert_no_healer_in_tent  ___ */
+仍未部署医疗兵，战地医疗帐篷将无法发挥作用。
+/* ___ Smnc_alert_healer_is_solo  ___ */
+医疗兵仅有1人，此状况下将难以使用担架搬运伤员。
+/* ___ Smnc_alert_no_manatower ___ */
+仍未部署魔力塔。随战斗进行，将出现友方人员陷入魔力不足的风险。
+
+
+
+/* ___ Smnc_confirm_reset ___ */
+将会初始化目前部署的所有建筑物与人员。
+是否继续？
+
+&&Smnc_omakase 自动部署
+
+/* ___ Smnc_confirm_omakase ___ */
+将会初始化目前部署的所有建筑物与人员，
+并替换为自动部署的预设方案。
+是否继续？
+
+&&Smnc_omakase_execute 执行自动部署
+
+
+
+
+&&UiSmnCreator_smnc_signpole 警示牌
+/* ___ smnc_desc_signpole ___ */
+不会被摧毁，
+但也无法阻止敌人进犯。
+用途仅限于指示步兵，以将其部署在
+场地上指定的任意位置。
+只在场上放置警示牌就\b鲁莽打响保卫战，
+或许和自杀行为\b没什么区别吧。
+
+
+&&UiSmnCreator_smnc_eyescope 望远镜
+/* ___ smnc_desc_eyescope ___ */
+可以环视四周的望远镜。
+不会被摧毁。
+用于观察整体战况。
+
+
+&&Smnc_ui_enemy_only_attr 进行保卫战时，无法修改敌人数量及种类。
+
+&&Smnc_title_enemy_attr_addition 额外附加属性：
+
+
+
+
+
+/* ___ Smnc_alert_no_gravity  ___ */
+炮弹备选中未包含引力炸弹。
+
+&&Smnc_restore_items 战斗结束后使用的物品将复原
+
+// ========================================================
+// MARK : 0.29
+// ========================================================
+
+
+
+&&UiSmnCreator_smnc_enemylift 魔族专用跳板
+
+/* ___ Smnc_stgo_smnc_enemylift ___ */
+仅敌人可以站立在此跳板平台区域上。
+
+
+&&Smnc_stageedit_cc_guest 新增部署队友
+&&Smnc_cc_colvari 着色：
+&&Smnc_cc_KD_switch_list_mode 名单编辑模式
+&&Smnc_cc_KD_switch_guest_mode 队友部署模式
+
+&&Smnc_cc_KD_swap 上下移动
+
+
+
+&&Smnc_cc_name_woman_elf_student_1 香音
+&&Smnc_cc_name_woman_elf_student_oneesan 艾丽希娅
+&&Smnc_cc_name_woman_elf_thin_student 薇菈
+&&Smnc_cc_name_woman_elf_student_black 雪莉
+&&Smnc_cc_name_woman_elf_student_8 乔叶
+&&Smnc_cc_name_woman_elf_oneesan_student 米菈
+&&Smnc_cc_name_woman_elf_thin_student_1 聂丽娅
+&&Smnc_cc_name_woman_elf_thin_student_9 索菲
+&&Smnc_cc_name_woman_elf_thin_student_sister_0 璐缇雅
+&&Smnc_cc_name_woman_elf_thin_student_sister_1 维洛妮卡
+&&Smnc_cc_name_woman_elf_student_6 薇兰
+&&Smnc_cc_name_woman_elf_student_9 伊莉丝
+&&Smnc_cc_name_woman_elf_thin_student_sister_2 托莉
+&&Smnc_cc_name_woman_elf_student_10 法伊
+&&Smnc_cc_name_woman_elf_thin_student_sister_3 蒂亚娜
+
+
+
+/* ___ Smnc_alert_no_cc_generator ___ */
+未设置队友的部署位置，所有队友将会默认部署在诺艾儿的位置。
+
+
+&&UiSmnCreator_smnc_generate_cc 队友部署位置
+
+/* ___ smnc_desc_generate_cc ___ */
+队友将被部署在此处参与战斗。
+部署多人时，将会按照队友部署界面所设置的
+顺序依次进行位置分配。
+
+&&Smnc_ui_enemy_position 敌人的出现位置：
+
+&&Smnc_ui_enemy_position_all 随机
+&&Smnc_ui_seed_previous 前一次的随机种子: &1
+
+&&UiSmnCreator_cc_attack_ratio 队友整体攻击频率

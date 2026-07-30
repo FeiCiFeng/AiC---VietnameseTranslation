@@ -1,0 +1,122 @@
+%FAMILY en
+
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================
+
+&&SerTitle_poison    毒
+/* ___ SerDesc_poison ___ */ 
+HPが少しずつ減少しますが、
+この状態異常だけで戦闘不能にはなりません。
+ノーマル以下の難易度でのHP自動回復速度が減少するほか、
+料理で得られる特殊効果が半減します。
+
+
+
+&&SerTitle_poison_2    猛毒
+/* ___ SerDesc_poison_2 ___ */ 
+この状態は自然治癒せず、
+またベンチに座っても回復しません。
+
+
+&&SerTitle_fainted    気絶
+&&SerDesc_fainted    意識を一時的に失った状態。\n行動不能になります。
+
+
+
+&&corrupt_fear 恐怖で身体が竦み、力が入らない...
+
+
+ 
+&&SerTitle_sexercise_fear   弱気
+&&SerDesc_sexercise_fear  恐怖値が上がりやすくなります。\nMPゲージのヒビ割れがわずかに防がれます。
+
+&&SerTitle_shamed_ep_fear   戦慄
+&&SerDesc_shamed_ep_fear    <font color="#FF729F">【恐怖値50%以上】</font>\n恐怖によって集中できない状態。\n敵との接触の時に転倒しにくくなるが、\n被ダメージで詠唱中の魔力が散りやすくなります。
+
+
+&&SerTitle_orgasm_after_fear    戦意喪失
+&&SerDesc_orgasm_after_fear 恐怖によって行動を制限された状態。\n走行ができなくなり、移動速度が落ちます。\nMPゲージのヒビ割れが防がれます。\n魔力の回復効率が低下します。
+
+
+// ========================================================
+// MARK : 恐怖処理
+// ========================================================
+
+&&Submit_cure_fear 恐怖を鎮める
+&&Bench_Cmd_cure_fear_home 恐怖を鎮める(拠点)
+&&Alert_cannot_cure_fear そろそろ、先に進まないと。
+&&Alert_cure_fear 恐怖心が少し回復した。
+&&Alert_cure_fear_little 腹ぺこのせいで、回復に集中できなかった…
+/* ___ WarpConfirm_cure_fear ___ */
+恐怖によって削られた魔力最大値を回復する代わりに、
+食べたものが少し消化されます。
+（連続で恐怖を鎮めることはできません）
+
+/* ___ WarpConfirm_cure_fear_alert ___ */
+お腹がすきすぎているため、うまく回復できません。
+
+&&Catalog_categ_sub_reduce_ep_fear 恐怖値減少
+&&Catalog_categ_sub_cure_ep_fear 恐怖値回復
+
+&&Item_detail_cure_ep_fear 恐怖値 &1 回復
+&&Item_detail_dmg_ep_fear <font color="#864788">恐怖値 &1 上昇</font>
+
+
+&&Tuto_shotgun <key x/>魔術詠唱中<key z/>でショットガン
+
+
+
+&&SkillItem_Map_Treasure_title &1のお宝のメモ
+&&SkillItem_Map_Treasure_desc &1にある宝箱の位置を\bランダムで1つ\bマップ上に表示する。
+
+&&SerTitle_atk_up   攻撃力上昇
+&&SerDesc_atk_up   攻撃力が&1%上昇します。
+&&SerTitle_def_up   防御力上昇
+&&SerDesc_def_up   防御力が&1%上昇します。
+&&SerTitle_atk_down   攻撃力減少
+&&SerDesc_atk_down   攻撃力が&1%減少します。
+&&SerTitle_def_down   防御力減少
+&&SerDesc_def_down   防御力が&1%減少します。
+
+
+&&Stat_ep_fear 恐怖値 &1 / &2
+
+
+// ========================================================
+// MARK : ver029 宿屋
+// ========================================================
+&&EvTitle_inn_caravan 宿屋「クロの巣」 
+// もちろん Chronos のもじりです。クロというNPCが登場するわけではないので、翻訳の際は Chronos 側に寄せて下さい。
+&&EvTitle_inn_city 宿屋「狩人の寝屋」
+&&UiInn_nmenu_simple_tent テント泊
+&&UiInn_nmenu_simple 素泊まり
+&&UiInn_nmenu_economy エコノミールーム
+&&UiInn_nmenu_sweet スイートルーム
+&&UiInn_nmenu_royalsweet ロイヤルスイート
+&&Select_CheckIn_Tent チェックイン
+
+&&UiInn_dangerousness_add 危険度 &1 上昇
+&&UiInn_dangerousness_rem 危険度 &1 減少
+&&UiInn_dangerousness_reset 危険度と効果リールを初期化\n今回の冒険の戦闘履歴を初期化
+&&UiInn_stomach_progress 満腹度 <img mesh="recipe_cost_3" width="24"/>&1 減少
+
+
+&&UiInn_content 宿泊プラン内容
+&&UiInn_content_hp 体力全回復
+&&UiInn_content_mp 魔力全回復
+&&UiInn_content_ser 状態異常を全回復
+&&UiInn_content_mp_fear 恐怖による魔力最大値減少をリセット
+&&UiInn_content_mp_gauge_weak 魔力器のヒビ割れを仮接着
+&&UiInn_content_mp_gauge 魔力器のヒビ割れを完全回復
+
+&&UiInn_content_offprice_food フードメニュー &1％割引券付き (&2品まで)
+&&UiInn_content_ticket_food フードメニュー &1品まで
+&&UiInn_check_foodmenu フードメニューを確認
+
+
+&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">\< 注文できるのは宿泊したお客さんだけみたい。 \></font>
+
+&&UiInn_service_discount フード &1％割引券 x&2
+

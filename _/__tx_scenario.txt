@@ -1,0 +1,239 @@
+%FAMILY _
+
+// ========================================================
+// MARK : PURPOSE
+// ========================================================
+
+&&Svd_phase_0 プロローグ
+&&Svd_phase_1 目覚めし眠り姫
+&&Svd_phase_2 幽霊
+&&Svd_phase_3 テセウスの舟
+&&Svd_phase_4 ふしぎな世界
+&&Svd_phase_5 アリス・イン・クレイドル
+&&Svd_phase_6 エピローグ - 星
+
+&&scenario_desc_pvv_0000 壊せそうな壁の奥を探索する
+&&scenario_desc_pvv_0001__1 家に帰る
+&&scenario_desc_pvv_0002 プリムラ先生の授業を受ける
+&&scenario_desc_pvv_0100 家族やお客さんとお話する
+&&scenario_desc_pvv_0101 イクシャさんを探しに行く
+&&scenario_desc_pvv_0102 街へ向かう
+&&scenario_desc_pvv_0103 獣人さんのお手伝いをする
+&&scenario_desc_pvv_0104__3 イクシャさんを助けるため大型と闘う
+
+&&scenario_wip (制作中)
+
+
+// ========================================================
+// MARK : ver0.23 added
+// ========================================================
+
+// ↑ の scenario_desc_*** も一部わずかに変更があります。ご確認下さい (hinayua_r18)
+
+// ========================================================
+// MARK : Quest
+// ========================================================
+
+&&quest__p999_trial_finished 今回のシナリオはここまでです。\n次のアップデートをお待ち下さい。
+
+&&quest_completed クエスト達成！
+&&quest_position_notice 目的地を確認 <key a/>
+&&quest_position_updated 目的地更新 <key a/>
+&&quest_position_arrived 目的地に到着
+
+&&button_quest_reveal_on_map 目的地を確認 
+&&button_quest_jump クエスト一覧で確認
+
+&&scenario_desc_pvv_0001__0 姉様に頼まれた素材の回収
+
+&&scenario_desc_pvv_0103__1 沼に落ちた爆弾を探す
+&&scenario_desc_pvv_0103__3 獣人さんの様子を確認する
+
+&&scenario_desc_pvv_0104__0 イクシャさんを探す
+&&scenario_desc_pvv_0104__2 イクシャさんの落とし物を探す
+
+&&quest_selecting_multi &1 など &2 個のクエスト
+
+
+&&Scenario_Tab_main_quest メインクエスト
+&&Scenario_Tab_sub_quest サブクエスト
+
+&&quest_sort_newer ソート:作成日時順
+&&quest_sort_latest_update ソート:更新日時順
+
+
+// ========================================================
+// MARK : sub quest
+// ========================================================
+
+
+&&subquest_v022_check_alchemyst_labo 姉様のアトリエを確認する
+
+
+// ========================================================
+// MARK : TheRoom
+// ========================================================
+
+&&Trm_first_play はじめての休憩室
+
+
+// ========================================================
+// MARK : ver 0.23d
+// ========================================================
+
+&&quest_position_near_arrived 目的地に接近
+
+
+// ========================================================1
+// MARK : 231004 アルバム
+// ========================================================
+
+&&Album_Tab_Fatal フェイタルシーン
+&&Album_Tab_Picture スチル
+&&Album_Tab_Memory 思い出
+
+
+&&Album_Memory_005_ixia_a イクシャさんのお見舞い
+&&Album_Memory_005_ixia_b イクシャさんのお見舞い (敗北時)
+&&Album_Memory_010_primula プリムラ先生と\nシャスタお婆様
+&&Album_Memory_011_primula 星空の昔話
+&&Album_Memory_102_alma アルマと駅での会話
+&&Album_Memory_104_mepha エルフの里の派遣隊
+
+// ========================================================
+// MARK : ver0.25 quest
+// ========================================================
+&&scenario_desc_pvv_0105_grazia__0 ベルミット士官校に向かう
+&&scenario_desc_pvv_0105_grazia__1 学園の医務室に向かう
+&&scenario_desc_pvv_0105_grazia__2 西1-2教室に向かう
+
+
+&&quest__subquest_treasurehunt_000 写真の場所を探す (紡ぐ者の森)
+
+
+
+// ========================================================
+// MARK : 240728 アルバム実装
+// ========================================================
+
+// 240729 hinayua: ↑の 231004 実装部分がわずかに修正されています。
+
+&&EV_access_album アルバム
+&&Album_Memory_009_primula_a アリス・イン・ワンダーランド
+&&Album_Memory_009_primula_b アリス・イン・ワンダーランド (敗北時)
+&&Album_Memory_100_restroom 廊下のスニーキングミッション
+&&Album_Memory_105_2weekattack ベルミット襲撃事件
+&&Album_Memory_105_classroom あなたのようになりたい
+&&Album_Memory_cuts_nightingale_0_0 商人さんの秘密の仕入れ業
+
+&&Album_Play_Memory 再生する
+&&Album_visible_term 解放条件: &1
+&&Album_visible_term_episode_1 プロローグをクリア
+&&Album_visible_term_100_restroom プロローグをクリア後に家でシャワーを浴びる
+&&Album_visible_term_103 イクシャを土竜から救出
+&&Album_visible_term_102_alma アルマと襲撃事件の話をする
+&&Album_visible_term_105 グラティアに到着
+&&Album_visible_term_106 アルマとグラティアで授業を受ける
+&&Album_visible_term_105_2weekattack ベルミットの校庭で事件を思い出す
+&&Album_visible_term_105_classroom ベルミットで授業を受ける
+&&Album_visible_term_troom 「魔女の雑貨店」の休憩室でご奉仕を行う
+&&Album_visible_term_cuts_nightingale_0_0 商人さんに頼まれたお遣いをこなす
+
+&&Album_Tab_Osok おしおき
+&&Album_coming_soon Coming Soon...
+
+
+
+&&Fatal_exists_in_this_battle この戦いに負ける訳にはいかない...! 
+/* ___ Album_fatal_hint ___ */
+ヒント: 戦闘開始時に「この戦いに負ける訳にはいかない」という
+アナウンスが表示された場合、敗北時フェイタルシーンに移ります。
+
+
+&&subquest_nightingale_apple__0 魔女の雑貨店で買い物する
+&&subquest_nightingale_apple__1 ナイチンゲールさんに届ける
+
+// 中黒
+&&quest_dot ・ 
+
+
+
+
+// ========================================================
+// MARK : ver0.27
+// ========================================================
+
+&&scenario_desc_pvv_0106_tigrina_armory__0 謎の女子生徒のお手伝いをする
+&&scenario_desc_pvv_0106_tigrina_armory__1 武器庫を探索する
+
+
+// アルバムでのアレ
+
+&&Album_failure_1st 失敗1回目
+&&Album_failure_2nd 失敗2回目
+&&Album_failure_3rd 失敗3回目
+&&Album_visible_term_106_tigrina 武器庫の潜入で兵士に見つかる
+&&Album_Osok_106_sneaking_mistake ステルス失敗(武器庫)
+
+&&Album_Memory_106_tigrina_garage 最新工学ふれあいガレージ
+&&Album_visible_term_106_tigrina_garage 武器庫からメモリーチップを回収
+
+
+&&scenario_desc_pvv_0106_search_scl__1 学園を探索する
+
+&&scenario_desc_pvv_0106_search_scl__0 食堂に行く
+
+// ========================================================
+// MARK : ver0.28
+// ========================================================
+
+
+&&quest__subquest_city_forge_buy__0 杖の使用テストを行う
+
+
+&&scenario_desc_pvv_0107_td__0 ベルミットの防衛作戦を\b指揮する
+
+
+&&scenario_desc_pvv_0107_td_after__0　武器庫の侵入者の\b有無を調べる
+
+&&quest__subquest_city_forge_access__0 スラムの鍛冶屋さんで\n杖の換装について尋ねる
+
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================
+
+&&scenario_desc_pvv_0200_alice__0 幽霊の手がかりを追う
+
+&&scenario_desc_pvv_0200_alice_goback__0 グラティアに帰る
+
+
+
+/* ___ Telop_Trial_end200  ___ */
+TO BE CONTINUED
+
+// 現在はまだ使っていません。
+&&quest__p999_trial_finished_w 体験版内容はここまでです。続きは製品版でお楽しみ下さい。
+
+&&scenario_desc_pvv_0200_alice_mine1__0 第一坑道の入り口を探す
+&&scenario_desc_pvv_0200_alice_mine1__1 坑道のバリアを\b突破する方法を探す
+&&scenario_desc_pvv_0200_alice_mine1__2 第一坑道のバリアを突破する
+&&scenario_desc_pvv_0200_alice_mine1__3 第一坑道にて幽霊の痕跡を探す
+
+
+&&scenario_desc_pvv_0200_elec_facil__0 電力施設に向かう
+&&scenario_desc_pvv_0200_elec_facil__1 電力を復旧する
+&&scenario_desc_pvv_0200_elec_facil__3 脱出の方法を探る
+&&scenario_desc_pvv_0200_elec_facil__4 電力施設から脱出する
+
+
+&&scenario_desc_ooparts03__0 オーパーツ研究の為に\bフィッシュタコスを作る
+&&scenario_desc_ooparts03__1 考古学者に届ける
+&&scenario_desc_ooparts03__2 グラティアの\b優秀な科学者に\b解読された古代装置を\b渡す
+&&scenario_desc_ooparts03__3 古代装置を完成させる
+
+
+&&quest__subquest_treasurehunt_000__5 写真の場所を探す (???)
+&&quest__subquest_treasurehunt_001__5 写真の場所を探す (???)
+
+&&quest__subquest_treasurehunt_001 写真の場所を探す (拓く者の山岳)

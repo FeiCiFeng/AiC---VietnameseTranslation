@@ -1,0 +1,646 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+
+// ========================================================
+// MARK : 酒場で一杯やってる獣人
+// ========================================================
+
+*___city/bar_200_engineer_t00 mb1_1
+<m scary>(Cough, cough)
+*
+The air around here is pretty bad.
+*
+I know we're close to the hole, but still...
+
+*mb1_10
+My current work schedule has me posted in Grazia for a while.
+*
+Maybe I should take some time off...
+I miss the clean mountain air.
+
+
+// ========================================================
+// MARK : ギルドポイントわらしべ
+// ========================================================
+
+// ギルドで余ったポイントについて聞く
+
+*___city_guild/enough_point n_00
+What happens when my Guild Points max out?
+
+*mb_01
+Guild Points are tied to your license.
+*
+Every time you go up a rank, you'll earn rewards.
+*
+They're a symbol of trust between the guild, our adventurers, and our clients.
+
+*n_02
+Y-Yes, I know that...
+What I meant was -
+*
+- what good are excess Guild Points once I've reached level 5?
+
+*mb_03
+<m joy>Oh?
+*
+<m cry>Oho.
+<m0>Okay, I see what you're getting at.
+
+*n_04
+...Are you...going to tell me?
+
+*mb_05
+What would be the point?
+
+*n_06
+Points are the point.
+
+*mb_07
+Mmm<s6>......
+<m fadein><W4><s2>Tee hee.
+
+*n_08
+<think>This is pointless.
+
+//再び話しかける
+
+*n_21
+So, is there a way to make use of excess points?
+
+*mb_22
+...Can you close your eyes for a second?
+
+*n_23
+Um, okay.
+
+*mb_24
+Hey, Barry, you hear anything about that guild member that <c5>sells things in the park in exchange for Guild Points<c0>?
+
+// 同一人物
+*mb_25
+<m cry>Nah, I don't know a-a-anything about 'em!
+
+*mb_26
+Sorry,  Miss Cornehl, looks like there's nothing we can do with your excess points here at the guild.
+
+*n_28
+Oh, okay...
+Thanks anyway.
+
+
+//エセ関西弁の公園のじじい
+// ___city/park_guild_zizi_t00
+
+*___city/park_guild_zizi_t00 mb_00
+What'r you lookin' at?
+
+// ↑の話を聞いていない場合
+*n_01
+Oh, um, nothing. Sorry, sir.
+
+
+// そもそもギルドの会員ではない場合
+*mb_02
+<font color="ff:#A49C9C"><m fadein><s2><small>She ain't no guild member.
+*
+<font color="ff:#A49C9C"><m fadein><s2><small>Could take 'er round back, show 'er a good time...
+Ah, I gotta open up shop soon.
+
+*n_03
+Excuse me?
+
+*mb_04
+Just talkin' business wit' myself. Git lost now.
+
+
+// ギルドの会員だが、↑の話を聞かず自力で見つけた場合
+*mb_05
+Hol' up...you a guild member?
+*
+Wanna do some tradin'?
+
+
+// ↑の話を聞いていた場合
+*n_06
+I heard there was someone here that trades for Guild Points.
+
+*mb_06
+Yeh, that's me. Show me your license.
+
+*n_06_2
+What kind of stuff do you have?
+
+*mb_07
+Useful stuff.
+
+*mb_08
+Nothin' illegal.
+
+*n_09
+<think><m fadein>This is super sketchy. But it couldn't hurt to look.
+
+
+// この時点で掘り出し物がある場合
+*mb_10
+Yer in luck, I got somethin' special in today.
+
+
+// 2度目の来訪
+*___city/park_guild_zizi_t01 mb_11
+Oh, you again.
+
+*mb_12
+I got the good stuff, as usual.
+
+// 2度目の来訪以降、掘り出し物がある場合
+
+*mb_13
+Yer in luck, I dug up somethin' special.
+
+*n_14
+What is it?
+
+
+// ========================================================
+// MARK : オーパーツについてじじいに質問
+// ========================================================
+
+// 購入前
+
+*___city/park_guild_zizi_t_ooparts mb_00
+I dug it up from the depths of the big hole under the city.
+*
+I'm not sure what it is exactly, but there's somethin' magical about it.
+
+*n_01
+<think>It looks like junk to me.
+
+*n_02
+If it's really that special, why are you selling it?
+ 
+*mb_04
+Hah! Direct. I like that.
+
+*mb_05
+But my business is my own. Nothin' fer you to worry about.
+
+*n_06
+...alright.
+
+
+// 購入後
+
+*mb_10
+Heh, thanks. Be careful with it.
+
+
+// 購入した後に再度オーパーツについて質問
+
+*mb_20
+No refunds on that.
+
+*mb_21
+<font color="ff:#A49C9C"><m fadein><s2><small>Can't believe she bought it.
+Call somethin' an OOPArt and the morons can't help themselves.
+
+*mb_22
+<font color="ff:#A49C9C"><m fadein><s2><small>Even beastmen are suckers for 'em.
+Heard there's one up in the mountains doin' research on 'em.
+Suckers.
+
+
+// ========================================================
+// MARK : オーパーツを解読前にティグに見せる
+// ========================================================
+
+
+// 1d: 山の獣人に聞く前にティグリナにオーパーツを渡した場合
+
+*___Tigrina/t_ooparts02 so_00
+Hey, Noel! Here to join the Engineering and Monster Rapport Club!?
+
+*n_01
+No thanks. I have something I want to show you. Apparently it's an OOPArt from under the city.
+
+*so_02
+Oh, really? Lemme see.
+
+*so_03
+<s1>Hmm, interesting.
+*
+<s2>This goes here, this goes to this wire...
+And this is...a mana intake valve? Maybe.
+
+*so_03_2
+<angry><W2><m scary>Aha!!!!
+
+
+*so_04
+<s5><m fadein>......
+
+*so_04_2
+<s1>Soooo...
+This is not an OOPArt per se.
+*
+<s1>You know about the ancient underground civilization, right? We're still digging stuff up from them all the time.
+
+*so_05
+There's still so many tools from that time that we don't know what their purpose is.
+*
+It all has something to do with mana and the invisible forces of attraction between it and the user.
+*
+Modern engineering research is geared towards this to, but it's nothing like what the ancients were doing.
+*
+Their stuff is just on a <MT l="2"><m joy>whole 'nother level<m0>!
+*
+<MT l="2">Why can't I do stuff like that? Compared to them, I'm just a child with a set of building blocks.
+*
+I know my way around beastman tech; I've broken more staves than I can count with my experiments, but -
+*
+- if I were to break an engineering marvel such as this, I'd never forgive myself. It's just a <s5><m joy>bi-i-it<S2> beyond my skills.
+
+*n_05
+So, you can't do anything with it?
+
+*so_06
+It's more like I <m joy>don't want<m0> to do anything with it.
+
+*so_07
+You'll have to find someone who's more familiar with this kind of tech.
+*
+Like an <c5>archaeologist<c0> or somethin'. I bet they dig these things up all the time.
+
+*n_08
+An archaeologist...
+I'll see if I can find one!
+
+*so_09
+Sorry I can't help you any more than that. Let me know what you discover!
+
+
+// プリムラに渡す
+
+*105/health_primula_t_ooparts2 n_01
+Ms. Primula, do you know what this is? I was told it's an OOPArt from under the city.
+
+*p_02
+Hmm, well...it's definitely not beastman tech.
+*
+I might not be able to help you with this. My specialty is medicine and biology.
+
+*n_03
+Oh, right. Sorry for bothering you with this.
+
+*p_04
+I know, why don't you ask around the settlement in the <c5>Fallen Mountains<c0>?
+
+*p_04_2
+The picture book I read to you was dug up around there. There might still be an archaeologist who can help you.
+
+*n_04
+I'll give it a look.
+
+// ========================================================
+// MARK : 山岳の考古学者にオーパーツを渡す
+// ========================================================
+
+// （考古学者の通常の会話のあと。
+*___mountain/_caravan_labo_t_ooparts2 n_00
+<think>They might know something about the OOPArt.
+
+// yes/no
+
+*n_01
+May I show you something?
+
+*mb_02
+What is it?
+
+*mb_03
+Where did you find this?
+
+*n_04
+I bought it from a strange old man in the park.
+
+*mb_05
+That's...worrisome.
+*
+There's no way he dug this up legally. Hope he didn't mess with it.
+
+*mb_06
+Either way, thank you for bringing this to me.
+
+*mb_07
+It's a mana data amplifier. I knew these existed from ancient records discussing them, but I've never seen one before.
+
+*n_08
+It amplifies mana?
+
+*mb_09
+Not quite. It amplifies the information that can be extracted from mana.
+
+*n_10
+What does that mean?
+
+*mb_11
+I'll give you some detailed notes on it.
+*
+This'll take a while. Mind doing me a favor while you wait?
+
+*n_12
+Not at all!
+
+*mb_13
+I'll need some brain food to help get me through this. <c5>And right now I'm craving some <m joy>Fish Tacos!<c0>
+
+*n_14
+Tacos?
+
+*mb_15
+<m ple>Yes! The ones they have at the bar are too greasy.
+*
+<m ple>I want some fresh ones. With eel meat!
+*
+It's been forever since I last had one.
+*
+Make me a <m joy><c5>Fish Taco<c0> with high quality eel meat<img mesh="nel_item_grade.3" tx_color/>and Oil<img mesh="nel_item_grade.3" tx_color/>!
+
+*n_16
+<think>I should've asked what the favor was before agreeing...
+
+
+// 2回目
+*mb_30
+Bring me a <c5>Fish Taco<c0> so I can get started on my research!
+*
+The <c5>eel meat<img mesh="nel_item_grade.3" tx_color/><c0>,
+<c5>and the oil<img mesh="nel_item_grade.3" tx_color/> have to be high quality<c0>!
+
+
+//第一の人に会ってない場合
+
+*n_31
+Where can I even find eels? I've never gone fishing before.
+
+*mb_32
+Psh, what do elves even do all day?
+*
+There's a <c5>stream far below<c0> with high mana concentration.
+*
+'Course I did hear rumors of a ghost sighting down there...
+*
+Ah, that can't be real. And if it is, maybe he can teach you how to fish.
+
+
+// ========================================================
+// MARK : 260115 完成しました。
+// ========================================================
+
+// タコス納品後
+
+*___mountain/_caravan_labo_t_ooparts4 n_60
+Here's your taco!
+
+*mb_61
+Awesome! Let's get fired up!
+
+*mb_62
+<m fadein><s4>Nom, nom...　
+<s1><W4><MT l="-1"><m scary><big>Ooh YEAH!
+
+*mb_63
+<m cry><W2><s5>It's...it's beautiful!
+
+*mb_64
+<I><angry><s3><m ple>The rich, fatty oils! The fluffy white flesh!
+
+*mb_65
+<s3><m ple>It spreads across the palate, leaving a tingling spiciness in its wake!
+<m ple>Like a noble's attendant scattering roses in the footsteps of their master!
+
+*mb_66
+<s4>Ohh, and the tortilla!
+<s2><m ple>Such a simple thing...but perhaps the most important part!
+
+*mb_67
+<m joy>That gentle waft of grains alone is enough to whet my appetite!
+
+
+// 生地の中にノエルジュースまたは毒水を使っている場合
+
+*mb_68
+Although, that spiciness is burning me more than it should...
+*
+You didn't use any <c1>mana-contaminated water<c0> with the dough, did you?
+
+*n_69
+N-No, of course not...
+
+*mb_70
+Ah, whatever, it was worth the future gut pain!
+
+
+// 使ってない場合
+
+*n_71
+Well I'm...glad you liked it.
+
+*mb_72
+Haha, sorry. I got a little carried away there.
+*
+But thanks to you...
+
+
+*mb_73
+<m joy><s3>I can feel my brain kicking into overdrive!
+*
+Here comes the taco's magic!
+
+// 合流
+
+*mb_10
+<angry><I><m joy><big><s4>BRAIN POWERRRRR!!
+
+
+*mb_11_2
+<m fadein><s4>Phew...
+That should do it.
+
+*mb_11
+Like I said, this is a tool that extracts info from mana and amplifies it.
+*
+Mana that passes through an elf's bloodstream changes its fluctuation.
+*
+This device can isolate the unique fluctuations of any elf and extrapolate it.
+*
+There's a lot we could do with this, but...
+
+*n_12
+But what?
+
+*mb_13
+We don't have any real research facilities up here.
+
+*mb_14
+And since I'm stuck up here, -
+*
+- would you do me another favor?
+
+*mb_14_2
+Take the device and my notes to someone with the means to test it.
+
+*n_15
+Will do!
+
+
+*n_16
+<think>And I know just the person in Grazia to take it to.
+
+*mb_30
+I truly hope your findings help further the advancement of science.
+
+
+// ========================================================
+// MARK : ティグリナ オーパーツ
+// ========================================================
+
+// 3a: ティグリナに渡す。前述の流れを経て、ノエルに素材を要求。
+// すでに一度話しかけている場合
+
+*___Tigrina/t_ooparts04 n_00
+I've got some research notes on OOPArts!
+
+*so_01
+Ooh, lemme see, lemme see!
+
+
+// ##はじめて話しかける場合 〜〜〜〜〜〜〜
+
+*n_10
+Can I talk to you for a moment, Tigrina?
+
+*so_11
+Aha! So you're finally joining my club, eh~?
+
+*n_12
+Uh, n-no, not right now...
+
+*n_13
+I'd like you to take a look at this. Apparently it's an OOPArt from under the city.
+
+*so_15
+<m joy>Oh, really!?
+<m0>Lemme see!
+
+
+// ～暗転～
+// 合流
+
+*so_16
+This is amazing! I've never seen anything like it before!
+*
+It's kinda like an oscilloscope for mana. But it looks like it can do so much more!
+
+*n_17
+The archaeologist asked me to find someone who could figure out what this thing can do.
+*
+You were the first person I thought of.
+
+
+*so_18
+Heck yea I was! All right, let's see here...
+
+// 〜〜〜〜
+
+*so_30
+I think I get it now. It interprets and generates new data based on what it extracts from mana.
+
+*so_31
+Which means if I do this...
+
+
+// #ガラクタの山の中から何かを取り出す
+
+*so_32
+<s4><m fadein>Ah...
+
+*so_33
+Noel, I hate to ask you this, but...
+
+*n_33
+?
+
+*so_34
+I'm a bit short on materials to finish this thing.
+*
+Could you do me a small favor?
+
+
+// 3b: ノエルがクラフトして大装置を作成。召喚システム、ついに完成！ぱちぱち〜 ========================
+
+*___Tigrina/t_ooparts05 so_01
+<m joy>Woo~! Perfect!
+<m0>I'll get started right away!
+
+
+// ～暗転～
+
+// テテーン（SE）（イェー!でも可。
+
+*so_02
+<s2><angry>It's done! The Elf Creating Hyper Hologram In- no, that's stupid...
+
+*so_02_2
+The...<I><s1><c5><m joy><big>"Akashic Dreamer"<c0><m0>!
+
+*n_03
+<angry><s4><m scary>A-<W2><s2><m cry>Akashic Dreamer<m joy>~~~~!!!???
+
+*so_04
+And I couldn't have done it without you.
+
+*so_05
+You see, mana fluctuates uniquely in the bloodstream of any given elf.
+*
+We don't know how it works; we only know that it's extremely minute
+*
+<MT l="1">But with this, we can take this fluctuations and extrapolate it to paint a full picture of who they are.
+*
+<MT l="1">So, with just a small sample of their mana, we can project a facsimile of them from this device!
+*
+<MT l="-1">Do you know what this means?
+
+
+*n_06
+N-No, what does it mean?
+
+
+*so_07
+It means <c5>you can summon other cadets<c0> within the simulation!
+
+
+*n_08
+<s6>...<s2>so then...
+
+*n_08_2
+Does that mean I can summon you too?
+
+*so_09
+<s4>......
+<m joy><s2>Hehe...
+*
+<s2>Curious to see how I'd look at the mercy of a monster's tentacles, eh?
+*
+<s2>I didn't know you had it in you, Noel.
+
+*so_10
+<s9><m fadein>...<s6><m0>Y-Y-Y-<s1>You...<MT l="-1"><S2><m scary>little perv!!

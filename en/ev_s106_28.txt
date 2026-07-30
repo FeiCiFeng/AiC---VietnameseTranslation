@@ -1,0 +1,821 @@
+// ========================================================
+// MARK : 食堂に行く際、チャイムが鳴る
+// ========================================================
+
+*106/00_alma_goto_ground mb_00
+Where are you going, Cornehl? Practice is about to begin.
+
+*n_01
+What!?
+But...I haven’t had lunch yet!
+
+*mb_01
+Oh, well, it’s a bit too late now. You better head to the grounds.
+
+*l_02
+Here!
+
+*n_03
+<m cry>Omf.
+
+*l_04
+I saved you sandwich in case you didn't make it back in time.
+
+*n_05
+Thanghew! Shorry I wasn’t able to join you.
+
+*l_06
+It's okay. C'mon, let's go!
+
+
+// =====
+
+*106/01_ground_ensyu mb0_00
+Class III-E, all present and accounted for!
+
+*mb1_01
+Class III-F, all present and accounted for!
+
+*bs_00
+Good, everyone's here.
+
+
+// 杖を換装していない
+
+*bs_01
+Miss Cornehl? Where's your school-issued staff?
+
+*n_02
+Um, well...
+
+*bs_03
+Ah, right, the accident...
+
+*n_04
+......
+
+*bs_05
+That’s a breach of school policy, but I’ll let it slide for today. Get it replaced asap.
+
+*l_06
+...
+
+*i_07
+How could you forget to do something so simple, Noel? Do you need Primula to do everything for you?
+
+*n_08
+I heard there’s a place in town that does repairs and replacements. I could visit them-
+
+*n_09
+Wait, shouldn’t you be resting!?
+
+*i_09
+Psh, I’m not gonna let myself fall behind just because some monster got a lucky hit in.
+
+*bs_10
+Miss Polystachya, no talking.
+
+*i_11
+Sorry, sensei.
+
+
+// 杖を換装した // ============
+
+*bs_12
+Miss Cornehl, how are you feeling?
+
+*n_13
+I-I’m fine!
+
+*bs_14
+Good, I was worried I’d have to ask Miss Polystachya to do today's demonstration.
+
+*i_15
+<angry><m ple>What's that supposed to mean!?
+
+*n_16
+Ixia!? Shouldn’t you be resting!?
+
+
+// i_09が入る
+
+*bs_18
+Ahem. If you two are quite finished, I'd like to get back on task.
+
+
+// ============
+
+// 合流
+*bs_19
+Today we’ll be practicing a new spell.
+*
+Go to the counter when your name is called to begin registration.
+
+*106/02_learn_watershard n_00
+A multi-target spell! I’ve never used one of these before. Looks complicated...
+
+*106/03_ensyu bs_00
+Okay, looks like everyone’s registered. Miss Cornehl, why don’t you give us a demonstration?
+
+*n_01
+<m scary>Wha-<m0>
+Why me!?
+
+*bs_02
+You’ve been absent for a while and I’d like to see if your skills are still up to par.
+
+*i_03
+Yeah, come on, <m joy>Little Miss Honor Student<m0>. Show us what you can do.
+
+*n_04
+<m fadein>Ugh...
+*
+<think>Why is it always me? I’m no role model...
+
+*106/04_ensyu_first_orbit bs_00
+Water Shard surrounds the caster with 8 shards of water. <c5>It can be used offensively and defensively<c0>.
+
+*bs_01
+Once the spell is chanted, <c5>you can choose to launch the shards or hold onto them<c0>.
+
+*bs_02
+Show us how to keep the shards encircled around you.
+
+*106/05_ensyu_aim_big bs_00
+Good job.
+
+*bs_01
+At this point, you can cast other spells such as White Arrow or Ground Bomb.
+*
+You can also <c5>recast Water Shard to fire the projectiles<c0>.
+
+*bs_02
+Hold <key ta/> after choosing Water Shard again to destroy the target overhead.
+
+*106/06_ensyu_aim_big2 bs_00
+Well done.
+
+*bs_01
+Now do the same for the targets on your left and right.
+*
+After preparing the spell, hold the directional key to steer the water in that direction.
+*
+Keep in mind that <c5>water shards only deal half damage when encircling you<c0>.
+*
+So be sure to launch them from a distance for maximum effectiveness.
+
+*106/07_ensyu_aim_small bs_00
+Now we’ll try striking multiple targets.
+
+*bs_01
+If you <c5>don’t press any directional keys<c0> after chanting the spell, the shards will automatically lock on to nearby targets.
+
+*bs_02
+Using the directional keys is great for concentrating fire on large targets. Likewise, this is great for taking out multiple small targets.
+
+
+// 複数ターゲットモードになっていない
+
+*106/09_failure bs_00
+You’re concentrating your fire.
+*
+Try not holding any directional keys after chanting the spell.
+
+*106/08_confirm n_00
+Whoof, that was rough...
+
+// 杖がベルミット杖ではない場合
+
+*bs_01
+Your staff’s lock on properties are a bit lacking.
+*
+You would’ve had an easier time with your Bermit-issued staff.
+
+*bs_02
+Still, that was a good enough demonstration for the other students to follow.
+
+*n_03
+I’m not so sure about that...
+
+*n_04
+I’d like to try it again. I think I can do better!
+
+*bs_05
+Hmm...
+You shouldn’t be concerned with achieving perfection on your first attempt, but I admire your drive.
+
+*bs_06
+Alright,  we'll run it again. Everyone, watch closely.
+
+*bs_10
+Your turn, cadets. Follow Miss Cornehl’s example!
+
+*bs_20
+That’s enough practice! Everyone regroup!
+
+*106/20_before_matofight l_00
+I couldn’t figure it out at all. You made it look effortless on your first try...
+
+*n_01
+A lot of that was beginner's luck. I feel like I don't completely understand it yet.
+
+
+//（お腹がなる。
+
+*l_02
+<m fadein>Ah!
+
+*l_03
+Please tell me you didn't hear that!
+
+*n_04
+Ahaha...
+I’ve still got half of the sandwich you gave me, if you want it.
+
+*l_05
+No, that’s okay.
+Although, I have been hungrier than usual.
+*
+Must be all the extra practice I’ve been doing, ehehe...
+
+*bs_06
+To cap off this lesson, we’ve prepared a little game. Cornehl, Polystachya, step forward.
+
+*i_07
+<m joy>Ohohoho</m>, I knew it! It’s not a Professor Oleander lesson without a battle at the end!
+
+*bs_08
+It’s not a battle, Miss Polystachya. More of a friendly competition to help sharpen your skills.
+
+*n_09
+I wonder what it’ll be?
+
+*106/21_matofight_rule bs_00
+Targets will appear in waves throughout the grounds.
+
+*bs_01
+The one who destroys the most will be the winner.
+
+*n_02
+That’s just a normal game!
+
+*i_03
+Ha! This’ll be a cinch!
+*
+And don’t think I’ll go easy on you just because you’ve been out for two weeks!
+*
+This spell is new to all of us, so we’re on a level playing field!
+
+*i_04
+Have some pride for once in your-
+<W2<MT l=-1><m scary>HECHOO!!
+
+*n_05
+Why are you all wet?
+Did you manage to hit yourself with a water shard?
+
+*i_06
+<m ple>Ah shuddup!
+Having a handicap like this will just make my victory even sweeter!
+
+*bs_10
+Here are the rules-
+
+*bs_11
+Small targets are worth <c5>1 point<c0>,
+large targets are worth <c5>10 points<c0>.
+*
+Only <c5>Water Shards<c0> can break the targets, and points are awarded to whomever deals the finishing blow.
+*
+Gas will cover certain areas throughout the match. It won’t cause any ailments, but it will interrupt your chanting. Prepare spells outside of the gas before stepping in to hit targets.
+*
+Whichever one of you has the most points within the 100 second limit will be declared the winner. There’s no reward for winning, though.
+
+*i_11
+Winning is its own reward!
+Come on, Noel Cornehl! Show me what you’re made of!
+
+*n_12
+She’s so competitive...
+
+*106/25_matofight_finish bs_00
+TIME!
+
+*n_01
+<m ple>IXIA!!
+Flying is cheating!
+
+*i_02
+Where in the rules did the instructor say that!?
+
+*bs_03
+She’s right. And if flying is part of her kit, it’s best she uses it during practice too.
+*
+Now, as for the winner...
+
+
+// イクシャの勝ち
+
+*i_04
+Hah! I knew it!
+That’s what you get for running your mouth all the ti-<W2><MT l="-1"><m scary>HAHCHOO!! GAH!
+
+*n_05
+You’re one to talk!
+
+
+// ノエルの勝ち
+
+*n_06
+<m fadein>That was close...
+
+*i_07
+<m scary>I don’t believe it!!
+
+
+// 引き分け
+
+*i_10
+A draw!?
+Heh, guess you really are fit to be my rival!
+
+
+// 合流
+
+*bs_100
+Okay, everyone, pair up! It's your turn!
+
+*i_101
+<m joy>C’mon, Noel, let’s go around agai-
+<W2><MT l="-1"><m scary>BWECHOO!!
+
+*n_102
+<m fadein>You wanna dry off first?
+
+
+// ノエルが勝っていた or 引き分け
+
+*i_103
+<m ple>Heck no!
+In fact, I was just warming up!
+
+
+// イクシャが勝っていた
+
+*i_104
+<m ple>Heck no!
+I beat you like this before, I’ll do it again!
+
+
+// ========================================================
+// MARK : シャワールーム
+// ========================================================
+
+*106/30_shower l_00
+Sorry for hitting you with my Water Shard spell back there, Polystachya.
+
+*i_01
+Ugh, you soaked me through to my underwear.
+*
+Course if I hadn’t bodyblocked your shot, you might’ve beaten me with the points from that target.
+
+*n_02
+Did you two have a target practice competition?
+
+*i_03
+Yeah, and it was a close one.
+*
+I thought you were the only person I had to worry about, Noel, but Alma’s got some skills of her own.
+
+*l_04
+You think so?
+<m joy>Ehehe, thank you.
+
+*i_05
+<m ple>Don’t go gettin’ cocky!
+Next time, I won’t beat you by a narrow margin-
+*
+It’ll be a landslide victory!
+
+*n_06
+Haha. You sound like you’re back to 100%, Ixia.
+
+*i_07
+Feels like it, too. All thanks to Primula’s restoration magic.
+*
+I might’ve gone overboard at practice, though. I’m exhausted.
+
+*n_08
+Restoration magic really just speeds up the body’s natural healing process, and that takes a lot of energy.
+
+*l_09
+Do you two want to go to the cafeteria for tea, then?
+*
+The new blend is really good.
+
+*i_10
+Sure. We’ve still got some time before our next class.
+*
+How ‘bout it, Noel? You up for some tea and sweets?
+
+*n_11
+Yeah, lemme just finish drying my hair-
+
+*ann_30
+<angry><big>Red alert.
+Red alert.
+*
+<angry><big>All Class III cadets and above report to the auditorium. This is not a drill.
+*
+<angry><big>Repeat. Red alert.
+Red alert.
+*
+<angry><big>All Class III cadets and above report to the auditorium. This is not a drill.
+
+*n_31
+Red alert?
+
+*i_32
+I’ve never heard that type of alert before. Have you, Alma?
+
+*l_33
+N-No...
+
+*n_34
+<s3><m scary>......
+
+*i_35
+Noel? Are you okay?
+Do you want me to take you to the nurse’s office?
+
+*n_36
+<m scary>No. <W2><m fadein>I’m. Fine...
+*
+You heard the announcement. We have to go.
+
+*l_37
+Noel...
+If there’s anything I can do to help...
+
+*n_38
+Right...
+Come on, let’s go.
+
+
+// ========================================================
+// MARK : 講堂
+// ========================================================
+
+*106/31_kodo bs0_00
+Settle down, everyone.
+*
+I understand some of you may be confused as this is your first red alert experience. Let me explain the situation as we know it and hopefully that will answer any questions you might have.
+
+*bs0_01
+As you know, Bermit cadets are considered military reserve forces. Historically, we have only deployed our cadets when threat levels are at their highest.
+*
+But, following the attack two weeks ago, the military has raised alert levels throughout the city. This means that threats which would normally trigger a lower level alert may instead trigger a red alert.
+*
+In short, our cadets will be expected to defend the city from monsters on a more frequent basis.
+
+*mb0_02
+<small>Seriously?
+
+*mb1_03
+<small>We have to fight monsters?
+
+*bs0_04
+I know the announcement was clear about this, but I'd like to repeat that this is not a drill.
+
+*n_05
+<think>Even if it was a drill, it wouldn't be a joking matter.
+
+*bs0_06
+A horde of monsters has breached the mountainside barrier.
+*
+Details are scarce at the moment. The horde is large, but nowhere near the size of the one from two weeks ago.
+*
+Their predicted course shows them heading right for Bermit. We’ll be marshalling our defenses to protect the school and the town of Grazia.
+
+*mb2_07
+<small>Predicted? So they might not even come here...
+
+*mb3_08
+<small>And it’s not even that big?
+
+*mb4_09
+<small>Yeah, what’s all the fuss about?
+
+*bs0_09
+Our district's military defense unit has been unreachable since the report came in. We’re preparing for the worst. Keep your comms open and your staff on your person at all times.
+
+*so_11
+Tigrina Soala, Engineering Class IV.
+Permission to speak?
+
+*bs1_12
+Go ahead, Miss Tigrina.
+
+*so_13
+Thank you.
+*
+We engineers don't usually engage monsters directly. We're not trained for it.
+
+*so_14
+But I did get uncomfortably close when I put myself on the front lines with the infantry two weeks ago.
+*
+I've been using the artillery I borrowed from them to deal with the monsters in the forest.
+
+*bs2_15
+This is the first I’m hearing of such matters.
+
+*so_16
+<m joy>Oh, <m fadein>uhhh...
+
+*so_17
+<tigrina>Aaanyway, my point is I don't think we need to send any bodies out to the field.
+*
+<tigrina>We can use the auto-turret doll I have back in my workshop.
+*
+<tigrina>It doesn’t have enough mana in its power source to stand up, but if it shoots enough monsters, it can collect their mana and go from there.
+*
+<tigrina>I haven’t perfected the targeting system yet, so right now it just shoots anything that moves. But if there’s only monsters around, it should be fine-<W2>
+
+*bs1_18
+That’s enough. Go wait in the hallway and we’ll deal with you later.
+
+*so_19
+<m ple>Hey, wait, I’m not done ye-!
+<MT l="-1"><m scary>Mmph!!
+
+
+//退場させられるティグ
+
+*bs0_20
+The rest of you, prepare for combat.
+
+*mb0_21
+This has to be a bad dream...
+
+*mb3_21
+I didn’t know we were basically conscripts.
+
+*mb1_22
+Mom...
+
+*bs0_23
+We are the only thing standing between Grazia and destruction.
+*
+Fight.
+For your city and for your lives.
+
+*n_24
+......
+
+*i_25
+Noel, check your staff. We’ve got a transmission from the military.
+
+*n_26
+These are...our orders.
+
+*i_27
+I already read them. You, me, and Alma are all posted in the same spot. Let’s go.
+
+*n_28
+Okay.
+
+*n_29
+<s2>Defending the city...
+*
+<s2>With friends by my side, I should be okay.
+
+*n_30
+<s4>So, why...<W2>why won't my hands stop shaking...
+
+
+// タワーディフェンス開始中に街の右（山側入り口）へ行く
+
+*107/_stop_goto_entrance_rightcave n_00
+It’s too dangerous to go to the mountains with the defenses breached.
+
+*n_01
+Everyone’s waiting back in Bermit. I should hurry.
+
+
+// ========================================================
+// MARK : タワーディフェンス準備
+// ========================================================
+
+// （階段からティグリナのいる階の廊下に入る。
+
+*106/32_prepare_defence so_00
+<big><m cry>COME O-O-O-ON～～～!!!
+LET ME THROUGH!!
+
+*n_01
+<think>What the heck?
+
+*i_02
+<think>It’s that girl they kicked out...
+
+*bs1_02
+Stop yelling.
+Which department are you from?
+
+*so_03
+<m ple>I already told you! And my supervisor’s name!
+*
+We’re defending the city from a horde of monsters! We don’t have time for proper procedure!
+
+*so_04
+Don’t you know the allegory of the mouse and the elf?
+*
+The mouse lives a peaceful life, running in its wheel each day.
+*
+Completely unaware of the elf that keeps the wheel greased.
+*
+<MT l="-1"><I><big><m ple>DO YOU SEE WHAT I’M SAYING!?
+
+*bs1_05
+No. How can anyone be expected to understand you?
+
+*so_06
+Fine, let me put it this way. What is the value of an elf’s life? Can it be measured in money?
+*
+<MT l="2">I say it can! But that doesn’t mean I think life is expendable.
+*
+All life is precious.
+*
+<MT l="2">But, this school is perfect proof that you can put monetary value on life.
+*
+It costs the school money to operate, to train us, to take care of us. And then they ask us to put our lives on the line.
+*
+<MT l="-1">So however much the school thinks we’re worth is how much money we should spend to defend it!
+
+*bs1_07
+<m scary>Just tell me what you want!
+
+*so_08
+<s2>Let me access the cannon and munition reserves.
+
+
+//急に冷静になるやつ
+
+*bs1_09
+Fine.
+*
+I don’t want to be the reason any cadet dies. I’ll clear you to use anything within my authority.
+
+*so_10
+SQU-E-E-E! THANK YOU-U-U～～
+<m joy>I luff you so much! <emoji>❤️❤️</emoji>
+
+*bs1_11
+<m fadein>...talk like that again and I’ll slap you.
+*
+You’ll have to haul everything out yourself. You sure you know what you’re doing?
+
+*so_12
+Of course I do. I’ll bring everything back in one piece.
+*
+You have my word as the goodest girl in the whole academy.
+
+*bs1_13
+...just get moving. You're creepin' me out.
+
+*so_14
+<m joy>Ehehe, sorry soldier <emoji>🎶</emoji>.
+
+*so_15
+Oh, hey, Noel.
+
+*n_16
+<m fadein>Hey.
+
+*so_17
+I just got us access to a bunch of defensive measures. Let’s get 'em setup.
+
+*i_18
+<think>So she's not a complete ditz, after all.
+
+*l_19
+<think>Ixia, that's so mean!
+
+*so_20
+I’ll be doing what I can from the mounted cannons. I’ll leave directing the cadets to you.
+
+*n_21
+Me!?
+
+*so_22
+Yeah, you’ve got the most experience out of everyone here.
+*
+If things go south, you’re their best chance for getting out alive.
+
+*n_23
+<m fadein><s3>If things...<W3>go...<W3>south...
+
+
+//フラッシュバック
+
+*l_24
+<s2>It’s okay, Noel. We’re right here with you.
+
+*mb1_25
+Yeah! We’ll give it our all!
+
+*mb2_26
+You protected us once, now it’s our turn!
+
+*mb3_27
+If we all fight together, we’ll crush those monsters!
+
+*i_27
+I’m willing to take commands from you just this once.
+
+*i_28
+After all, you’re the only person other than me who knows what she’s doing! Have some confidence!
+
+*n_28
+<s2>Thank you, everyone.
+
+*n_29
+<W2><s2>Let’s go <W2>defend our city.
+
+
+// ========================================================
+// MARK : 杖の換装イベント
+// ========================================================
+
+
+// 獣人の職員
+*___city/scl_replace_cane mb_00
+Good morning.
+
+// 杖をかざす
+*n_01
+I'm Noel Cornehl, Cadet Class III.
+And, um...
+
+
+// 杖の換装
+*n_02
+I need a replacement staff. My old one was destroyed two weeks ago.
+
+*mb_03
+I see. One moment, please.
+
+*mb_04
+Ah, yes, Primula submitted an application on your behalf. Your replacement staff is ready.
+
+*mb_05
+Would you like to swap it for your current staff? <c1>You will not be able to switch back<c0>.
+
+
+// 試し撃ちとかできない？
+*n_10
+I've kinda gotten used to this staff. Can I test out the Bermit one before I decide?
+
+*mb_11
+Mm, no, sorry. We can't really facilitate that here.
+*
+But, there is a forge down in <c5>the slums<c0> that might be able to help you out. 
+
+*mb_12
+That's actually where Bermit gets all of its school-issued staves from.
+*
+So you can request the exact parts we're holding for you and test them there first, if you'd like.
+
+*n_13
+That sounds good. Thank you.
+
+*n_14
+The slums...
+It's a bit scary down there, but I think I'll be fine.
+
+// ========================
+// 換装する
+*mb_20
+Perfect. I'll go ahead and get the crystal swapped out for you.
+
+// 換装しようとした杖がバイトのテスター品だった
+*mb_21
+Oh, what's this?
+
+*mb_22
+Looks like this wand is a custom build. It's got the maker's insignia on it.
+*
+These things are tamper-proof for safety reasons, so you'll have to take it to a professional to get the parts replaced.
+
+
+// ========================
+// 換装した後、やっぱり戻したいと言う
+// mb_11をもう一度言った後
+
+*mb_30
+They've got other customization options too, if the Bermit model doesn't suit your tastes.
+*
+Maybe you'll find something you like even more than your old staff.
+
+*n_31
+I see. Thanks for all your help.

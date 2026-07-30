@@ -1,0 +1,305 @@
+%FAMILY zh-cn
+
+// ========================================================
+// MARK : SKILL
+// ========================================================
+
+/* ___ Skill_desc_punch ___ */
+挥动法杖攻击敌人。
+威力很小，但在难以获取足够的魔力时，
+可以用来从敌人身上夺取魔力。
+
+
+&&Skill_title_shotgun 魔法霰弹
+&&Skill_manipulate_shotgun 完成咏唱后按下<key z/>
+
+/* ___ Skill_desc_shotgun ___ */
+近距离引爆魔法能量，
+对敌人造成高额伤害。
+威力与效果视当前所咏唱而定。
+
+
+
+&&Skill_title_sliding 滑铲
+&&Skill_manipulate_sliding <key ba/>+<key z/>
+
+/* ___ Skill_desc_sliding ___ */
+向敌人下盘发动略显鲁莽的攻击。
+需注意，攻击过程中撞到敌人
+或是从高处落下时会摔倒。
+
+
+
+&&Skill_title_guard 护盾
+&&Skill_manipulate_guard <key lsh/>
+
+/* ___ Skill_desc_guard ___ */
+可用于防御外部的攻击，
+也能避免吸入有毒气体。
+但护盾若多次受到攻击则会被损坏。
+
+
+&&Skill_title_evade 闪避
+&&Skill_manipulate_evade <key lsh/>+<key la/><key ra/>
+
+/* ___ Skill_desc_evade ___ */
+
+进入短暂的无敌状态，闪避敌人的攻击。
+可根据按下<key la/><key ra/>的时长调整移动距离。
+也可以在空中使用，
+能够稍微延长一点滞空时间。
+
+
+&&Skill_title_guard_bush 护盾冲击
+&&Skill_manipulate_guard_bush <key lsh/>+<key z/>
+
+/* ___ Skill_desc_guard_bush ___ */
+将护盾的能量向外扩散。
+若在受到敌人攻击的瞬间释放，
+则能以猛烈的力度将其击退。
+
+
+
+
+&&Skill_title_guard_lariat 环轨护盾
+&&Skill_manipulate_guard_lariat <key lsh/>+<key la/><key ra/>+<key z/>
+
+/* ___ Skill_desc_guard_lariat ___ */
+将护盾与施法者分离开来旋转挥舞。
+因为击中敌人会消耗护盾的耐久度，
+所以无法在短时间内连续使用。
+需要注意，若在挥舞护盾时有敌人进入到护盾内侧，
+则施法者会陷入无法防备的状态。
+
+
+
+&&Skill_title_burst 圣光爆发
+&&Skill_manipulate_burst 同时长按<key PR_BURST/>
+
+
+
+
+
+&&Skill_title_wheel 旋风斩击
+&&Skill_manipulate_wheel 在空中时按下<key z/>+<key la/><key ra/>
+
+/* ___ Skill_desc_wheel ___ */
+一边旋转一边向敌人突进。
+如果已进行魔法蓄力，可对命中的敌人
+造成威力较低的魔法霰弹伤害。
+发动前后均会露出较大的破绽。
+
+
+
+&&Skill_title_comet 彗星俯冲
+&&Skill_manipulate_comet 在空中时按下<key z/>+<key ba/>
+
+/* ___ Skill_desc_comet ___ */
+高速下落，对正下方发动攻击。下落时对大部分攻击免疫。
+如果已进行魔法蓄力，可对命中的敌人
+造成高额的魔法霰弹伤害。
+否则攻击力与轻攻击相当。
+
+
+&&Skill_title_hp5 HP+5
+&&Skill_manipulate_hp5 
+
+/* ___ Skill_desc_hp5 ___ */
+最大HP增加 5 点。
+
+
+&&Skill_title_hp10 HP+10
+&&Skill_manipulate_hp10 
+
+/* ___ Skill_desc_hp10 ___ */
+最大HP增加 10 点。
+
+
+&&Skill_title_hp20 HP+20
+&&Skill_manipulate_hp20 
+
+/* ___ Skill_desc_hp20 ___ */
+最大HP增加 20 点。
+
+
+&&Skill_title_mp5 MP+5
+&&Skill_manipulate_mp5 
+
+/* ___ Skill_desc_mp5 ___ */
+最大MP增加 5 点。
+
+
+&&Skill_title_mp10 MP+10
+&&Skill_manipulate_mp10 
+
+/* ___ Skill_desc_mp10 ___ */
+最大MP增加 10 点。
+
+&&Skill_title_mp20 MP+20
+&&Skill_manipulate_mp20 
+
+/* ___ Skill_desc_mp20 ___ */
+最大MP增加 20 点。
+
+/* ___ Skill_title_sp_bird ___ */
+羽翼护符
+/* ___ Skill_desc_sp_bird ___ */
+一张护符，上面描绘着名为鸟的旧时代生物。
+能够使用可防护敌人攻击与空气污染的护盾，
+以及可以短暂进入无敌状态的闪避动作。
+
+
+// ========================================================
+// MARK : 2022 2月
+// ========================================================
+
+
+&&Skill_title_ukemi 受身术
+&&Skill_manipulate_ukemi <key lsh/>+<key la/><key ra/>
+
+/* ___ Skill_desc_ukemi ___ */
+
+当被敌人击飞时，在落地的瞬间
+输入闪避操作则可以从跌倒状态起身。
+若是在处于枯竭状态等原本无法进行闪避的情况下使用，
+闪避后将会摔倒。
+
+
+/* ___ Skill_title_sp_difficulty0 ___ */
+埴轮人偶的护符
+
+/* ___ Skill_desc_sp_difficulty0 ___ */
+大幅提高HP与MP上限，但减少获得宝箱的概率。
+需要启用时请按下<key menu/>打开菜单后
+在「技能」栏位里设置为「启用」。
+
+
+// ========================================================
+// MARK : 2022 12月
+// ========================================================
+
+
+/* ___ Skill_title_dashpunch ___ */
+突进冲击
+&&Skill_manipulate_dashpunch 在奔跑过程中按下<key z/>
+
+/* ___ Skill_desc_dashpunch ___ */
+借助奔跑的势头向前方发起攻击。
+如果已进行魔法蓄力，可对命中的敌人
+造成高额的魔法霰弹伤害。
+否则攻击力与轻攻击相当。
+
+
+
+
+/* ___ Skill_title_airpunch ___ */
+凌空横斩
+&&Skill_manipulate_airpunch 在空中按下<key z/>
+
+/* ___ Skill_desc_airpunch ___ */
+在空中向前短暂突进并发动攻击。
+如果已进行魔法蓄力，可对命中的敌人
+造成高额的魔法霰弹伤害。
+否则攻击力与轻攻击相当。
+
+
+// ver 022d: 変更
+// ========================================================
+/* ___ Skill_desc_burst ___ */
+一口气引爆魔力猛击敌人，并将周围的敌人震开。
+只要施法者意识清醒就可以发动。
+ 
+
+
+
+
+// ========================================================
+// MARK : ver027
+// ========================================================
+/* ___ Skill_title_smash ___ */
+会心重击
+&&Skill_manipulate_smash 同时长按<key ba/>+<key z/>
+
+
+/* ___ Skill_desc_smash ___ */
+积蓄力量，进行一次带有强烈击退效果的攻击。
+魔法蓄力后，可对命中的单个敌人
+造成加倍的魔法霰弹伤害效果。
+但需要注意的是，即使此次攻击未命中，
+杖中储存的魔法也将被消耗。
+
+
+// ========================================================
+// MARK : ver028
+// ========================================================
+/* ___ Skill_title_justguard ___ */
+完美防御
+&&Skill_manipulate_justguard 在被击中前的一瞬间松开<key lsh/>
+
+
+/* ___ Skill_desc_justguard ___ */
+展开护盾期间，在敌人攻击命中前的瞬间
+松开护盾键<key lsh/>即可判定施放。
+成功施放该技能不仅能够恢复护盾耐久度、
+获得绕开敌人转移身位的时机，
+还方便快速衔接一些其他技能。
+
+
+
+
+
+&&Skill_title_evade_dancing 轮舞斩击
+&&Skill_manipulate_evade_dancing 弹开敌人攻击后<key la/><key ra/>+<key z/>
+/* ___ Skill_desc_evade_dancing ___ */
+仅在使用护盾冲击或完美防御\b弹开敌人攻击后可用。
+在轻盈舞步中挥舞出大范围斩击，\b可同时命中多个目标。
+已进行魔法蓄力的情况下，可对敌人\b造成威力略有削弱的魔法霰弹伤害。
+
+
+
+
+// ========================================================
+// MARK : ver029
+// ========================================================
+
+
+&&Skill_title_shine_booster 闪光冲锋
+&&Skill_manipulate_shine_booster 按下<key run/>+<key la/><key ra/>进行长距离奔跑
+&&Skill_title_shine_booster_spark 电光之舞
+&&Skill_manipulate_shine_booster_spark 进入闪光冲锋状态后<key ba/>+<key jump/>
+/* ___ Skill_desc_shine_booster ___ */
+进行长距离奔跑后身体会开始发光，此时可对敌人发动强力的撞击。
+/* ___ Skill_desc_shine_booster_spark ___ */
+进入闪光冲锋状态后按下<key ba/>将立即停止奔跑，进入电光之舞的发动预备状态；
+此时不指定方向，直接按下<key jump/>
+即可向任意方向发动突进攻击。
+
+
+
+&&Skill_title_evade_jump 幻影闪避
+&&Skill_manipulate_evade_jump 闪避过程中再次按下<key la/><key ra/>
+/* ___ Skill_desc_evade_jump ___ */
+消耗魔力进行一次长距离闪避。
+闪避过程中几乎免疫所有攻击，
+并且能够朝着输入的<key la/>或<key ra/>方向
+穿过电击陷阱之类的障碍。
+
+
+
+
+
+&&Skill_title_hp15 HP+15
+&&Skill_manipulate_hp15
+
+/* ___ Skill_desc_hp15 ___ */
+最大HP增加15点。
+
+
+
+&&Skill_title_mp15 MP+15
+&&Skill_manipulate_mp15
+
+/* ___ Skill_desc_mp15 ___ */
+最大MP增加15点。
+
+&&Skill_manipulate_evade_jump__1 闪避过程中按下<key run/>

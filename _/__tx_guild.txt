@@ -1,0 +1,451 @@
+%FAMILY _
+
+// ギルドクエスト
+&&GuildQ_categ_collectnew   採集
+/* ___ GuildQ_categ_desc_collectnew ___ */ 
+指定のアイテムを集めて下さい。
+このクエスト受注後、新しく集めたもののみが納品の対象です。　
+
+&&GuildQ_categ_collect  　納品
+/* ___ GuildQ_categ_desc_collect ___ */
+指定のアイテムをギルドカウンターへ納品して下さい。
+既に所持している場合は、そのまま納品して構いません。
+
+&&GuildQ_categ_defeat   駆逐
+/* ___ GuildQ_categ_desc_defeat ___ */
+指定された全てのポイントで戦闘を行い、敵の駆除を行って下さい。
+
+
+&&GuildQ_categ_cook     料理
+/* ___ GuildQ_categ_desc_cook   ___ */
+&&GuildQ_categ_rescue   救出
+/* ___ GuildQ_categ_desc_rescue ___ */
+指定されたエリアのどこかにいる要救助者を捜索し、救出して下さい。
+他の依頼よりも失敗時のランクダウンが大きいので、慎重に行動して下さい。
+
+&&GuildQ_categ_weapon   戦闘試験
+/* ___ GuildQ_categ_desc_weapon ___ */
+鍛冶屋からの特別な依頼です。
+支給された杖を装備したまま戦闘を一定数行って下さい。
+
+&&GuildQ_categ_deliver  配送
+/* ___ GuildQ_categ_desc_deliver___ */
+特別な荷物の運搬の依頼です。運搬中は極めて高確率で魔族の襲撃に遭います。
+ダメージを受けるごとに品物が劣化し、獲得GPと金額が減少することに注意して下さい。
+依頼遂行中、ファストトラベルは認められません。　
+
+
+
+
+/* ___ GuildQ_categ_comment_collectnew_0 ___ */ 
+グラティア近辺の地質調査のため、
+新鮮な&1を集めてきてほしい。
+　　
+/* ___ GuildQ_categ_comment_collectnew_1 ___ */ 
+&1 が
+魔力被曝に晒されたときの
+劣化について調査をしています。
+つきましては、集めてきて
+下さると助かります。　
+
+/* ___ GuildQ_categ_comment_collectnew_2 ___ */ 
+工事のため &1 が必要になった。
+ただ古いものじゃダメだ。
+採れたてのやつが欲しい。　
+　　
+/* ___ GuildQ_categ_comment_collectnew_3 ___ */ 
+新鮮な &1 の味が忘れられない。
+もう一度あの感動を味わいたい……。
+　
+/* ___ GuildQ_categ_comment_collectnew_4 ___ */ 
+仕事の効率化のためには
+&1 が欠かせない。
+ただ、自分で採りに行く
+時間がなくて……
+摘みたての &1 を
+持ってきてはくれないか？
+　　
+/* ___ GuildQ_categ_comment_collectnew_5 ___ */ 
+子供が &1 が
+欲しいって聞かないんです。
+ただ、だれかのお古は
+イヤみたいで……
+お手数ですが、集めてきては
+いただけませんか？
+
+
+/* ___ GuildQ_categ_comment_collect_0 ___ */
+錬金術の素材として至急
+&1 が必要です。
+余り物でかまいませんので、
+どなたか譲っていただけませんか？　
+/* ___ GuildQ_categ_comment_collect_1 ___ */
+ガレキの除去のための
+薬品が不足している。
+&1 を持っているなら、
+売ってもらえるとありがたい。　
+/* ___ GuildQ_categ_comment_collect_2 ___ */
+祖父がヒザを悪くしてしまったので、
+治療のために
+&1 が必要です。　
+/* ___ GuildQ_categ_comment_collect_3 ___ */
+倉庫の資材を確認していたら、
+&1 を切らしている
+ことに気付いた。
+アレがないと不安で不安で、夜も眠れない。　
+/* ___ GuildQ_categ_comment_collect_4 ___ */　
+とある遊戯の余興として、
+&1 を使ったら
+面白いかなと思うんです。　
+/* ___ GuildQ_categ_comment_collect_5 ___ */　
+俺は毎朝 &1 を摂らないと
+頭がシャッキリしないんだ。
+お願いしてもいいだろうか。　
+/* ___ GuildQ_categ_comment_collect_6 ___ */　
+迷惑な隣人に困らされていてね……
+ちょっと驚かしてやろうと思うから、
+&1 を使わせちゃくれないか？　
+/* ___ GuildQ_categ_comment_collect_7 ___ */　
+パーティー用のドレスに
+&1 をあしらってみようと思うの。
+きっとステキな夜が過ごせるわ。　
+/* ___ GuildQ_categ_comment_collect_8 ___ */　
+突然ウチが雨漏り
+しちゃって困ってるんだ。
+修理のために &1 が必要だ。　
+/* ___ GuildQ_categ_comment_collect_9 ___ */　
+私の赤子は &1 がないと
+泣き止んでくれないんです。
+それなのに、この前かみかみして
+ダメにしてしまって…… 
+/* ___ GuildQ_categ_comment_collect_10 ___ */ 
+私の作品の最後の仕上げに欠けている
+なにかを探している。
+そうだな…… &1 なんてあったら、
+きっと稀代の傑作になると思うのだ。　
+/* ___ GuildQ_categ_comment_collect_11 ___ */　
+吸いたい…… &1 がたりねえ……
+&1 をくれ…… 
+/* ___ GuildQ_categ_comment_collect_12 ___ */ 
+昨今のファッションのトレンドは
+やっぱ &1 よね。
+あればあるだけ欲しいって思ってるわ。　
+/* ___ GuildQ_categ_comment_collect_13 ___ */　
+看板の塗料に必要でね。
+&1 をいただけないか？　
+/* ___ GuildQ_categ_comment_collect_14 ___ */
+愛用のイスが壊れてしまったの。
+修理のために &1 がいるって
+旦那に言われたんだけど、
+何に必要なのかしら……
+/* ___ GuildQ_categ_comment_collect_15 ___ */
+家内のイビキがうるさすぎるんだ。
+ちょっと静かになってもらうため、
+&1 をいくつかいただけないか？　
+/* ___ GuildQ_categ_comment_collect_16 ___ */　
+娘の学園では &1 が
+流行してるみたいなんです。
+ただ、近場でそれを
+調達できなくて…… 
+/* ___ GuildQ_categ_comment_collect_17 ___ */
+うちの秘伝のダシには
+&1 が欠かせないんだが、ついに
+ストックが底をついてしまった。
+あれがないと閉店の危機なんだ…… 
+/* ___ GuildQ_categ_comment_collect_18 ___ */
+変なものたべちゃったみたいで、
+腹痛が治らなくて……俺、死ぬのかな？
+治療には &1 が必要と
+医者に言われたんだ…… 
+/* ___ GuildQ_categ_comment_collect_19 ___ */ 
+ギャンブルに勝てなくて困ってるんだが、
+&1 を窓側に置いておくと
+運気が向上すると言われたんだ。
+こいつさえ手に入れれば、
+億万長者も夢じゃねぇかもな。　
+/* ___ GuildQ_categ_comment_collect_20 ___ */　
+とある取引のために &1 が
+どうしても必要なんです。
+お願いします。　
+/* ___ GuildQ_categ_comment_collect_21 ___ */　
+家の扉が壊れて入れなくなっちまった。
+&1 があれば
+ぶっ壊せると思うんだが。　
+/* ___ GuildQ_categ_comment_collect_22 ___ */　
+先に逝った伴侶が好きだった
+&1 が欲しいのだけど、私の足腰では
+どうにも集めにくくてね。
+年をとるのはイヤだねえ。
+/* ___ GuildQ_categ_comment_collect_23 ___ */
+面倒な客を追い返すため、
+&1 が必要だ。
+/* ___ GuildQ_categ_comment_collect_24 ___ */　
+森や山を歩くときは
+危険がいっぱいですよね。
+魔族除けのアイテムを作るために
+&1 が必要なんです。　
+
+/* ___ GuildQ_categ_comment_cook_0 ___ */　
+今日は &1 が食べたい気分だ。
+持ってきてくれると助かるよ。　
+/* ___ GuildQ_categ_comment_cook_1 ___ */
+実家で食べた &1 が忘れられない。
+だれか、おふくろの味を
+再現してくれる一流シェフは
+いないかな？　
+/* ___ GuildQ_categ_comment_cook_2 ___ */　
+一度でいいから &1 を食べるのが夢なんだ。
+ウマいものを頼むよ。　
+/* ___ GuildQ_categ_comment_cook_3 ___ */　
+父が休みの日に作ってくれる &1 が恋しいんです。
+似た味のものを食べてみたくて……
+作ってはもらえませんか？　
+/* ___ GuildQ_categ_comment_cook_4 ___ */　
+味の研究のため、 
+&1 を注文したい。
+味については少々
+うるさくさせてもらうが、
+大丈夫だろうか？　
+/* ___ GuildQ_categ_comment_cook_5 ___ */
+仕事前には &1 を
+食ってくことにしてるんだが、
+今日はいつもの食堂が
+休業で食えてないんだ。
+誰かいい感じのものを
+こしらえちゃくれないか。　
+/* ___ GuildQ_categ_comment_cook_6 ___ */　　
+パーティーで食べる
+オードブルのために
+&1 がいるんだけど、
+注文するのを忘れてしまったの。
+出来立ての美味しいのを
+頼めるかしら？　
+
+
+/* ___ GuildQ_categ_comment_defeat_0 ___ */　　
+夜間のみに出現する魔族が、
+昼の間も進出するようになった
+との報告があった。
+危険の芽を早めに摘み取って欲しい。
+/* ___ GuildQ_categ_comment_defeat_1 ___ */　　
+強力な魔族の異常発生が確認された。
+危険な戦闘になるだろうが、
+該当のポイントで駆除を頼みたい。
+/* ___ GuildQ_categ_comment_defeat_2 ___ */　　
+特定の戦闘エリアに
+異常な磁流が検知された。
+ギルドの手が空いている者は、
+魔族の討伐のため現地に
+赴いてほしい。　
+/* ___ GuildQ_categ_comment_defeat_3 ___ */　　
+とある魔力植物の自生箇所で
+魔族がたくさん発生していて困っています。
+あいつらをちゃちゃっとやっつけて、
+通行できるようにしてもらえませんか？　
+/* ___ GuildQ_categ_comment_defeat_4 ___ */　　
+街に来る途中、不穏な魔力の乱れを
+感じました……
+考えすぎかもしれないけど、
+だれかに被害が及ぶ前に
+調べてみてもらえませんか？
+
+
+/* ___ GuildQ_categ_comment_rescue_0 ___ */　　
+娘が行方不明です。
+魔族に捕まってしまったかも
+しれないと思うと、心配で…… 
+はぐれてしまった位置を
+お伝えしますので、
+近辺をさがしてもらえませんか？
+
+/* ___ GuildQ_categ_comment_rescue_1 ___ */　　
+友人とはぐれてしまいました。
+最後に見た場所は
+思い出せるんすが……。
+
+/* ___ GuildQ_categ_comment_rescue_2 ___ */　　
+恋人が魔族に連れ去られてしまいました。
+助けにいきたいんですが、
+僕は戦いに参加できなくて…… 
+最後に見た場所を
+お伝えしますので、
+どうか捜索をお願いします。
+
+
+/* ___ GuildQ_categ_comment_rescue_3 ___ */　　
+生徒が一人、
+通学に里から出発したきり
+行方不明になっています。
+大事に至る前にどうか
+救出をお願いします。
+
+/* ___ GuildQ_categ_comment_weapon_0 ___ */　　
+新しい杖の実地試験に
+協力して欲しい。
+どこでも良いので
+魔族を一定数倒し、
+杖の性能を記録してくれ。　
+
+
+/* ___ GuildQ_categ_comment_deliver_0 ___ */　　
+ある顧客に届け物があるんだが。
+こいつは鮮度が大事でね……… 
+なるべく早く届けて
+もらえると助かる。　
+/* ___ GuildQ_categ_comment_deliver_1 ___ */　　
+子供が今日の仕事に必要な宿題を
+忘れてしまったんです。
+とても大事な発表会が
+あるみたいなので、
+届けてもらえませんか？　
+
+/* ___ GuildQ_categ_comment_deliver_2 ___ */　　
+ウチのデリバリーは早さがウリなんだが、
+配達のための若いのが急に寝込んじまった。
+代わりに運んではもらえないか？　
+
+/* ___ GuildQ_categ_comment_deliver_3 ___ */　　
+彼女の誕生日のために
+サプライズプレゼントを用意してたのに、
+家に忘れてきてしまった。
+今日中に持ってきてくれないだろうか。
+
+// ========================
+
+/* ___ Guild_alert_progressing ___ */
+現在、&1件のギルド依頼を進行中です。
+新しく依頼を受注する場合、これらの依頼はキャンセルされ、
+&2 GP のペナルティが課せられます。
+よろしいですか？
+
+/* ___ Guild_alert_progressing_one ___ */
+
+この&1つの依頼をキャンセルする場合、
+&2 GP のペナルティが課せられます。
+よろしいですか？
+
+
+&&Guild_rank 現在のギルドランク:
+&&Guild_current_gp &1 GP
+&&Guild_progress_gp <font color="&2"> → &1 GP</font>
+
+&&Guild_tab_current_prgoress 受注している依頼
+
+&&Guild_entry_title 【&1】
+&&Guild_entry_title_collect &1 &2 x&3
+
+&&Guild_detail_obtain_money 獲得<img mesh="money_icon" width=18 />: &1
+&&Guild_detail_obtain_rank 獲得GP &1 / 失敗時喪失GP &2
+&&Guild_detail_receivable_quest 受注クエスト数 &1 / &2
+
+
+&&Guild_total_reward_money 報酬トータル: <img mesh="money_icon" width="30" scale="1" /><font size="120%" color="ff:#4150FF">&1</font>
+/* ___ Guild_collect_detail ___ */
+収集ターゲット: &1
+
+&&Guild_recieving_ask 依頼を受注しますか？
+&&Guild_recieving_temp カウンターから離れるまでは\n受注をキャンセル可能です。
+&&Guild_recieving_already この依頼を受注しています。
+
+&&Guild_Btn_recieve_quest 依頼を受注する
+&&Guild_Btn_abort_quest_ask 依頼をキャンセル...
+&&Guild_Btn_abort_quest 依頼をキャンセルする
+&&Guild_Btn_abort_quest_temp やっぱり受注しない
+&&Guild_Btn_deliver_ask 納品する...
+&&Guild_Btn_deliver 納品する
+&&Guild_Btn_recipebook <key d/>+<key a/>図鑑で確認
+
+&&Guild_Btn_abort_recieve_new キャンセルし、次の依頼へ
+&&Guild_Btn_confirm_quest 受注依頼を確定
+&&Guild_Btn_confirm_quest_cancel やっぱり受注しない
+
+
+&&Guild_Inventory_mine 手持ち／倉庫
+&&Guild_Inventory_deliver 納品対象
+&&Guild_item_deliver_count あと &1 納品
+
+&&Guild_cmd_map_return <key cancel/>マップスクロールを終了
+
+&&KD_guild_add <key add/>受注する
+&&KD_guild_rem <key rem/>受注キャンセル
+
+/* ___ Guild_alert_cannotreceive_max ___ */
+今のランクで受注できる
+依頼数の上限(&1)を超えています。
+
+/* ___ Guild_alert_cannotreceive_not_discovered ___ */
+あなたはこの戦闘エリアを
+まだ発見していないようです。
+
+
+// ========================
+&&subquest_gq_report ギルドに報告
+
+
+&&Guild_pickup_fof_fieldguide このクエストのピックアップ
+
+
+&&subquest_gq_collect 指定のアイテムを入手
+&&subquest_gq_collect_new 指定のアイテムを新しく入手
+&&subquest_gq_defeat 以下の戦闘エリアで勝利する
+
+&&subquest_gq_defeat_count 戦闘x&1
+// 【雨】 などなど
+&&subquest_gq_defeat_dangerousness 危険度補正:+&1
+&&subquest_gq_defeat_weather 【天候:&1】
+&&subquest_gq_defeat_attr 【属性付与】
+&&subquest_gq_defeat_attr_detail 【属性付与:&1】
+&&subquest_gq_defeat_fix_enemy 【敵固定:&1】
+
+
+// ========================
+&&Guild_reel_submit 全ての宝箱を開ける\n<font size="12">（効果リールを全て消費します）</font>
+
+&&Guild_reward 報酬リール
+&&Guild_Btn_open_quest_tab クエストタブを開く
+&&Submit_gohome_abort_quest 了解し、拠点に帰る
+
+/* ___ Guild_reel_hold ___ */
+現在、ギルドで効果リールを &1 個、
+宝箱リールを &2 個持っています。
+
+/* ___ Guild_reel_hold_2 ___ */
+宝箱リールは &1 個まで取り置きできます。 
+
+/* ___ Guild_reel_hold_over ___ */
+宝箱リールの上限数 (&1) を超えています。
+ここで全ての宝箱リールを開け、
+報酬を確定させて下さい。
+
+
+/* ___ Guild_reel_failure_penalty ___ */
+依頼失敗のペナルティとして、
+ここで全ての宝箱リールを開け、
+報酬を確定させて下さい。
+
+
+/* ___ Guild_alert_goout_another_area ___ */
+現在、ギルドで &1 での依頼を受注しています。
+このまま &2 に出発すると、依頼を達成できなくなる
+可能性があります。
+このまま出発してもよろしいですか？
+
+/* ___ Guild_alert_backhome_without_clear ___ */
+ギルドで受注した &1 の依頼のうち
+&2 個が未達成のままです。
+このまま拠点に帰ると、未達成の依頼を
+キャンセルすることになります。
+
+
+
+
+&&Guild_reward_multi_quest 連続達成ボーナス
+
+&&Guild_reward_chip チップ
+
+// ========================================================
+// MARK : 0.27c ギルド終了画面用の修正
+// ========================================================
+
+&&Guild_whole_quit 終了
+&&Guild_back_quest_selection クエスト一覧に戻る

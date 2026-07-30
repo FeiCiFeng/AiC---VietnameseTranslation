@@ -1,0 +1,54 @@
+%FAMILY _
+// ミニゲーム 魚釣り用
+
+&&Select_fish_start Cast
+&&Select_fish_settings Change bait/rod
+&&fish_feed_submit Use bait
+&&fish_feed_target Targets
+&&fish_feed_counter &1 / &2 
+&&fish_KD_pickup_from_water Reel in
+&&fish_KD_tutorial_slow Hold for slow motion
+
+/* ___ fish_alert_feed_override ___ */
+Effect of previous bait will be overwritten.
+
+/* ___ fish_alert_no_rod ___ */
+You don't have a fishing rod.
+
+/* ___ fish_result_success ___ */
+Caught a <font color="ff:#ff9d45">&1</font>!
+
+/* ___ fish_result_length ___ */
+Length: &1 cm
+
+&&fish_gyotaku_len Score: &1<font color="ff:#666666">／&2 cm</font>
+&&fish_gyotaku_meet Number encountered: &1
+&&fish_gyotaku_catch Number caught: &1
+
+
+/* ___ fish_catchermgm_press ___ */
+Catch
+
+/* ___ fish_catchermgm_keep ___ */
+HOLD!
+
+/* ___ fish_result_highscore ___ */
+New high score!
+
+&&FishUi_equip Rod info
+&&FishUi_pond_state Water info
+&&FishUi_pond_no_feed No bait
+&&FishUi_pond_time_left_minute - &1m &2s rem.
+&&FishUi_pond_time_left - &1s rem.
+&&FishUi_pond_appear_fish Available fish:
+&&FishUi_catcharea_cfg_manipulate Left/Right
+&&FishUi_catcharea_cfg_manipulate0 Normal
+&&FishUi_catcharea_cfg_manipulate1 Inverted
+
+
+/* ___ FishUi_in_item_description ___ */
+Total fish caught: &1
+Fishing XP: &2 (Lv. &3)
+
+/* ___ fish_result_max_score ___ */
+Max size! XP bonus x2!

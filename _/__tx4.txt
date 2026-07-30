@@ -1,0 +1,483 @@
+%FAMILY _
+
+// ========================================================================
+// 231006 カタログの追加要素
+
+&&CatalogI_tab_shopping 購入できるお店
+// 素材回収の木／池で開いたときのピックアップタイトル
+&&Catalog_pickup_current_reel_spot 素材スポット (&1)
+
+
+// ==================
+// 231008 宝箱を手に入れた際にアイテムがいっぱい
+&&MoneyBox_adding_need_enough_room でも、手持ちアイテムがいっぱいで持てない……
+&&MoneyBox_adding_need_bottle でも、&1がないから持てない……
+
+
+// ========================================================
+// MARK : ver0.25
+// ========================================================
+
+
+&&Area_school  ベルミット\b士官校
+&&Area_sacred  恵みの母石
+
+&&GM_error_sacred エラー: 致命的な高濃度の魔力を検知。 速やかにその場から離れて下さい。
+
+// ========================================================
+// MARK : Dojo Game
+// ========================================================
+&&Mgm_dojo_tutorial 準備運動
+/* ___ Mgm_dojo_tutorial_desc ___ */ 
+このミニゲームの
+チュートリアルを確認します。
+失敗しても特に
+ペナルティはありません。
+/* ___ Mgm_dojo_generator_desc ___ */ 
+難易度: &1
+/* ___ Mgm_dojo_generator_count ___ */ 
+プレイ回数: &1 (勝利数:&2 ／ 最小ミス数:&3)
+/* ___ Mgm_dojo_generator_count_not_played ___ */ 
+プレイ回数: &1 (勝利数:&2)
+
+
+/* ___ Mgm_dojo_confirm_tutorial ___ */
+千里の道も一歩から。
+まずは当道場における作法を頭に叩き込むべし。
+
+
+/* ___ Mgm_dojo_confirm_learned ___ */
+既に習得したスキルであろうと、
+たゆまぬ鍛錬を惜しむこと無かれ。
+
+/* ___ Mgm_dojo_confirm_not_learned_first ___ */
+新たなスキルを学ぶ場合、
+初回のみこの価格を頂戴している。
+
+/* ___ Mgm_dojo_confirm_not_learned ___ */
+前回は、うぬのものとすることが叶わず仕舞いであったな。
+技術の体得には、何度打倒されても挑み続けることが肝要だ。
+
+
+/* ___ Mgm_dojo_confirm_choose ___ */
+「&1」の稽古を開始する！
+
+/* ___ Mgm_dojo_confirm_choose_tutorial ___ */
+準備運動を開始する！
+
+
+&&Mgm_dojo_confirm_btn_ok お願いします！
+&&Mgm_dojo_confirm_btn_cancel ちょっと待って
+
+
+
+
+&&Mgm_dojo_tuto_play_rest    あと &1 回
+&&Mgm_dojo_tuto_play0    リズムに合わせてグー<key la/>を出そう
+&&Mgm_dojo_tuto_play1    リズムに合わせてチョキ<key ra/>を出そう
+&&Mgm_dojo_tuto_play2    リズムに合わせてパー<key ta/>を出そう
+&&Mgm_dojo_tuto_play4    リズムに合わせて相手に勝つ手を出そう
+&&Mgm_dojo_indicate_next_hand    これ
+
+// ミニゲームUI
+
+&&Mgm_ui_highscore ハイスコア:
+&&Mgm_ui_playcount プレイ回数: 
+&&Mgm_ui_playcount_content &1 回
+&&Mgm_ui_updated_highscore ハイスコア更新！
+
+// Museum Viewer
+&&Museum_image_index &1<font size="20">/&2</font>
+&&KD_museum_viewer <key rem/>UI非表示 <key shift/>+<key ba/><key ta/>拡大／縮小
+&&KD_museum_viewer_move 切替
+&&KD_museum_viewer_quit <key menu/>終了
+&&KD_museum_viewer_comment <key c/>品評
+
+
+
+// 状態異常
+// アクチール: Actihol
+
+&&SerTitle_drunk    ふわふわ
+/* ___ SerDesc_drunk ___ */ 
+アクチールによって意識がふわふわした状態。
+
+// 後半は↓ orgasm_after とほぼ同じ文章です。
+
+/* ___ SerDesc_drunk_1 ___ */ 
+料理で得られるバフ効果が&1%減少します。
+
+/* ___ SerDesc_drunk_2 ___ */ 
+また、時々転倒してしまいます。
+
+/* ___ SerDesc_drunk_3 ___ */ 
+飲むべきじゃなかった。
+
+/* ___ SerDesc_drunk_0 ___ */ 
+MPゲージのヒビ割れがある程度防がれます。
+魔力の回復効率が低下します。
+この効果はベンチに座っても回復せず、
+戦闘などによって時間を経過させる
+か、水を飲むことで回復できます。
+
+
+
+// 買い物での飲食
+// tx2 の lunch_confirm / tx3 の lunch_drink_confirm に対応しています。
+
+&&lunchstore_drink_confirm <b>「&1」</b>を買って飲む？
+&&lunchstore_drink_confirm_burst <font color="ff:#A00B35">お腹いっぱいで飲み切れないけど</font>\n<b>「&1」</b>を買って飲む？
+&&lunchstore_drink_confirm_dupe <font color="ff:#B828AC">十分に栄養が取れないかもしれないけど</font>\n<b>「&1」</b>を買って飲む？
+
+
+&&lunchstore_confirm <b>「&1」</b>を買って食べる？
+&&lunchstore_confirm_burst <font color="ff:#A00B35">お腹いっぱいで食べ切れないけど</font>\n<b>「&1」</b>を買って食べる？
+&&lunchstore_confirm_dupe <font color="ff:#B828AC">十分に栄養が取れないかもしれないけど</font>\n<b>「&1」</b>を買って食べる？
+
+&&Eat_Buy 買って食べる &1
+&&Eat_Buy_Drink 買って飲む &1
+
+&&SerTitle_overrun_tired    酷使
+/* ___ SerDesc_overrun_tired ___ */ 
+魔力が少ない状態で魔術を使い続けて疲労した状態。
+受けるダメージが増大します。
+MPゲージが割れやすくなります。
+「昏倒」が発生しやすくなります。
+マップを移動することで回復します。
+
+&&SerTitle_milky    母乳体質
+/* ___ SerDesc_milky ___ */ 
+大地のふしぎな力によって
+ノエルジュースの代わりに
+ノエルミルクが出ます。
+何故って？大地のふしぎな力の為です。
+
+
+&&SerTitle_clt_broken    衣装破壊
+/* ___ SerDesc_clt_broken ___ */ 
+衣装が破れてしまった状態。
+ベンチに座ることで修繕できます。
+
+/* ___ SerDesc_clt_broken_detail ___ */ 
+受けるダメージが1.5倍になります。
+回避の無敵時間が増大します。
+
+
+/* ___ Store_BarUnder_Help_Title ___ */
+酒場の秘密の蔵
+
+/* ___ Store_BarUnder_Help_Contents ___ */
+「売る」で手持ちのノエルジュース／ノエルミルク／ノエルの卵を
+独自通貨<font color="ff:#646D00">エキス <img mesh="money_juice"/> </font>に交換し、
+手に入れた<font color="ff:#646D00">エキス <img mesh="money_juice"/> </font>で商品を購入しましょう。
+
+アイテムを購入後、余った<font color="ff:#646D00">エキス <img mesh="money_juice"/> </font>は
+バーテンダーさんが管理してくれるので、次の取引に持ち越すことができます。
+
+いっぱいいっぱい出して、世界の裏側へ至る設定項目を潤しましょう。
+
+&&Store_selling_worthless これを売っても意味がない。
+
+/* ___ Item_special_config_detail ___ */ 
+コンフィグに新しい項目を追加します。
+このアイテムはインベントリ上には
+表示されません。
+
+&&Alert_spconfig_activate 新しいコンフィグ項目を得た。
+
+&&Alert_explode_bomb_in_inventory 持っていた爆弾が誘爆した…。
+
+&&deperture_dialog どこに行こう？
+&&deperture_home 拠点
+
+// ========================================================
+// MARK : ver0.25d 錬金術カタログ 新要素
+// ========================================================
+
+&&Catalog_enemyspot_dangerous 危険度: &1
+
+&&Catalog_pickup_reel_on_map アイテムリールスポット(&1)
+
+// ↓戦闘エリア関連の一覧が追加されます。
+
+&&Catalog_categ_item_summoner 戦闘エリア
+&&KD_reel_detail アイテムリールの詳細
+&&KD_enemyspot 戦闘エリアの詳細
+
+
+&&CatalogI_tab_enemyspot 取得できる戦闘エリア
+&&CatalogI_tab_enemydrop ドロップする敵
+&&CatalogN_enemyspot_defeated 今まで撃破した回数: &1回
+
+// ↓英語などの言語で「このアイテムを取得できる宝箱」というカテゴリーとして
+// 実装されていましたが、新しく「この戦闘エリアで得られる宝箱」というカテゴリーが追加されます。
+
+&&CatalogI_tab_chest_from_here 取得できる宝箱
+
+&&CatalogI_tab_address 場所
+&&catalog_show 表示
+
+&&recipe_categ_actihol カクテル
+&&name_recipe_actihol カクテルレシピ:&1
+
+
+
+// ========================================================
+// MARK : ver0.25f
+// ========================================================
+
+&&Alert_new_config_on_barunder  蔵に新商品が入荷されました。
+
+// ゲームオーバーの際、拘束解除／シャッフルボタンが追加されます。
+&&KD_go_escape_from_bind  拘束解除
+&&KD_shuffle_enemy_position  シャッフル
+
+
+
+// 錬金術カタログの減少カテゴリ
+&&Catalog_categ_sub_reduce_hp HP減少
+&&Catalog_categ_sub_reduce_mp MP減少
+&&Catalog_categ_sub_reduce_ep 興奮率減少
+
+/* ___ Alert_new_keybind_for_check ___ */
+ver0.25bより、キーコンフィグに新しく
+「調べる／話す」が追加されました。
+
+もし、ものを調べられなくなったりして困ったときは
+キーコンフィグを確認して下さい。
+
+// ========================================================
+// MARK : ver0.26
+// ========================================================
+
+&&Item_cmd_respawn 復活
+&&Item_cmd_respawn_useless (復活)
+
+
+&&Mgm_eggremove_KD タイミングよく <key submit/> 長押し
+// 卵排出中に絶頂してしまった場合
+&&Mgm_eggremove_retry もう少し頑張る
+&&Mgm_eggremove_abort あきらめる……
+// 卵のない状態だとただ単にバイブで一人遊びするだけになる
+&&Mgm_eggremove_noegg_retry もうちょっとだけ……
+&&Mgm_eggremove_noegg_abort おわる
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+
+// ver0.26b 予約
+// 自慰行為
+
+// &&Select_see_masturbate 自慰演出を見る
+&&Select_skip_masturbate 自慰を行う(演出スキップ)
+&&Select_no_masturbate がまんする……
+
+
+/* ___ Title_error_no_sound_driver ___ */
+サウンドドライバの初期化に失敗しました。
+&1
+
+/* ___ Title_error_no_sound_driver_nosound ___ */
+ゲームは無音状態で動作します。
+
+
+
+&&SerTitle_web_trapped    ねばねば
+&&SerDesc_web_trapped    粘液で絡め取られた状態。\n拘束攻撃から著しく抜け出しにくくなります。脱出するまで行動できません。
+
+&&Alert_rebagacha 方向キーを\nガチャガチャしろ！
+
+
+
+
+&&Bench_Cmd_restroom_cure_egged_no_tool がんばって出す
+&&Bench_Cmd_restroom_cure_egged_tool エッグリムーバーを使用
+
+
+&&bomb_selfexplode 所持していた爆弾が誘爆した...
+&&Recipe_do_not_rotten 戦闘しても腐敗しない
+
+
+&&SerTitle_stone    石化
+&&SerTitle_stone_complete    完全石化
+
+
+
+/* ___ SerDesc_stone_suffix ___ */
+レバガチャ（素早く上下左右を入力）することに
+よってのみ解除できます。
+物理攻撃を受けた際のダメージが減少します。
+
+/* ___ SerDesc_stone_complete_suffix ___ */
+身体の芯まで石化してしまい、解除できません……。
+
+&&SerTitle_orgasm_stack    絶頂蓄積
+&&SerDesc_orgasm_stack    絶頂できない状態でフラストレーションが溜まった状態。\n時が来ると一気に波となり押し寄せます。
+
+&&Alert_item_reduced_memorychip &1を落としてしまった……。
+
+
+// ========================================================
+// MARK : ver0.27 ステルスゲーム
+// ========================================================
+
+&&sneaking_MG_KD_top <key ta/>上へ
+&&sneaking_MG_KD_btm <key ba/>下へ
+&&sneaking_MG_KD_goout_right <key ra/>出る
+&&sneaking_MG_KD_goout_left <key la/>出る
+
+&&Alert_item_reduced_memorychip_success &1をティグリナさんに返した。
+
+
+
+// ========================================================
+// MARK : ver0.27 図鑑拡張
+// ========================================================
+
+&&CatalogI_tab_appear_enemyspot 登場する戦闘エリア - &1
+
+
+//レーションはコストが高いが倍の速度で減少する
+&&Recipe_cost_reduce_ratio 消耗速度: &1%
+
+
+&&Status_Tab_battle_abort 諦める...
+
+
+&&ItemConfirm_do_not_obtain このアイテムを持っていません。
+
+&&Map_show_target ターゲットを表示
+
+&&CatalogI_drop_enemy このアイテムを落とす敵
+&&Recipe_edible_in_battle 戦闘中でも使用可能
+
+
+// チップス確認タブ
+&&Scenario_Tab_tips TIPS
+
+
+// ========================================================
+// MARK : ver0.28
+// ========================================================
+&&Catalog_categ_item_cane 魔術デバイス
+
+&&Cane_graph_near_reach 近接リーチ
+&&Cane_graph_near 近接威力
+&&Cane_graph_far 放射威力
+&&Cane_graph_lockon ロックオン
+&&Cane_graph_stability 魔力保持力
+&&Cane_graph_mp_use_ratio 魔力消費効率
+&&Cane_graph_neutral 魔力中立性
+&&Cane_graph_casttime 詠唱速度
+&&Cane_graph_near_punch_speed 近接振り速度
+
+&&Item_cmd_equip_cane 装備する
+&&Item_cmd_equip_cane_disable (装備する)
+
+&&Alert_current_cane 既にこの杖を装備している。
+
+
+
+// ========================================================
+// MARK : 28
+// ========================================================
+&&Area_mount   拓く者の山岳
+
+
+
+// 鍛冶屋さん ========================
+&&ForgeUi_replace_cost 換装手数料: &1
+&&ForgeUi_buy_tester_cost テスター業務開始手数料: &1
+
+/* ___ ForgeUi_buy_tester_applied_damage ___ */ 
+この杖で与えたダメージ: 
+　&1 / &2　&3
+&&ForgeUi_buy_tester_completed 業務完了！
+
+/* ___ Forge_quest_applied_damage ___ */ 
+&1: &2 / &3
+/* ___ Forge_quest_applied_damage_on_quest_tracker ___ */ 
+&1:
+&2 / &3
+
+/* ___ Forge_detail_quest_target ___ */ 
+進行中のテスター業務: 
+&1
+
+&&ForgeUi_cmd_replace 換装する &1
+&&ForgeUi_cmd_buy テスター業務を開始 &1
+&&ForgeUi_cmd_buy_asking 手数料、高くない？
+&&ForgeUi_cmd_testfiring 試し撃ち
+
+&&ForgeUi_return_testfire_cane &1 を鍛冶屋さんに返した。
+&&ForgeUi_replace_cane &1 を加工した。
+&&ForgeUi_invalid_room_inventory アイテムがいっぱいです。
+&&ForgeUi_invalid_already_has 既に所持しています。
+&&ForgeUi_invalid_already_buy_src 交換前の杖がテスター業務対象です。
+&&ForgeUi_invalid_already_buy 今テスター業務で所持しています。
+
+/* ___ ForgeUi_buy_description ___ */
+「テスター業務を開始」を選択すると、
+この杖を借りてテスターとしての業務を受注します。
+受注後、指定量のダメージを敵に与えてクエストを完了すると、
+その杖を返さずに新しい杖のテスターに受注できます。
+
+/* ___ ForgeUi_buy_description_current ___ */
+現在、この杖のテスター業務を
+受注しています。
+
+/* ___ ForgeUi_confirm_replace ___ */
+&1 を &2 に換装します。
+&1 に戻す場合、再度手数料がかかります。
+よろしいですか？
+
+/* ___ ForgeUi_confirm_buy ___ */
+&1 のテスターとしてクエストを受注しますか？
+（指定のダメージ量 &2 を敵に与えてテスター業務を
+　完了することで、実質的にノエルの所有品となります）
+
+/* ___ ForgeUi_confirm_buy_already ___ */
+現在、既に別の杖「&1」の
+テスター業務を受注しています。
+この業務をキャンセルし、新しい杖
+「&2」のテスターとしてクエストを受注しますか？
+<font size="80%" alpha="0.5" linespacing=0.7>（敵に与えたダメージ量はリセットされませんが、もう一度元の杖の
+テスター業務を開始する際には改めてクエスト受注のための手数料を支払う必要があります）</font>
+
+
+
+&&CatalogI_tab_cane 杖の性能
+
+
+
+&&GO_KeyHelp_pause_lockon_switch <key submit/>この対象にフォーカス
+
+
+
+
+// ========================================================
+// MARK : 250710追加分
+// ========================================================
+
+&&Bench_Cmd_empty_stomach 食べたものを空にする
+&&Bench_Cmd_empty_stomach_get_juice 食べたものを空にする（体液を回収）
+&&Bench_Cmd_empty_stomach_juice_drop 食べたものを空にする（体液を捨てる）
+&&Alert_do_it_in_restroom お手洗いでやろう。
+
+
+
+
+// ========================================================
+// MARK : ver0.28d サウンドエラー対処
+// ========================================================
+
+/* ___ Title_error_sha_error ___ */
+<font color="ff:#000000"><b>ファイルの整合性エラーです。</b></font>
+…ファイルの解凍に失敗した可能性があります。
+もう一度7zまたはzipから当アプリケーションを再構築して下さい。
+
+
+
+

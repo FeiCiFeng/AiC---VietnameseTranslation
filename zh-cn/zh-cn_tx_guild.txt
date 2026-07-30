@@ -1,0 +1,452 @@
+%FAMILY zh-cn
+
+// ギルドクエスト
+&&GuildQ_categ_collectnew   采集
+/* ___ GuildQ_categ_desc_collectnew ___ */
+需设法收集到指定的物品。  
+接受委托前收集到的相应物品不计入进度。
+
+&&GuildQ_categ_collect  收购
+/* ___ GuildQ_categ_desc_collect ___ */
+需将指定物品提交到公会柜台。 
+接受委托前收集到的相应物品可以直接提交。
+
+&&GuildQ_categ_defeat   歼灭
+/* ___ GuildQ_categ_desc_defeat ___ */
+需在指定地点进行战斗并消灭所有敌人。
+
+
+&&GuildQ_categ_cook     烹饪
+/* ___ GuildQ_categ_desc_cook   ___ */
+&&GuildQ_categ_rescue   营救
+/* ___ GuildQ_categ_desc_rescue ___ */
+需在指定区域找到亟需救助的人员并将其救出。  
+此委托失败会导致公会评级大幅下降，请谨慎行动。
+
+&&GuildQ_categ_weapon   战斗试验
+/* ___ GuildQ_categ_desc_weapon ___ */
+铁匠铺的特别委托。  
+需使用我们提供的法杖完成指定数量的战斗。
+
+&&GuildQ_categ_deliver  配送
+/* ___ GuildQ_categ_desc_deliver___ */
+需将特定物品运输到指定位置，并抵御途中的魔族袭击。 
+受到伤害会导致物品劣化，最终减少委托结算的GP和金额。
+执行此委托时不允许使用快速移动功能。
+
+
+
+
+/* ___ GuildQ_categ_comment_collectnew_0 ___ */
+我们正在进行格拉提亚附近的地质调查，  
+需要您为我们收集若干新鲜的&1。
+
+/* ___ GuildQ_categ_comment_collectnew_1 ___ */
+我们正在研究&1
+在魔力辐射下的劣化情况。 
+如果您能帮忙收集一些过来，
+将会对我们的研究非常有帮助。
+
+
+/* ___ GuildQ_categ_comment_collectnew_2 ___ */
+我们这边的工作目前需要若干&1，
+而且一定要是新鲜采集的那种，
+旧的可不行。
+
+/* ___ GuildQ_categ_comment_collectnew_3 ___ */
+我一直忘不了新鲜的&1的味道，
+希望你能让我再尝一尝当初的那种感动……
+
+/* ___ GuildQ_categ_comment_collectnew_4 ___ */
+为了提高工作效率， 
+我这边需要一些&1。
+但是我自己没有时间去采集……
+所以，你可以帮我带一些
+新鲜的&1过来嘛？
+
+
+/* ___ GuildQ_categ_comment_collectnew_5 ___ */
+我家孩子吵着要&1，
+怎么劝都不听……
+而且这孩子不懂事，
+一定要新的，一点瑕疵都不行。
+所以…能麻烦您
+帮忙收集一些回来吗？
+
+
+/* ___ GuildQ_categ_comment_collect_0 ___ */
+我们这边急需&1
+作为炼金术的关键材料。  
+如果谁手头有空余的
+我们这边高价求购哦！
+/* ___ GuildQ_categ_comment_collect_1 ___ */
+我们现在在进行清除废墟瓦砾的工作，
+但是后勤部门缺少相关的药品。  
+如果你身上有&1， 能卖给我们吗？
+
+/* ___ GuildQ_categ_comment_collect_2 ___ */
+我的祖父的膝盖出了点问题，  
+需要&1来进行治疗……
+
+/* ___ GuildQ_categ_comment_collect_3 ___ */
+我在清点库存的时候，
+发现&1已经用完了。
+这东西还挺重要的，
+要是没有它，我晚上都睡不好呢……
+/* ___ GuildQ_categ_comment_collect_4 ___ */
+我在想，做游戏的时候……
+如果能用&1来助助兴的话
+肯定会很有趣！
+/* ___ GuildQ_categ_comment_collect_5 ___ */
+每天早上，我如果不摄取点儿&1
+就感觉整个人昏昏沉沉的清醒不起来。
+所以能拜托你给我一些吗？
+/* ___ GuildQ_categ_comment_collect_6 ___ */
+我真受不了我那极品邻居了……
+你身上有多余的&1能给我点儿吗？
+我想用那玩意儿吓唬他们一下。
+
+/* ___ GuildQ_categ_comment_collect_7 ___ */
+晚上的派对我打算穿上裙子参加，
+如果你有&1的能给我点儿吗？
+用它来装饰我的裙子再合适不过了。
+/* ___ GuildQ_categ_comment_collect_8 ___ */
+我家的屋顶突然漏水了……  
+修补的话要用到&1，你这里有吗？
+
+/* ___ GuildQ_categ_comment_collect_9 ___ */
+我的孩子&1一离手就会哭个不停，  
+但是不久前我家那个被咬坏了没法用了……
+如果你能帮忙的话就太谢谢了……
+
+/* ___ GuildQ_categ_comment_collect_10 ___ */
+我的作品要成为传世经典，
+还差最后的某样东西作为点睛之笔……
+没错……就是&1，你能帮我弄来吗？
+有了它，我的作品定能成为旷世杰作。
+/* ___ GuildQ_categ_comment_collect_11 ___ */
+完蛋了，瘾上来了…但是身上的&1没有了……
+快给我点儿&1吧……
+/* ___ GuildQ_categ_comment_collect_12 ___ */
+这年头赶时髦的人，应该都清楚
+&1在年轻人里有多流行吧~
+你有多少我要多少，这就是我们的生活态度。
+/* ___ GuildQ_categ_comment_collect_13 ___ */
+你能给我一些&1嘛？
+我店里的告示牌要用到这个来点缀…
+/* ___ GuildQ_categ_comment_collect_14 ___ */
+我心爱的椅子坏掉了，
+我丈夫说要用&1才能把它修好。
+不过我也不清楚到底
+是哪道工序需要用到这东西呢……
+/* ___ GuildQ_categ_comment_collect_15 ___ */
+我妻子最近睡觉的鼾声越来越大了，
+你能给我弄一些&1来吗？
+我要的不多，能让她安静点就行。
+/* ___ GuildQ_categ_comment_collect_16 ___ */
+我听女儿说，她们班上的同学
+最近都在流行玩&1来着。
+但是这东西我家附近
+根本没有卖的……
+/* ___ GuildQ_categ_comment_collect_17 ___ */
+我们家祖传的高汤秘方中有一味
+必不可少的食材：&1。
+但最近这种食材面临短缺，
+再这样下去恐怕就不得不关门大吉了……
+/* ___ GuildQ_categ_comment_collect_18 ___ */
+我应该是吃错东西了，肚子一直疼个不停……
+我……我该不会死掉吧？
+医生说要有&1才能治好，
+可是我没有……
+/* ___ GuildQ_categ_comment_collect_19 ___ */
+这些天运气太背了，
+赌钱输得一塌糊涂，心疼死我了。
+听说只要在窗边放上&1就能转运，
+所以…为了我的亿万富翁梦，
+你一定要帮我把那个弄来！
+/* ___ GuildQ_categ_comment_collect_20 ___ */
+最近有个交易，所以我手头需要&1若干。
+请务必帮我找一些来，拜托了。
+
+/* ___ GuildQ_categ_comment_collect_21 ___ */
+家里的门坏了，这下有家回不了了。
+如果你能帮我弄来&1的话，
+我就可以直接砸开它了。
+/* ___ GuildQ_categ_comment_collect_22 ___ */
+我的爱人生前特别喜欢&1，
+我想要帮忙收集一些，
+但我年事已高，腿脚不灵便了，
+真是发愁啊……
+/* ___ GuildQ_categ_comment_collect_23 ___ */
+我需要&1，
+这样就能赶走那些烦人的客人了。
+/* ___ GuildQ_categ_comment_collect_24 ___ */
+在山林里探索的时候常常会遇到危险，
+所以我需要&1
+来制作一些驱除魔族的道具。
+
+
+/* ___ GuildQ_categ_comment_cook_0 ___ */
+今天有点想吃&1，
+如果有谁能做给我吃的话就好了。
+/* ___ GuildQ_categ_comment_cook_1 ___ */
+老家那&1的味道总是让我念念不忘。
+有没有一流的厨师
+能让我再品尝到妈妈的手艺呢？
+
+/* ___ GuildQ_categ_comment_cook_2 ___ */
+我今生最大的梦想就是尝尝&1，
+所以务必要做得美味点哦。
+/* ___ GuildQ_categ_comment_cook_3 ___ */
+放假时父亲给我做的&1的味道真让人怀念，
+好想再尝尝类似的味道啊……
+你能帮忙做一份吗？
+/* ___ GuildQ_categ_comment_cook_4 ___ */
+我是一位美食家，我想要一份&1
+来研究这种食物的特殊味道。
+不过我可是相当挑剔的，做好心理准备哦？
+
+
+/* ___ GuildQ_categ_comment_cook_5 ___ */
+我平时上班前都会去吃&1的，
+但那家餐馆今天没开门，所以没吃上……
+有谁能做出和那差不多的食物吗？
+
+
+
+/* ___ GuildQ_categ_comment_cook_6 ___ */
+本来我要用&1来当派对开胃菜的，
+大家可都等着呢，结果我忘记买了……
+所以能拜托你给我做一份吗？
+
+
+
+
+
+/* ___ GuildQ_categ_comment_defeat_0 ___ */
+有报告称，
+近期发现部分夜行性魔族
+在白天也开始活动了。
+必须把这种危险扼杀在萌芽状态。
+/* ___ GuildQ_categ_comment_defeat_1 ___ */
+我们确认到个别区域有强力魔族出现，
+与它们的战斗可能会十分危险，
+请你注意安全，在指定地点将其消灭。
+/* ___ GuildQ_categ_comment_defeat_2 ___ */
+我们在特定的战斗点中
+检测到磁场流动出现异常。
+希望公会中有余力的人
+能前往现场，
+并讨伐该区域的魔族。
+/* ___ GuildQ_categ_comment_defeat_3 ___ */
+魔力植物的一片栖息地中
+出现了大量魔族，情况十分棘手。
+希望有人能帮我们迅速解决它们，
+恢复正常的通行秩序。
+/* ___ GuildQ_categ_comment_defeat_4 ___ */
+我在赶来城镇的路上
+感觉到有个地方的魔力波动很奇怪……
+也许是我想得太多了，
+但以防万一，在有人受到伤害之前，
+能不能请你去调查一下呢？
+
+
+/* ___ GuildQ_categ_comment_rescue_0 ___ */
+我的女儿失踪了，我想会不会
+是被魔族抓住了，真让人担心……
+我们分开时的地点我还记得，
+你能帮忙在那附近寻找一下她吗？
+
+
+
+/* ___ GuildQ_categ_comment_rescue_1 ___ */
+我和朋友走散了。
+最后见面的地方我还记得，但我也没什么能做的……
+
+
+/* ___ GuildQ_categ_comment_rescue_2 ___ */
+魔族把我的恋人抓走了！
+我想去救她，但我根本就不会跟魔族战斗……
+我会告诉你我们最后见面的地方，
+请你一定帮我救救她……！
+
+
+
+
+/* ___ GuildQ_categ_comment_rescue_3 ___ */
+村里有一名学生，
+出发去上学之后就失踪了。
+请赶快帮忙把她平安无事地救回来。
+
+
+
+/* ___ GuildQ_categ_comment_weapon_0 ___ */
+我们开发的新法杖需要实地测试的数据，
+因此需要拜托你用它击败一定数量的魔族，
+以便我们记录法杖的性能。
+
+
+
+
+/* ___ GuildQ_categ_comment_deliver_0 ___ */
+我这里有一件货物要配送到顾客手上，
+它很容易腐坏，所以配送要越快越好……
+希望你能尽快送到，拜托你了。
+
+/* ___ GuildQ_categ_comment_deliver_1 ___ */
+我家孩子今天忘记带资料了，
+没了资料可怎么主持那场发言会呢。
+你能不能帮帮忙，
+把孩子需要的资料送过去？
+
+
+/* ___ GuildQ_categ_comment_deliver_2 ___ */
+我们向来都提供最快捷的外卖服务，
+可今天负责配送的那位小哥生病了。
+你能不能替他送一趟呢？
+
+/* ___ GuildQ_categ_comment_deliver_3 ___ */
+今天是我女朋友生日，
+我给她准备了一个惊喜，
+但这么重要的礼物我一不留神给忘在家里了…
+能不能在今天之内帮我带过来呢？
+
+// ========================
+
+/* ___ Guild_alert_progressing ___ */
+当前您已接受了&1件公会委托。
+如果接受新的委托，则视为放弃上述委托，
+您将被扣除&2 GP作为罚款。
+是否要继续？
+
+/* ___ Guild_alert_progressing_one ___ */
+
+如果放弃这&1个委托，
+您将会被扣除&2 GP作为罚款。
+是否要继续？
+
+
+&&Guild_rank 当前公会评级：
+&&Guild_current_gp &1 GP
+&&Guild_progress_gp <font color="&2"> → &1 GP</font>
+
+&&Guild_tab_current_prgoress 已接受的委托
+
+&&Guild_entry_title 【&1】
+&&Guild_entry_title_collect &1 &2 x&3
+
+&&Guild_detail_obtain_money 获得<img mesh="money_icon" width=18 />: &1
+&&Guild_detail_obtain_rank 获得GP &1 / 失败时扣除GP &2
+&&Guild_detail_receivable_quest 已接受的委托数 &1 / &2
+
+
+&&Guild_total_reward_money 报酬总计: <img mesh="money_icon" width="30" scale="1" /><font size="120%" color="ff:#4150FF">&1</font>
+/* ___ Guild_collect_detail ___ */
+收集目标: &1
+
+&&Guild_recieving_ask 是否接受此委托？
+&&Guild_recieving_temp 您可在离开柜台前\n撤回对委托的承接请求。
+&&Guild_recieving_already 已接受此委托。  
+
+&&Guild_Btn_recieve_quest 接受委托
+&&Guild_Btn_abort_quest_ask 放弃委托...
+&&Guild_Btn_abort_quest 放弃委托
+&&Guild_Btn_abort_quest_temp 还是不接了
+&&Guild_Btn_deliver_ask 是否要交付物品…
+&&Guild_Btn_deliver 确认交付
+&&Guild_Btn_recipebook <key d/>+<key a/>在图鉴中检视
+
+&&Guild_Btn_abort_recieve_new 放弃并检视下一个委托
+&&Guild_Btn_confirm_quest 确认接受委托
+&&Guild_Btn_confirm_quest_cancel 还是算了
+
+
+&&Guild_Inventory_mine 背包/仓库
+&&Guild_Inventory_deliver 待交付物品
+&&Guild_item_deliver_count 还需交付 &1 
+
+&&Guild_cmd_map_return <key cancel/>结束地图移动模式
+
+&&KD_guild_add <key add/>接受委托
+&&KD_guild_rem <key rem/>放弃委托
+
+/* ___ Guild_alert_cannotreceive_max ___ */
+已超过当前等级可以接受的
+委托数量上限(&1)。
+
+/* ___ Guild_alert_cannotreceive_not_discovered ___ */
+注意：您还未去过该战斗点。
+
+
+
+// ========================
+&&subquest_gq_report 向公会报告
+
+
+&&Guild_pickup_fof_fieldguide 委托细节
+
+
+&&subquest_gq_collect 交付指定物品
+&&subquest_gq_collect_new 新采集指定物品 
+&&subquest_gq_defeat 在该战斗点取胜
+
+&&subquest_gq_defeat_count 战斗x&1
+// 【雨】 などなど
+&&subquest_gq_defeat_dangerousness 危险度补正：+&1
+&&subquest_gq_defeat_weather 【天气：&1】
+&&subquest_gq_defeat_attr 【属性附加】
+&&subquest_gq_defeat_attr_detail 【属性附加：&1】
+&&subquest_gq_defeat_fix_enemy 【固定敌人：&1】
+
+
+// ========================
+&&Guild_reel_submit 打开所有宝箱\n<font size="12">（将消耗所有效果转轮）</font>
+
+&&Guild_reward 报酬转轮
+&&Guild_Btn_open_quest_tab 打开委托列表
+&&Submit_gohome_abort_quest 确认并返回据点
+
+/* ___ Guild_reel_hold ___ */
+当前已拥有公会的效果转轮 &1 个，  
+转轮宝箱 &2 个。  
+
+/* ___ Guild_reel_hold_2 ___ */
+转轮宝箱最多可存放 &1 个。
+
+/* ___ Guild_reel_hold_over ___ */
+拥有的转轮宝箱数量已超出上限 (&1) 。
+请直接打开所有的转轮宝箱
+以确认当前的报酬。
+
+
+/* ___ Guild_reel_failure_penalty ___ */
+作为委托失败的惩罚，
+将会直接打开所有转轮宝箱
+以确认当前的报酬。
+
+
+/* ___ Guild_alert_goout_another_area ___ */
+目前您在公会中所接的委托
+需在 &1 完成，如若此时前往&2，
+可能会导致上述委托无法完成。  
+是否仍要出发？  
+
+/* ___ Guild_alert_backhome_without_clear ___ */
+目前您在公会中所接受的 &1  个委托，
+还剩 &2 个仍未完成。
+若此时返回据点，
+将视为放弃委托。
+
+
+
+
+&&Guild_reward_multi_quest 连续完成委托的奖励
+
+&&Guild_reward_chip 小费
+
+// ========================================================
+// MARK : 0.27c ギルド終了画面用の修正
+// ========================================================
+
+&&Guild_whole_quit 取消
+&&Guild_back_quest_selection 返回委托列表

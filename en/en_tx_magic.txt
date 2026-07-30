@@ -1,0 +1,96 @@
+%FAMILY en
+
+&&Mag_title_whitearrow White Arrow
+
+/* ___ Mag_desc_whitearrow ___ */
+<font letterspacing="0.94">Shoots an arrow of light from above the caster's head.
+Easy to master and has a short casting time, but isn't very powerful.
+Mostly used by support mages to help keep enemies at a distance.</font>
+
+
+&&Mag_title_fireball Energy Ball
+
+/* ___ Mag_desc_fireball ___ */
+<font letterspacing="0.94">A massive fireball of devastating power.
+Deals splash damage that can hit through walls.
+Its direction can be changed 3 times, but the caster will be defenseless while controlling it.
+Shield or dodge to break control in a pinch.
+Will knock down the caster if it explodes too close to them.
+</font>
+
+
+&&Mag_title_pr_burst Holy Burst
+
+/* ___ Mag_desc_pr_burst ___ */
+<font letterspacing="0.94">Hold <key PR_BURST/>.
+Releases a burst of energy to knock back enemies.
+Mana used for this spell cannot be recollected which risks enemies absorbing it.
+Can still be cast even when out of mana, but will take a serious toll on the caster's mind. 
+</font>
+
+&&Mag_title_dropbomb Ground Bomb
+
+/* ___ Mag_desc_dropbomb ___ */
+<font letterspacing="0.94">Compresses energy into a small bomb.
+Low range and power, but frightens and scatters enemies.
+Useful for buying time to cast other spells or to break up groups.
+It can also destroy certain types of walls, making it useful for exploring.
+</font>
+
+// ========================================================
+// MARK : 220115 追加分
+// ========================================================
+
+&&Mag_title_thunderbolt Thunderbolt
+
+/* ___ Mag_desc_thunderbolt ___ */
+Shoots a straight beam of electricity from thin air to attack enemies.
+The electric orb must be suspended in the air first to charge its energy. 
+If it collides with a wall or enemies before it finishes charging, the energy will be scattered and the orb will lose considerable power.
+<font color="ff:#FF2B79">You can also get hurt by this magic.</font> Be careful while using it.
+
+
+// ========================================================
+// MARK : 250305
+// ========================================================
+
+&&Mag_title_watershard Water Shard
+
+/* ___ Mag_desc_watershard ___ */
+Summons 8 shards of water.
+Each can lock onto a separate target before being fired,
+or be kept to encircle Noel like protective armor.
+
+&&Mag_title_powerbomb Powerbomb
+
+/* ___ Mag_desc_powerbomb ___ */
+Unleashes an explosive wave of heat. Destroys certain terrain and items.
+Dispersing energy over a large field has less destructive power than one would think.
+But, when concentrated into a shotgun blast...
+
+&&Mag_KD_default (Use:&1)
+
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================
+&&Mag_title_flowerycircle Flowery Circle
+
+
+/* ___ Mag_desc_flowerycircle ___ */
+Creates a magical field that quickens HP regen speed.
+Monsters inside the field further increase the regen speed and have their
+attack and defense weakened. Area of effect scales with the Lock-on stat.
+No effect against mechanical enemies.
+
+&&Mag_KD_default (Cast: &1)
+
+&&Mag_title_blackhole Gravity Well
+
+/* ___ Mag_desc_blackhole ___ */
+Creates a miniature black hole that pulls in airborne objects and small monsters.
+Area of effect scales with the Lock-on stat.
+Recast to end the effect early and refund a portion of the mana cost.
+
+
+// 260114 hinayua フラワリーサークルの効果テキストに変更があります。

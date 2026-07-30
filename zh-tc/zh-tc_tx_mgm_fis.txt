@@ -1,0 +1,53 @@
+%FAMILY zh-tc
+// ミニゲーム 魚釣り用
+
+&&Select_fish_start 拋竿
+&&Select_fish_settings 變更釣竿或魚餌
+&&fish_feed_submit 撒餌
+&&fish_feed_target 魚餌對象
+&&fish_feed_counter &1 / &2 
+&&fish_KD_pickup_from_water 收竿
+&&fish_KD_tutorial_slow 按住來慢動作觀察
+
+/* ___ fish_alert_feed_override ___ */
+撒下新魚餌後，
+會失去舊魚餌的效果。
+
+/* ___ fish_alert_no_rod ___ */
+身上沒有釣竿
+
+/* ___ fish_result_success ___ */
+釣到<font color="ff:#ff9d45">&1</font> 了！
+/* ___ fish_result_length ___ */
+身長： &1cm
+
+&&fish_gyotaku_len 分數： &1<font color="ff:#666666">／&2cm</font>
+&&fish_gyotaku_meet 遭遇的次數： &1隻
+&&fish_gyotaku_catch 捕獲的隻數： &1隻
+
+
+/* ___ fish_catchermgm_press ___ */
+配合魚的動作調整釣鉤
+/* ___ fish_catchermgm_keep ___ */
+穩住！
+
+/* ___ fish_result_highscore ___ */
+魚拓更新！
+
+&&FishUi_equip 裝備中的釣竿
+&&FishUi_pond_state 現在池子的狀況
+&&FishUi_pond_no_feed 沒有撒任何餌
+&&FishUi_pond_time_left_minute (剩下&1分&2秒)
+&&FishUi_pond_time_left (剩下&1秒)
+&&FishUi_pond_appear_fish 現在能釣到的魚: 
+&&FishUi_catcharea_cfg_manipulate 收竿時的左右操作
+&&FishUi_catcharea_cfg_manipulate0 同向
+&&FishUi_catcharea_cfg_manipulate1 反向
+
+
+/* ___ FishUi_in_item_description ___ */
+釣起的魚總數:&1
+釣魚經驗值:&2 (Lv.&3)
+
+/* ___ fish_result_max_score ___ */
+最大尺寸！ 經驗值x2

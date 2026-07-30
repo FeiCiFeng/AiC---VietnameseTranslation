@@ -1,0 +1,374 @@
+%FAMILY ko-kr
+
+&&Enemy_WORMS 벌레
+&&Enemy_OTHER 무언가
+&&Enemy_MUSH 버섯
+&&Enemy_MAGE 바보
+&&Enemy_TENTACLE 촉수
+
+&&Summoner_forest_mush_coroseum 균사의 왕
+&&Summoner_forest_cliff_portal 암야의 장
+
+&&Summoner_forestS_swamp 파도소리
+
+// ========================================================
+// MARK : 220121追加
+// ========================================================
+
+&&Summoner_forest_mushpot2 포자가 흩날리는 곳
+&&Summoner_forest_mush_narrowroad 머리 위 주의
+&&Summoner_forest_foxhall 염무 카구라
+&&Summoner_forest_buibui 기마궁사 모임
+&&Summoner_forest_wood_slash 비폭의 공허
+&&Summoner_forest_senzyo 토룡의 둥지
+&&Summoner_forest_tikuwar 비천한 보급병
+&&Summoner_forest_nightlake 수면의 신기루
+&&Summoner_forest_clocktower 마리오네트
+&&Summoner_forest_acid_lake 산에 침식된 고슴도치
+&&Summoner_forest_tomato 피의 제압자
+&&Summoner_forest_treecrack 균열의 파수꾼
+&&Summoner_forest_darkpotu 잭 인 더 박스
+&&Summoner_forest_toybox 도굴꾼
+&&Summoner_forest_senzyo2cliff  도그런
+&&Summoner_forest_wood_hall  산성목 오르되브르
+&&Summoner_forest_wood_right_exit  공중회랑
+&&Summoner_forest_nightacid  고인 산의 나락
+
+&&Enemy_PUPPY 강아지
+
+
+&&Enemy_GOLEM 목각 인형
+&&Enemy_GOLEM_OD 거인
+&&Enemy_GOLEM_OD2 거인
+&&Enemy_FOX 구미호
+&&Enemy_UNI 침봉
+// Sea Urchin
+&&Enemy_SNAKE 토사
+&&Enemy_SPONGE 해면
+
+&&Summoner_can_battle_in_night 밤에만 전투 가능
+
+
+
+
+
+
+// ========================================================
+// MARK : ver022 追加
+// ========================================================
+
+&&Enemy_GECKO 도마뱀
+&&Enemy_FROG 늪 개구리
+&&Enemy_FROG_VORE 늪 개구리에게 삼켜짐
+&&Enemy_BEAM 최음선
+&&Enemy_BOSS_NUSI 숲의 주인
+&&Summoner_forest_toylabo  누덕누덕 래버러토리
+&&Summoner_forest_coroseum_frog  탐욕스러운 혹닉
+&&Summoner_forest_rwood_column 낡은 역의 야연
+&&Summoner_forest_geckoland 활탈하는 학과 거북이
+&&Summoner_forest_swamp 고혹스러운 늪
+&&Summoner_forest_wind_senzyo 바람의 아트리움
+
+&&Summoner_forest_nusi_coroseum  숲의 주인
+
+
+// ========================================================
+// MARK : 221229 追加
+// ========================================================
+&&Enemy_MKB 목마
+
+
+// ========================================================
+// MARK : ver 0.24
+// ========================================================
+
+&&Enemy_MECHGOLEM 기갑인형
+
+
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+/* ___ Enemy_description_SLIME ___ */
+원시적인 마족.
+지능은 낮지만 의외로 도약력이 있다.
+무리에게 습격당해 마력을 드레인당하지 않도록 주의.
+
+/* ___ Enemy_description_SLIME_OD ___ */
+대량의 마력을 빨아들였으며 이성을 잃었다.
+엘프를 삼켜 본능에 맡긴 채 산란관을 쑤셔넣기 때문에
+절대 잡히지 말 것.
+
+/* ___ Enemy_description_GOLEM ___ */
+주로 폐광에 무리지어 서식하는 마족.
+다양한 공작기술로 엘프를 농락한다.
+그들이 무언가를 만들기 시작했다면 완성되기 전에 배제할것.
+
+/* ___ Enemy_description_GOLEM_OD ___ */
+거대해져 투석기를 거대한 곤봉으로 사용한다.
+난폭한 생김새에 반해 지능은 의외로 높은 듯 하다.
+2연격을 점프 등으로 피해 배후에서 공격하는 것이 좋다.
+
+
+
+/* ___ Enemy_description_MUSH ___ */
+습한 곳에 서식하는 마족.
+포자탄을 발사해 공격한다.
+지면에 숨어있을 때에는 공격이 잘 통하지 않지만
+샷건으로 끄집어낼 수 있다.
+
+
+/* ___ Enemy_description_MUSH_OD ___ */
+원래는 움직이지 못하던 울분을 풀고 싶은 것인지 놀랄 정도로 기민하다.
+대량의 가스를 살포해 상대를 '기생목' 상태로 만든다.
+다만, 한 번 가스를 살포한 후에는 포자의 재장전이
+눈에 띄게 둔해지기 때문에 그 때를 노리자.
+
+/* ___ Enemy_description_PUPPY ___ */
+다수의 벌레의 유체를 몸에 두른 채 달리는 마족.
+움직임이 빨라 화이트 애로우를 명중시키기 어렵다.
+유체를 두르고있을 때에는 HP의 대미지를 MP로 치환한다.
+에너지 볼을 직격시켜 폭발로 날려버리는 것이 낙.
+
+/* ___ Enemy_description_SPONGE ___ */
+마디에서 자라난 검은 구체에 대량의 마력을 비축하는 마족.
+다른 마족에게 마력탄을 쏘아 마력을 회복시킨다.
+다가가면 날뛰지만 잠잠해진 후에는 샷건으로 처리하기 쉽다.
+
+/* ___ Enemy_description_UNI ___ */
+전신에 가시를 두른 마족.
+둥실둥실 떠다닌다 싶다가도
+갑작스럽게 가시를 전방에 집중시켜 달려들기도.
+이렇다 할 약점이 없기 때문에 마술로 빠르게 처리하자.
+
+
+/* ___ Enemy_description_UNI_OD ___ */
+오염체화되어 무거워졌으며 지면이나 벽에 가시를 꽂아
+굴려다닐 수밖에 없어졌다.
+큰 울음소리를 낸 후의 광범위한 찌르기에 주의.
+
+/* ___ Enemy_description_SNAKE ___ */
+지면에 숨어 상대의 발밑에서 튀어올라 구속하는 마족.
+튀어오르는 곳에 그라운드 봄을 놓아두면
+그것을 삼키고 기절한다.
+
+
+/* ___ Enemy_description_GECKO ___ */
+벽을 네 발로 기어다니는 마족.
+공격을 한 번 명중시키면 뒤집어져 빈틈을 보인다.
+착지하는 곳을 노리자.
+
+/* ___ Enemy_description_MAGE ___ */
+제1시대마술 '썬더 볼트'의 레플리카를 학습한
+특수한 밤에만 출현하는 마족.
+마술로 록온하면 워프 등을 활용해 회피한다.
+움직임에 현혹되지 않도록 이쪽도 페인트를 활용해
+상대의 움직임을 읽어내자.
+
+/* ___ Enemy_description_FOX ___ */
+숲의 특정 장소를 영역으로 삼는 희소마족.
+지면에 흩뿌려진 화염은 잠시 잔류하기 때문에
+되도록이면 고지대에서 싸울 것.
+살상력이 높은 만큼 연비가 나빠
+항상 마력식물로 향하는 습성을 가진다.
+
+
+/* ___ Enemy_description_FROG ___ */
+늪을 영역으로 삼는 희소마족.
+상대의 공격의사를 간파해 뛰어올라
+빙결탄을 쏘아 공격한다.
+뒤를 보고 영창해 먼저 상대가 뛰어오르기를
+기다려 카운터를 먹여주자.
+
+
+
+
+/* ___ Enemy_description_BOSS_NUSI ___ */
+숲에 서식하는 대형마족.
+마을의 엘프 군대가 쓰러트렸다……는 것으로 되어있다.
+
+
+// 敵属性
+&&Enattr_atk 공격력 증가
+&&Enattr_def 방어력 증가
+&&Enattr_mp_stable 마력안정체
+&&Enattr_fire 불
+&&Enattr_ice 얼음
+&&Enattr_thunder 번개
+&&Enattr_slimy 점액
+&&Enattr_acme 음독
+&&Enattr_invisible 불가시
+
+&&Enemy_GOLEMTOY_MKB 목마
+// 「雑念」を撒き散らす奴
+&&Enemy_GOLEMTOY_RM 레인메이커
+&&Enemy_GOLEMTOY_POD 미사일 포트
+&&Enemy_GOLEMTOY_BOW 빔 런처
+
+&&Enemy_PENTAPOD 오족
+&&Enemy_PIG 야생 돼지
+
+&&Enemy_ROAPER 로퍼
+
+&&Enemy_GOLEM_0_NM 목각 인형(비동작)
+
+
+
+/* ___ Enemy_description_PIG ___ */
+산에 서식하는 마족.
+거대하면서도 움직임은 기민하며
+특히 거대하고 흰 엄니는
+주위의 적을 날려버릴 정도의 힘을 지닌다.
+근접공격에는 카운터로 누르기 공격을 하기 때문에
+원거리 공격 위주로 싸우는 것이 바람직하다.
+
+
+
+/* ___ Enemy_description_PENTAPOD ___ */
+산에 서식하는 마족.
+상부의 잘 닦인 두부에서 빔을 발사한다.
+빔에 맞으면 석화되며 연속으로 당할 경우
+움직일 수 없어져 상당히 위험하다.
+근본적으로 단단하지만 일단 공격당하면 정지하기 때문에
+봄 등으로 멈추게 한 후 두부에 강한 공격을 꽂아넣자.
+
+
+
+/* ___ Enemy_description_ROAPER ___ */
+산에 서식하는 마족.
+가늘고 긴 몸에서 여러개의 촉수를 뻗어
+엘프에게 달라붙어 마력을 흡수한다.
+포효는 더욱 많은 촉수를 사용해
+강력한 구속을 시도하는 신호.
+포효중에 피해를 입으면 더욱 큰 피해를 입는다.
+
+
+
+&&EnemyKind_devil 마족
+&&EnemyKind_machine 기계
+
+
+// ========================================================
+// MARK : 028
+// ========================================================
+&&Enemy_RAMDA 술병
+/* ___ Enemy_description_RAMDA ___ */
+산에 서식하는 마족.
+소형이지만 사냥감을 통채로 삼킬 수
+있을 정도로 크게 벌어지는 입이 있다.
+삼킨 먹이를 둥지로 가져가
+자성이 다할 때까지 마력을 짜내
+유체의 먹이로 준다.
+
+
+// Hive
+&&Enemy_EHOME 둥지
+
+
+/* ___ Enemy_description_EHOME ___ */
+땅에 뿌리를 내리고 소형 마족을 소환한다.
+토해낸 적은 그 지역의 본래 동시 출현 상한에
+포함되지 않기 때문에 자리가 마족으로
+가득차기 전에 서둘러 격파하는 편이 좋다.
+
+
+&&Summoner_SmnC_garage 모의전(창고)
+
+&&Summoner_SmnC_td 그라치아 방위작전
+
+&&Enattr_big 거대화
+
+&&Enemy_HONEYCOMB 벌집
+
+
+/* ___ Enemy_description_HONEYCOMB ___ */
+육각형 구조 둥지 내부에 대량의 유체를 저장하고있는 마족.
+유체인 동시에 강한 자성을 지닌 개체를
+방패처럼 주위에 부유시켜 본체의 피해를
+최소화하며 이들의 군체를 조종해 공격한다.
+중력조작을 통해 자세를 무너트리는 것
+이외로는 유효한 피해를 줄 수 없다.
+
+
+&&Enemy_SYABON 비눗방울
+
+
+// ========================================================
+// MARK : 029
+// ========================================================
+
+&&Enemy_LEECH 산 거머리
+&&Enemy_LEECHQUEEN 여왕 거머리
+&&Enemy_EMPRESS 여제
+
+/* ___ Enemy_description_LEECH ___ */
+산에 서식하는 작은 웜 계열 마족.
+한마리 한마리는 약해 그라운드 봄을 비롯한
+광범위 폭발을 일으키는 마술로 간단하게 처리할 수
+있지만, 사각에서 기습해 발목을 잡을 수 있으니 주의.
+
+
+&&Summoner_mount_windtower 하늘하늘 산바람
+
+&&Summoner_mount_honeypit 벌레먹은 함정
+
+&&Summoner_mount_ruinroad 고원의 군생지
+&&Summoner_mount_busstop 저격수의 특화점
+
+&&Summoner_mount_trash_cr 폐기장의 강도
+&&Summoner_mount_junk_senzyo 정크필리아
+
+
+
+&&Summoner_mount_mine0 흑암 속 폐갱도
+
+
+&&Summoner_mount_sand_senzyo 나락의 폭룡
+
+
+
+
+&&Summoner_mount_poison_lake 소금쟁이 독절임
+
+
+
+&&Summoner_mount_poison_cave 암야의 포말
+
+&&Summoner_mount_mine_1 잠든 불발탄
+
+
+
+&&Summoner_mount_honey_darkpit 모래의 폭군
+
+
+&&Summoner_mount_cave_honey0 실 잣는 거인
+
+
+
+
+
+&&Summoner_mount_spider_coroseum 토끼굴
+
+&&Summoner_mount_mine_lt 초과근무
+
+
+&&Summoner_mount_cannon_senzyo 화포의 댄스 파티
+
+
+
+
+
+&&Summoner_mount_darkcave 칠흑의 태동
+
+&&Summoner_mount_woodslash 수직굴의 나룻배
+
+
+
+&&Enattr_acme_on_fear_mode 어둠
+
+
+&&Enemy_BOSS_SPIDER 산거미
+
+&&Enemy_MIMIC 미믹
+ 

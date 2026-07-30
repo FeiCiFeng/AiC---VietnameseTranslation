@@ -1,0 +1,201 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+
+// =====================
+// About <dwarf> tag::: ドワーフタグについて！
+// The Dwarf language is an original language that replaces hiragana with original symbols. 
+// PLEASE LEAVE sentences that begin with the <dwarf> tag untranslated.
+// 幽霊ちゃんの喋るドワーフ言語はひらがなを表意文字として置き換えた日本語ベースの独自言語です。
+// 「<dwarf>」タグで始まるセンテンスは翻訳せずそのままにしておいて下さい。
+// =====================
+
+
+
+// ファースト
+
+
+
+
+
+*___firstman/t00 n_00
+<I><angry><m scary>魔、魔族！？
+
+
+
+*fh_01
+<W3>……。
+*n_02
+<s4>……。
+
+*fh_03
+<s5>…………。
+*n_04
+<s8>…………。
+
+*n_05
+<think>啊，很顯然是魔族……
+但是，看來並沒有敵意……。
+
+ 
+ //話しかける
+
+
+
+*___firstman/t01 n_00
+請問……
+你在這裡釣魚嗎？
+
+*fh_01
+………。
+
+*n_02
+放在那邊的是釣竿……？
+是指一起釣的意思嗎？
+ 
+ // 受け取らない
+
+
+
+
+*n_10
+或許是某種陷阱……
+還是先不用了。
+
+*fh_11
+……。
+
+
+
+
+// 受け取るが荷物がいっぱい
+*n_20
+啊，但是現在背包拿不下了……。
+
+*fh_21
+<s5>…………。
+
+*n_22
+<think>……牠看似有點失望呢……？
+
+
+// 受け取る
+
+
+
+*fh_50
+<m joy><s2>…………！
+
+*n_51
+<think>牠看起來似乎挺開心的。
+
+*n_52
+但是……
+我從來沒有釣過魚呢……。
+
+*fh_53
+………。
+
+*n_54
+<think>……牠指著自己的釣竿。
+是打算示範給我看嗎？
+
+
+
+
+
+*n_60
+// お手本を見ない
+……總之先試試吧。
+畢竟我是拿到新法杖和家具，
+不先看說明書就會先試的那類人。
+
+
+*fh_61
+……。
+
+// お手本を見る.1
+*___firstman/t_fish_turorial n_00
+<think>我看看……。
+浮標沉下去之後將釣竿拉起來。
+到這邊，還算是看得懂。
+*
+<think>魚吃餌之後的動作
+有點複雜搞不太懂。
+<c5>接下來要看仔細了<c0>。
+<key cancel/>
+
+// お手本を見る.2
+*n_10
+<think>魚吃餌後，
+<c5>依據魚的動作來揮動釣竿，
+用<key la/><key ra/>將釣鉤
+控制在適當的位置<c0>……是吧。
+*
+<think>用快速點放
+的方式來調整位置，
+如果移動的太快，
+魚會很容易從釣鉤上脫落。
+
+
+
+// 釣れない時のヒント
+*___firstman/t_fishing_need_listen n_00
+唔，釣得不太好呢……。
+*n_01
+這邊還是先冷靜下來，
+仔細觀察魔族的釣法，
+在從中學習比較好呢。
+
+
+
+// やめておく
+
+
+ 
+ // 水に落下すると助けてくれる。
+
+
+*___firstman/_checkpoint_back n_00
+<m scary>咳噗！<W2>咳噗！<W2>嗚呃……<W2>
+<W3><m0>謝、謝謝你救了我……。
+*fh_01
+……。
+ 
+ 
+ 
+ // 作業台を調べる
+
+*___firstman/t_craft0 n_00
+這個是作業檯？
+……上面還寫著製作釣竿的備忘錄。
+*
+雖然我看不懂文字，
+但是有畫著簡易的圖解。
+內容還算是能夠理解。
+
+
+*fh_01
+<W4>………。
+
+*n_01
+<think><s4>……<s1>牠似乎想告訴我
+要用也行的感覺。
+嗯嗯，我看看……
+*
+<think>…………。
+*n_02
+<think>依據畫上的描述，
+<c5>撒的餌不同，魚也會不同<c0>
+……這個意思吧？
+*
+<think>這個作業檯
+能夠製作撒餌用的飼料……
+或許應該試試看。

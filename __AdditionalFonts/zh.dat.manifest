@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3626470602
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d2124ef386d195f11f788c4d4550001b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8becd547c702b21343d9309dc05a5f64
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: d2124ef386d195f11f788c4d4550001b
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AssetBundlesSrc/zh/SourceHanSerifSC-SemiBold.otf
+- Assets/AssetBundlesSrc/zh/jf-openhuninn-2.1.ttf
+Dependencies: []

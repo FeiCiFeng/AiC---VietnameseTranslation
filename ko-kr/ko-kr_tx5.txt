@@ -1,0 +1,202 @@
+%FAMILY  ko-kr
+
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================
+
+&&SerTitle_poison    독
+/* ___ SerDesc_poison ___ */ 
+HP가 조금씩 감소하지만
+이로 인해 전투불능이 되지는 않습니다.
+노멀 이하의 난이도의 HP 자동회복 속도가 감소하며
+요리로 얻을 수 있는 특수효과가 반감합니다.
+
+
+
+&&SerTitle_poison_2    맹독
+/* ___ SerDesc_poison_2 ___ */ 
+이 상태는 자연치유되지 않고
+벤치에 앉아도 회복되지 않습니다.
+
+
+&&SerTitle_fainted    기절
+&&SerDesc_fainted    의식을 일시적으로 잃은 상태. 행동이 불가능해집니다.
+
+
+
+&&corrupt_fear 공포로 몸이 움츠러들어 힘이 들어가지 않아…
+
+
+ 
+&&SerTitle_sexercise_fear   나약함
+&&SerDesc_sexercise_fear  공포치가 상승하기 쉬워집니다. MP 게이지의 균열이 생기기 약간 어려워집니다.
+
+&&SerTitle_shamed_ep_fear   전율
+&&SerDesc_shamed_ep_fear    <font color="#FF729F">[공포치 50% 이상]</font> 공포에 의해 집중할 수 없는 상태. 적과의 접촉으로 넘어지기 어려워지지만 피격시에 영창된 마력이 흩어지기 쉬워집니다.
+
+
+&&SerTitle_orgasm_after_fear    전의상실
+&&SerDesc_orgasm_after_fear 공포에 의해 행동을 제한당한 상태. 달릴 수 없어지며 이동속도가 감소합니다. MP 게이지의 균열이 방지됩니다. 마역의 회복 효율이 저하됩니다.
+
+
+// ========================================================
+// MARK : 恐怖処理
+// ========================================================
+
+&&Submit_cure_fear 두려움을 가라앉힌다
+&&Bench_Cmd_cure_fear_home 두려움을 가라앉힌다(거점)
+&&Alert_cannot_cure_fear 이제 슬슬 가야해.
+&&Alert_cure_fear 공포에서 약간 회복되었다.
+&&Alert_cure_fear_little 배가 고파서 회복에 집중할 수 없었어…
+/* ___ WarpConfirm_cure_fear ___ */
+공포에 의해 감소된 마력 최대치를 회복하는 대신
+먹은 것이 약간 소화됩니다.
+(연속으로 할 수는 없습니다.)
+
+/* ___ WarpConfirm_cure_fear_alert ___ */
+배가 너무 고파 제대로 회복할 수 없습니다.
+
+&&Catalog_categ_sub_reduce_ep_fear 공포치 감소
+&&Catalog_categ_sub_cure_ep_fear 공포치 회복
+
+&&Item_detail_cure_ep_fear 공포치 &1 회복
+&&Item_detail_dmg_ep_fear <font color="#864788">공포치 &1 상승</font>
+
+
+&&Tuto_shotgun <key x/>마술 영창중 <key z/>로 샷건
+
+
+
+&&SkillItem_Map_Treasure_title &1의 보물의 메모
+&&SkillItem_Map_Treasure_desc &1에 있는 보물상자의 위치를 맵 위에 랜덤하게 1개 표시한다.
+
+&&SerTitle_atk_up   공격력 상승
+&&SerDesc_atk_up   공격력이 &1% 상승합니다.
+&&SerTitle_def_up   방어력 상승
+&&SerDesc_def_up   방어력이 &1% 상승합니다.
+&&SerTitle_atk_down   공격력 감소
+&&SerDesc_atk_down   공격력이 &1% 감소합니다.
+&&SerTitle_def_down   방어력 감소
+&&SerDesc_def_down   방어력이 &1% 감소합니다.
+
+
+&&Stat_ep_fear 공포치 &1 / &2
+
+
+// ========================================================
+// MARK : ver029 宿屋
+// ========================================================
+&&EvTitle_inn_caravan 여관 '구름의 숲' 
+// もちろん Chronos のもじりです。クロというNPCが登場するわけではないので、翻訳の際は Chronos 側に寄せて下さい。
+&&EvTitle_inn_city 여관 '사냥꾼의 잠자리'
+&&UiInn_nmenu_simple_tent 텐트 숙박
+&&UiInn_nmenu_simple 숙박 온리 플랜
+&&UiInn_nmenu_economy 이코노미 룸
+&&UiInn_nmenu_sweet 스위트 룸
+&&UiInn_nmenu_royalsweet 로열 스위트
+&&Select_CheckIn_Tent 체크인
+
+&&UiInn_dangerousness_add 위험도 &1 상승
+&&UiInn_dangerousness_rem 위험도 &1  감소
+&&UiInn_dangerousness_reset 위험도와 효과 릴, 이번 모험의 전투 내역을 초기화
+&&UiInn_stomach_progress 만복도 <img mesh="recipe_cost_3" width="24"/>&1 감소
+
+
+&&UiInn_content 숙박 플랜 내용
+&&UiInn_content_hp 체력 전부 회복
+&&UiInn_content_mp 마력 전부 회복
+&&UiInn_content_ser 상태이상 회복
+&&UiInn_content_mp_fear 공포에 의한 마력 최대치 감소를 리셋
+&&UiInn_content_mp_gauge_weak 마력의 그릇의 균열을 가보강
+&&UiInn_content_mp_gauge 마력의 그릇의 균열을 완전 수복
+
+&&UiInn_content_offprice_food 음식 &1％ 할인권 포함 (&2개까지)
+&&UiInn_content_ticket_food 음식 &1개까지
+&&UiInn_check_foodmenu 메뉴를 확인
+
+
+&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">\< 주문할 수 있는 것은 숙박 중인 고객뿐인 것 같아. \></font>
+
+&&UiInn_service_discount 음식 &1％ 할인권 x&2
+
+
+// ========================================================
+// MARK : 特殊コンフィグ用
+// ========================================================
+&&catalog_suitable_for_vore_digest 삼켜져 소화 있음
+&&CatalogI_fishable_area 이 물고기를 낚을 수 있는 장소: 
+
+&&GO_Select_return_to_bench 벤치로 돌아간다
+&&GO_Select_return_to_title 타이틀로
+
+&&GO_KeyHelp_top_show_menu 메뉴
+&&Telop_gameover GAME OVER…
+
+// ========================================================
+// MARK : 特殊コマンド用
+// ========================================================
+
+/* ___ Store_GRank_Help_Title ___ */
+공원의 수수께끼의 노인
+/* ___ Store_GRank_Help_Contents ___ */
+모험가 길드에서 얻은 길드 포인트(GP)를
+댓가로 특별한 아이템과 교환합니다.
+
+GP를 너무 팔아 랭크가 저하했을 경우
+다음에 길드에서 수주할 수 있는 의뢰 또한
+다운그레이드되는 점에 주의하세요.
+
+
+&&Store_no_enough_grank <b>길드 포인트가 부족해…</b>
+
+&&ItemConfirm_term_need 퀘스트 요구 소재: 
+
+&&ItemConfirm_Dish_total_cost 코스트 &1 이상
+&&ItemConfirm_Dish_total_grade 전체 등급 &1 이상
+
+&&Log_item_cannot_obtain 하지만 이 이상 아이템을 가져갈 수 없어…
+
+&&Alert_cannot_change_temporary 지금은 변경할 수 없어.
+
+
+
+/* ___ WarpConfirm_enable_night_warp ___ */
+조사도가 &1%를 달성해
+야간・우천시에도 &2 에서
+빠른 이동을 할 수 있게 되었다!
+
+&&GM_Mag_switch_tool_gz 특수 도구
+&&Item_cmd_edit_tool_gz 특수 도구 기능 편집
+
+&&SerTitle_cocoon 고치화
+&&SerDesc_cocoon   고치 안에 갇힌 상태. 마력의 회복효율이 상승하지만 래버 가챠의 효율이 감소합니다.
+
+
+
+/* ___ GzToolSel_assign ___ */ 
+전투 중 <key s/>+<key la/><key ba/><key ta/><key ra/>로
+지팡이에 등록한 특수 기능을 사용할 수 있습니다.
+
+
+&&KeyHelp_Hold_to_execute 길게 눌러 실행
+&&Item_cmd_gztool_use 지금 사용
+
+&&Alert_replaced_temporary_item 교환권을 사용했다.
+
+
+
+// エッグリムーバー説明追加
+&&Mgm_eggremove_show_help 설명서
+&&Mgm_eggremove_help_1 1. <key submit/>을 길게 눌러 도구를 안까지 살살 집어넣습니다.
+&&Mgm_eggremove_help_2 2. 안쪽을 빨아들이는 것이 느껴지면 <key submit/>의 입력을 해제해 자신의 페이스에 맞게 천천히 도구를 빼냅니다.
+
+
+
+// ========================================================
+// MARK : ver0.29e
+// ========================================================
+
+
+&&GM_skill_edit_manip 입력 방식 변경
+&&GM_skill_switch_enabled 사용/미사용 변경

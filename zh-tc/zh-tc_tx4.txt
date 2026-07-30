@@ -1,0 +1,468 @@
+%FAMILY zh-tc
+
+// ========================================================================
+// 231006 カタログの追加要素
+
+&&CatalogI_tab_shopping 能購買的店
+// 素材回収の木／池で開いたときのピックアップタイトル	
+&&Catalog_pickup_current_reel_spot 素材點 (&1)
+
+
+// ==================
+// 231008 宝箱を手に入れた際にアイテムがいっぱい	
+&&MoneyBox_adding_need_enough_room 因持有物品太滿了無法帶走……
+&&MoneyBox_adding_need_bottle 因沒有&1的關係無法帶走……
+
+
+// ========================================================
+// MARK : ver0.25
+// ========================================================
+
+
+&&Area_school  貝爾米特\b士官校
+&&Area_sacred  恩惠的母石
+
+&&GM_error_sacred 錯誤: 感測到致命的高濃度魔力。請盡速離開這個地方。
+
+// ========================================================
+// MARK : Dojo Game
+// ========================================================
+&&Mgm_dojo_tutorial 準備運動
+/* ___ Mgm_dojo_tutorial_desc ___ */ 
+可以查看關於此
+小遊戲的新手教學。
+就算失敗了
+也不會有什麼懲罰。
+/* ___ Mgm_dojo_generator_desc ___ */ 
+難易度: &1
+/* ___ Mgm_dojo_generator_count ___ */ 
+遊玩次數: &1 (勝利數:&2 ／ 最小失誤數:&3)
+/* ___ Mgm_dojo_generator_count_not_played ___ */ 
+遊玩次數: &1 (勝利數:&2)
+
+
+/* ___ Mgm_dojo_confirm_tutorial ___ */
+千里之行，始於足下。
+首先先將本道場規矩牢記在心。
+
+
+/* ___ Mgm_dojo_confirm_learned ___ */
+就算是已經習得的技能，
+也絕不能鬆懈疏於鍛鍊。
+
+/* ___ Mgm_dojo_confirm_not_learned_first ___ */
+學習新的技能時，
+只限初次會給你此價格。
+
+/* ___ Mgm_dojo_confirm_not_learned ___ */
+上一回，你沒能將它化為自身的東西。
+要掌握得手的重點，就是無論被打倒多少次都要不斷嘗試。
+
+
+/* ___ Mgm_dojo_confirm_choose ___ */
+「&1」的練習即將開始！
+
+/* ___ Mgm_dojo_confirm_choose_tutorial ___ */
+準備運動即將開始！
+
+
+&&Mgm_dojo_confirm_btn_ok 請多多指教！！
+&&Mgm_dojo_confirm_btn_cancel 稍等一下
+
+
+
+
+&&Mgm_dojo_tuto_play_rest    還有 &1 次
+&&Mgm_dojo_tuto_play0    隨著節奏按下<key la/>來出石頭
+&&Mgm_dojo_tuto_play1    隨著節奏按下<key ra/>來出剪刀
+&&Mgm_dojo_tuto_play2    隨著節奏按下<key ta/>來出布
+&&Mgm_dojo_tuto_play4    隨著節奏按下並使出致勝招式擊敗對手
+&&Mgm_dojo_indicate_next_hand    下一個
+
+// ミニゲームUI 小遊戲UI
+
+&&Mgm_ui_highscore 最高分:
+&&Mgm_ui_playcount 遊玩次數: 
+&&Mgm_ui_playcount_content &1 次
+&&Mgm_ui_updated_highscore 最高分刷新！
+
+// Museum Viewer
+&&Museum_image_index &1<font size="20">/&2</font>
+&&KD_museum_viewer <key rem/>隱藏介面 <key shift/>+<key ba/><key ta/>放大／縮小
+&&KD_museum_viewer_move 切換
+&&KD_museum_viewer_quit <key menu/>結束
+&&KD_museum_viewer_comment <key c/>品評
+
+
+// 状態異常
+// アクチール: Actihol
+
+&&SerTitle_drunk    輕飄飄
+/* ___ SerDesc_drunk ___ */ 
+因酒精的影響意識處於輕飄飄的狀態。
+
+// 後半は↓ orgasm_after と同じ文章です。
+
+/* ___ SerDesc_drunk_1 ___ */ 
+從料理所獲得的增益效果減少&1%。
+
+/* ___ SerDesc_drunk_2 ___ */ 
+並且時不時會跌倒。
+
+/* ___ SerDesc_drunk_3 ___ */ 
+我真不應該喝的。
+
+/* ___ SerDesc_drunk_0 ___ */ 
+一定程度防止MP計量表破裂。
+魔力的回復效率下降。
+這個影響就算坐椅子也無法回復，
+只能藉由通過戰鬥的時間流逝，
+或是喝水才有可能恢復。
+
+
+
+// 買い物での飲食
+// tx2 の lunch_confirm / tx3 の lunch_drink_confirm に対応しています。
+
+&&lunchstore_drink_confirm 買<b>「&1」</b>來喝嗎？
+&&lunchstore_drink_confirm_burst <font color="ff:#A00B35">肚子很飽喝不完</font>\n買<b>「&1」</b>來喝嗎？
+&&lunchstore_drink_confirm_dupe <font color="ff:#B828AC">可能沒辦法完整地吸收營養</font>\n買<b>「&1」</b>來喝嗎？
+
+
+&&lunchstore_confirm 買<b>「&1」</b>來吃嗎？
+&&lunchstore_confirm_burst <font color="ff:#A00B35">肚子很飽吃不完</font>\n買<b>「&1」</b>來吃嗎？
+&&lunchstore_confirm_dupe <font color="ff:#B828AC">可能沒辦法完整地吸收營養</font>\n買<b>「&1」</b>來吃嗎？
+
+&&Eat_Buy 買來吃 &1
+&&Eat_Buy_Drink 買來喝 &1
+
+&&SerTitle_overrun_tired    疲憊
+/* ___ SerDesc_overrun_tired ___ */ 
+在魔力很少的狀態下仍持續使用魔術時發生的疲勞狀態。
+受到的傷害變多，
+MP槽變得非常容易破裂，
+也會讓「昏倒」發生的機率增加。
+能藉由在地圖之間移動來回復。
+
+
+
+&&SerTitle_milky    母乳體質
+/* ___ SerDesc_milky ___ */ 
+因大地神秘力量所致。
+諾艾爾牛奶竟然代替
+諾艾爾果汁流了出來。
+為什麼？因為是大地的神秘力量。
+
+
+&&SerTitle_clt_broken    衣服破損
+/* ___ SerDesc_clt_broken ___ */ 
+衣服破掉的狀態。
+坐在椅子時可以修復衣服。
+
+/* ___ SerDesc_clt_broken_detail ___ */ 
+受到的傷害變成1.5倍。
+迴避的無敵時間增加。
+
+/* ___ Store_BarUnder_Help_Title ___ */
+酒吧的秘密儲藏室
+
+/* ___ Store_BarUnder_Help_Contents ___ */
+用「賣出」來將持有的諾艾爾果汁／諾艾爾牛奶／諾艾爾蛋
+交換成專用貨幣<font color="ff:#90E400">精髓 <img mesh="money_juice"/> </font>，
+用拿到的<font color="ff:#90E400">精髓 <img mesh="money_juice"/> </font>來購買商品。
+
+購入物品後，剩餘的<font color="ff:#90E400">精髓 <img mesh="money_juice"/> </font>將會
+交由酒保來保管，以便可以在下次交易來使用。
+
+換出更多更多，持續滋潤世界裏側的設定項目吧。
+
+&&Store_selling_worthless 將這個賣掉也沒有任何意義
+
+/* ___ Item_special_config_detail ___ */ 
+能在設定裡面增加新的項目。
+這個物品將不會顯示在道具欄裡面。
+
+&&Alert_spconfig_activate 獲得的新的設定項目了。
+
+&&Alert_explode_bomb_in_inventory 身上的炸彈遭到引爆了。
+
+&&deperture_dialog 要去哪邊呢？
+&&deperture_home 據點
+
+
+// ========================================================
+// MARK : ver0.25d 錬金術カタログ 新要素
+// ========================================================
+
+&&Catalog_enemyspot_dangerous 危險度: &1
+&&Catalog_pickup_reel_on_map 地圖採集點(&1)
+
+// ↓エネミースポット関連の一覧が追加されます。
+
+&&Catalog_categ_item_summoner 戰鬥點
+&&KD_reel_detail 採集點詳細
+&&KD_enemyspot 戰鬥點詳細
+
+
+&&CatalogI_tab_enemyspot 可以取得的戰鬥點
+&&CatalogI_tab_enemydrop 掉落敵人
+&&CatalogN_enemyspot_defeated 至今為止的擊破次數: &1回
+
+// ↓英語などの言語で「このアイテムを取得できる宝箱」というカテゴリーとして
+// 実装されていましたが，新しく「この戦闘エリアで得られる宝箱」というカテゴリーが追加されます。
+
+&&CatalogI_tab_chest_from_here 可以取得的寶箱
+
+&&CatalogI_tab_address 地點
+&&catalog_show 顯示
+
+&&recipe_categ_actihol 調酒
+&&name_recipe_actihol 調酒配方:&1
+
+
+
+// ========================================================
+// MARK : ver0.25f
+// ========================================================
+
+&&Alert_new_config_on_barunder  倉庫有新的商品進貨了
+
+// ゲームオーバーの際，拘束解除／シャッフルボタンが追加されます。
+&&KD_go_escape_from_bind  解除拘束
+&&KD_shuffle_enemy_position  將敵人位置重洗
+
+// 錬金術カタログの減少カテゴリ
+&&Catalog_categ_sub_reduce_hp HP減少
+&&Catalog_categ_sub_reduce_mp MP減少
+&&Catalog_categ_sub_reduce_ep 興奮值減少
+
+/* ___ Alert_new_keybind_for_check ___ */
+版本ver0.25b之後，在按鍵設定裡
+新增了「調查／對話」的按鍵選項。
+
+如果因為無法調查東西，覺得困擾的時候
+還請確認一下按鍵設定。
+
+// ========================================================
+// MARK : ver0.26
+// ========================================================
+
+&&Item_cmd_respawn 復活
+&&Item_cmd_respawn_useless (復活)
+
+
+&&Mgm_eggremove_KD 抓好時機長按 <key submit/> 
+// 卵排出中に絶頂してしまった場合
+&&Mgm_eggremove_retry 再加把勁
+&&Mgm_eggremove_abort 還是算了……
+// 卵のない状態だとただ単にバイブで一人遊びするだけになる
+&&Mgm_eggremove_noegg_retry 再稍微弄一下……
+&&Mgm_eggremove_noegg_abort 結束
+
+// ver0.26b 予約
+// 自慰行為
+
+// &&Select_see_masturbate 觀看自慰演出
+&&Select_skip_masturbate 自慰(省略演出)
+&&Select_no_masturbate 忍耐……
+
+
+/* ___ Title_error_no_sound_driver ___ */
+音訊驅動初始化失敗。
+&1
+
+遊戲將已無聲狀態啟動。
+
+
+
+&&SerTitle_web_trapped    黏糊糊
+&&SerDesc_web_trapped     被粘液纏住的狀態。\n從拘束攻擊逃脫速度大幅下降。在逃脫前無法行動。
+
+&&Alert_rebagacha 連打方向鍵來掙脫！
+
+
+
+
+&&Bench_Cmd_restroom_cure_egged_no_tool 盡全力排出
+&&Bench_Cmd_restroom_cure_egged_tool 使用除蛋器
+
+
+&&bomb_selfexplode 攜帶的炸彈遭引爆了...
+&&Recipe_do_not_rotten 就算戰鬥過後也不會腐敗
+
+
+&&SerTitle_stone    石化
+&&SerTitle_stone_complete    完全石化
+
+/* ___ SerDesc_stone_suffix ___ */
+只能連打方向鍵才能解除掙脫！
+受到物理攻擊的傷害會減少。
+
+/* ___ SerDesc_stone_complete_suffix ___ */
+身體內部也遭到石化，無法解除了……。
+
+&&SerTitle_orgasm_stack    絕頂蓄積
+&&SerDesc_orgasm_stack    無法絕頂欲求全部累積起來的狀態。\n時浪潮會一氣湧現出來。
+
+&&Alert_item_reduced_memorychip 弄丟了&1……。
+
+
+// ========================================================
+// MARK : ver0.27 ステルスゲーム潛行遊戲
+// ========================================================
+
+&&sneaking_MG_KD_top <key ta/>往上
+&&sneaking_MG_KD_btm <key ba/>往下
+&&sneaking_MG_KD_goout_right <key ra/>出去
+&&sneaking_MG_KD_goout_left <key la/>出去
+
+&&Alert_item_reduced_memorychip_success 將&1還給了媞古莉娜
+
+
+
+// ========================================================
+// MARK : ver0.27 図鑑拡張
+// ========================================================
+
+&&CatalogI_tab_appear_enemyspot 出沒的戰鬥點 - &1
+
+
+//レーションはコストが高いが倍の速度で減少する
+&&Recipe_cost_reduce_ratio 消耗速度: &1%
+
+
+&&Status_Tab_battle_abort 放棄...
+
+
+&&ItemConfirm_do_not_obtain 沒有持有此物品。
+
+&&Map_show_target 顯示目標
+
+&&CatalogI_drop_enemy 掉落此物品的敵人
+&&Recipe_edible_in_battle 戰鬥中也能使用
+
+
+
+// チップス確認タブ
+&&Scenario_Tab_tips 小提示
+
+
+// ========================================================
+// MARK : ver0.28
+// ========================================================
+&&Catalog_categ_item_cane 魔術裝置
+
+&&Cane_graph_near_reach 近戰距離
+&&Cane_graph_near 近戰威力
+&&Cane_graph_far 放射威力
+&&Cane_graph_lockon 鎖定力
+&&Cane_graph_stability 魔力保持力
+&&Cane_graph_mp_use_ratio 魔力消耗率
+&&Cane_graph_neutral 魔力中立性
+&&Cane_graph_casttime 詠唱速度
+&&Cane_graph_near_punch_speed 近戰攻擊速度
+
+&&Item_cmd_equip_cane 裝備
+&&Item_cmd_equip_cane_disable (裝備)
+
+&&Alert_current_cane 已裝備了此法杖
+
+
+
+// ========================================================
+// MARK : 28
+// ========================================================
+&&Area_mount   開拓者山岳
+
+
+
+// 鍛冶屋さん ========================
+&&ForgeUi_replace_cost 換裝手續費: &1
+&&ForgeUi_buy_tester_cost 進行測試業務手續費: &1
+
+/* ___ ForgeUi_buy_tester_applied_damage ___ */ 
+此法杖給予的傷害: 
+　&1 / &2　&3
+&&ForgeUi_buy_tester_completed 達成業務！
+
+/* ___ Forge_quest_applied_damage ___ */ 
+&1: &2 / &3
+/* ___ Forge_quest_applied_damage_on_quest_tracker ___ */ 
+&1:
+&2 / &3
+
+/* ___ Forge_detail_quest_target ___ */ 
+進行中的測試業務: 
+&1
+
+&&ForgeUi_cmd_replace 換裝 &1
+&&ForgeUi_cmd_buy 開始測試業務 &1
+&&ForgeUi_cmd_buy_asking 手續費，不會太貴嗎？
+&&ForgeUi_cmd_testfiring 試用
+
+&&ForgeUi_return_testfire_cane 將 &1 還給了鐵匠鋪
+&&ForgeUi_replace_cane 將 &1 強化了
+&&ForgeUi_invalid_room_inventory 物品滿了
+&&ForgeUi_invalid_already_has 已經持有物品
+&&ForgeUi_invalid_already_buy_src 要替換的法杖有著測試業務在
+&&ForgeUi_invalid_already_buy 現在已經有測試業務
+
+/* ___ ForgeUi_buy_description ___ */
+當選擇了「開始測試業務」後，
+將會租借此法杖來進行測試業務
+當在完成給予敵人指定量的傷害後，
+此法杖無須返還即能夠再承接新的法杖測試業務
+
+/* ___ ForgeUi_buy_description_current ___ */
+現在已承接此法杖的測試業務中。
+
+/* ___ ForgeUi_confirm_replace ___ */
+將&1 換裝成 &2 嗎
+如要換回 &1 的情況、將會再度收取手續費
+你確定嗎？
+
+/* ___ ForgeUi_confirm_buy ___ */
+用 &1 來進行測試業務並接受委託嗎？
+（當完成對敵人造成 &2 的傷害量的測試業務後，法杖將會變為諾艾爾的所有物）
+
+/* ___ ForgeUi_confirm_buy_already ___ */
+現在已經承接了
+「&1」的測試業務
+將此業務取消並進行，
+「&2」的測試業務嗎？
+<font size="80%" alpha="0.5" linespacing=0.7>（給予敵人的傷害量不會重置，
+但是再次進行原先法杖的測試業務時將必須再次收取手續費）</font>
+
+
+
+&&CatalogI_tab_cane 法杖的性能
+
+
+
+&&GO_KeyHelp_pause_lockon_switch <key submit/>追蹤對象
+
+
+
+
+// ========================================================
+// MARK : 250710追加分
+// ========================================================
+
+&&Bench_Cmd_empty_stomach 將吃進肚子的食物清空
+&&Bench_Cmd_empty_stomach_get_juice 將吃進肚子的食物清空（回收體液）
+&&Bench_Cmd_empty_stomach_juice_drop 將吃進肚子的食物清空（捨棄體液）
+&&Alert_do_it_in_restroom 到廁所再做。
+
+
+
+
+// ========================================================
+// MARK : ver0.28d サウンドエラー対処
+// ========================================================
+
+/* ___ Title_error_sha_error ___ */
+<font color="ff:#000000"><b>檔案完整性錯誤。</b></font>
+可能是檔案解壓縮過程中失敗導致的錯誤。
+請重新解壓縮檔案或重新下載遊戲後再解壓縮。
+
+

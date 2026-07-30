@@ -1,0 +1,335 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+*___city_forge/t00 fd_00
+Welcome.
+Oh, hey, I know you.
+From the witch’s shop.
+
+*fd_01
+We buy jewels from you guys for the staves we forge. They’re always top quality.
+*
+Ah, but you’re not here to talk about that. What can I help you with? Staff maintenance?
+
+*n_01
+Well, um...
+
+*fd_02
+Looking to trade in that starter model for something more befitting a cadet?
+
+*n_03
+...what’s wrong with this one?
+
+*fd_04
+Nothing, sorry. My inner salesperson got away from me there. It’s a lovely staff.
+
+*n_05
+...
+
+
+*___city_forge/t01 ff_06
+...patchwork.
+
+*n_07
+Huh?
+
+*fd_08
+He means your staff.
+*
+The crystal is brand new, but the grip is ancient so you aren’t getting the best performance out of it.
+*
+Did you cobble it together yourself? Those must've been the only parts you had on hand.
+*
+A bold presumption, but he's the expert.
+
+*n_09
+<angry><I><m scary>Those are HIS words!?
+
+*fd_10
+You have to read between the lines with him.
+
+*n_11
+<think>How can I do that when he didn't give a second line?
+
+*n_12
+Well, he's right. These were the only parts I had at the time.
+*
+The grip is from my childhood. I just dug it out of storage.
+
+*fd_13
+I bet it feels real comfortable in your hands. Familiar.
+
+*ff_14
+...weathered.
+
+*fd_15
+It's suffering from wear and tear.
+*
+You should replace it with a new one that suits you.
+
+*ff_16
+...convert.
+
+*fd_17
+We can swap out the parts right here for you.
+*
+There's a fee for our services, so think carefully before you choose one.
+*
+I think that last part goes without saying though.
+
+*n_18
+Everything goes without saying with this guy!
+
+
+*board_forge 
+You can now customize your staff at the forge in Grazia.
+You can only have one staff in your possession at any given time.
+But...maybe there's a way around that...
+
+
+*___city_forge/board_recruit board_recruit
+Ayy-ohh whassup besties its ya boi comin at ya with a vibe check<emoji>❗️🥰🥰🥰</emoji>
+My shoulders r super stiff this mrning<emoji>😭</emoji>
+but im locked in on my new staff designs<emoji>🦾🥸</emoji>
+these latest ones just hit different<emoji>✨</emoji>((o(´∀｀)o))
+any queens lookin for somethin that slays shuld cum see me<emoji>❤️</emoji><emoji>🤩</emoji><emoji>❗</emoji>
+be sure to tell us what type of staff you really want<emoji>😜</emoji>lol jkjk...unless<emoji>🤔❓️</emoji>
+
+come down to the forge n give your staff a glow up<emoji>❗️🦶💨💨</emoji>
+things r rlly poppin off down here＼(^o^)／
+no cap<emoji>❗</emoji>
+
+#magic #testerswanted #casters #newfrontiers 
+#cheersquad #staves #magicbattle #lookingforgroup
+
+
+// 杖を買いたい! ========================
+
+*___city_forge/t_buy00 ff_00
+...restrictions.
+
+*fd_01
+Yyyeah, there's laws about owning more than one staff.
+*
+But there's ways around it.
+
+*fd_02
+People come to us all the time to swap out their crystals and grips. Customers get upset with the fees pretty quick.
+*
+<m scary><c red>I just wanna color coordinate with my outfit! This is totally unfair!
+
+*fd_03
+So we came up with the tester system.
+
+*fd_04
+You can read about it on the poster over there.
+
+
+// バイト募集の張り紙を見る。おじさん構文というか絵文字で覆い尽くされている。
+
+*n_05
+Umm...what exactly does that mean?
+
+*___city_forge/t_buy01 ff_06
+...hiring.
+
+*fd_07
+We're looking for people interested in field testing our merchandise.
+*
+You get to keep more than one staff on hand, and we get the data collected by the staff to help improve its design.
+
+*n_08
+Is that...legal?
+
+*ff_09
+...loophole.
+
+*fd_10
+We obey the letter of the law.
+*
+As a tester, your job would be to <c5>inflict a certain amount of damage on monsters<c0> with the staff.
+*
+You can only test <c5>one staff at a time<c0>.
+*
+Once testing is complete, it's yours to keep.
+*
+But you didn't hear that from me.
+
+*n_11
+So, once I’m done testing out a staff, I can return and get another one.
+*
+And once I'm done with that one-
+
+*fd_12
+Easy there. This system keeps us out of trouble, but don't get carried away.
+
+*ff_13
+...trust.
+
+*fd_14
+Right, this system only works if we know we can trust each other.
+*
+Trust in the quality of our staves, and we'll trust you to collect useful data for us.
+
+*n_15
+Gotcha.
+
+
+// 二人に話しかける前にバイト募集の張り紙だけ見る
+
+*___city_forge/board_recruit n_100
+Is this a help wanted poster?
+
+// →……歪。に続く
+
+// 初回会話を済ませたあと張り紙を見る
+*___city_forge/board_recruit fd_200
+Interested? It’s a service we offer to elves who want to have more than one staff.
+
+// →……募集。に続く
+
+
+// 業務請負を見たあと張り紙をもう一度見る
+
+*n_300
+This dialect is very...strange.
+
+*ff_301
+...bygone.
+
+*fd_302
+That's just how kids used to talk.
+*
+They had different values back then, too. <m scary>Your staff is like your bestie! You can’t just yeet it whenevs!
+
+*fd_303
+Today's youths are more pragmatic. It’s better to switch out your staff to suit the situation.
+
+*fd_304
+But, he knew he had to get with the times to attract new customers.
+*
+Even if his slang is a bit dated.
+
+
+*fd_306
+He said he's embarrassed for not acting his age. It's "cringe-worthy".
+
+*n_307
+<angry><m ple>He didn't say anything at all that time!
+
+
+// 杖の性能について
+
+
+// 近接振り速度
+*___city_forge/t_desc_near_punch_speed fd_00
+“Swing Speed” affects how quickly your melee attacks execute.
+*
+Slow speeds are more easily interrupted by enemy attacks and can mess up your shotgun.
+*
+You might need to set up a Ground Bomb first to land those heavy hits.
+
+
+// 近接リーチ
+*___city_forge/t_desc_near_reach fd_00
+“Reach” is exactly what it sounds like. It’s how far your melee attacks reach.
+*
+This stat doesn’t matter too much. You’ll get more out of enhancers that buff the reach of any staff.
+
+
+*___city_forge/t_desc_near fd_00
+“Short-range” measures how effective the staff is with stored magical attacks, i.e. the shotgun.
+*
+Did you know different spells have different shotgun effects?
+*
+There's nothing more satisfying than landing a hit with a stored Energy Ball spell.
+
+
+*___city_forge/t_desc_far fd_00
+“Long-range” measures how effective fully chanted spells are.
+*
+With a high enough stat, you could fight off a horde without them ever getting close to you. Just keep an eye on your mana.
+
+
+*___city_forge/t_desc_lockon fd_00
+“Lock on” dictates how quickly a spell can track a moving target.
+*
+If the spell can track multiple targets, it can help lock on to each one more quickly as well.
+
+
+*___city_forge/t_desc_stability fd_00
+“Retention” dictates how much mana the staff will bleed and how easily the gauge cracks when you’re hit by an attack.
+*
+A staff with low retention might break after just a single hit. We recommend only advanced users try them.
+
+
+*___city_forge/t_desc_mp_use_ratio fd_00
+“Efficiency” dictates how much mana the staff requires for each spell.
+*
+One with low efficiency will leave you out of breath after just a few casts.
+*
+Use charger slots and keep mana restoring items on hand to offset this.
+
+
+*___city_forge/t_desc_neutral fd_00
+“Balance” dictates how much of each type of mana will be scattered after casting a spell.
+*
+One with high balance will scatter more green mana, which you can recover when low. Low balance will scatter more red mana for the enemy to steal.
+
+
+*___city_forge/t_desc_casttime fd_00
+“Cast Speed” is self-explanatory.
+*
+The faster you prepare your spells, the more damage you can deal. Just don’t get carried away.
+
+
+// 鍛冶屋のおじさんに用もないのに話しかけた
+*___city_forge/___smith_portal n_00
+<think>Whenever I see someone this absorbed in what they’re doing, I get the urge to pull a prank on them.
+*
+<think>Like put my finger next to their cheek and try to get them to turn their head.
+*
+<think>Of course, I would never actually do that...
+
+*ff_01
+...reception desk.
+
+*fd_02
+He says he’d appreciate it if you’d go to the reception desk and stop distracting him.
+
+*n_03
+Yes, that one was plain as day.
+
+
+*___city_forge/board_testfire board_testfire
+<key PR_BURST/>Choose another staff from within the Range.
+
+
+// テスター業務のコツ
+*___city_forge/t_desc_buy fd_00
+Tips for testing?
+*
+I don't really have any. Just go around and kill things with magic.
+*
+<c1>Repeat encounters<c0> won't generate new data. You gotta vary things up.
+*
+But if you increase the danger level enough that an encounter in a previous location changes, that will count.
+*
+You'll also want to dispatch the monsters as quickly as possible. Remember, total damage is what matters.
+*
+If they gorge themselves on mana, they get stronger, but their HP remains the same.
+*
+So it’s better to <c5>fight at night when monsters are swarming<c0> instead of in the afternoon.
+*
+You could also fight contaminated monster variants. Their HP is high, but they have low defense.
+*
+Don't worry if you're defeated. The staff will still retain any collected data.
+*
+And do be aware that <c5>non-magical damage<c0>, grenades, environment, etc. doesn't log any data.

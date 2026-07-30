@@ -1,0 +1,240 @@
+%FAMILY en
+
+&&Enemy_WORMS Insect
+&&Enemy_OTHER Enemy
+&&Enemy_MUSH Mushroom
+&&Enemy_MAGE The Fool
+&&Enemy_TENTACLE Tentacle
+
+&&Summoner_forest_mush_coroseum Lord of Hyphae
+&&Summoner_forest_cliff_portal Moonless Veil
+
+&&Summoner_forestS_swamp Roar of the Swamps
+
+// ========================================================
+// MARK : 220121追加
+// ========================================================
+
+&&Summoner_forest_mushpot2 Floor of Spores
+&&Summoner_forest_mush_narrowroad Mind Your Head
+&&Summoner_forest_foxhall Dancing Blaze
+&&Summoner_forest_buibui Merry-go-round
+&&Summoner_forest_wood_slash Waterfall Hollows
+&&Summoner_forest_senzyo Mole's Nest
+&&Summoner_forest_tikuwar Sly Supply Soldier
+&&Summoner_forest_wood_nightlake Shimmering Mirage
+&&Summoner_forest_clocktower The Marionette
+&&Summoner_forest_acid_lake Acid-soaked Hedgehog
+&&Summoner_forest_tomato Blood Conqueror
+&&Summoner_forest_treecrack Rift Guardian
+&&Summoner_forest_darkpotu Jack in the Box
+&&Summoner_forest_toybox Uninvited Miner
+&&Summoner_forest_senzyo2cliff  Dog Park
+&&Summoner_forest_wood_hall Acid Appetizer
+&&Summoner_forest_wood_right_exit  Air Corridor
+&&Summoner_forest_nightacid Acidic Abyss
+
+&&Enemy_PUPPY Puppy
+
+
+&&Enemy_GOLEM Puppet
+&&Enemy_GOLEM_OD Giant
+&&Enemy_GOLEM_OD2 Giant
+&&Enemy_FOX Nine-tailed Fox
+&&Enemy_UNI Urchin
+// Sea Urchin
+&&Enemy_SNAKE Mole Snake
+&&Enemy_SPONGE Porifera
+
+&&Summoner_can_battle_in_night Can only be encountered at night
+
+
+
+
+&&Summoner_forest_nightlake Shimmering Mirage
+
+
+// ========================================================
+// MARK : ver022
+// ========================================================
+
+&&Enemy_GECKO Lizard
+&&Enemy_FROG Frog
+&&Enemy_FROG_VORE Frog vore 
+&&Enemy_BEAM  Aphrodisiac Beam
+&&Enemy_BOSS_NUSI Lord of the Forest
+&&Summoner_forest_toylabo  Patchwork Laboratory
+&&Summoner_forest_coroseum_frog  Greedy Indulgence
+&&Summoner_forest_rwood_column Nocturnal Feast
+&&Summoner_forest_geckoland Slippery Lizards
+&&Summoner_forest_swamp Seductive Swamp
+&&Summoner_forest_wind_senzyo Wind Atrium
+
+&&Summoner_forest_nusi_coroseum  Lord of the Forest
+
+&&Enemy_MKB Wooden Horse
+
+// ========================================================
+// MARK : ver 0.24
+// ========================================================
+
+&&Enemy_MECHGOLEM Armored Puppet
+
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+/* ___ Enemy_description_SLIME ___ */
+A primitive monster with low intelligence that hurls itself at its foes.
+
+/* ___ Enemy_description_SLIME_OD ___ */
+A primitive monster with an insatiable appetite for mana. Once it engulfs an elf it will immediately attempt to lay eggs within them.
+
+/* ___ Enemy_description_GOLEM ___ */
+A social monster most often found near mining sites. They use their crafting skills to assemble dangerous contraptions. If you see one building something, take it out before it finishes.
+
+/* ___ Enemy_description_GOLEM_OD ___ */
+A monster whose size belies their equally high intelligence. Best to bait out their attacks, then dodge behind them before counterattacking.
+
+/* ___ Enemy_description_MUSH ___ */
+A spore-spouting monster often found in damp places. They retract underground when approached, but a good shotgun blast will still break through their defenses.
+
+/* ___ Enemy_description_MUSH_OD ___ */
+A spore-spouting monster that’s taking an opportunity to really stretch its legs. Its spore count will eventually drop and the clouds will become noticeably more spread out. Use that window to take it out.
+
+/* ___ Enemy_description_PUPPY ___ */
+A worm-shrouded monster that runs around at high speeds. The worms protect the monster from any incoming damage. Knock them off with a few quick hits, then go for the kill.
+
+/* ___ Enemy_description_SPONGE ___ */
+A monster that stores mana in orbs at the end of its stalks. Once the orbs are ready, it launches them at other monsters to restore their mana. Keep your distance once it starts thrashing about.
+
+/* ___ Enemy_description_UNI ___ */
+A monster that floats around lazily while launching spikes at its enemies. They can be a bit of a nuisance when fighting other monsters, so it's best to take them out first.
+
+/* ___ Enemy_description_UNI_OD ___ */
+A heavy monster that rolls around and sticks to walls and ceilings with its sharp spines. Stay far away when it lets out a howl so you don't get impaled.
+
+/* ___ Enemy_description_SNAKE ___ */
+A monster that crawls underground, then springs up beneath its victim and wraps them up. It can be stunned by tricking it into leaping up into a Ground Bomb.
+
+/* ___ Enemy_description_GECKO ___ */
+A monster that crawls around on all fours as quick as the wind. Give it a good smack when it jumps at you to knock it prone.
+
+/* ___ Enemy_description_MAGE ___ */
+A monster that only appears at night. It casts a replicated version of the spell “Lightning Bolt”. When targeted, they warp away to dodge the attack. Try to anticipate their movement and hit them hard and fast.
+
+/* ___ Enemy_description_FOX ___ */
+A rare monster that only appears in one spot in the forest. Their flames linger for a while, so be mindful of safe spots to keep fighting from. Their movement is limited to where mana plants grow.
+
+/* ___ Enemy_description_FROG ___ */
+A rare swamp-dwelling monster. A wily opportunist, it only attacks when it sees an opening. Turn your back to it to tempt it into attacking first, then hit it with a counter.
+
+/* ___ Enemy_description_BOSS_NUSI ___ */
+A large forest-dwelling monster.
+...It was supposed to be fought by an entire army.
+
+
+// 敵属性
+&&Enattr_atk ATK Up
+&&Enattr_def DEF Up
+&&Enattr_mp_stable MP Stable
+&&Enattr_fire Fire
+&&Enattr_ice Ice
+&&Enattr_thunder Elec
+&&Enattr_slimy Slimy
+&&Enattr_acme Aphro. Gas
+&&Enattr_invisible Invisible
+
+&&Enemy_GOLEMTOY_MKB Wooden Horse
+// 「雑念」を撒き散らす奴
+&&Enemy_GOLEMTOY_RM Rainmaker
+&&Enemy_GOLEMTOY_POD Missile Launcher
+&&Enemy_GOLEMTOY_BOW Laser
+
+&&Enemy_PENTAPOD Pentapod
+&&Enemy_PIG Boar
+
+&&Enemy_ROAPER Roper
+
+&&Enemy_GOLEM_0_NM Puppet (Non-builder)
+
+
+/* ___ Enemy_description_PIG ___ */
+A mountain-dwelling monster. Extremely agile despite their size. Fight them at range so you don’t risk getting hit by their tusks.
+
+/* ___ Enemy_description_PENTAPOD ___ */
+A mountain-dwelling monster. Fires a petrifying beam from the top of its head. Strike the base with a Ground Bomb to stun it, then attack its head.
+
+/* ___ Enemy_description_ROAPER ___ */
+A mountain-dwelling monster. Uses its many tentacles to bind its target and drain their mana. It screams before crushing its target with a huge amount of tentacles.
+
+
+&&EnemyKind_devil Monster
+&&EnemyKind_machine Machine
+
+
+// ========================================================
+// MARK : 028
+// ========================================================
+&&Enemy_RAMDA Lambda
+/* ___ Enemy_description_RAMDA ___ */
+A mountain-dwelling monster that can swallow prey much larger than itself. Swallowed prey are regurgitated after their mana is drained so the monster's young can safely feed on them.
+
+
+// Hive
+&&Enemy_EHOME Hive
+
+/* ___ Enemy_description_EHOME ___ */
+Living nests that take root and rapidly spawn new monsters. Best to take care of them swiftly.
+
+
+&&Summoner_SmnC_garage Simulation
+
+&&Summoner_SmnC_td Grazia Defense
+
+&&Enattr_big Giant
+
+&&Enemy_HONEYCOMB Honeycomb
+
+/* ___ Enemy_description_HONEYCOMB ___ */
+A monster with hexagonal body patterns that stores swarms of monster larvae within itself. It uses the manaphobic properties of its young as a shield to block incoming spells. Knock it off balance with a Gravity Bomb, then go in for the kill!
+
+&&Enemy_SYABON Bubble
+
+
+// ========================================================
+// MARK : 029
+// ========================================================
+
+&&Enemy_LEECH Leech
+&&Enemy_LEECHQUEEN Queen Leech
+&&Enemy_EMPRESS Empress
+
+/* ___ Enemy_description_LEECH ___ */
+Small, mountain-dwelling monsters. Easily defeated by weak spells and ground bombs, but watch out for sneak attacks.
+
+&&Summoner_mount_windtower Whimsical Winds
+&&Summoner_mount_honeypit Honeytrap
+&&Summoner_mount_ruinroad Alpine Meadows
+&&Summoner_mount_busstop Sniper’s Bunker
+&&Summoner_mount_trash_cr Poisoned Hot Springs
+&&Summoner_mount_junk_senzyo Junk-o-phile
+&&Summoner_mount_mine0 Eternal Darkness
+&&Summoner_mount_sand_senzyo Poison Pincers
+&&Summoner_mount_poison_lake Poisoned Lake
+&&Summoner_mount_poison_cave Bubbling Darkness
+&&Summoner_mount_mine_1 Queen Me
+&&Summoner_mount_honey_darkpit Honey Pit
+&&Summoner_mount_cave_honey0 Sticky Drips
+&&Summoner_mount_spider_coroseum The Spider's Web
+&&Summoner_mount_mine_lt Workin' Overtime
+&&Summoner_mount_cannon_senzyo Artillery Party
+&&Summoner_mount_darkcave Writhing in the Dark
+&&Summoner_mount_woodslash Base of the Shaft
+
+&&Enattr_acme_on_fear_mode Darkness
+
+&&Enemy_BOSS_SPIDER Mountain Spider
+
+&&Enemy_MIMIC Mimic

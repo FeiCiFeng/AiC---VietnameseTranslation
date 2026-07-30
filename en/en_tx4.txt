@@ -1,0 +1,455 @@
+
+%FAMILY en
+// ========================================================================
+// 231006 カタログの追加要素
+
+&&CatalogI_tab_shopping Can be bought at
+// 素材回収の木／池で開いたときのピックアップタイトル
+&&Catalog_pickup_current_reel_spot Material spot (&1)
+
+
+// ==================
+// 231008 宝箱を手に入れた際にアイテムがいっぱい
+&&MoneyBox_adding_need_enough_room I'm carrying the max amount already...
+&&MoneyBox_adding_need_bottle I don't have &1 to carry it in...
+
+
+// ========================================================
+// MARK : ver0.25
+// ========================================================
+
+
+&&Area_school  Bermit Academy
+&&Area_sacred  Sacred Mother Stone
+
+&&GM_error_sacred Error: Fatal levels of concentrated mana detected. Leave the area immediately.
+
+// ========================================================
+// MARK : Dojo Game
+// ========================================================
+&&Mgm_dojo_tutorial Warm-up Exercises
+/* ___ Mgm_dojo_tutorial_desc ___ */ 
+A tutorial for this minigame.
+There is no penalty for failure.
+/* ___ Mgm_dojo_generator_desc ___ */ 
+Difficulty: &1
+/* ___ Mgm_dojo_generator_count ___ */ 
+Play count: &1 (Victories:&2 ／ Fewest Mistakes:&3)
+/* ___ Mgm_dojo_generator_count_not_played ___ */ 
+Play count: &1 (Victories:&2)
+
+
+/* ___ Mgm_dojo_confirm_tutorial ___ */
+The journey of a thousand miles begins with a single step.
+Learn the basics of training.
+
+
+/* ___ Mgm_dojo_confirm_learned ___ */
+Even if you've already mastered a skill,
+practice is always good.
+
+/* ___ Mgm_dojo_confirm_not_learned_first ___ */
+This is the price we charge for learning a new skill.
+
+/* ___ Mgm_dojo_confirm_not_learned ___ */
+Last time, you were unable to learn this skill.
+In order to master it, you must keep trying! No matter how many times you fall!
+
+
+/* ___ Mgm_dojo_confirm_choose ___ */
+Begin training for "&1"!
+
+/* ___ Mgm_dojo_confirm_choose_tutorial ___ */
+Let's get warmed up!
+
+
+&&Mgm_dojo_confirm_btn_ok Okay
+&&Mgm_dojo_confirm_btn_cancel Cancel
+
+
+
+
+&&Mgm_dojo_tuto_play_rest    &1 more times
+&&Mgm_dojo_tuto_play0    Press<key la/>with good timing
+&&Mgm_dojo_tuto_play1    Press<key ra/>with good timing
+&&Mgm_dojo_tuto_play2    Press<key ta/>with good timing
+&&Mgm_dojo_tuto_play4    Use the correct technique with good timing
+&&Mgm_dojo_indicate_next_hand    This
+
+// ミニゲームUI
+
+&&Mgm_ui_highscore Highscore:
+&&Mgm_ui_playcount Played: 
+&&Mgm_ui_playcount_content &1 times
+&&Mgm_ui_updated_highscore New Highscore!
+
+// Museum Viewer
+&&Museum_image_index &1<font size="20">/&2</font>
+&&KD_museum_viewer <key rem/>Hide UI <key shift/>+<key ba/><key ta/>Zoom in/out
+&&KD_museum_viewer_move Alts
+&&KD_museum_viewer_quit <key menu/>Close
+&&KD_museum_viewer_comment <key c/>Commentary
+
+
+
+// 状態異常
+// アクチール: Actihol
+
+&&SerTitle_drunk    Woozy
+/* ___ SerDesc_drunk ___ */ 
+Your senses feel a bit fuzzy from the actihol.
+
+// 後半は↓ orgasm_after とほぼ同じ文章です。
+
+/* ___ SerDesc_drunk_1 ___ */ 
+Buffs from food are reduced by &1%
+
+/* ___ SerDesc_drunk_2 ___ */ 
+You'll fall down periodically.
+
+/* ___ SerDesc_drunk_3 ___ */ 
+Shouldn't have drank so much.
+
+/* ___ SerDesc_drunk_0 ___ */ 
+MP gauge won't crack as easily.
+Less mana is recovered from all sources.
+Drink water or pass time through combat
+to remove this status.
+
+
+
+// 買い物での飲食
+// tx2 の lunch_confirm / tx3 の lunch_drink_confirm に対応しています。
+
+&&lunchstore_drink_confirm Buy <b>"&1"</b> and drink it?
+&&lunchstore_drink_confirm_burst <font color="ff:#A00B35">You won't be able to drink it all.</font>\nBuy anyway?
+&&lunchstore_drink_confirm_dupe <font color="ff:#B828AC">There are duplicate effects.</font>\nBuy anyway?
+
+
+&&lunchstore_confirm Buy <b>"&1"</b> and eat it?
+&&lunchstore_confirm_burst <font color="ff:#A00B35">You won't be able to eat it all.</font>\nBuy anyway?
+&&lunchstore_confirm_dupe <font color="ff:#B828AC">There are duplicate effects.</font>\nBuy anyway?
+
+&&Eat_Buy Buy &1
+&&Eat_Buy_Drink Buy &1
+
+
+&&SerTitle_overrun_tired    Burnout
+/* ___ SerDesc_overrun_tired ___ */ 
+You're exhausted from casting spells while at low mana.
+You take more damage
+MP gauge breaks more easily.
+You are likely to "Faint".
+Move around the map to recover.
+
+&&SerTitle_milky    Lactation
+/* ___ SerDesc_milky ___ */ 
+Through the mysterious forces of nature,
+Noel now produces milk instead of juice.
+Why? If we knew, it wouldn't be a mystery
+now, would it?
+
+
+&&SerTitle_clt_broken    Torn Clothing
+/* ___ SerDesc_clt_broken ___ */ 
+Your clothes have been destroyed.
+Repair them at a bench.
+
+/* ___ SerDesc_clt_broken_detail ___ */ 
+You take 50% more damage.
+Slightly more invincibility time when dodging.
+
+
+/* ___ Store_BarUnder_Help_Title ___ */
+The Bar's Secret Storeroom
+
+/* ___ Store_BarUnder_Help_Contents ___ */
+Sell Noel Juice, Noel Milk, and Noel Eggs here for
+<font color="ff:#646D00">Essence<img mesh="money_juice"/></font>and use it to buy unique items!
+
+The bartender will hold on to any extra <font color="ff:#646D00">Essence<img mesh="money_juice"/></font>
+for you to use on your next visit.
+
+Let's enrich our lives in tandem with those on the other side
+through the "Settings" menu!
+
+&&Store_selling_worthless There's no point in selling this
+
+/* ___ Item_special_config_detail ___ */ 
+Add a new item to the config.
+This item will not show up in your inventory.
+
+&&Alert_spconfig_activate Got a new config item
+
+&&Alert_explode_bomb_in_inventory The bomb detonated...
+
+
+&&deperture_dialog Where shall I go?
+&&deperture_home Home
+
+
+// ========================================================
+// MARK : ver0.25d 錬金術カタログ 新要素
+// ========================================================
+
+&&Catalog_enemyspot_dangerous Dangerousness: &1
+&&Catalog_pickup_reel_on_map Item Reel Spot(&1)
+
+// ↓エネミースポット関連の一覧が追加されます。
+
+&&Catalog_categ_item_summoner Enemy Spot
+&&KD_reel_detail Item Reel details
+&&KD_enemyspot Enemy Spot details
+
+
+&&CatalogI_tab_enemyspot Obtainable Enemy Spots
+&&CatalogI_tab_enemydrop Enemy drops
+&&CatalogN_enemyspot_defeated Times Cleared: &1
+
+// ↓英語などの言語で「このアイテムを取得できる宝箱」というカテゴリーとして
+// 実装されていましたが、新しく「この戦闘エリアで得られる宝箱」というカテゴリーが追加されます。
+
+&&CatalogI_tab_chest_from_here Chests
+
+&&CatalogI_tab_address Location
+&&catalog_show Show
+
+&&recipe_categ_actihol Cocktail
+&&name_recipe_actihol Cocktail Recipe:&1
+
+
+// ========================================================
+// MARK : ver0.25f
+// ========================================================
+
+&&Alert_new_config_on_barunder  New products available in the bar stockroom.
+
+// ゲームオーバーの際、拘束解除／シャッフルボタンが追加されます。
+&&KD_go_escape_from_bind  Release
+&&KD_shuffle_enemy_position  Shuffle
+
+
+
+// 錬金術カタログの減少カテゴリ
+&&Catalog_categ_sub_reduce_hp Reduce HP
+&&Catalog_categ_sub_reduce_mp Reduce MP
+&&Catalog_categ_sub_reduce_ep Reduce EP
+
+/* ___ Alert_new_keybind_for_check ___ */
+As of ver0.25b, a new keybinding for "Speak/Check" has been added.
+
+Check the key configurations if you're having trouble with those commands.
+
+
+// ========================================================
+// MARK : ver0.26
+// ========================================================
+
+&&Item_cmd_respawn Revive
+&&Item_cmd_respawn_useless (Revive)
+
+
+&&Mgm_eggremove_KD Push<key submit/>with good timing
+// 卵排出中に絶頂してしまった場合
+&&Mgm_eggremove_retry Try again
+&&Mgm_eggremove_abort Give up...
+// 卵のない状態だとただ単にバイブで一人遊びするだけになる
+&&Mgm_eggremove_noegg_retry Just a little more...
+&&Mgm_eggremove_noegg_abort Stop
+
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+// ver0.26b 予約
+// 自慰行為
+
+// &&Select_see_masturbate Masturbate
+&&Select_skip_masturbate Masturbate (Skip viewing)
+&&Select_no_masturbate Endure
+
+
+/* ___ Title_error_no_sound_driver ___ */
+Sound driver initialization failed.
+&1
+
+/* ___ Title_error_no_sound_driver_nosound ___ */
+The game will run in silent mode.
+
+
+&&SerTitle_web_trapped Sticky
+&&SerDesc_web_trapped You’re all gummed up. No actions can be taken until you break free and escaping from a grapple will be significantly more difficult.
+
+&&Alert_rebagacha Mash the movement keys!
+
+
+&&Bench_Cmd_restroom_cure_egged_no_tool Egg removed naturally
+&&Bench_Cmd_restroom_cure_egged_tool Used the Egg Removal tool
+
+
+&&bomb_selfexplode A grenade went off...
+&&Recipe_do_not_rotten Won’t spoil after battle
+
+
+&&SerTitle_stone Stiff
+&&SerTitle_stone_complete Petrified
+
+/* ___ SerDesc_stone_suffix ___ */
+Parts of your body have hardened. You take reduced damage from physical attacks.
+
+/* ___ SerDesc_stone_complete_suffix ___ */
+You’ve been turned to stone and cannot move...
+
+&&SerTitle_orgasm_stack Pent-up
+&&SerDesc_orgasm_stack You cannot orgasm, but that doesn’t stop additional ones from accumulating. When the effect wears off, they will all trigger at once.
+
+&&Alert_item_reduced_memorychip I dropped the &1...
+
+
+// ========================================================
+// MARK : ver0.27 ステルスゲーム
+// ========================================================
+
+&&sneaking_MG_KD_top <key ta/>Ascend
+&&sneaking_MG_KD_btm <key ba/>Descend
+&&sneaking_MG_KD_goout_right <key ra/>Exit
+&&sneaking_MG_KD_goout_left <key la/>Exit
+
+&&Alert_item_reduced_memorychip_success Returned &1 to Tigrina.
+
+
+// ========================================================
+// MARK : ver0.27 図鑑拡張
+// ========================================================
+
+&&CatalogI_tab_appear_enemyspot Enemy Spawn Location - &1
+
+
+//レーションはコストが高いが倍の速度で減少する
+&&Recipe_cost_reduce_ratio Cost Reduction: &1%
+
+
+&&Status_Tab_battle_abort Give up...
+
+
+&&ItemConfirm_do_not_obtain You do not have this item.
+
+&&Map_show_target Show target
+
+&&CatalogI_drop_enemy Dropped by
+&&Recipe_edible_in_battle Edible in battle
+
+
+// チップス確認タブ
+&&Scenario_Tab_tips Tips
+
+
+// ========================================================
+// MARK : ver0.28
+// ========================================================
+&&Catalog_categ_item_cane Staff
+
+&&Cane_graph_near_reach Reach
+&&Cane_graph_near Short-range
+&&Cane_graph_far Long-range
+&&Cane_graph_lockon Lock on
+&&Cane_graph_stability Retention
+&&Cane_graph_mp_use_ratio Efficiency
+&&Cane_graph_neutral Balance
+&&Cane_graph_casttime Cast speed
+&&Cane_graph_near_punch_speed Swing speed
+
+&&Item_cmd_equip_cane Equip
+&&Item_cmd_equip_cane_disable (Equipped)
+
+&&Alert_current_cane Already equipped
+
+
+// ========================================================
+// MARK : 28
+// ========================================================
+&&Area_mount   Fallen Mountains
+
+
+// 鍛冶屋さん ========================
+&&ForgeUi_replace_cost Convert: &1
+&&ForgeUi_buy_tester_cost Field test: &1
+
+/* ___ ForgeUi_buy_tester_applied_damage ___ */ 
+Recorded damage data: 
+　&1 / &2　&3
+&&ForgeUi_buy_tester_completed Testing complete!
+
+/* ___ Forge_quest_applied_damage ___ */ 
+&1: &2 / &3
+/* ___ Forge_quest_applied_damage_on_quest_tracker ___ */ 
+&1:
+&2 / &3
+
+/* ___ Forge_detail_quest_target ___ */ 
+Currently field testing:
+&1
+
+&&ForgeUi_cmd_replace Swap parts &1
+&&ForgeUi_cmd_buy Field test &1
+&&ForgeUi_cmd_buy_asking Can I buy it instead?
+&&ForgeUi_cmd_testfiring Try it at the Range
+
+&&ForgeUi_return_testfire_cane Returned &1 to the blacksmith
+&&ForgeUi_replace_cane Parts changed to &1
+&&ForgeUi_invalid_room_inventory Inventory is full
+&&ForgeUi_invalid_already_has Already possess
+&&ForgeUi_invalid_already_buy_src Currently field testing this staff
+&&ForgeUi_invalid_already_buy Already testing
+
+/* ___ ForgeUi_buy_description ___ */
+Selecting "Field test" will allow you to keep your current staff in addition to the new one.
+Once you have finished field testing by dealing enough damage, you can keep the staff and repeat this process.
+
+/* ___ ForgeUi_buy_description_current ___ */
+You are currently field testing this staff.
+
+/* ___ ForgeUi_confirm_replace ___ */
+Swap out &1 for &2 ?
+
+/* ___ ForgeUi_confirm_buy ___ */
+Buy &1 under the guise of field testing it?
+(Once you've dealt &2 damage with it, it essentially becomes yours)
+
+/* ___ ForgeUi_confirm_buy_already ___ */
+You are currently testing &1
+Cancel testing and switch to &2 ?
+<font size="80%" alpha="0.5" linespacing=0.7>Damage data will be preserved, but you WILL have to pay the field test fee again</font>
+
+&&CatalogI_tab_cane Staff
+
+
+&&GO_KeyHelp_pause_lockon_switch <key submit/>Focus to her
+
+
+// ========================================================
+// MARK : 250710追加分
+// ========================================================
+
+&&Bench_Cmd_empty_stomach Empty yourself out
+&&Bench_Cmd_empty_stomach_get_juice Expel and collect juice
+&&Bench_Cmd_empty_stomach_juice_drop Expel and discard juice
+&&Alert_do_it_in_restroom Go to the restroom for that
+
+
+// ========================================================
+// MARK : ver0.28d サウンドエラー対処
+// ========================================================
+
+/* ___ Title_error_sha_error ___ */
+<font color="ff:#000000"><b>Application integrity error</b></font>
+...There may be a problem with the file extraction.
+Please rebuild the application from 7z or zip again.
+
+
+
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================

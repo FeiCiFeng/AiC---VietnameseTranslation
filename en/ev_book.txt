@@ -1,0 +1,580 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+*_bench_cure_hp_00 b00
+“Ouch...”
+　Noel lightly pressed her swollen skin.
+
+　She had been attacked by monsters and sustained multiple injuries, leaving her barely able to stand.
+
+　Her thin limbs were covered in bluish-black bruises and open wounds oozing blood. They throbbed with immense pain - as if to convey the horrors of the battle.
+
+*
+　As Noel fought back the pain, her thoughts turned to the image of the monster's huge black body closing in on her. 
+She gulped in fear.
+
+“If the attack had lasted much longer, I would've─”
+
+　It brought back memories of the monster horde draining every last drop of her mana.
+*
+
+　Such agony. Where she was left too weak to even cry out for help.
+
+(I don't want to go through such a painful experience again.)
+*
+──
+
+After treating her wounds, her fear began to subside.
+
+“It's okay, I can do this─”
+
+*
+
+(The youngest and proudest daughter of the Cornehl family, and the most talented girl in the school...
+I don't think I deserve to be referred to as such, but I guess I can at least pretend to have the self-confidence for it.)
+
+The staff shimmered a faint jade color, as if in response to Noel's heart.
+
+*_bench_cure_ep_enemy_orgasm b00
+“Uuu, They made me
+cum again...”
+
+　Noel's body tingled in the afterglow
+of her orgasm.
+　Sex is supposed to feel good to encourage the propagation of a species...
+*
+
+　...but to orgasm from being toyed with by a horde of monsters in the midst of battle
+was such a disgraceful act for the youngest daughter of the Cornehl family.
+
+*
+　The monsters' sticky fluids still coated the inside of her panties, seeping an aphrodisiac poison into her sensitive areas. Noel felt a wave of pleasure with every step she took.
+　Her clitoris began to engorge, brushing up against the monsters' fluids. Noel jolted at the sensation, almost passing out then and there.
+*
+　Following her instincts, Noel slowly used her thumb and index finger to stimulate her swollen love bud.
+　Up, and down, pinching, and pulling, she gently traced her fingers around it.
+
+*_bench_cure_ep_enemy_orgasm_failure b00
+“I won't give in to these temptations-”
+
+　Noel closed her legs tight and tried to picture the faces of her loved ones to distract herself. Her mentor...her family...
+
+*
+　...but Noel's lower lips quivered with desire at every turn, overriding her thoughts lustful images.
+
+　After nearly an hour, Noel was able to regain her composure.
+
+
+*_bench_cure_ep_enemy_orgasm_success b00
+
+　Noel's fingers mixed the monsters' aphrodisiac with her own juices, making lewd squelching sounds as she orgasmed over and over again.
+
+　...She awoke some time later to discover that she had blacked out. Her legs were spread wide and her panties were not fully covering her privates.
+
+“I-I can't believe I just─”
+*
+　Her cheeks flushed as she frantically adjusted her soaked panties.
+(If anyone had been watching me─)
+
+　Noel's cheeks continued to burn red as she curled up into a ball of shame, deeply regretting her self-indulgent actions.
+
+
+// ========================================================
+// MARK : ver0.26
+// ========================================================
+
+// 服ビリイベント
+
+
+*_bench_cure_cloth_mob nb2_00
+<think><m fadein>They can all see...everything...
+
+*nb2_01
+<think><m fadein>...even...<W2>my underwear...<W2>a-and...<W3>
+my breasts...
+
+*mb1_02
+Excuse me, are you alright?
+
+*nb2_03
+<angry><m scary>Eep!
+
+*nb2_04
+I-<m ple>I'm...
+<W3><m fadein>um...<W2>ohhh...
+
+*mb1_05
+Is there...anything I can do to help?
+
+*nb2_06
+<m fadein>N-no, I’m okay...
+
+*nb2_07
+<m fadein>(sniffle)
+Uuu...
+
+*nb2_08
+<think><m fadein>Please look away...
+<W2>I need to repair my clothes immediately.
+
+// 駅でアルマがいる場合の特殊な分岐 ==========================
+// 服ビリ状態で駅でアルマのとなりに座る
+
+
+// 喧騒
+*_bench_cure_cloth_alma mb1_00
+Oh my...
+
+*mb2_01
+She must’ve been attacked by a monster...
+
+*nb2_02
+<think><m fadein>Uu...she's staring at me...
+*
+<think><m fadein>...and my breasts and panties are in full view...
+
+// 呼び方が変わる前の場合が存在するので2種類
+*l_03
+<I><angry><m ple>N-Noel!?
+
+*l_04
+<I><angry><m ple>C-Cornehl!?
+// 
+
+*nb2_05
+<m fadein>H-Hi Alma...
+I...ran into some trouble earlier...
+Sorry...
+
+*l_06
+<m scary>D-<m ple>Don't apologize!
+Here, take my cloak--
+
+*nb2_07
+<m fadein>Thank you...
+
+*nb2_08
+Uuu. I need to repair my clothes immediately.
+
+// ========================================================
+// MARK : 興奮度の高い状態でのベンチイベント
+// ========================================================
+
+// 興奮度が高い状態で街のベンチに座ったときのイベント
+
+*_bench_cure_ep_mob nb2_00
+So hot...
+
+*nb2_01
+<think><m fadein>It tingles right where the monster sucked out my mana...
+
+*nb2_02
+<think><m fadein>I’ve never felt like this before...
+
+*nb2_03
+<think><m fadein>I’m scared, and it feels wrong, but...
+
+*nb2_04
+<think><m fadein>Having my mana drained from somewhere so sensitive is...
+
+*nb2_05
+<think><m fadein>N-no, what am I even thinking...!?
+
+
+// 分岐1a:街中 ==========================
+
+*mb1_10
+Excuse me, is everything alright?
+
+// 服がまともな状態
+
+*nb2_11
+<angry>Huh!?
+
+*nb2_12
+<m scary>Ah, oh.
+<W2><m>Sorry, I was just spacing out.
+
+*nb2_13
+<think><m fadein>Ahh, I was touching myself through my clothes...
+
+*nb2_14
+<think><m fadein>I can’t believe I was mastur-...doing that...
+
+*nb2_15
+<think><m fadein>I’m so embarrassed...
+
+
+// 1b: 街中でさらに服が破れてる場合の差分 ==========================
+
+*nb2_20
+<m fadein>Ehh...?
+
+*nb2_21
+<I><angry><m ple>Ahhh, I was just, uh...
+
+// 喧騒
+*mb2_22
+Look at her!
+
+*mb3_23
+Must've been a monster...
+
+*mb4_24
+Hey, her boobs are all red–
+
+*mb5_25
+Guys, don’t stare at her!
+
+*nb2_26
+<I><m scary>S-Sorry everyone!
+
+*nb2_27
+<think><m fadein>...h-how could I...
+in front of so many people...
+
+*nb2_28
+<think><m fadein>Uuu...
+<W1>No...
+<W1>I...I wasn't...
+
+
+// モブが喋りかけてこないようなキャラクターの場合の汎用分岐 ==========================
+
+*nb2_100
+<think><m scary>!! What am I doing!?
+
+*nb2_101
+<think><m fadein>I’m alone, but...someone could’ve come by...
+
+*nb2_102
+<think><m fadein>I hope I wasn’t making any weird noises...
+
+*nb2_103
+<think><m fadein>Uuu...
+My body still feels so hot...
+It won’t go away...
+
+
+// 駅でアルマがいる場合の特殊な分岐 ==========================
+
+*_bench_cure_ep_alma l_00
+<m scary>C-<W3><m fadein>Cornehl...
+<W2>Um...sorry to interrupt you, but...
+
+*l_01
+<m scary>N-<W3><m fadein>Noel...
+<W2>Um...sorry to interrupt you, but...
+
+// ======
+*nb2_02
+Ehh...?
+
+// 服の状態で分岐
+// 服が平常 ================
+*l_03
+<m fadein>There are other people here...
+
+// 服ビリ
+*l_04
+<m fadein>There are other people here...
+and your clothes are...
+
+
+// === 分岐ここまで
+
+*nb2_10
+<I><angry><m scary>Ah!?
+<W2><m ple>N-n-n-no, I wasn’t...I mean, I was just...!
+
+*l_11
+<m scary>Oh, <m>s-s-sorry.
+I shouldn’t have called attention to you...
+
+*nb2_12
+<think><m fadein>Uuu...I can't believe I was doing...<W2>that...<W2>in front of my classmates...
+*
+<think><m fadein>So embarrassing...
+
+
+// ===================== 分岐ここまで
+
+// その他の特殊な状況でシコるべきではない場合
+
+*_bench_cure_ep_do_not nb2_00
+<think><m fadein>My body still feels so hot...
+
+*nb2_01
+<think><m fadein>Endure...
+It will pass...
+<W2>Uuu...
+
+
+// ========================================================
+// MARK : おしがま状態でベンチに入った場合
+// ========================================================
+
+*_bench_excrete_juice n_00
+<think><s2><m fadein>Hah, <W2>phew...
+<m scary>I'm at my limit...!
+
+*n_01
+<think><m scary>Hold it...
+<W1><m0>Ho-<m fadein>o-o-ld <W2>i-i-it...
+<W2>Wait until nobody can see...
+
+*n_02
+<think><m scary>Aaahhh...
+<m fadein>I can't...!
+
+// 空瓶を出す
+*n_03
+<think>Not on the ground...monsters will come...
+I need a bottle...
+
+// 成功
+*n_50_0
+<think><m scary>Not yet...
+Almo-o-o-st...!
+
+*n_50
+<think><m fadein>Haaaa...
+*
+<think><W2><s2>That’s loud...
+*
+<think><s2>Come on, hurry up...!
+
+*n_51
+<s3>Ahhh...
+<W2>Phew...
+
+*n_52
+<think>I managed to get it all in...
+*
+<think>Elven body fluids attract monsters...
+*n_53
+<think>I had no choice...
+*
+<think>Uuu...it’s so full...
+
+// ビンを出そうとしたが失敗
+
+*n_100
+<m ple>Ah! It slipped...!
+
+*n_101
+<m scary><s3>Ah, <m0>aa, <W2>a...
+*
+<s3>Mm...<W1>hn...
+
+*n_102
+<think><m fadein>It got all over...
+Even on my underwear...
+
+*n_103
+<m fadein>Uuu...
+
+*n_104
+<think>No, I can’t just sit here crying about it, monsters will come.
+*n_105
+<think>I should go now...
+
+
+// ビンを出さない
+
+*n_150
+<think>Ah, <W2><m scary>I can't <W2><m ple>hold it...!
+
+*n_151
+<think><s3>Aahhh...
+*
+<think><s3>I'm...<W2>going...
+
+*n_152
+<s2>That was...
+<W1>so much...
+
+*n_153
+<think>Monster’s are attracted to elven body fluids...
+*
+<think>I should get out of here...
+
+
+// Sad scene ahead
+
+*_bench_cure_egged_00 b00
+Squiggle. Squirm.
+A wriggling sensation in
+Noel's belly sent her
+into a panic.
+
+What was it? Some kind
+of weird disease? Her
+mind raced for an answer
+before settling on the
+obvious.
+*
+"It's that egg from earlier..."
+The one the monster laid within
+her, in the place she was taught
+babies come from...
+
+She could feel it clearly now.
+A heart beating asynchronous
+from hers.
+*
+"I-If I don't remove it..."
+It would hatch inside of her.
+She tried not to imagine
+such a horror.
+
+Rushing over to a shadowy spot,
+Noel crouched down and pulled
+a tool out of her bag.
+
+"Please let this work..."
+*b00_2
+The tool was hard, and had a
+sleek, lustrous shine to it.
+
+In the same way that Nightingale
+had used it, Noel prepared to
+insert the tool and--
+*
+"No, I can't! I mean...I know
+how, but...!"
+
+Her inexperience made her
+hesitate. How did Nightingale
+make it look so easy?
+
+Thinking about what would
+happen if she left the egg
+alone, Noel gathered her
+courage and inserted the tool
+slowly.
+
+//道具を膣に挿入。痛み
+
+*b01
+"Uu, ah. Ow-"
+
+She clenched from the pain,
+pushing the tool back out.
+She tried again and again,
+only making it a little further
+each time.
+
+"Ha, ah, ahh-"
+Her strength was waning. If she
+was going to succeed, she'd have
+to do it in one swift motion...
+*
+Noel felt like she needed to pray
+for a miracle to get through this.
+Being down on her knees right now
+was almost too perfect.
+
+She grit her teeth, tightened her
+grip, and-
+
+//だんだんと痛みが快楽に変わる
+//出てくる時の擬音、ノエルの苦痛の喘ぎ
+*b02
+Inserted the tool halfway up
+its shaft before...it stopped.
+
+The tip was poking something,
+but Noel couldn't feel it herself.
+
+"It's the egg."
+*
+She moved the tool slightly,
+causing the egg to shift.
+
+"That felt...good."
+
+She rolled the base of the tool
+around slowly. The egg circled
+with it, transforming her pain
+into pleasure.
+
+*b03
+“Ah, ah, mmh..."
+
+Noel instinctively cried out,
+drowning out her thoughts of shame.
+*
+“Hah, ah, mm–!”
+
+Her body had already latched on to
+the pleasurable feelings, and her
+mind soon followed.
+*b04
+“Mm! Ahh, ohh, ooh!”
+
+Every muscle down there twitched
+and squeezed, urging her to keep going.
+*
+“Hnng, ahh, aahh!
+Hyaah!”
+
+The egg moved downward with each
+squeeze until it was almost
+completely enveloped by the tool.
+It was time.
+*
+“Aah, it’s...it’s coming...!”
+
+//絶頂エフェクト
+*b05
+In the midst of her climax, a round,
+black, mucus-covered egg settled at
+the base of the tool, just in time
+for it to fall out onto the ground-
+
+//汚液にまみれ魔族の卵が割れ、中の未熟な生物が苦しそうにもがき、土の中に消える。それを自分が産んでしまった事の嫌悪感
+*
+(splutch)
+
+-with a wet splat.
+
+Noel looked down and saw
+something indescribable.
+Its color was white...no...
+
+...grey?
+
+//生まれた生物の描写が入るのでアニメもそっちに意識させてください
+*
+It writhed as if its very existence
+was painful. A pathetic cry came
+from somewhere within its blurry,
+shapeless form.
+
+A tiny appendage reached out towards
+her. Was it a foot? A hand? A tongue?
+Its empty grasps pulled at the seams
+of her sanity.
+
+// ノエルの顔だけカットイン。ぎゅっと目を瞑る
+*b06
+The sight was sickening. That
+<i>thing</i> was <i><b>inside her</b></i>.
+
+Noel covered her ears and shut her
+eyes tight.
+
+“This is just a bad dream. When I open
+my eyes, I’ll be home with my family
+eating dinner like we always do."
+
+//恐る恐る目を開けるカットイン
+*b06_2
+But when she did, there was nothing
+there anymore.
+
+Only a trace of grey mana where the
+nightmare once stood.

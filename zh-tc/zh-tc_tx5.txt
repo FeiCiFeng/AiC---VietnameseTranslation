@@ -1,0 +1,202 @@
+%FAMILY zh-tc
+
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================
+
+&&SerTitle_poison    毒
+/* ___ SerDesc_poison ___ */ 
+HP會漸漸地減少，
+在這情況不會陷入無法戰鬥的狀態。
+在難易度普通以下時
+HP自動回復的速度會變慢。
+料理獲得的特殊效果會減半。
+
+
+
+&&SerTitle_poison_2    猛毒
+/* ___ SerDesc_poison_2 ___ */ 
+此狀態無法自然治癒，
+就算坐上椅子也無法恢復。
+
+
+&&SerTitle_fainted    昏眩
+&&SerDesc_fainted    暫時失去意識的狀態。\n無法進行行動。
+
+
+
+&&corrupt_fear 身體因恐懼而僵住，使不上力氣...
+
+
+ 
+&&SerTitle_sexercise_fear   膽怯
+&&SerDesc_sexercise_fear  恐懼值變得更容易上升。\n能稍微防止MP條的破裂。
+
+&&SerTitle_shamed_ep_fear   戰慄
+&&SerDesc_shamed_ep_fear    <font color="#FF729F">【恐懼值50%以上】</font>\n因恐懼無法集中精神的狀態。\n雖然在和敵人接觸時更不容易摔倒、\n但在詠唱時受到攻擊更容易散落魔力。
+
+
+&&SerTitle_orgasm_after_fear    喪失戰意
+&&SerDesc_orgasm_after_fear 因恐懼的關係行動受到限制。\n移動速度下降，無法奔跑。\nMP槽不容易破裂。\n魔力的回復效率下降。
+
+
+// ========================================================
+// MARK : 恐怖処理
+// ========================================================
+
+&&Submit_cure_fear 平息恐懼
+&&Bench_Cmd_cure_fear_home 平息恐懼(據點)
+&&Alert_cannot_cure_fear 差不多該繼續前進了。
+&&Alert_cure_fear 恐懼感稍微平息了。
+&&Alert_cure_fear_little 因肚子餓的關係，無法專心平息恐懼…
+/* ___ WarpConfirm_cure_fear ___ */
+能恢復因恐懼而減少的魔力最大值，
+但會稍微減少飽食度。
+（無法連續平息恐懼）
+
+/* ___ WarpConfirm_cure_fear_alert ___ */
+因肚子太餓了，無法順利平息恐懼。
+
+&&Catalog_categ_sub_reduce_ep_fear 恐懼值減少
+&&Catalog_categ_sub_cure_ep_fear 恐懼值回復
+
+&&Item_detail_cure_ep_fear 恐懼值 &1 回復
+&&Item_detail_dmg_ep_fear <font color="#864788">恐懼值 &1 上升</font>
+
+&&Tuto_shotgun <key x/>魔術詠唱中，按<key z/>使用散彈槍
+
+
+
+&&SkillItem_Map_Treasure_title &1寶箱備忘錄
+&&SkillItem_Map_Treasure_desc 將位於&1 中\b隨機一個寶箱的位置\b顯示於地圖上。
+
+&&SerTitle_atk_up   攻擊力上升
+&&SerDesc_atk_up   攻擊力上升&1%
+&&SerTitle_def_up   防禦力上升
+&&SerDesc_def_up   防禦力上升&1%
+&&SerTitle_atk_down   攻擊力下降
+&&SerDesc_atk_down   攻擊力下降&1%
+&&SerTitle_def_down   防禦力下降
+&&SerDesc_def_down   防禦力下降&1%
+
+
+&&Stat_ep_fear 恐怖値 &1 / &2
+
+
+// ========================================================
+// MARK : ver029 宿屋
+// ========================================================
+&&EvTitle_inn_caravan 旅宿「柯羅小窩」 
+// もちろん Chronos のもじりです。クロというNPCが登場するわけではないので、翻訳の際は Chronos 側に寄せて下さい。
+&&EvTitle_inn_city 旅宿「獵人的寢室」
+&&UiInn_nmenu_simple_tent 野宿
+&&UiInn_nmenu_simple 純住宿
+&&UiInn_nmenu_economy 經濟客房
+&&UiInn_nmenu_sweet 精緻套房
+&&UiInn_nmenu_royalsweet 皇家套房
+&&Select_CheckIn_Tent 入住手續
+
+&&UiInn_dangerousness_add 危險度上升 &1 
+&&UiInn_dangerousness_rem 危險度減少 &1 
+&&UiInn_dangerousness_reset 將重置危險度和效果轉盤\n以及本次冒險的戰鬥紀錄
+&&UiInn_stomach_progress 飽食度減少 <img mesh="recipe_cost_3" width="24"/>&1 
+
+
+&&UiInn_content 旅宿方案詳情
+&&UiInn_content_hp 體力全回複
+&&UiInn_content_mp 魔力全回複
+&&UiInn_content_ser 恢復全部狀態異常
+&&UiInn_content_mp_fear 重置因恐懼減少的最大魔力值
+&&UiInn_content_mp_gauge_weak 將魔力之器的裂痕暫時修補
+&&UiInn_content_mp_gauge 將魔力之器的裂痕完全恢復
+
+&&UiInn_content_offprice_food 附贈餐點&1％折扣卷 (最多&2道菜)
+&&UiInn_content_ticket_food 餐卷 &1道菜
+&&UiInn_check_foodmenu 確認餐點
+
+
+&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">\< 似乎只有住宿的客人才可以點餐 \></font>
+
+&&UiInn_service_discount 餐點 &1％折扣卷 x&2
+
+
+// ========================================================
+// MARK : 特殊コンフィグ用
+// ========================================================
+&&catalog_suitable_for_vore_digest 生吞遭到消化
+&&CatalogI_fishable_area 能釣到這個魚的地方:
+
+&&GO_Select_return_to_bench 回到椅子
+&&GO_Select_return_to_title 回到標題畫面
+
+&&GO_KeyHelp_top_show_menu 目錄
+&&Telop_gameover GAME OVER...
+
+// ========================================================
+// MARK : 特殊コマンド用
+// ========================================================
+
+/* ___ Store_GRank_Help_Title ___ */
+公園地區的謎樣老人
+/* ___ Store_GRank_Help_Contents ___ */
+將從冒險者公會獲得的公會點數(GP)作為代價
+來交換特別的物品。
+
+GP賣過頭導致階級下降時，
+下次能從公會承接的任務階級也會下降，
+還請特別注意。
+
+
+&&Store_no_enough_grank <b>公會點數不足... </b>
+
+&&ItemConfirm_term_need 任務所需的物品:
+
+&&ItemConfirm_Dish_total_cost 飽食度 &1 以上
+&&ItemConfirm_Dish_total_grade 全體品質 &1 以上
+
+&&Log_item_cannot_obtain 沒辦法拿更多物品...
+
+&&Alert_cannot_change_temporary 現在無法變更。
+
+
+
+/* ___ WarpConfirm_enable_night_warp ___ */
+探索率達到&1%了
+即使在晚上以及雨天
+也能夠在 &2 使用快速移動了！
+
+&&GM_Mag_switch_tool_gz 特殊工具
+&&Item_cmd_edit_tool_gz 編輯特殊工具的功能
+
+&&SerTitle_cocoon 繭化
+&&SerDesc_cocoon   被絲線封閉成蛹的狀態\n魔力的回復效率上昇，不容易從拘束中逃脫。
+
+
+
+/* ___ GzToolSel_assign ___ */ 
+戰鬥中按下 <key s/>+<key la/><key ba/><key ta/><key ra/> 
+能夠使用已登錄法杖的特殊功能。
+
+
+&&KeyHelp_Hold_to_execute 長按來使用
+&&Item_cmd_gztool_use 立即使用
+
+&&Alert_replaced_temporary_item 兌換卷已交換。
+
+
+
+// エッグリムーバー説明追加
+&&Mgm_eggremove_show_help 說明書
+&&Mgm_eggremove_help_1 1. 長按<key submit/>鍵\b來讓器具慢慢地插進深處內。
+&&Mgm_eggremove_help_2 2. 進到深處感受到吸附感後，\b放開<key submit/>依自己的步調慢慢地\b將器具抽出來。
+
+
+
+// ========================================================
+// MARK : ver0.29e
+// ========================================================
+
+
+&&GM_skill_edit_manip 操作方式變更
+&&GM_skill_switch_enabled 啟用／停用切換

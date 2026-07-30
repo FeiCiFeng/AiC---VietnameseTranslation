@@ -1,0 +1,280 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+// バーでの会話集。
+// ========================================================
+// MARK : 過去の思い出
+// ========================================================
+
+
+
+
+
+*___city/2weekattack_00 mb0_00
+<angry><m ple><big>ALL CADETS EVACUATE IMMEDIATELY!
+THIS IS NOT A DRILL! I REPEAT-!
+
+*l_01
+<scary>OOF...!
+
+*l_02
+<w1><m fadein>AAH!
+<w3>N-NO,<w1><scary>PLE...
+
+*l_03
+<think><m fadein><s2>My leg is caught...
+<m scary>SOMEONE! HELP!
+
+*n_04
+<angry><m fadein>WHITE ARROW!
+
+*l_05
+C-Cornehl...
+
+*n_06
+<m fadein>ALMA, RUN!
+
+*n_07
+<think><m scary>It's...<m ple>a contaminated variant!
+<m0>I didn't know they could get this big...
+*
+<think><m fadein>I-It doesn’t matter! I just need to buy Alma enough time to escape.
+Hopefully the military will arrive soon.
+*
+<think><m fadein>I’ll just keep it distracted, and-
+
+*l_08
+<angry><m scary>WATCH OUT!
+
+
+*n_09
+<m fadein>Huh?
+
+
+*n_10
+<think><m ple>Oh n-...
+*n_11
+<angry><m scary>Mmmmnm! Mmph...!
+*n_11_2
+<angry><W2><m scary>ーーーー...!!
+
+*n_12
+<angry><m scary>ーーーー
+<m fadein>ーー...
+*
+<m fadein><s2>......<w2>
+......!!<w2>...
+*
+<m fadein><s5>......<w2>
+......
+*
+<m fadein><s7>...
+
+*l_12
+<m scary>Aa...a...
+*l_13
+<think><m fadein>It's...it's eating her...?
+*
+<think><m fadein>Why...why?
+*
+<think><m fadein>It's...all my fault.
+*
+<think><m fadein>If I hadn't tripped...
+she wouldn't be...
+*
+<think><m fadein><w2><s2>Cornehl...
+*
+<think><m fadein><w2><s3>...my fault...<w1>
+It's all my fault...
+
+
+
+*___city/2weekattack_05 n_00
+<think>Uuu...this is bad.
+Calm down, there has to be a way out...
+*
+<think><m ple>My staff! It's outside, but I might still be able to call out to it...
+
+// 熱湯
+*n_01
+<think><m ple>!? AH<m scary>...<m0>
+IT BURNS...
+
+*n_02
+<angry><m scary>Mmmh!!
+<m cry>Mn<m fadein>mmm!!!
+
+*n_03
+<think><m fadein>I can't breathe...
+All the mana is being sucked out of my body...
+
+*n_04
+<angry><m scary><big>ーーー
+ーーー!
+
+*n_05
+<think><m ple>OW!<m angry>IT BURNS IT BURNS
+<m ple>IT BUUUUURNSSSS!<w2>
+<m scary><w2>STOP!!!
+*
+<think><m fadein>Am I...melting...?<w2>
+<m0>NO...<m scary>NONONO
+THIS CAN'T BEEEEE!!!
+*
+<think><m ple>SOMEONE HELP!
+<m scary>PLEEEEEASE!!!
+
+*n_06
+<angry><m scary>---!!<w1>
+<m cry>NMMPH<m ple>...<m scary>------!!!
+
+*n_07
+<think><s2><m scary>OW OW OW HOT!
+*n_08
+<think><s2><m scary>MAKE IT STOP MAKE IT STOP!!
+*n_09
+<think><m ple>I'm gonna die!
+<m fadein>My...staff...
+*n_10
+<think><m scary>I...<m fadein>can't...
+
+*n_11
+<think><s2><m scary>...<m fadein>...
+<m0>......<m cry>......
+
+*n_12
+<think><s2><m fadein>A...h...
+*
+<think><s3><m fadein>No one can hear me...
+
+*n_13
+<think><s3><m fadein>Ow...
+A...
+*
+<think><s3><m fadein>This is it...
+This is the end...
+*
+<think><s3><m fadein>At least Alma...
+is...safe...
+*n_14
+<think><s3><m fadein>a...<w1>
+My body is exhausted...
+*n_15
+<think><s4><m fadein>Sister...
+<w1>brother...<w2>
+<s5>Primu...<w2>la...
+
+
+
+*___city/2weekattack_06 mb0_15
+<m fadein><small>Target neutralized.
+Confirming kill-
+
+*mb5_16
+<m fadein><small>OVER HERE!
+We’ve extracted a cadet from within-
+
+*l_17
+<angry><m fadein><small>...ehl! Cornehl!!
+
+*n_18
+<m fadein><s3>U...a...
+(cough)...
+
+
+*mb4_19
+<small>Subject was the victim of a Contaminated attack.
+She’s suffering from Level 5 blood damage-
+
+*mb6_20
+<small>Take her to medical immediately.
+
+
+
+// 最後のアルマの文章は表示されない。ログに記載されるのみ。強調表示もされない。
+*l_hidden_21
+I’m sorry...
+I wasn’t strong enough to protect you...
+
+*n_22
+<m fadein><s3>...-heuw-...
+<w1>(gasp)...
+
+
+// 嘔吐
+
+*___city/2weekattack_07 n_15
+Ulp<m fadein><w2>...<w2>
+<m scary>...
+
+
+*n_16
+<s8><m scary><big>Wa<m0>aa<m cry>aaa<m scary>aaah...
+
+
+// アルマがいる場合
+*l_17
+<m ple>Noel!?
+A-are you okay!?
+*
+<m ple>I’ll go get Primula! Just...hang in there!
+
+// いない場合
+*mb1_18
+<m ple>Whoa, are you alright!?
+*
+<m ple>Teacher, teacher! Someone collapsed on the grounds!
+
+
+
+// 保健室
+
+*n_19
+...Sorry, Primula...
+I thought I was all better, but...
+
+*p_20
+There's nothing to apologize for.
+*
+You had a flashback. Your magic and physical strength have fully recovered, but there's still trauma to deal with.
+*p_21
+But don't you worry. I'll be with you every step of the way.
+
+*n_21
+Thank you.
+
+
+*n_100
+Huh? Is this...the nurse's office?
+
+*p_101
+First Ixia and now you.
+
+*p_102
+What happened? Did the schoolyard cause some bad memories to surface?
+
+*n_102
+No, I just...got lightheaded and lost my balance.
+
+*p_103
+I can tell you're lying.
+*
+Your physical recovery has gone well, but you're still carrying wounds from that day.
+
+// p_21, n_21
+
+*n_104
+Well, it's not about me right now...
+How is Ixia doing?
+
+*p_105
+<m fadein><small>Headstrong as ever...
+
+// 105/health_primula_t00 *p_06 に合流

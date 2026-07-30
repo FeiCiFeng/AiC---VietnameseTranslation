@@ -1,0 +1,528 @@
+%FAMILY _
+&&Smnc_title_enemy 登場する敵:
+
+
+&&Smnc_ui_files_create +新規作成
+&&Smnc_ui_file ファイル &1
+
+&&Smnc_title_makenew_object どのオブジェクトを追加しますか？
+
+&&Smnc_ui_enemy_appear 同時に現れる最大数: &1匹
+&&Smnc_ui_enemy_appear_whole  同時に現れる最大数(全ての敵の総計): &1匹
+&&Smnc_ui_enemy_appear_infinity ∞
+
+&&Smnc_ui_enemy_row &1 (MP &2〜&3%) : &4匹
+&&Smnc_ui_enemy_mp_min_ratio 魔力最小: &1%
+&&Smnc_ui_enemy_mp_max_ratio 魔力最大: &1%
+&&Smnc_ui_enemy_total 登場する数: 
+&&Smnc_ui_enemy_count &1匹
+&&Smnc_ui_enemy_total_sum ( 合計 &1匹 )
+
+&&Smnc_ui_enemy_edit_kind 種類
+&&Smnc_ui_enemy_edit_attr 属性
+
+&&Smnc_KD_filesel <key add/>複製 <key rem/>削除 <key submit/>編集開始
+&&Smnc_KD_submit <key submit/>決定
+&&Smnc_KD_put_end <key submit/>配置して終了
+&&Smnc_KD_put_continue <key add/>連続で配置
+
+
+&&Smnc_start_battle_submit 戦闘を開始する！
+
+&&Smnc_KD_stageedit_move <key la/><key ba/><key ta/><key ra/>パーツ移動 
+&&Smnc_KD_stageedit_move_flip <key sort/>左右反転
+
+&&Smnc_stageedit_move <key submit/>パーツ移動
+&&Smnc_stageedit_add <key add/>パーツ追加
+&&Smnc_stageedit_rem パーツ削除
+&&Smnc_stageedit_plant 魔力植物編集 
+&&Smnc_KD_enemyedit_garage <key sort/>敵の編集
+&&Smnc_KD_start_battle_garage <key menu/>模擬戦開始
+
+&&Smnc_start_battle_randomize_nattr 危険度上昇に合わせて属性を自動付与
+&&Smnc_start_battle_seed 乱数シード\n(0で不使用)
+
+
+/* ___ Smnc_alert_no_plants ___ */
+魔力植物が配置されていません。
+/* ___ Smnc_alert_no_enemypos ___ */ 
+敵の開始位置が配置されていないので、敵は完全にランダムな位置に出現します。
+
+/* ___ Smnc_alert_invalid_start ___ */
+ノエルの開始位置がブロックに埋まっています。
+
+/* ___ Smnc_alert_no_enemy ___ */ 
+敵が配置されていません。<key sort/>で敵の情報を編集して下さい。
+
+&&Smnc_KD_plant_0 魔力植物の追加／削除
+&&Smnc_KD_plant_1 追加
+&&Smnc_KD_plant_2 <key rem/>削除
+
+
+&&Smnc_confirm_fileremove ファイル &1 を削除します。\nよろしいですか？
+&&Smnc_confirm_fileremove_btn 削除する
+
+&&UiSmnCreator_smnc_generate_pr ノエルの開始位置
+&&UiSmnCreator_smnc_generate_en 敵の湧きポイント
+&&UiSmnCreator_smnc_generate_en_fix 敵の湧きポイント(位置固定)
+
+&&UiSmnCreator_smnc_cliff_00 ブロック4x4
+&&UiSmnCreator_smnc_cliff_01 ブロック2x2
+&&UiSmnCreator_smnc_cliff_02 ブロック4x8
+&&UiSmnCreator_smnc_smallbar_00 ブロック4x1
+&&UiSmnCreator_smnc_smallbar_01 ブロック1x4
+&&UiSmnCreator_smnc_smallbar_02 ブロック8x1
+&&UiSmnCreator_smnc_lift_4 リフト4x1
+&&UiSmnCreator_smnc_stair_00 3段階段
+&&UiSmnCreator_smnc_stair_01 4段階段
+
+
+&&UiSmnCreator_smnc_spike_00 トゲ床4x1
+&&UiSmnCreator_smnc_spike_01 トゲ床8x1
+&&UiSmnCreator_smnc_spike_02 トゲ壁1x4
+&&UiSmnCreator_smnc_spike_03 トゲ壁1x8
+
+&&UiSmnCreator_smnc_icefloor_4 氷の床4x1
+&&UiSmnCreator_smnc_icefloor_8 氷の床8x1
+
+
+&&UiSmnCreator_smnc_thundertrap_b 電撃トラップ(下)
+&&UiSmnCreator_smnc_thundertrap_r 電撃トラップ(横)
+&&UiSmnCreator_smnc_thundertrap_t 電撃トラップ(上)
+
+
+&&Status_Tab_current_battle 戦闘エリア - &1
+&&Status_Tab_drop_change ドロップ率: &1 %
+
+&&Status_Tab_smnc_abort 模擬戦闘を中断
+&&Status_Tab_dangerousness_till_sunset 日暮れまで:
+&&Status_Tab_dangerousness_till_sunrise 夜明けまで:
+&&Status_Tab_enemy_rest 残っている敵:
+
+&&Status_Tab_battlearea 危険度／戦闘
+
+
+&&KD_check_unlock_how <key submit/>解禁条件を確認
+
+&&Smnc_ui_enemy_kind_unlock_how &1 の解禁条件:
+&&Smnc_ui_enemy_kind_unlock_count &1体撃破する 
+&&Smnc_ui_enemy_kind_unlock_count_rest (あと&1体)
+&&Smnc_ui_enemy_kind_unlock_item または以下のアイテムを納品:
+/* ___ Smnc_ui_enemy_kind_unlock_count_auto ___ */
+撃破数が規定値に達したため、
+新しい敵を模擬戦闘で使用できるように
+なりました！
+
+&&Smnc_save_file ファイル出力
+&&Smnc_load_file ファイル読み込み
+
+
+
+//狐を氷属性で出すことはできない、などのアラート表示です
+
+/* ___ Smnc_alert_wrong_attr ___ */ 
+登場する敵の一部は、設定した属性では出現しません。
+
+
+// ========================================================
+// MARK : 0.28
+// ========================================================
+
+/* ___ Smnc_stgo_desc_generate_en ___ */
+敵の出現位置。
+大量の敵が配置されるとき、\b敵は出現位置からわずかに\bズレた位置から登場します。\bこれによる壁抜けなどを避ける\b場合は、位置固定版を使って下さい。
+
+
+/* ___ Smnc_stgo_desc_generate_en_fix ___ */
+敵の出現位置。
+大量の敵が配置される場合でも、\bここから出る敵は常に\b同じ位置から登場します。
+
+
+/* ___ Smnc_stgo_desc_block ___ */
+何の変哲もないブロック。\b床、壁、天井の\bあらゆる用途に使えます。
+
+/* ___ Smnc_stgo_desc_lift ___ */
+何の変哲もないリフト。\b足場の確保に。
+/* ___ Smnc_stgo_desc_stair ___ */
+階段です。
+
+/* ___ Smnc_stgo_desc_spike ___ */
+トゲトゲしたブロック。
+ホログラムのはずなのに触ると\bちゃんと痛いし服も破れます。
+
+
+/* ___ Smnc_stgo_desc_ice ___ */
+ツルツルした氷の床。
+動き始めがちょっとだけ\b大変になります。
+
+
+/* ___ Smnc_stgo_desc_thundertrap ___ */
+電撃レーザートラップ。\b発射口から壁まで\b無限に伸びます。
+
+
+&&Smnc_KD_enemy_info 詳細な情報編集
+&&Smnc_KD_enemy_how_to_unlock 解放条件の確認
+
+// ========================================================
+// MARK : tower defence
+// ========================================================
+
+
+&&Smnc_KD_start_battle_td <key menu/>迎撃開始
+
+
+
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+異なるタイプのファイル指定です。
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+異なるタイプのファイル指定です。
+
+&&Smnc_stageedit_caster_add 人員の配置
+&&Smnc_stageedit_caster  人員の配置／削除
+
+
+&&UiSmnCreator_smnc_manatower 魔力塔 
+/* ___ smnc_desc_manatower ___ */
+魔力を蓄えた貯蔵塔です。\bノエルは直接攻撃することで\b魔力を回収できるほか、\b仲間も魔力が減ったときに\b魔力の回復に訪れます。\b破壊される事はありませんが\b貯蔵量には限界があり、また\b敵に攻撃されると赤色の魔力を\b撒き散らします。
+
+
+&&UiSmnCreator_smnc_barricade_spike バリケード
+/* ___ smnc_desc_barricade_spike ___ */
+木組みのシンプルなバリケード。\b触れた敵にダメージを与えますが、\b自分や仲間に当たり判定はありません。\bほんの少し時間を稼ぐのに使えるかも。
+
+&&UiSmnCreator_smnc_barricade_wood_wall 木の防壁
+/* ___ smnc_desc_barricade_wood_wall ___ */
+自分や仲間は歩いて\b通行はできますが、\b魔術は透過しません。\bホワイトアローを通すために\b背は低いものの、敵の魔術や\b属性攻撃には意外に\b打たれ強いです。
+
+&&UiSmnCreator_smnc_barricade_offensive_wall 攻性防壁
+/* ___ smnc_desc_barricade_offensive_wall ___ */
+魔力的な結界を張って\b敵の侵入を防ぐ強力な防壁です。\b自分や味方の魔力を透過するので、\b扱いやすさの点でも優れています。
+
+&&UiSmnCreator_smnc_watchtower 物見櫓
+/* ___ smnc_desc_watchtower ___ */
+少し背の高い物見<rb c="やぐら">櫓</rb>。
+地上にいる敵の多くは、\bやぐらに乗り込んだ\b仲間や自分を狙いません。\b露払いとして壁外に配置すると\b効率良く敵を倒せますが、\b仲間がやられてしまった場合の\b救助は困難です。\bやぐらに人員を配置したい場合は、\bやぐら上に人員を直接乗せて下さい。\b(3人まで)
+
+&&UiSmnCreator_smnc_finalwall ベルミット校舎
+
+/* ___ smnc_desc_finalwall ___ */
+最後の砦。動かせません。\bここが破壊された場合、\b強制的にゲームオーバーに\bなります。
+
+
+&&UiSmnCreator_smnc_healtent 救護テント
+
+/* ___ smnc_desc_healtent ___ */
+倒れてしまった味方を\b救助するテントです。\bここに何人か人員を\b配属しておくと、\b前線で倒れた味方を\b素早く救助できます。
+
+&&UiSmnCreator_smnc_td_cannon <img mesh="IconTigrina"/>固定砲台
+
+/* ___ smnc_desc_td_cannon ___ */
+ティグリナを始めとする\b狙撃兵が乗り込む砲座です。\b<key submit/>で大砲にこめる弾を編集できます。\b追加の人員を配置する場合は\bティグリナの近くに直接置いて下さい\b（弾の発射間隔が短くなります）。
+
+
+
+/* ___ smnc_alert_td_notice ___ */
+防衛作戦を開始します。
+ノエルさん、士官候補生の皆さん、
+どうかご無事で。
+
+/* ___ Smnc_alert_td_no_caster ___ */
+<font size="16">人員が配置されていません。
+ノエル単騎での戦闘になり、
+非常に厳しい戦いが予想されます。
+本当によろしいですか？
+
+
+&&Alert_gameover_td 防衛作戦に失敗した...
+
+
+&&Smnc_td_show_rule 説明とアドバイス
+
+&&Smnc_td_rule_title0 概要
+
+/* ___ Smnc_td_rule0 ___ */
+山岳方面から攻めてくる魔族から街を護るため、
+防壁を建築し大軍勢を殲滅、撃退しましょう。
+敵は3ウェーブに分けて押し寄せて来ると予想されます。
+
+敵がマップ左端まで到達し、
+最後の防壁を突破されると強制的に敗北となります。
+
+
+&&Smnc_td_rule_title1 基本の配置
+/* ___ Smnc_td_rule1 ___ */
+まずは、なるべく多く防壁を配置しましょう。
+防壁は無限に建てられる訳ではなく、
+軍から支給された予算内に収める必要があります。
+
+このとき壁どうしの間隔が狭すぎると、後述の
+人員配置の際に壁一枚あたりの防衛につく
+人数が減ってしまいます。
+それぞれ3-4マスほど間隔を開けて建設するのが基本です。
+
+
+&&Smnc_td_rule_title2 援護射撃.1
+
+/* ___ Smnc_td_rule2 ___ */
+ティグリナは宿舎屋上の砲台から
+援護射撃で戦闘に参加します。
+
+なお、砲台にこめる弾薬は無限ではなく、
+これも予算内に収める必要があります。
+壁の建築で余った資金を注ぎ込むと\b良いでしょう。
+
+
+&&Smnc_td_rule_title3  援護射撃.2
+
+/* ___ Smnc_td_rule3 ___ */
+ティグリナは4種類の弾薬から
+状況に応じて最適なものを選んで発射します。
+
+弾薬にはノエル及び味方を
+巻き込む恐れがあるものも含まれるため、
+ノエルが壁外で活動しすぎると
+ティグリナが弾を発射し辛くなります。
+
+
+
+&&Smnc_td_rule_title4 人員の配置
+/* ___ Smnc_td_rule4 ___ */
+「人員の配置」では、共に防衛作戦に参加する
+味方を場に配置することができます。(最大&1人)
+
+人員を配置する場所によって、自動的に
+歩兵、救護兵、砲兵のいずれかの
+役割に割り振られます。
+
+&&Smnc_td_rule_title5 歩兵.1
+/* ___ Smnc_td_rule5 ___ */
+防壁の近く、または物見<rb c="やぐら">櫓</rb>の上に配置
+した人員は歩兵となります。
+
+歩兵は防壁を守るため、ホワイトアローまたは
+エナジーボールで魔族を攻撃して撃退します。
+（櫓上の歩兵はエナジーボールを優先します）
+
+
+&&Smnc_td_rule_title6 歩兵.2
+/* ___ Smnc_td_rule6 ___ */
+
+防壁が破壊されると、歩兵は自動的に戦線を下げ、
+後ろの壁から攻撃するようになります。
+
+魔力が不足すると戦えなくなるため、
+魔力塔を一本、壁の内側に建てておくと
+防衛が安定するでしょう。
+
+&&Smnc_td_rule_title7 砲兵
+/* ___ Smnc_td_rule7 ___ */
+宿舎の屋上、ティグリナの近くに人員を
+配置した場合、その人員は砲兵となります。
+
+砲兵は直接場に現れることはありませんが、
+配備すればするほどティグリナの大砲の
+発射速度が上昇します。
+（人数が多すぎると上昇率が緩やかになります）
+
+&&Smnc_td_rule_title8 救護兵
+/* ___ Smnc_td_rule8 ___ */
+救護テントの近くに配置した人員は救護兵となり、
+アイコンに紫のマークが付与されます。
+救護兵は倒れてしまった味方の元に駆け付け、
+救護テントまで運んでくれます。
+
+担架で運びやすくするため、2人1組で
+人員を配置するのが基本となります。
+
+&&Smnc_td_rule_title9 救護テント
+/* ___ Smnc_td_rule9 ___ */
+救護テント内に運ばれた倒れた味方は、
+しばらくすると快復して戦闘に復帰します。
+
+救護テントを建設するとプリムラが場に登場します。
+プリムラがテントで治療活動を行ってくれている
+間は、味方一人の快復速度がアップします。
+
+&&Smnc_td_rule_title10 救護テント
+/* ___ Smnc_td_rule10 ___ */
+ノエルが倒れてしまった場合も、
+防壁内であれば救護兵によって救助されます。
+最後まで諦めず、街の防衛のため
+全力を尽くしましょう。
+
+&&Smnc_td_rule_title11 危険物持ち込み
+/* ___ Smnc_td_rule11 ___ */
+防衛作戦において、グレネード類の使用は
+事故防止のため禁止されています。
+
+/* ___ Smnc_td_rule11_2 ___ */
+この回想においては、アイテムをいくら使っても
+戦闘終了後に全てリセットされます。
+爆弾の使用も含め、思う存分暴れ尽くして
+完膚無きまでに魔族を撃退しましょう。
+
+// ========================================================
+// MARK : キャノン砲
+// ========================================================
+
+
+&&Smnc_td_cannon_type_0 炸裂弾
+&&Smnc_td_cannon_type_1 衝撃波弾
+&&Smnc_td_cannon_type_2 グレネード
+&&Smnc_td_cannon_type_3 魔力グレネード
+&&Smnc_td_cannon_type_4 グラビティボム
+
+
+
+/* ___ Smnc_td_cannon_type_0_desc ___ */
+エナジーボールの爆風を発生させる\b弾です。\bそこそこの威力がありますが、吹き飛ばし力は\bノエルが唱える魔術よりも\b控えめです。\b味方を巻き込まないので、撃ちやすく幅広い状況に対応できます。
+
+/* ___ Smnc_td_cannon_type_1_desc ___ */
+地面を伝うショックウェーブの爆風を発生させる\b弾です。\b吹き飛ばし力が強く、地上の軽い敵の陣形を崩すのに役立ちます。
+
+
+/* ___ Smnc_td_cannon_type_2_desc ___ */
+火属性の爆風を発生させる弾です。
+自分や味方にも当たるため、\b遠方の敵を狙って発射されます。
+
+/* ___ Smnc_td_cannon_type_3_desc ___ */
+敵の魔力を奪う爆風を発生させる弾です。
+爆風はしばらくの間残り続け、\b範囲内の敵から魔力を奪い続けます。
+強力ですが装填に時間がかかります。
+
+
+/* ___ Smnc_td_cannon_type_4_desc ___ */
+フェーズ3の防衛戦で、\bハニカム型に対してだけ発射される特別な弾薬です。\b小型の敵や浮遊する敵を吸い込み\b体勢を崩させる\b重力場を発生させます。
+
+
+
+&&Smnc_KD_count_switch <key la/><key ra/>弾薬の増減 
+
+&&Smnc_cannon_bullet_edit <img mesh="IconTigrina" width=40/>弾薬を編集
+&&Smnc_cannon_per_cost &1 /個
+
+/* ___ Smnc_td_assigned_cc ___ */ 
+歩兵: &1人 (うち櫓上に&2人) ／ 救護兵: &3人 ／ 砲兵: &4
+
+
+/* ___ Smnc_alert_no_wall ___ */
+壁が配置されていません。この状態での防衛は非常に危険です。
+
+/* ___ Smnc_alert_no_cannon_bullet ___ */
+大砲の弾が準備されていません。
+
+/* ___ Smnc_alert_no_healer_in_tent  ___ */
+救護兵が配置されていないため、救護テントは機能しません。
+/* ___ Smnc_alert_healer_is_solo  ___ */
+救護兵が1人だけだと、倒れた仲間を担架で運ぶのが困難になります。
+/* ___ Smnc_alert_no_manatower ___ */
+魔力塔が配置されていません。後半に味方が魔力不足に陥る可能性があります。
+
+
+
+/* ___ Smnc_confirm_reset ___ */
+現在配置されている建築物および人員を初期化します。
+よろしいですか？
+
+&&Smnc_omakase おまかせ
+
+/* ___ Smnc_confirm_omakase ___ */
+現在配置されている建築物および人員を初期化し、
+オススメの配置で上書きします。
+よろしいですか？
+
+&&Smnc_omakase_execute おまかせ配置実行
+
+
+
+
+&&UiSmnCreator_smnc_signpole サインポール
+/* ___ smnc_desc_signpole ___ */
+破壊される事はありませんが、
+敵の侵入を防ぐ効果もありません。
+任意の場所に歩兵を配置したい
+用途にだけ使用できます。
+この標識だけ配置して\b防衛戦を
+開始する事は\b自殺行為に等しい\bでしょう。
+
+
+&&UiSmnCreator_smnc_eyescope 望遠鏡
+/* ___ smnc_desc_eyescope ___ */
+周囲を見渡す望遠鏡です。
+破壊される事はありません。
+戦況を見渡すのに使用できます。
+
+
+&&Smnc_ui_enemy_only_attr 防衛戦では、敵の数及び種類は変更できません。
+ 
+&&Smnc_title_enemy_attr_addition 追加する属性:
+
+
+
+
+
+/* ___ Smnc_alert_no_gravity  ___ */
+グラビティボムが砲弾にセットされていません。
+
+&&Smnc_restore_items 戦闘後に使ったアイテムを復元する
+
+// ========================================================
+// MARK : 0.29
+// ========================================================
+
+
+
+&&UiSmnCreator_smnc_enemylift 敵専用リフト
+
+/* ___ Smnc_stgo_smnc_enemylift ___ */
+敵のみが乗れるリフト。
+
+
+&&Smnc_stageedit_cc_guest ゲストの追加
+&&Smnc_cc_colvari カラー:
+&&Smnc_cc_KD_switch_list_mode リスト編集モード
+&&Smnc_cc_KD_switch_guest_mode ゲスト追加モード
+
+&&Smnc_cc_KD_swap 上下に移動
+
+
+
+&&Smnc_cc_name_woman_elf_student_1 カノン
+&&Smnc_cc_name_woman_elf_student_oneesan エリシア
+&&Smnc_cc_name_woman_elf_thin_student ヴァイラ
+&&Smnc_cc_name_woman_elf_student_black シェリス
+&&Smnc_cc_name_woman_elf_student_8 ミスハ
+&&Smnc_cc_name_woman_elf_oneesan_student ミラ
+&&Smnc_cc_name_woman_elf_thin_student_1 ネリア
+&&Smnc_cc_name_woman_elf_thin_student_9 ソフィ
+&&Smnc_cc_name_woman_elf_thin_student_sister_0 ルチア
+&&Smnc_cc_name_woman_elf_thin_student_sister_1 ベロニカ
+&&Smnc_cc_name_woman_elf_student_6 ベラン
+&&Smnc_cc_name_woman_elf_student_9 イリス
+&&Smnc_cc_name_woman_elf_thin_student_sister_2 トーリ
+&&Smnc_cc_name_woman_elf_student_10 ファイ
+&&Smnc_cc_name_woman_elf_thin_student_sister_3 ティアナ
+
+
+
+/* ___ Smnc_alert_no_cc_generator ___ */ 
+ゲスト開始位置が設定されていないので、ゲストはノエルの開始位置に配置されます。
+
+
+&&UiSmnCreator_smnc_generate_cc ゲストの開始位置
+
+/* ___ smnc_desc_generate_cc ___ */
+配置したゲストはここから開始します。
+これを複数配置すると、ゲストの追加画面で設定した
+順の通りに1人ずつ分配して配置します。
+
+&&Smnc_ui_enemy_position この敵の開始位置: 
+
+&&Smnc_ui_enemy_position_all ランダム
+&&Smnc_ui_seed_previous 直前のシード: &1
+
+&&UiSmnCreator_cc_attack_ratio ゲストの攻撃頻度(全ゲスト共通)

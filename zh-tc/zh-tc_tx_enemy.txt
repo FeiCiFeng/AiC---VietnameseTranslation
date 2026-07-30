@@ -1,0 +1,369 @@
+%FAMILY zh-tc
+
+&&Enemy_WORMS 蟲群
+&&Enemy_OTHER 敵
+&&Enemy_MUSH 蘑菇
+&&Enemy_MAGE 愚者
+&&Enemy_TENTACLE 觸手
+
+&&Summoner_forest_mush_coroseum 菌糸之王
+&&Summoner_forest_cliff_portal 闇夜之帳
+
+&&Summoner_forestS_swamp 潮騒
+
+// ========================================================
+// MARK : 220121追加 
+// ========================================================
+
+&&Summoner_forest_mushpot2 胞子的舞蹈場
+&&Summoner_forest_mush_narrowroad 注意頭頂
+&&Summoner_forest_foxhall 炎舞神樂
+&&Summoner_forest_buibui 流鏑馬的聚集
+&&Summoner_forest_wood_slash 飛瀑之虚
+&&Summoner_forest_senzyo 土龍的巢穴
+&&Summoner_forest_tikuwar 卑賤的補給兵
+&&Summoner_forest_nightlake 湖上的海市蜃樓
+&&Summoner_forest_clocktower 機關人偶
+&&Summoner_forest_acid_lake 酸底的針鼠
+&&Summoner_forest_tomato 血的制壓者
+&&Summoner_forest_treecrack 裂縫的守護者
+&&Summoner_forest_darkpotu 盒子裡的傑克
+&&Summoner_forest_toybox 盜墓者
+&&Summoner_forest_senzyo2cliff  溜狗區
+&&Summoner_forest_wood_hall  酸木的前菜
+&&Summoner_forest_wood_right_exit  空中回廊
+&&Summoner_forest_nightacid 酸液湖的地獄
+&&Enemy_PUPPY 小狗
+
+
+&&Enemy_GOLEM 木偶
+&&Enemy_GOLEM_OD 巨人
+&&Enemy_GOLEM_OD2 巨人
+&&Enemy_FOX 妖狐
+&&Enemy_UNI 劍山
+// Sea Urchin
+&&Enemy_SNAKE 土蛇
+&&Enemy_SPONGE 海綿
+
+&&Summoner_can_battle_in_night 限定晚上才能戰鬥
+
+
+
+// ========================================================
+// MARK : 220604 追加
+// ========================================================
+
+&&Enemy_GECKO 蜥蜴
+&&Enemy_FROG 沼蛙
+&&Enemy_FROG_VORE 沼蛙的生吞
+&&Enemy_BEAM 催淫射線
+&&Enemy_BOSS_NUSI 森林之主
+&&Summoner_forest_toylabo  修修補補實驗室
+&&Summoner_forest_coroseum_frog  貪婪的誘惑
+&&Summoner_forest_rwood_column 古車站的夜宴
+&&Summoner_forest_geckoland 隨勢而變的鶴和龜
+&&Summoner_forest_swamp 蠱惑沼澤
+&&Summoner_forest_wind_senzyo 風之中庭
+
+&&Summoner_forest_nusi_coroseum  森林之主
+
+&&Enemy_MKB 木馬
+
+
+// ========================================================
+// MARK : ver 0.24
+// ========================================================
+
+&&Enemy_MECHGOLEM 機甲木偶
+
+
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+/* ___ Enemy_description_SLIME ___ */
+非常原始的魔族。
+智能低卻意外有著強力的跳躍力。
+成群結隊而來時要注意別被吸取魔力了。
+
+/* ___ Enemy_description_SLIME_OD ___ */
+吸入過多魔力，變得更加喪失理智
+會將精靈生吞後照著本能鑽入卵管內，
+千萬別被牠抓到了。
+
+/* ___ Enemy_description_GOLEM ___ */
+主要棲息於廢坑道群居地的魔族。
+運用著各式各樣的組裝技術來玩弄精靈於股掌。
+當牠們開始著手組裝時，在組裝完成前除掉牠們吧。
+
+/* ___ Enemy_description_GOLEM_OD ___ */
+體型變得巨大，投石攻擊變為巨大的棍棒。
+儘管外表粗魯，但似乎有驚人的智力。
+跨到牠後面來迴避掉二連擊後進行攻擊比較好。
+
+
+
+/* ___ Enemy_description_MUSH ___ */
+棲息於潮濕地方的魔族。
+會射出胞子團進行攻擊。
+當牠躲進地面時攻擊會不太管用，
+用散彈槍來將牠拉出來吧。
+
+
+/* ___ Enemy_description_MUSH_OD ___ */
+彷彿為了消散原先不能動的鬱悶
+而變得驚人地俊敏。
+大量放出的瓦斯裡有著
+會使人受到「種子寄生」的異常狀態效果。
+當牠欠缺瓦斯並重新裝填胞子時
+會出現破綻，在那時攻擊牠吧。
+
+/* ___ Enemy_description_PUPPY ___ */
+身上纏著許多蟲子行動靈敏的魔族。
+動作迅速至用純白之箭也難以跟上牠。
+當牠身上纏繞著蟲子時受到的HP傷害都會由MP來承受。
+使用能量球直擊牠時爆炸以及爆風
+對牠造成兩段傷害較為輕鬆。
+
+/* ___ Enemy_description_SPONGE ___ */
+會將多餘魔力儲存於枝幹黑球裡的魔族。
+牠會向其他魔族發射魔力彈，
+使用魔力來對其進行回復。
+太過靠近牠使牠會躁動起來
+當牠安靜下來後使用散彈槍來打牠是好選擇。
+
+/* ___ Enemy_description_UNI ___ */
+全身布滿刺的魔族。
+牠會隨心所欲地飄浮於空中，
+偶而會突然將刺集中於前方進行突擊。
+因沒有特別弱點存在，
+盡早使用魔術來打倒牠吧。
+
+
+/* ___ Enemy_description_UNI_OD ___ */
+汙染體化後變得沉重的魔族，
+只能藉由尖刺在地面以及牆壁滾動
+當牠發出巨大的吼叫時
+要注意牠使用的廣範圍突刺。
+
+/* ___ Enemy_description_SNAKE ___ */
+會潛入於地下裡，
+並從對手腳下跳出來使出拘束的魔族。
+如果在牠跳出來地方放置球型炸彈，
+使之吃下後能對牠造成昏眩。
+
+
+/* ___ Enemy_description_GECKO ___ */
+能用四隻腳在牆壁上移動的魔族。
+使用一發攻擊來擊中後
+牠會摔個倒栽葱露出破綻。
+在牠撲過來時給予牠輕擊。
+
+/* ___ Enemy_description_MAGE ___ */
+模仿學習了第一世代魔術「閃電衝擊」
+並只會在夜晚出現的魔族。
+當被魔術鎖定時會使用瞬間移動來進行迴避。
+別被牠的行動給迷惑了
+先行預測對手的行動來進行佯攻吧。
+
+/* ___ Enemy_description_FOX ___ */
+看守著森林特定區域的稀少魔族。
+散落在地上的火焰會持續一段時間，
+所以盡可能的在高處戰鬥。
+有著非常強的戰鬥力但是魔力消耗也非常大
+牠會頻繁往有魔力植物的地方移動。
+
+
+/* ___ Enemy_description_FROG ___ */
+看守著沼澤的稀少魔族。
+會對我方的反應並做出跳躍發射凍結彈。
+先躲遠一點詠唱，
+等待牠跳躍後在找機會反擊吧。
+
+
+
+
+/* ___ Enemy_description_BOSS_NUSI ___ */
+棲息在森林裡的大型魔族。
+被里的精靈軍打倒了……事情被當成這樣了。
+
+
+// 敵属性
+&&Enattr_atk 攻擊力強化
+&&Enattr_def 防禦力強化
+&&Enattr_mp_stable 魔力安定體
+&&Enattr_fire 火
+&&Enattr_ice 冰
+&&Enattr_thunder 雷
+&&Enattr_slimy 黏液
+&&Enattr_acme 淫毒
+&&Enattr_invisible 透明化
+
+&&Enemy_GOLEMTOY_MKB 木馬
+&&Enemy_GOLEMTOY_RM 造雨人 
+// 「雑念」を撒き散らす奴
+&&Enemy_GOLEMTOY_POD 飛彈艙
+&&Enemy_GOLEMTOY_BOW 光束裝置
+
+&&Enemy_PENTAPOD 五腳獸
+&&Enemy_PIG 野豬
+
+&&Enemy_ROAPER 樹繩妖
+
+&&Enemy_GOLEM_0_NM 木偶(無動作)
+
+
+
+/* ___ Enemy_description_PIG ___ */
+棲息在山裡的魔族。
+體型龐大但動作卻很敏捷，
+特別是牠有著能用巨大的牙
+把周遭的的敵人通通打飛的蠻力在。
+如果用近距離攻擊打中牠，牠會使出反撲倒
+用遠距離戰鬥較為理想。
+
+
+
+/* ___ Enemy_description_PENTAPOD ___ */
+棲息於山中的魔族。
+會從上面的頭部發射出光束。
+被光束擊中有可能會石化，
+遭連續擊中的話身體會動彈不得非常的危險。
+底部雖然很結實但是稍有一點攻擊就會使之畏懼，
+使用炸彈來嚇唬牠後並朝頭部使出強力攻擊吧。
+
+
+
+/* ___ Enemy_description_ROAPER ___ */
+棲息於山中的魔族。
+會從細長的身體裡延伸出觸手，
+並纏縛在精靈身上來吸取魔力。
+當牠發出吼叫時，就是要呼叫大量觸手
+來使出強力拘束技的預兆。
+在牠吼叫時給予傷害的話，
+能對牠造成會心一擊。
+
+
+
+&&EnemyKind_devil 魔族
+&&EnemyKind_machine 機械
+
+
+// ========================================================
+// MARK : 028
+// ========================================================
+&&Enemy_RAMDA 壺怪
+/* ___ Enemy_description_RAMDA ___ */
+棲息於山中的魔族。
+體型小卻有著能將獵物整個生吞的大嘴巴。
+會把捕食的獵物帶回巢穴，
+作為幼體的飼料榨取魔力直到磁性耗盡為止。
+
+
+// Hive
+&&Enemy_EHOME 巢
+
+
+/* ___ Enemy_description_EHOME ___ */
+會在地面扎根，並且召喚小型魔族。
+從巢中吐出的敵人不會算進區域內的敵人上限數，
+在場地上的魔族溢滿出來之前，
+將其擊退比較好。
+
+
+&&Summoner_SmnC_garage 模擬戰(車庫)
+
+&&Summoner_SmnC_td 古拉提亞防衛作戰
+
+&&Enattr_big 巨大化
+
+&&Enemy_HONEYCOMB 蜂巢
+
+
+/* ___ Enemy_description_HONEYCOMB ___ */
+六角形構造的蜂巢內部裡積滿著許多魔族幼體。
+幼體會圍繞在有著強力磁性的個體周邊形成防護罩，
+使蜂巢本體受到的傷害降到最低，
+並使其能操作蜂群來發動攻擊。
+除了使用重力操作外沒啥對策法。
+
+
+&&Enemy_SYABON 肥皂泡
+
+
+// ========================================================
+// MARK : 029
+// ========================================================
+
+&&Enemy_LEECH 山蛭
+&&Enemy_LEECHQUEEN 女王蛭
+&&Enemy_EMPRESS 女帝
+
+/* ___ Enemy_description_LEECH ___ */
+棲息於山中的小型蠕蟲狀魔族。
+一隻隻都極為脆弱，
+使用球型炸彈等大範圍魔術能夠簡單處理，
+但仍須警惕不要被從死角突襲的攻擊絆倒了。
+
+
+&&Summoner_mount_windtower 搖曳山風
+
+&&Summoner_mount_honeypit 蟲巢落穴
+
+&&Summoner_mount_ruinroad 高原群生地
+&&Summoner_mount_busstop 狙擊手的碉堡
+
+&&Summoner_mount_trash_cr 廢棄場的強盜
+&&Summoner_mount_junk_senzyo 廢品癖
+
+
+
+&&Summoner_mount_mine0 常闇的廢坑道
+
+
+&&Summoner_mount_sand_senzyo 奈落的暴龍
+
+
+
+
+&&Summoner_mount_poison_lake 浸毒的豉甲蟲
+
+
+
+&&Summoner_mount_poison_cave 闇夜的泡沫
+
+&&Summoner_mount_mine_1 沉睡的未爆彈
+
+
+
+&&Summoner_mount_honey_darkpit 砂之暴君
+
+
+&&Summoner_mount_cave_honey0 懸絲巨人
+
+
+
+
+&&Summoner_mount_spider_coroseum 兔子洞
+
+&&Summoner_mount_mine_lt 超時工作
+
+
+&&Summoner_mount_cannon_senzyo 大砲的舞會
+
+
+
+
+&&Summoner_mount_darkcave 漆黒的脈動
+
+&&Summoner_mount_woodslash 豎坑的船夫
+
+
+
+&&Enattr_acme_on_fear_mode 黑暗
+
+
+&&Enemy_BOSS_SPIDER 山蜘蛛
+
+&&Enemy_MIMIC 寶箱怪

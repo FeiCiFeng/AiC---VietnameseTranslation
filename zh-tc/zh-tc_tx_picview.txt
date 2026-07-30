@@ -1,0 +1,3 @@
+%FAMILY zh-tc
+
+&&PicView_STAND 一般

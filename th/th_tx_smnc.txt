@@ -1,0 +1,102 @@
+%FAMILY _
+
+&&Smnc_title_enemy 登場する敵:
+
+&&Smnc_ui_files_create +新規作成
+&&Smnc_ui_file ファイル &1
+
+&&Smnc_title_makenew_object どのオブジェクトを追加しますか？
+
+&&Smnc_ui_enemy_appear 同時に現れる最大数: &1匹
+&&Smnc_ui_enemy_appear_whole  同時に現れる最大数(全ての敵の総計): &1匹
+&&Smnc_ui_enemy_appear_infinity ∞
+
+&&Smnc_ui_enemy_row &1 (MP &2〜&3%) : &4匹
+&&Smnc_ui_enemy_mp_min_ratio 魔力最小: &1%
+&&Smnc_ui_enemy_mp_max_ratio 魔力最大: &1%
+&&Smnc_ui_enemy_total 登場する数: 
+&&Smnc_ui_enemy_count &1匹
+&&Smnc_ui_enemy_total_sum ( 合計 &1匹 )
+
+&&Smnc_ui_enemy_edit_kind 種類
+&&Smnc_ui_enemy_edit_attr 属性
+
+&&Smnc_KD_filesel <key add/>複製 <key rem/>削除 <key submit/>編集開始
+&&Smnc_KD_submit <key submit/>決定
+&&Smnc_KD_put_end <key submit/>配置して終了
+&&Smnc_KD_put_continue <key add/>連続で配置
+
+
+&&Smnc_start_battle_submit 戦闘を開始する！
+
+&&Smnc_KD_stageedit_move <key la/><key ba/><key ta/><key ra/>パーツ移動 
+&&Smnc_KD_stageedit_move_flip <key sort/>左右反転
+
+&&Smnc_stageedit_move <key submit/>パーツ移動
+&&Smnc_stageedit_add <key add/>パーツ追加
+&&Smnc_stageedit_rem パーツ削除
+&&Smnc_stageedit_plant 魔力植物編集 
+&&Smnc_KD_enemyedit_garage <key sort/>敵の編集
+&&Smnc_KD_start_battle_garage <key menu/>模擬戦開始
+
+&&Smnc_start_battle_randomize_nattr 危険度上昇に合わせて属性を自動付与
+&&Smnc_start_battle_seed 乱数シード\n(0で不使用)
+
+
+/* ___ Smnc_alert_no_plants ___ */
+魔力植物が配置されていません。
+/* ___ Smnc_alert_no_enemypos ___ */ 
+敵の開始位置が配置されていないので、敵は完全にランダムな位置に出現します。
+
+/* ___ Smnc_alert_invalid_start ___ */
+ノエルの開始位置がブロックに埋まっています。
+
+/* ___ Smnc_alert_no_enemy ___ */ 
+敵が配置されていません。<key sort/>で敵の情報を編集して下さい。
+
+&&Smnc_KD_plant_0 魔力植物の追加／削除
+&&Smnc_KD_plant_1 追加
+&&Smnc_KD_plant_2 <key rem/>削除
+
+
+&&Smnc_confirm_fileremove ファイル &1 を削除します。\nよろしいですか？
+&&Smnc_confirm_fileremove_btn 削除する
+
+&&UiSmnCreator_smnc_generate_pr ノエルの開始位置
+&&UiSmnCreator_smnc_generate_en 敵の湧きポイント
+&&UiSmnCreator_smnc_generate_en_fix 敵の湧きポイント(位置固定)
+
+&&UiSmnCreator_smnc_cliff_00 ブロック4x4
+&&UiSmnCreator_smnc_cliff_01 ブロック2x2
+&&UiSmnCreator_smnc_cliff_02 ブロック4x8
+&&UiSmnCreator_smnc_smallbar_00 ブロック4x1
+&&UiSmnCreator_smnc_smallbar_01 ブロック1x4
+&&UiSmnCreator_smnc_smallbar_02 ブロック8x1
+&&UiSmnCreator_smnc_lift_4 リフト4x1
+&&UiSmnCreator_smnc_stair_00 3段階段
+&&UiSmnCreator_smnc_stair_01 4段階段
+
+
+&&UiSmnCreator_smnc_spike_00 トゲ床4x1
+&&UiSmnCreator_smnc_spike_01 トゲ床8x1
+&&UiSmnCreator_smnc_spike_02 トゲ壁1x4
+&&UiSmnCreator_smnc_spike_03 トゲ壁1x8
+
+&&UiSmnCreator_smnc_icefloor_4 氷の床4x1
+&&UiSmnCreator_smnc_icefloor_8 氷の床8x1
+
+
+&&UiSmnCreator_smnc_thundertrap_b 電撃トラップ(下)
+&&UiSmnCreator_smnc_thundertrap_r 電撃トラップ(横)
+&&UiSmnCreator_smnc_thundertrap_t 電撃トラップ(上)
+
+
+&&Status_Tab_current_battle 戦闘エリア - &1
+&&Status_Tab_drop_change ドロップ率: &1 %
+
+&&Status_Tab_smnc_abort 模擬戦闘を中断
+&&Status_Tab_dangerousness_till_sunset 日暮れまで:
+&&Status_Tab_dangerousness_till_sunrise 夜明けまで:
+&&Status_Tab_enemy_rest 残っている敵:
+
+&&Status_Tab_battlearea 危険度／戦闘

@@ -1,0 +1,559 @@
+%FAMILY zh-tc
+
+&&Smnc_title_enemy 出現敵人:
+// For :残り0
+&&Smnc_ui_files_create +製作新專案
+&&Smnc_ui_file 專案 &1
+
+&&Smnc_title_makenew_object 要配置哪個障礙物呢？
+
+&&Smnc_ui_enemy_appear 同時出現最大數量: &1隻
+&&Smnc_ui_enemy_appear_whole  同時出現最大數量(全部敵人合計): &1隻
+&&Smnc_ui_enemy_appear_infinity ∞
+
+&&Smnc_ui_enemy_row &1 (MP &2〜&3%) : &4隻
+&&Smnc_ui_enemy_mp_min_ratio 最小魔力: &1%
+&&Smnc_ui_enemy_mp_max_ratio 最大魔力: &1%
+&&Smnc_ui_enemy_total 出現數量: 
+&&Smnc_ui_enemy_count &1隻
+&&Smnc_ui_enemy_total_sum ( 合計 &1隻 )
+
+&&Smnc_ui_enemy_edit_kind 種類
+&&Smnc_ui_enemy_edit_attr 屬性
+
+&&Smnc_KD_filesel <key add/>複製 <key rem/>刪除 <key submit/>開始編輯
+&&Smnc_KD_submit <key submit/>確定
+&&Smnc_KD_put_end <key submit/>配置後確定
+&&Smnc_KD_put_continue <key add/>連續配置
+
+
+&&Smnc_start_battle_submit 開始戰鬥！
+
+&&Smnc_KD_stageedit_move <key la/><key ba/><key ta/><key ra/>移動物件 
+&&Smnc_KD_stageedit_move_flip <key sort/>左右翻轉
+
+&&Smnc_stageedit_move <key submit/>移動物件
+&&Smnc_stageedit_add <key add/>增加物件
+&&Smnc_stageedit_rem 刪除物件
+&&Smnc_stageedit_plant 配置魔力植物 
+&&Smnc_KD_enemyedit_garage <key sort/>配置敵人
+&&Smnc_KD_start_battle_garage <key menu/>開始模擬戰
+
+&&Smnc_start_battle_randomize_nattr 依據危險度上升自動賦予屬性
+&&Smnc_start_battle_seed 亂數種子\n(0為不使用)
+
+
+/* ___ Smnc_alert_no_plants ___ */
+沒有配置魔力植物
+/* ___ Smnc_alert_no_enemypos ___ */ 
+因沒有配置敵人開始位置，敵人將從隨機位置出現
+
+/* ___ Smnc_alert_invalid_start ___ */
+諾艾爾的起始位置有格子擋住了
+
+/* ___ Smnc_alert_no_enemy ___ */ 
+沒有配置敵人，請按<key sort/>鍵來配置敵人
+
+&&Smnc_KD_plant_0 增加魔力植物／刪除
+&&Smnc_KD_plant_1 增加
+&&Smnc_KD_plant_2 <key rem/>刪除
+
+
+&&Smnc_confirm_fileremove 確定要將專案 &1 刪除嗎？
+&&Smnc_confirm_fileremove_btn 刪除
+
+&&UiSmnCreator_smnc_generate_pr 諾艾爾起始位置
+&&UiSmnCreator_smnc_generate_en 敵人出現點
+&&UiSmnCreator_smnc_generate_en_fix 敵人出現點(固定位置)
+
+&&UiSmnCreator_smnc_cliff_00 方格4x4
+&&UiSmnCreator_smnc_cliff_01 方格2x2
+&&UiSmnCreator_smnc_cliff_02 方格4x8
+&&UiSmnCreator_smnc_smallbar_00 方格4x1
+&&UiSmnCreator_smnc_smallbar_01 方格1x4
+&&UiSmnCreator_smnc_smallbar_02 方格8x1
+&&UiSmnCreator_smnc_lift_4 平台4x1
+&&UiSmnCreator_smnc_stair_00 三層樓梯
+&&UiSmnCreator_smnc_stair_01 四層樓梯
+
+
+&&UiSmnCreator_smnc_spike_00 刺地板4x1
+&&UiSmnCreator_smnc_spike_01 刺地板8x1
+&&UiSmnCreator_smnc_spike_02 刺牆1x4
+&&UiSmnCreator_smnc_spike_03 刺牆1x8
+
+&&UiSmnCreator_smnc_icefloor_4 冰地板4x1
+&&UiSmnCreator_smnc_icefloor_8 冰地板8x1
+
+
+&&UiSmnCreator_smnc_thundertrap_b 電擊陷阱(下)
+&&UiSmnCreator_smnc_thundertrap_r 電擊陷阱(横)
+&&UiSmnCreator_smnc_thundertrap_t 電擊陷阱(上)
+
+
+&&Status_Tab_current_battle 戰鬥區域 - &1
+&&Status_Tab_drop_change 掉落率: &1 %
+
+&&Status_Tab_smnc_abort 中止模擬戰
+&&Status_Tab_dangerousness_till_sunset 到日落還有:
+&&Status_Tab_dangerousness_till_sunrise 到黎明還有:
+&&Status_Tab_enemy_rest 剩下的敵人:
+
+&&Status_Tab_battlearea 危險度／戰鬥
+
+
+&&KD_check_unlock_how <key submit/>確認解鎖條件
+
+&&Smnc_ui_enemy_kind_unlock_how &1 的解鎖條件:
+&&Smnc_ui_enemy_kind_unlock_count 消滅&1隻
+&&Smnc_ui_enemy_kind_unlock_count_rest (還要&1隻)
+&&Smnc_ui_enemy_kind_unlock_item 或是繳納指定物品:
+/* ___ Smnc_ui_enemy_kind_unlock_count_auto ___ */
+已達到指定的消滅數，
+現在可以使用新的敵人了！
+
+&&Smnc_save_file 匯出專案
+&&Smnc_load_file 匯入專案
+
+
+
+//狐を氷属性で出すことはできない，などのアラート表示です
+
+/* ___ Smnc_alert_wrong_attr ___ */ 
+有一部分敵人無法對應設定的屬性出現
+
+
+// ========================================================
+// MARK : 0.28
+// ========================================================
+
+/* ___ Smnc_stgo_desc_generate_en ___ */
+敵人的出現位置設定。
+當配置大量的敵人時，
+\b敵人有可能會從設定點\b稍有偏差的地方出現。
+\b如要避開敵人可能穿牆的情況\b場合，
+還請使用位置固定版的設定。
+
+
+/* ___ Smnc_stgo_desc_generate_en_fix ___ */
+敵人出現位置設定。
+就算配置大量的敵人時，\b敵人也固定會從此位置登場。
+
+
+/* ___ Smnc_stgo_desc_block ___ */
+沒有任何變化的方塊。
+\b能作為地板、牆壁、天花板各種用途來使用。
+
+/* ___ Smnc_stgo_desc_lift ___ */
+沒有任何變化的移動平台。\b確保站立點。
+/* ___ Smnc_stgo_desc_stair ___ */
+一個樓梯。
+
+/* ___ Smnc_stgo_desc_spike ___ */
+尖尖的方塊。
+明明是全息投影\b碰了衣服會破也會痛。
+
+
+/* ___ Smnc_stgo_desc_ice ___ */
+滑溜溜的冰地板。
+要在上面移動\b實在非常辛苦。
+
+
+/* ___ Smnc_stgo_desc_thundertrap ___ */
+電擊雷射陷阱。\b從發射口\b一直延伸至牆壁另一側。
+
+
+&&Smnc_KD_enemy_info 編輯詳細情報
+&&Smnc_KD_enemy_how_to_unlock 確認解放條件
+
+// ========================================================
+// MARK : tower defence
+// ========================================================
+
+
+&&Smnc_KD_start_battle_td <key menu/>開始迎擊
+
+
+
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+選擇的檔案類型不同。
+
+
+/* ___ Smnc_alert_wrong_type ___ */
+選擇的檔案類型不同。
+
+&&Smnc_stageedit_caster_add 新增人員
+&&Smnc_stageedit_caster  新增人員／刪除
+
+
+&&UiSmnCreator_smnc_manatower 魔力塔 
+/* ___ smnc_desc_manatower ___ */
+儲備魔力的儲存塔。\b
+諾艾爾可以使用近接攻擊\b來回收魔力之外，\b
+同伴魔力減少時\b也能回復魔力。\b
+不會遭破壞掉，\b儲備量有上限在，\b
+如遭受敵人攻擊時會掉出\b紅色的魔力。
+
+
+&&UiSmnCreator_smnc_barricade_spike 木製拒馬
+/* ___ smnc_desc_barricade_spike ___ */
+用木頭組成的簡易拒馬\b觸碰的敵人會受傷，\b
+自已及同伴沒有傷害判定\b，
+或許能用來爭取一點時間。
+
+&&UiSmnCreator_smnc_barricade_wood_wall 木製防壁
+/* ___ smnc_desc_barricade_wood_wall ___ */
+自己及同伴能自由通行\b但是魔術無法穿過。
+\b為了讓純白之箭的射線通暢\b
+高度特意作的較低，
+對抗魔術以及屬性攻擊意外的能扛。
+
+&&UiSmnCreator_smnc_barricade_offensive_wall 攻性防壁
+/* ___ smnc_desc_barricade_offensive_wall ___ */
+能張開魔力結界\b來防止敵人侵入的強力防壁。\b
+自己及同伴的魔力能夠穿越\b非常容易使用。
+
+&&UiSmnCreator_smnc_watchtower 瞭望塔
+/* ___ smnc_desc_watchtower ___ */
+高度稍高的瞭望塔
+大部分在地上的敵人
+\b都沒有辦法打中\b站於瞭望塔上的我方，
+\b將它放於牆壁外讓先驅隊來使用
+\b能夠有效率的打倒敵人，
+\b但是同伴如果負傷時\b救援也將變為困難\b，
+想要將人員配置於塔上時\b
+請直接配置於上方平台\b。(最多三個人)
+
+&&UiSmnCreator_smnc_finalwall 貝爾米特校舍
+
+/* ___ smnc_desc_finalwall ___ */
+最後防線。無法移動。
+\b當這裡遭到破壞時，
+\b將會強制進入GAME OVER。
+
+
+&&UiSmnCreator_smnc_healtent 急救帳篷
+
+/* ___ smnc_desc_healtent ___ */
+能救助前線倒地同伴\b的救護營地。
+\b將人員配置於這裡後\b能夠提高救助倒地同伴的速度。
+
+&&UiSmnCreator_smnc_td_cannon <img mesh="IconTigrina"/>固定砲台
+
+/* ___ smnc_desc_td_cannon ___ */
+由媞古莉娜率領的\b狙擊兵使用的砲台。
+\b按<key submit/>可以編輯用於大砲的彈藥\b，
+想要追加配置人員時\b
+請直接配置媞古莉娜附近\b。
+(彈藥的發射間隔將會變短)。
+
+
+
+/* ___ smnc_alert_td_notice ___ */
+防衛作戰開始。
+諾艾爾，以及各位士官候補生們，
+祈求各位平安。
+
+/* ___ Smnc_alert_td_no_caster ___ */
+<font size="16">沒有配置任何人員。
+將由諾艾爾單體進行戰鬥，
+想必會是一場艱苦的戰鬥。
+你要確欸？
+
+
+&&Alert_gameover_td 防衛作戰失敗了...
+
+
+&&Smnc_td_show_rule 說明與建議
+
+&&Smnc_td_rule_title0 概要
+
+/* ___ Smnc_td_rule0 ___ */
+為了保護城鎮免於遭受山岳地帶魔族的侵略，
+建築防壁並將大軍擊退並殲滅吧。
+預計敵人會分三波攻勢進攻。
+
+當敵人突破最後的防壁，
+並到達地圖最左邊之時，
+將會強制敗北。
+
+
+&&Smnc_td_rule_title1 配置的基礎
+/* ___ Smnc_td_rule1 ___ */
+首先，盡可能地放置多個防壁。
+但防壁並不是能無限制建造的，
+必須要控制在軍隊所給予的預算範圍內。
+
+如果牆與牆之間的間隔過於狹窄，
+在進行人員配置時候，
+每個牆後能配置的人數將會減少。
+建設時互相保持三～四格之間是最基本的。
+
+
+&&Smnc_td_rule_title2 掩護射擊.1
+
+/* ___ Smnc_td_rule2 ___ */
+媞古莉娜將會在宿舍屋頂上的砲台
+進行掩護射擊來參與戰鬥。
+
+此外，砲台能裝填的砲彈並不是無限的，
+這些也必須控制在預算範圍內。
+將建築所剩的資金投注在這也是挺好的。
+
+
+&&Smnc_td_rule_title3  援護射撃.2
+
+/* ___ Smnc_td_rule3 ___ */
+媞古莉娜將會依據戰況
+從四種砲彈中選出最合適的來發射。
+
+部分砲彈也會擊中諾艾爾及其同伴
+所以諾艾爾過於在牆外行動時，
+將會使得媞古莉娜難以發射砲彈。
+
+
+
+&&Smnc_td_rule_title4 人員配置
+/* ___ Smnc_td_rule4 ___ */
+用「人員配置」在場地上面配置我方，
+並能與我方一同參加防衛作戰。(最多&1人)
+
+依據人員所配置的位置，
+他們將會自動從步兵、救護兵、砲兵
+中被分配一個職務。
+
+&&Smnc_td_rule_title5 步兵.1
+/* ___ Smnc_td_rule5 ___ */
+配置在防壁附近，或是瞭望塔上面的人員，
+將作為步兵。
+
+步兵為了保護防壁，
+會使用純白之箭和能量球來迎戰魔族。
+(瞭望塔上面的人員優先使用能量球)
+
+
+&&Smnc_td_rule_title6 步兵.2
+/* ___ Smnc_td_rule6 ___ */
+
+防壁遭到破壞後，
+步兵將會自動從戰線退至後方的防壁，
+繼續進行攻勢。
+
+魔力不足時將會無法戰鬥，
+因此在牆內側建立一個魔力塔，
+防衛會較為穩定。
+
+&&Smnc_td_rule_title7 砲兵
+/* ___ Smnc_td_rule7 ___ */
+將人員配置於宿舍屋頂，媞古莉娜附近時，
+人員將會作為砲兵。
+
+砲兵不會直接出現在場地上，
+會依據所配置的人員多寡
+媞古莉娜大砲的發射速度將會上昇。
+(人數配置過多時，增加的上昇幅度將會減少)
+
+&&Smnc_td_rule_title8 救護兵
+/* ___ Smnc_td_rule8 ___ */
+配置在急救帳篷附近人員將作為救護兵，
+並會新增紫色的圖標。
+救護兵會趕到倒地的同伴那裡，
+將同伴運回急救帳篷。
+
+為了能更方便使用擔架，
+兩人一組的人員配置是最基本的。
+
+&&Smnc_td_rule_title9 急救帳篷
+/* ___ Smnc_td_rule9 ___ */
+被運到急救帳篷的同伴，
+經過一段時間的恢復後就會再度回歸戰線。
+
+有建設急救帳篷時普莉姆拉將會出現。
+當普莉姆拉在帳篷實施治療時，
+會使我方一個人的恢復速度加快。
+
+&&Smnc_td_rule_title10 急救帳篷
+/* ___ Smnc_td_rule10 ___ */
+當諾艾爾被打倒時，
+只要在防壁之內的話救護兵也會救助。
+不到最後一刻不要放棄，
+為了保護城鎮盡力而為吧。
+
+&&Smnc_td_rule_title11 持有的危險品
+/* ___ Smnc_td_rule11 ___ */
+在防衛作戰時，禁用手榴彈類的物品
+以防止事故發生。
+
+/* ___ Smnc_td_rule11_2 ___ */
+在這個回想中，無論使用多少道具
+在戰鬥結束之後都會全部重置。
+也包含所使用的炸彈，
+盡情肆虐地將魔族打得體無完膚吧。
+
+// ========================================================
+// MARK : キャノン砲
+// ========================================================
+
+
+&&Smnc_td_cannon_type_0 炸裂彈
+&&Smnc_td_cannon_type_1 衝擊波彈
+&&Smnc_td_cannon_type_2 榴彈
+&&Smnc_td_cannon_type_3 魔力榴彈
+&&Smnc_td_cannon_type_4 重力彈
+
+
+
+/* ___ Smnc_td_cannon_type_0_desc ___ */
+會發生能量球爆風的砲彈。\b有著不錯的威力，
+擊飛力\b比諾艾爾詠唱的魔術稍弱。\b
+由於不會牽連同伴容易使用，還能應付各種狀況。
+
+/* ___ Smnc_td_cannon_type_1_desc ___ */
+擊中地面時會發出震波的砲彈。
+\b擊飛力非常強勁\b，
+對於破壞地面上輕型敵人的陣型相當有用。
+
+
+/* ___ Smnc_td_cannon_type_2_desc ___ */
+會產生火屬性爆風的砲彈。
+會擊中自我軍的關係，\b會優先瞄準遠方的敵人發射。
+
+/* ___ Smnc_td_cannon_type_3_desc ___ */
+會奪取敵人魔力的砲彈。
+在爆風持續時間內，\b會不斷地奪取敵人的魔力。
+雖然強力但是裝填時間較為費時。
+
+
+/* ___ Smnc_td_cannon_type_4_desc ___ */
+只會在第三波防衛戰時，\b對蜂巢型敵人發射的特殊砲彈。
+\b會發出能使小型以及漂浮敵人失衡的重力場。
+
+
+
+&&Smnc_KD_count_switch <key la/><key ra/>砲彈增減 
+
+&&Smnc_cannon_bullet_edit <img mesh="IconTigrina" width=40/>砲彈編輯
+&&Smnc_cannon_per_cost &1 /個
+
+/* ___ Smnc_td_assigned_cc ___ */ 
+步兵: &1名 (瞭望塔上&2名) ／ 救護兵: &3名 ／ 砲兵: &4名
+
+
+/* ___ Smnc_alert_no_wall ___ */
+沒有配置任何防壁。在這狀態下進行防衛是非常危險的。
+
+/* ___ Smnc_alert_no_cannon_bullet ___ */
+沒有準備任何大砲砲彈。
+
+/* ___ Smnc_alert_no_healer_in_tent  ___ */
+沒有配置任何救護兵的關係，急救帳篷沒有作用。
+/* ___ Smnc_alert_healer_is_solo  ___ */
+救護兵只有一個人，要使用擔架來搬運同伴將會變得困難。
+/* ___ Smnc_alert_no_manatower ___ */
+沒有配置魔力塔。後半同伴可能會陷入魔力不足的狀況。
+
+
+
+/* ___ Smnc_confirm_reset ___ */
+將現在配置的建築以及人員通通重置。
+你確定嗎？
+
+&&Smnc_omakase 自動配置
+
+/* ___ Smnc_confirm_omakase ___ */
+將現在配置的建築和人員重置，
+並覆蓋成推薦配置。
+你確定嗎？
+
+&&Smnc_omakase_execute 執行推薦配置
+
+
+
+
+&&UiSmnCreator_smnc_signpole 標誌桿
+/* ___ smnc_desc_signpole ___ */
+不會遭到破壞，
+也無法防止敵人侵入。
+可以用來在想要的任意區域配置步兵。
+只配置這個標誌
+來進行防衛戰只能說是自殺行為吧。
+
+
+&&UiSmnCreator_smnc_eyescope 望遠鏡
+/* ___ smnc_desc_eyescope ___ */
+能夠環顧四周
+來掌握戰況的望遠鏡。
+不會受到破壞。
+
+
+&&Smnc_ui_enemy_only_attr 防衛戰時，無法變更敵人的數量及種類。
+
+&&Smnc_title_enemy_attr_addition 追加屬性:
+
+
+
+
+
+/* ___ Smnc_alert_no_gravity  ___ */
+沒有設置重力彈。
+
+&&Smnc_restore_items 在戰鬥後將使用掉的物品復原
+
+// ========================================================
+// MARK : 0.29
+// ========================================================
+
+
+
+&&UiSmnCreator_smnc_enemylift 敵人專用平台
+
+/* ___ Smnc_stgo_smnc_enemylift ___ */
+只有敵人能踩上去的平台。
+
+
+&&Smnc_stageedit_cc_guest 新增來賓
+&&Smnc_cc_colvari 顏色:
+&&Smnc_cc_KD_switch_list_mode 清單編輯模式
+&&Smnc_cc_KD_switch_guest_mode 來賓配置模式
+
+&&Smnc_cc_KD_swap 上下移動
+
+
+
+&&Smnc_cc_name_woman_elf_student_1 卡農
+&&Smnc_cc_name_woman_elf_student_oneesan 愛莉希亞
+&&Smnc_cc_name_woman_elf_thin_student 薇拉
+&&Smnc_cc_name_woman_elf_student_black 雪利絲
+&&Smnc_cc_name_woman_elf_student_8 水葉
+&&Smnc_cc_name_woman_elf_oneesan_student 米菈
+&&Smnc_cc_name_woman_elf_thin_student_1 奈麗雅
+&&Smnc_cc_name_woman_elf_thin_student_9 蘇菲
+&&Smnc_cc_name_woman_elf_thin_student_sister_0 露琪亞
+&&Smnc_cc_name_woman_elf_thin_student_sister_1 貝蘿妮卡
+&&Smnc_cc_name_woman_elf_student_6 蓓蘭
+&&Smnc_cc_name_woman_elf_student_9 伊莉絲
+&&Smnc_cc_name_woman_elf_thin_student_sister_2 朵莉
+&&Smnc_cc_name_woman_elf_student_10 法伊
+&&Smnc_cc_name_woman_elf_thin_student_sister_3 提亞娜
+
+
+
+/* ___ Smnc_alert_no_cc_generator ___ */ 
+因沒有設定來賓的初期位置，將會套用諾艾爾的起始位置。
+
+
+&&UiSmnCreator_smnc_generate_cc 來賓起始位置
+
+/* ___ smnc_desc_generate_cc ___ */
+配置的來賓會從這邊出現。
+當配置複數位置時，可以從來賓配置畫面那裡，
+對來賓逐一配置起始位置。
+
+&&Smnc_ui_enemy_position 此敵人的起始位置: 
+
+&&Smnc_ui_enemy_position_all 隨機
+&&Smnc_ui_seed_previous 之前的種子碼: &1
+
+&&UiSmnCreator_cc_attack_ratio 來賓的攻擊頻率（套用全來賓）

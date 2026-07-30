@@ -1,0 +1,202 @@
+%FAMILY zh-cn
+
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================
+
+&&SerTitle_poison    中毒
+/* ___ SerDesc_poison ___ */
+HP因沾染毒物而缓慢减少，但不会直接导致阵亡。
+该状态下食物带来的增益效果减半。
+对于普通及以下难度的HP自动恢复机制，
+该异常状态亦将使恢复速度减半。
+
+
+
+&&SerTitle_poison_2    剧毒
+/* ___ SerDesc_poison_2 ___ */
+因中毒程度加深，无法靠自然代谢痊愈。
+即便坐在长椅上休息也无法消除。
+
+
+&&SerTitle_fainted    昏迷
+&&SerDesc_fainted    暂时失去意识，\n无法行动。
+
+
+
+&&corrupt_fear 因强烈的恐惧而身体发软，动弹不得…
+
+
+
+&&SerTitle_sexercise_fear   怯懦
+&&SerDesc_sexercise_fear  恐惧值变得更容易上升。\n能略微防止MP计量槽的破裂。
+
+&&SerTitle_shamed_ep_fear   战栗
+&&SerDesc_shamed_ep_fear    <font color="#FF729F">【恐惧值在50%以上】</font>\n因恐惧而导致精神难以集中。\n虽然在和敌人接触时更不容易摔倒，\n但在咏唱时受到攻击则更容易散落魔力。
+
+
+&&SerTitle_orgasm_after_fear    斗志萎靡
+&&SerDesc_orgasm_after_fear 因过度恐惧而导致行动受限。\n无法进行奔跑、且移动速度减慢。\n稍微防止MP计量槽的破裂。\n降低魔力的恢复效率。
+
+
+// ========================================================
+// MARK : 恐怖処理
+// ========================================================
+
+&&Submit_cure_fear 安抚恐惧
+&&Bench_Cmd_cure_fear_home 安抚恐惧（据点）
+&&Alert_cannot_cure_fear 该继续前进了。
+&&Alert_cure_fear 治愈了些许恐惧带来的创伤。
+&&Alert_cure_fear_little 由于肚子空空，疗愈效果不佳…
+/* ___ WarpConfirm_cure_fear ___ */
+抚慰恐惧带来的创伤，以恢复损耗的魔力上限，
+但需要代谢掉若干食物来补充疗愈心灵的消耗。
+（安抚恐惧无法连续进行多次）
+
+/* ___ WarpConfirm_cure_fear_alert ___ */
+肚子实在太饿，无法充分恢复状态……
+
+&&Catalog_categ_sub_reduce_ep_fear 减少恐惧值
+&&Catalog_categ_sub_cure_ep_fear 抚慰恐惧值
+
+&&Item_detail_cure_ep_fear 恢复 &1 恐惧值
+&&Item_detail_dmg_ep_fear <font color="#864788">恐惧值上升了 &1 </font>
+
+
+&&Tuto_shotgun <key x/>咏唱魔法时按下<key z/>使用魔法霰弹
+
+
+
+&&SkillItem_Map_Treasure_title &1的寻宝日志
+&&SkillItem_Map_Treasure_desc 在地图上随机标记出一个\b位于&1的宝箱。
+
+&&SerTitle_atk_up   攻击力上升
+&&SerDesc_atk_up   攻击力上升&1%。
+&&SerTitle_def_up   防御力上升
+&&SerDesc_def_up   防御力上升&1%。
+&&SerTitle_atk_down   攻击力下降
+&&SerDesc_atk_down   攻击力下降&1%。
+&&SerTitle_def_down   防御力下降
+&&SerDesc_def_down   防御力下降&1%。
+
+
+&&Stat_ep_fear 恐惧值 &1 / &2
+
+
+// ========================================================
+// MARK : ver029 关于旅馆
+// ========================================================
+&&EvTitle_inn_caravan 旅馆「时光黑巢」
+// 这里捏他的是时间之神柯罗诺斯Chronos（注意不要跟提坦克罗诺斯混淆）。游戏中并没有名为柯罗诺斯Chronos的角色，但翻译时还请往这个方向靠一靠
+&&EvTitle_inn_city 旅馆「猎人卧室」
+&&UiInn_nmenu_simple_tent 帐篷地铺
+&&UiInn_nmenu_simple 无餐简宿
+&&UiInn_nmenu_economy 经济标间
+&&UiInn_nmenu_sweet 标准套房
+&&UiInn_nmenu_royalsweet 豪华套房
+&&Select_CheckIn_Tent 入住
+
+&&UiInn_dangerousness_add 危险度上升 &1
+&&UiInn_dangerousness_rem 危险度下降 &1
+&&UiInn_dangerousness_reset 重置危险度和效果转轮\n并清空此次冒险的战斗经历
+&&UiInn_stomach_progress 饱腹感<img mesh="recipe_cost_3" width="24"/>下降 &1 
+
+
+&&UiInn_content 住宿服务一览
+&&UiInn_content_hp 完全恢复体力
+&&UiInn_content_mp 完全恢复魔力
+&&UiInn_content_ser 消除所有异常状态
+&&UiInn_content_mp_fear 恢复因恐惧效果而降低的魔力上限
+&&UiInn_content_mp_gauge_weak 临时修补魔力容器的裂痕
+&&UiInn_content_mp_gauge 完全修复魔力容器的裂痕
+
+&&UiInn_content_offprice_food 附&1％点餐折扣券（限&2份菜品）
+&&UiInn_content_ticket_food &1份菜品的餐券
+&&UiInn_check_foodmenu 阅读餐食菜单
+
+
+&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">\< 得先在这儿入住才能点餐呢。 \></font>
+
+&&UiInn_service_discount &1％点餐折扣券 &2 张
+
+
+// ========================================================
+// MARK : 特殊コンフィグ用
+// ========================================================
+&&catalog_suitable_for_vore_digest 具备吞食消化能力
+&&CatalogI_fishable_area 可钓到此鱼的地点：
+
+&&GO_Select_return_to_bench 返回长椅
+&&GO_Select_return_to_title 返回标题界面
+
+&&GO_KeyHelp_top_show_menu 菜单
+&&Telop_gameover 游戏结束…
+
+// ========================================================
+// MARK : 特殊コマンド用
+// ========================================================
+
+/* ___ Store_GRank_Help_Title ___ */
+公园附近的神秘长者
+/* ___ Store_GRank_Help_Contents ___ */
+可花费在冒险者公会获得的公会积分（GP），
+在此换取特殊的物品。
+
+请注意，如果花费过多GP使得公会评级下降，
+将导致下次在公会可承接的委托也随之降级。
+
+
+
+&&Store_no_enough_grank <b>公会积分不够… </b>
+
+&&ItemConfirm_term_need 任务所需材料：
+
+&&ItemConfirm_Dish_total_cost 饱腹度不低于 &1 
+&&ItemConfirm_Dish_total_grade 整体品质不低于 &1 
+
+&&Log_item_cannot_obtain 但是物品太多已经拿不下了…
+
+&&Alert_cannot_change_temporary 目前无法更改。
+
+
+
+/* ___ WarpConfirm_enable_night_warp ___ */
+作为探索率达到 &1 %的奖励，
+夜间及雨天时也可以在 &2 
+进行快速移动了！
+
+&&GM_Mag_switch_tool_gz 特殊工具
+&&Item_cmd_edit_tool_gz 特殊工具功能设置
+
+&&SerTitle_cocoon 茧缚
+&&SerDesc_cocoon   被丝线形成的茧包裹其中。\n此状态下魔力的恢复速率会有所上升，但挣脱的效率会下降。
+
+
+
+/* ___ GzToolSel_assign ___ */
+可以在战斗中随时使用那些已经绑定在法杖的
+<key s/>+<key la/><key ba/><key ta/><key ra/>键位的特殊功能。
+
+
+&&KeyHelp_Hold_to_execute 长按后生效
+&&Item_cmd_gztool_use 立即使用
+
+&&Alert_replaced_temporary_item 已使用兑换券。
+
+
+
+// エッグリムーバー説明追加
+&&Mgm_eggremove_show_help 说明书
+&&Mgm_eggremove_help_1 1. 长按<key submit/>，轻柔地\b将此设备插入相应部位。
+&&Mgm_eggremove_help_2 2. 体内深处产生吮吸感后\b即可松开<key submit/>，用舒适的速度\b将此设备抽出。
+
+
+
+// ========================================================
+// MARK : ver0.29e
+// ========================================================
+
+
+&&GM_skill_edit_manip 切换操作方式
+&&GM_skill_switch_enabled 切换为启用/禁用

@@ -1,0 +1,478 @@
+%FAMILY ko-kr
+
+// ========================================================================
+// 231006 カタログの追加要素
+
+&&CatalogI_tab_shopping 구입 가능한 상점
+// 素材回収の木／池で開いたときのピックアップタイトル
+&&Catalog_pickup_current_reel_spot 소재 스폿
+
+
+// ==================
+// 231008 宝箱を手に入れた際にアイテムがいっぱい
+&&MoneyBox_adding_need_enough_room 하지만 소지품이 가득 차서 가질 수 없어……
+&&MoneyBox_adding_need_bottle 하지만 &1이 없어서 가질 수 없어……
+
+
+// ========================================================
+// MARK : ver0.25
+// ========================================================
+
+
+&&Area_school  베르밋 사관학교
+&&Area_sacred  은혜의 모석
+
+&&GM_error_sacred 에러: 치명적인 고농도의 마력을 탐지. 즉시 해당 장소에서 이탈해 주십시오.
+
+// ========================================================
+// MARK : Dojo Game
+// ========================================================
+&&Mgm_dojo_tutorial 준비운동
+/* ___ Mgm_dojo_tutorial_desc ___ */ 
+이 미니게임의
+튜토리얼을 확인합니다.
+실패해도 패널티는 없습니다.
+/* ___ Mgm_dojo_generator_desc ___ */ 
+난이도: &1
+/* ___ Mgm_dojo_generator_count ___ */ 
+플레이 횟수: &1 (승리 수: &2 ／ 최소 미스 수: &3)
+/* ___ Mgm_dojo_generator_count_not_played ___ */ 
+플레이 횟수: &1 (승리 수:&2)
+
+
+/* ___ Mgm_dojo_confirm_tutorial ___ */
+천리 길도 한 걸음부터.
+우선 이 도장의 예절을 머리에 새겨야 하나니.
+
+
+/* ___ Mgm_dojo_confirm_learned ___ */
+이미 습득한 스킬이라고 해서
+끊임없는 단련을 게을리 하지 말지어다.
+
+/* ___ Mgm_dojo_confirm_not_learned_first ___ */
+새로운 스킬을 배울 때에는
+처음에만 이 가격을 받는다.
+
+/* ___ Mgm_dojo_confirm_not_learned ___ */
+저번에는 네녀석의 것으로 만들지 못했구나.
+기술의 체득에는 몇 번 쓰러져도 다시 일어나는 자세가 중요하다.
+
+/* ___ Mgm_dojo_confirm_choose ___ */
+'&1'의 연습을 시작한다!
+
+/* ___ Mgm_dojo_confirm_choose_tutorial ___ */
+준비운동을 시작한다!
+
+
+&&Mgm_dojo_confirm_btn_ok 부탁드립니다!
+&&Mgm_dojo_confirm_btn_cancel 잠깐 기다려
+
+
+
+
+&&Mgm_dojo_tuto_play_rest    앞으로 &1 회
+&&Mgm_dojo_tuto_play0    리듬에 맞춰 묵<key la/>을 내자
+&&Mgm_dojo_tuto_play1    리듬에 맞춰 찌<key ra/>를 내자
+&&Mgm_dojo_tuto_play2    리듬에 맞춰 빠<key ta/>를 내자
+&&Mgm_dojo_tuto_play4    리듬에 맞춰 이겨보자
+
+&&Mgm_dojo_indicate_next_hand    이거
+
+// ミニゲームUI
+
+&&Mgm_ui_highscore 하이스코어:
+&&Mgm_ui_playcount 플레이 횟수: 
+&&Mgm_ui_playcount_content &1 회
+&&Mgm_ui_updated_highscore 하이스코어 갱신!
+
+// Museum Viewer
+&&Museum_image_index &1<font size="20">/&2</font>
+&&KD_museum_viewer <key rem/>UI 비표시 <key shift/>+<key ba/><key ta/>확대/축소
+&&KD_museum_viewer_move 교체
+&&KD_museum_viewer_quit <key menu/>완료
+&&KD_museum_viewer_comment <key c/>품평
+
+
+
+// 状態異常
+// アクチール: Actihol
+
+&&SerTitle_drunk    둥실둥실
+/* ___ SerDesc_drunk ___ */ 
+악티올에 의해 의식이 둥실둥실하는 상태
+
+// 後半は↓ orgasm_after とほぼ同じ文章です。
+
+/* ___ SerDesc_drunk_1 ___ */ 
+요리로 얻을 수 있는 버프 효과가 &1% 감소합니다.
+
+/* ___ SerDesc_drunk_2 ___ */ 
+또, 때때로 넘어집니다.
+
+/* ___ SerDesc_drunk_3 ___ */ 
+마셔서는 안됐어.
+
+/* ___ SerDesc_drunk_0 ___ */ 
+MP 게이지의 균열이 어느정도 수복됩니다.
+마역의 회복 효율이 저하됩니다.
+이 효과는 벤치에 앉아도 회복되지 않고
+전투 등에 의해 시간이 경과되거나
+물을 마셔서 회복할 수 있습니다.
+
+
+
+// 買い物での飲食
+// tx2 の lunch_confirm / tx3 の lunch_drink_confirm に対応しています。
+
+&&lunchstore_drink_confirm <b>'&1'</b>을 마실까?
+&&lunchstore_drink_confirm_burst <font color="ff:#A00B35">배가 가득차서 전부 마실 수 없을 것 같지만</font>\n<b>'&1'</b>을 마실까?
+&&lunchstore_drink_confirm_dupe <font color="ff:#B828AC">충분한 영양분을 흡수할 수 없을 것 같지만</font>\n<b>'&1'</b>을 마실까?
+
+
+&&lunchstore_confirm <b>'&1'</b>을 사먹을까?
+&&lunchstore_confirm_burst <font color="ff:#A00B35">배가 가득차서 전부 먹을 수 없을 것 같지만</font>\n<b>'&1'</b>을 먹을까?
+&&lunchstore_confirm_dupe <font color="ff:#B828AC">충분한 영양분을 흡수할 수 없을 것 같지만</font>\n<b>'&1'</b>을 먹을까?
+
+&&Eat_Buy 사먹는다 &1
+&&Eat_Buy_Drink 마신다 &1
+
+&&SerTitle_overrun_tired    혹사
+/* ___ SerDesc_overrun_tired ___ */ 
+마력이 적은 상태에서 마술을 계속해서 사용해 피곤해진 상태.
+받는 피해가 증가합니다.
+MP 게이지에 균열이 생기기 쉬워집니다.
+'졸도'가 발생하기 쉬워집니다.
+다른 맵으로 이동하면 해제됩니다.
+
+
+
+&&SerTitle_milky    모유체질
+/* ___ SerDesc_milky ___ */ 
+대지의 이상한 힘에 의해
+노엘 쥬스 대신
+노엘 밀크가 나오게 됩니다.
+어째서냐고요? 대지의 이상한 힘 때문입니다.
+
+
+&&SerTitle_clt_broken    의복 파괴
+/* ___ SerDesc_clt_broken ___ */ 
+의복이 파괴된 상태.
+벤치에 앉아 수선할 수 있습니다.
+
+/* ___ SerDesc_clt_broken_detail ___ */ 
+받는 피해가 1.5배가 됩니다.
+회피의 무적시간이 증가합니다.
+
+
+/* ___ Store_BarUnder_Help_Title ___ */
+술집의 비밀 창고
+
+/* ___ Store_BarUnder_Help_Contents ___ */
+'판다'로 소지중인 노엘 쥬스 / 노엘 밀크 / 노엘 에그를
+독자통화<font color="ff:#646D00">엑기스 <img mesh="money_juice"/> </font>로 교환하고
+손에 넣은 <font color="ff:#646D00">엑기스 <img mesh="money_juice"/> </font>로 상품을 구입합시다.
+
+아이템 구입 후 남은 <font color="ff:#646D00">엑기스 <img mesh="money_juice"/> </font>는
+바텐더가 관리하기 때문에 다음 거래에 사용할 수 있습니다.
+
+잔뜩 잔뜩 내보내서 세계의 뒷편에 이르는 설정 항목을 윤택하게 합시다.
+
+&&Store_selling_worthless 이걸 팔아도 의미 없어.
+
+/* ___ Item_special_config_detail ___ */ 
+설정에 새로운 설정을 추가합니다.
+이 아이템은 인벤토리상에 표시되지 않습니다.
+
+&&Alert_spconfig_activate 새로운 설정 항목을 얻었다.
+
+&&Alert_explode_bomb_in_inventory 가지고 있던 폭탄이 유폭했어….
+
+&&deperture_dialog 어디로 갈까?
+&&deperture_home 거점
+
+// ========================================================
+// MARK : ver0.25d 錬金術カタログ 新要素
+// ========================================================
+
+&&Catalog_enemyspot_dangerous 위험도: &1
+
+&&Catalog_pickup_reel_on_map 아이템 릴 스폿(&1)
+
+// ↓エネミースポット関連の一覧が追加されます。
+
+&&Catalog_categ_item_summoner 전투 구역
+&&KD_reel_detail 아이템 릴 상세
+&&KD_enemyspot 전투 구역 상세
+
+
+&&CatalogI_tab_enemyspot 획득할 수 있는 전투 구역
+&&CatalogI_tab_enemydrop 드롭하는 적
+&&CatalogN_enemyspot_defeated 지금까지 격파한 수: &1회
+
+// ↓英語などの言語で「このアイテムを取得できる宝箱」というカテゴリーとして
+// 実装されていましたが、新しく「この戦闘エリアで得られる宝箱」というカテゴリーが追加されます。
+
+&&CatalogI_tab_chest_from_here 얻을 수 있는 상자
+
+&&CatalogI_tab_address 장소
+&&catalog_show 표시
+
+&&recipe_categ_actihol 칵테일
+&&name_recipe_actihol 칵테일 레시피:&1 
+
+
+
+// ========================================================
+// MARK : ver0.25f
+// ========================================================
+
+&&Alert_new_config_on_barunder  창고에 새로운 상품이 입고되었습니다.
+
+// ゲームオーバーの際、拘束解除／シャッフルボタンが追加されます。
+&&KD_go_escape_from_bind  구속 해제
+&&KD_shuffle_enemy_position  셔플
+
+
+
+// 錬金術カタログの減少カテゴリ
+&&Catalog_categ_sub_reduce_hp HP 감소
+&&Catalog_categ_sub_reduce_mp MP 감소
+&&Catalog_categ_sub_reduce_ep 흥분치 감소
+
+/* ___ Alert_new_keybind_for_check ___ */
+ver0.25b부터 키 설정에
+'조사한다/대화한다'가 추가되었습니다.
+
+만약 조사를 할 수 없게 되었다면
+키 설정을 확인해 주세요.
+ 
+// ========================================================
+// MARK : ver0.26
+// ========================================================
+
+&&Item_cmd_respawn 부활
+&&Item_cmd_respawn_useless (부활)
+
+
+&&Mgm_eggremove_KD 타이밍에 맞춰 <key submit/> 길게 누르기
+// 卵排出中に絶頂してしまった場合
+&&Mgm_eggremove_retry 조금 더 노력한다
+&&Mgm_eggremove_abort 포기한다……
+// 卵のない状態だとただ単にバイブで一人遊びするだけになる
+&&Mgm_eggremove_noegg_retry 조금만 더……
+&&Mgm_eggremove_noegg_abort 끝낸다
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+
+// ver0.26b 予約
+// 自慰行為
+
+// &&Select_see_masturbate 자위연출을 본다
+&&Select_skip_masturbate 자위한다(연출 스킵)
+&&Select_no_masturbate 참는다……
+
+
+/* ___ Title_error_no_sound_driver ___ */
+사운드 드라이버의 초기화에 실패했습니다.
+&1
+
+/* ___ Title_error_no_sound_driver_nosound ___ */
+게임은 소리 없이 실행됩니다.
+
+
+
+&&SerTitle_web_trapped    끈적끈적
+&&SerDesc_web_trapped    점액으로 뒤덮인 상태.\n구속공격으로부터 빠져나오기 현저하게 어려워집니다. 탈출할 때까지 행동할 수 없습니다.
+
+&&Alert_rebagacha 방향키를\n연타해라!
+
+
+
+
+&&Bench_Cmd_restroom_cure_egged_no_tool 열심히 내보낸다
+&&Bench_Cmd_restroom_cure_egged_tool 에그 리무버를 사용
+
+
+&&bomb_selfexplode 가지고 있던 폭탄이 유폭했다…
+&&Recipe_do_not_rotten 전투해도 썩지 않는다
+
+
+&&SerTitle_stone    석화
+&&SerTitle_stone_complete    완전석화
+
+
+
+/* ___ SerDesc_stone_suffix ___ */
+방향키를 연타해 해제할 수 있습니다.
+물리공격에 의해 받는 피해가 감소합니다.
+
+/* ___ SerDesc_stone_complete_suffix ___ */
+안쪽까지 석화되어 해제할 수 없습니다…….
+
+&&SerTitle_orgasm_stack    절정 축적
+&&SerDesc_orgasm_stack    절정할 수 없는 상태에서 욕구불만이 축적된 상태.\n때가 된다면 한순간에 파도가 되어 덮쳐올 것입니다.
+
+&&Alert_item_reduced_memorychip &1을 떨어트렸어…….
+
+
+// ========================================================
+// MARK : ver0.27 ステルスゲーム
+// ========================================================
+
+&&sneaking_MG_KD_top <key ta/>위로
+&&sneaking_MG_KD_btm <key ba/>아래로
+&&sneaking_MG_KD_goout_right <key ra/>나온다
+&&sneaking_MG_KD_goout_left <key la/>나온다
+
+&&Alert_item_reduced_memorychip_success &1을/를 티그리나 씨에게 돌려줬다.
+
+
+
+// ========================================================
+// MARK : ver0.27 図鑑拡張
+// ========================================================
+
+&&CatalogI_tab_appear_enemyspot 등장하는 전투 구역 - &1
+
+
+//レーションはコストが高いが倍の速度で減少する
+&&Recipe_cost_reduce_ratio 소모 속도: &1%
+
+
+&&Status_Tab_battle_abort 포기한다…
+
+
+&&ItemConfirm_do_not_obtain 이 아이템을 가지고 있지 않습니다.
+
+&&Map_show_target 타겟을 표시 
+
+&&CatalogI_drop_enemy 이 아이템을 드롭하는 적
+&&Recipe_edible_in_battle 전투중에도 사용가능
+
+
+// チップス確認タブ
+&&Scenario_Tab_tips TIPS 
+
+
+// ========================================================
+// MARK : ver0.28
+// ========================================================
+&&Catalog_categ_item_cane 마술 디바이스
+
+&&Cane_graph_near_reach 근접 범위
+&&Cane_graph_near 근접 위력
+&&Cane_graph_far 방사 위력
+&&Cane_graph_lockon 록온
+&&Cane_graph_stability 마력 보존력
+&&Cane_graph_mp_use_ratio 마력 소비 효율
+&&Cane_graph_neutral 마력 중립성
+&&Cane_graph_casttime 영창 속도
+&&Cane_graph_near_punch_speed 휘두르기 속도
+
+&&Item_cmd_equip_cane 장비한다
+&&Item_cmd_equip_cane_disable (장비한다)
+
+&&Alert_current_cane 이미 이 지팡이를 장비하고 있어.
+
+
+
+// ========================================================
+// MARK : 28
+// ========================================================
+&&Area_mount   개척자의 산악
+
+
+
+// 鍛冶屋さん ========================
+&&ForgeUi_replace_cost 개조 수수료: &1
+&&ForgeUi_buy_tester_cost 테스터 업무 개시 수수료: &1
+
+/* ___ ForgeUi_buy_tester_applied_damage ___ */ 
+이 지팡이로 가한 피해: 
+　&1 / &2　&3
+&&ForgeUi_buy_tester_completed 업무 완료!
+
+/* ___ Forge_quest_applied_damage ___ */ 
+&1: &2 / &3
+/* ___ Forge_quest_applied_damage_on_quest_tracker ___ */ 
+&1:
+&2 / &3
+
+/* ___ Forge_detail_quest_target ___ */ 
+진행중인 테스터 업무: 
+&1
+
+&&ForgeUi_cmd_replace 개조한다 &1
+&&ForgeUi_cmd_buy 테스터 업무 개시 &1
+&&ForgeUi_cmd_buy_asking 수수료 비싸지 않아?
+&&ForgeUi_cmd_testfiring 시험 운용
+
+&&ForgeUi_return_testfire_cane &1 을 대장장이에게 돌려줬다.
+&&ForgeUi_replace_cane &1 을 가공했다.
+&&ForgeUi_invalid_room_inventory 아이템으로 가득합니다.
+&&ForgeUi_invalid_already_has 이미 소지하고 있습니다.
+&&ForgeUi_invalid_already_buy_src 교환 전의 지팡이가 테스터 업무 대상입니다.
+&&ForgeUi_invalid_already_buy 현재 테스터 업무로 소지하고 있습니다.
+
+/* ___ ForgeUi_buy_description ___ */
+'테스터 업무 개시'를 선택하면
+이 지팡이를 빌려서 테스터 업무를 수주합니다.
+수주 후 지정량의 피해를 적에게 가하는 것으로 퀘스트를 완료하면
+그 지팡이를 반납하지 않고 새로운 지팡이의 테스트를 진행할 수 있습니다.
+
+/* ___ ForgeUi_buy_description_current ___ */
+현재 이 지팡이의 테스터 업무를
+수주했습니다.
+
+/* ___ ForgeUi_confirm_replace ___ */
+&1 을 &2 으로 개조합니다.
+&1 으로 되돌릴 경우 수수료를 다시 내야합니다.
+진행하시겠습니까?
+
+/* ___ ForgeUi_confirm_buy ___ */
+&1 의 테스터 의뢰를 수주하시겠습니까?
+(지정된 피해량 &2 을 적에게 가해 테스터 업무를
+ 완수하는 것으로 실질적으로 노엘의 소유가 됩니다)
+
+/* ___ ForgeUi_confirm_buy_already ___ */
+이미 다른 지팡이 '&1'의
+테스터 업무를 수주중입니다.
+이 의뢰를 파기하고 새로운 지팡이
+'&2'의 테스터 업무를 수주하시겠습니까?
+<font size="80%" alpha="0.5" linespacing=0.7>(적에게 가한 피해량은 초기화되지 않지만 다시 원래 지팡이의
+테스터 업무를 개시하기 위해서는 퀘스트 수주를 위한 수수료를 다시 지불해야합니다)</font>
+
+
+
+&&CatalogI_tab_cane 지팡이의 성능
+
+
+
+&&GO_KeyHelp_pause_lockon_switch <key submit/>이 대상에게 포커스
+
+
+
+
+// ========================================================
+// MARK : 250710追加分
+// ========================================================
+
+&&Bench_Cmd_empty_stomach 배를 비운다
+&&Bench_Cmd_empty_stomach_get_juice 배를 비운다(체액을 회수한다)
+&&Bench_Cmd_empty_stomach_juice_drop 배를 비운다(체액은 버린다)
+&&Alert_do_it_in_restroom 그건 화장실에 가서.
+
+
+
+
+// ========================================================
+// MARK : ver0.28d サウンドエラー対処
+// ========================================================
+
+/* ___ Title_error_sha_error ___ */
+<font color="ff:#000000"><b>파일 무결성 오류가 발생했습니다.</b></font>
+…파일의 압축 해제에 실패했을 가능성이 있습니다.
+본 게임을 7z 또는 zip에서 다시 설치해주세요.

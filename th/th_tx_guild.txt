@@ -1,0 +1,319 @@
+%FAMILY _
+
+// ギルドクエスト
+&&GuildQ_categ_collectnew Collect
+/* ___ GuildQ_categ_desc_collectnew ___ */ 
+Collect the specified items. Only items gathered after accepting the quest will count.
+
+&&GuildQ_categ_collect Supply
+/* ___ GuildQ_categ_desc_collect ___ */
+Deliver the specified items to the guild. Items gathered prior to accepting the quest can be used.
+
+&&GuildQ_categ_defeat Extermination
+/* ___ GuildQ_categ_desc_defeat ___ */
+Defeat all enemies at the designated locations.
+
+&&GuildQ_categ_cook Cooking
+/* ___ GuildQ_categ_desc_cook   ___ */
+
+&&GuildQ_categ_rescue Rescue
+/* ___ GuildQ_categ_desc_rescue ___ */
+Find and rescue the individual in the designated area. Failing this type of request will result in a large penalty.
+
+&&GuildQ_categ_weapon Weapon Test
+/* ___ GuildQ_categ_desc_weapon ___ */
+A special request from the blacksmith.
+Fight a certain number of battles with the weapon they’ve provided.
+
+&&GuildQ_categ_deliver Courier
+/* ___ GuildQ_categ_desc_deliver___ */
+Deliver cargo to the destination. While carrying this cargo, the odds of being attacked by monsters is extremely high. Their attacks will damage the cargo and reduce the reward for turning it in. No fast travel is allowed while you have the cargo.　
+
+/* ___ GuildQ_categ_comment_collectnew_0 ___ */ 
+We are conducting a geological survey of Grazia and need new samples of &1.
+　　
+/* ___ GuildQ_categ_comment_collectnew_1 ___ */ 
+I need some fresh &1 so I can study the effects of mana exposure on it.　
+
+/* ___ GuildQ_categ_comment_collectnew_2 ___ */ 
+We need some &1 for our construction project. And it has to be new, to meet building codes.
+　　
+/* ___ GuildQ_categ_comment_collectnew_3 ___ */ 
+I love the taste of fresh &1. Find me some more, please!
+　
+/* ___ GuildQ_categ_comment_collectnew_4 ___ */ 
+I’m in a real catch-22 here. I need new &1 to do my job efficiently, but it’s inefficient to gather it myself! Can you help me out?
+　　
+/* ___ GuildQ_categ_comment_collectnew_5 ___ */ 
+My kids asked for some &1, but they’re very picky and don’t want the old ones lying around. Could you gather some new ones for them?
+
+
+/* ___ GuildQ_categ_comment_collect_0 ___ */
+I need &1 for my alchemy. It’s a little urgent, so I don’t mind if it’s used.
+
+/* ___ GuildQ_categ_comment_collect_1 ___ */
+We need to replenish our stock of &1.
+
+/* ___ GuildQ_categ_comment_collect_2 ___ */
+My grandpa has a bad knee and needs some &1.
+
+/* ___ GuildQ_categ_comment_collect_3 ___ */
+Our warehouse is out of &1. It’s keeping me up at night, so I’ll take any, even if it’s old.
+
+/* ___ GuildQ_categ_comment_collect_4 ___ */　
+I have a fun idea for a game and need some &1.
+
+/* ___ GuildQ_categ_comment_collect_5 ___ */　
+I use &1 to help jumpstart my mornings. Could I trouble you for some?
+　
+/* ___ GuildQ_categ_comment_collect_6 ___ */　
+My neighbor is being a pest and I need some &1 to deal with it.
+　
+/* ___ GuildQ_categ_comment_collect_7 ___ */　
+I wanna zhuzh up my party dress a little. Some &1 should do the trick!
+
+/* ___ GuildQ_categ_comment_collect_8 ___ */　
+I need &1 to patch a leak in my house.
+
+/* ___ GuildQ_categ_comment_collect_9 ___ */　
+My baby won’t stop crying without &1. They’re just gonna chew on it again…
+
+/* ___ GuildQ_categ_comment_collect_10 ___ */ 
+I’m struggling to finish my masterpiece...
+I think what it needs is &1!
+
+/* ___ GuildQ_categ_comment_collect_11 ___ */　
+Give me...&1...
+I NEED IT!
+
+/* ___ GuildQ_categ_comment_collect_12 ___ */ 
+I heard &1 is trendy these days, so I’d like to try it out.
+
+/* ___ GuildQ_categ_comment_collect_13 ___ */　
+Could I trouble you for some &1 so I can finish painting my sign?
+
+/* ___ GuildQ_categ_comment_collect_14 ___ */
+My favorite chair broke and my spouse told me to get some &1 for repairs. I’m not sure that’s right...
+
+/* ___ GuildQ_categ_comment_collect_15 ___ */
+My lover snores really loud. Could I have some &1?
+　
+/* ___ GuildQ_categ_comment_collect_16 ___ */　
+&1 is all the rage at my daughter’s school, but I can’t seem to get my hands on any...
+
+/* ___ GuildQ_categ_comment_collect_17 ___ */
+I need some &1 to make my secret broth. Without it, I’ll have to close down...
+
+/* ___ GuildQ_categ_comment_collect_18 ___ */
+I ate something weird and the doctor told me I needed &1 asap.
+...Am I gonna die?
+
+/* ___ GuildQ_categ_comment_collect_19 ___ */ 
+My gambling luck has been terrible lately. Someone told me that &1 works as a lucky charm.
+
+/* ___ GuildQ_categ_comment_collect_20 ___ */　
+I really need some &1. Don’t ask why.
+
+/* ___ GuildQ_categ_comment_collect_21 ___ */　
+I’m locked out of my house. Get me &1 so I can break down the door.
+
+/* ___ GuildQ_categ_comment_collect_22 ___ */　
+My dearly departed spouse used to love &1. Could you please get me some so I can remember the good times.
+
+/* ___ GuildQ_categ_comment_collect_23 ___ */
+I need &1 to keep away troublemakers.
+
+/* ___ GuildQ_categ_comment_collect_24 ___ */　
+The forest and mountains are dangerous. I’d like some &1 to help ward away evil.
+
+/* ___ GuildQ_categ_comment_cook_0 ___ */　
+I’m in the mood for &1 today.
+Please and thank you.
+　
+/* ___ GuildQ_categ_comment_cook_1 ___ */
+I used to eat &1 at my parent’s house all the time. Can anyone recreate my mom’s special recipe?
+
+/* ___ GuildQ_categ_comment_cook_2 ___ */　
+Just once I’d like to try &1.
+
+/* ___ GuildQ_categ_comment_cook_3 ___ */　
+I miss the &1 my dad used to make on his days off…
+Could you please make it for me?
+
+/* ___ GuildQ_categ_comment_cook_4 ___ */　
+I’m a bit of a picky eater, but I’d like to try &1 for once.
+I’ll try not to criticize it too much.
+
+/* ___ GuildQ_categ_comment_cook_5 ___ */
+I usually eat &1 before I go to work, but my usual diner is closed today. Could you make it for me instead, please?
+
+/* ___ GuildQ_categ_comment_cook_6 ___ */　　
+I forgot to order &1 hors d'oeuvres for my party. Could you make some fresh ones for me pretty please?
+
+
+/* ___ GuildQ_categ_comment_defeat_0 ___ */　　
+We’ve got reports of nocturnal monsters now attacking during the day. Please stop them before they become even more emboldened.
+
+/* ___ GuildQ_categ_comment_defeat_1 ___ */　　
+An outbreak of powerful monsters has been reported. Please be careful with this one.
+
+/* ___ GuildQ_categ_comment_defeat_2 ___ */　　
+An abnormal energy fluctuation has been reported. We urge any available guild members to look into this.
+
+/* ___ GuildQ_categ_comment_defeat_3 ___ */　　
+Monsters are swarming around mana plant groves. Please take them out before things get out of control.
+
+/* ___ GuildQ_categ_comment_defeat_4 ___ */　　
+I sensed something unusual on my way into town. It might be nothing, but could you please check, just in case?
+
+
+/* ___ GuildQ_categ_comment_rescue_0 ___ */　　
+My daughter is missing. I’m worried the monsters might have gotten her. This was where she was last sighted. Please find her.
+
+/* ___ GuildQ_categ_comment_rescue_1 ___ */　　
+I got separated from my friend and can’t find them. Here’s where we were last together...
+
+/* ___ GuildQ_categ_comment_rescue_2 ___ */　　
+My lover was captured by monsters! I’m not a fighter, so I need someone to help.
+Here’s where the monsters attacked us...
+
+/* ___ GuildQ_categ_comment_rescue_3 ___ */　　
+One of our students didn’t make it to school today after leaving their village. Here’s where we suspect they might be...
+
+/* ___ GuildQ_categ_comment_weapon_0 ___ */　　
+I need someone to test out the new staff I made. Defeat some monsters with it and report the performance back to me.
+
+
+/* ___ GuildQ_categ_comment_deliver_0 ___ */　　
+I have a delivery request for a client of mine. It’s delicate, so please be careful with it.
+
+/* ___ GuildQ_categ_comment_deliver_1 ___ */　　
+My kid forgot the materials for their presentation today. Can you please take it to them?
+
+/* ___ GuildQ_categ_comment_deliver_2 ___ */　　
+Our delivery person fell asleep and we have a quota to meet. Can you pitch in for them?
+
+/* ___ GuildQ_categ_comment_deliver_3 ___ */　　
+It’s my girlfriend’s birthday and I left my present for her at home! Can you go get it for me?
+
+// ========================
+
+/* ___ Guild_alert_progressing ___ */
+You currently have &1 requests in progress. If you accept this request, they will be cancelled and you will be penalized &2 GP.
+Proceed?
+
+/* ___ Guild_alert_progressing_one ___ */
+
+If you cancel &1, you will be penalized &2 GP.
+Proceed?
+
+
+&&Guild_rank Guild Rank:
+&&Guild_current_gp &1 GP
+&&Guild_progress_gp <font color="&2"> → &1 GP</font>
+
+&&Guild_tab_current_prgoress Current requests
+
+&&Guild_entry_title 【&1】
+&&Guild_entry_title_collect &1 &2 x&3
+
+&&Guild_detail_obtain_money <img mesh="money_icon" width=18 />Earned &1
+&&Guild_detail_obtain_rank GP Earned &1 / GP Lost &2
+&&Guild_detail_receivable_quest Available &1 / &2
+
+
+&&Guild_total_reward_money Total: <img mesh="money_icon" width="30" scale="1" /><font size="120%" color="ff:#4150FF">&1</font>
+/* ___ Guild_collect_detail ___ */
+Target: &1
+
+&&Guild_recieving_ask Accept this request?
+&&Guild_recieving_temp You cannot cancel after you leave the reception counter.
+&&Guild_recieving_already You’ve already accepted this request.
+
+&&Guild_Btn_recieve_quest Accept
+&&Guild_Btn_abort_quest_ask Accept
+&&Guild_Btn_abort_quest Cancel
+&&Guild_Btn_abort_quest_temp Cancel
+&&Guild_Btn_deliver_ask Turn in
+&&Guild_Btn_deliver Turn in
+&&Guild_Btn_recipebook <key d/>+<key a/>Confirm on map
+
+&&Guild_Btn_abort_recieve_new Cancel old, accept new
+&&Guild_Btn_confirm_quest Verify
+&&Guild_Btn_confirm_quest_cancel Cancel
+
+
+&&Guild_Inventory_mine Inventory/Storage
+&&Guild_Inventory_deliver Target
+&&Guild_item_deliver_count Need &1 more
+
+&&Guild_cmd_map_return <key cancel/>Return
+
+&&KD_guild_add <key add/>Accept
+&&KD_guild_rem <key rem/>Cancel
+
+/* ___ Guild_alert_cannotreceive_max ___ */
+You have reached the limit of concurrent requests for your guild level.
+
+/* ___ Guild_alert_cannotreceive_not_discovered ___ */
+You have not yet discovered this location.
+
+
+// ========================
+&&subquest_gq_report Report to the guild.
+
+
+&&Guild_pickup_fof_fieldguide このクエストのピックアップ
+
+
+&&subquest_gq_collect Hand in the items
+&&subquest_gq_collect_new Collect the items
+&&subquest_gq_defeat Defeat the monsters
+
+&&subquest_gq_defeat_count Defeat x&1
+// 【雨】 などなど
+&&subquest_gq_defeat_dangerousness Danger level:+&1
+&&subquest_gq_defeat_weather 【Weather:&1】
+&&subquest_gq_defeat_attr 【Attribute】
+&&subquest_gq_defeat_attr_detail 【Attribute:&1】
+&&subquest_gq_defeat_fix_enemy 【Defeat:&1】
+
+
+// ========================
+&&Guild_reel_submit Open all chests\n<font size="12">(Consumes all reels)</font>
+
+&&Guild_reward Reward reel
+&&Guild_Btn_open_quest_tab Open request tab
+&&Submit_gohome_abort_quest Return anyway
+
+/* ___ Guild_reel_hold ___ */
+&1 reel(s) and &2 chest(s) stored in the guild.
+
+/* ___ Guild_reel_hold_2 ___ */
+Max &1 chests can be stored.
+
+/* ___ Guild_reel_hold_over ___ */
+Max number of chests has been exceeded. Please open them to claim your reward.
+
+
+/* ___ Guild_reel_failure_penalty ___ */
+As penalty for failing, all chests will now open.
+
+
+/* ___ Guild_alert_goout_another_area ___ */
+You currently have &1 request(s) in progress for the guild. If you leave, you might not be able to complete them.
+
+/* ___ Guild_alert_backhome_without_clear ___ */
+You accepted &1 request(s) from the guild, and &2 remain incomplete. If you return now, incomplete quests will be failed.
+
+&&Guild_reward_multi_quest Streak Bonus
+
+&&Guild_reward_chip Chip
+
+
+// ========================================================
+// MARK : 0.27c ギルド終了画面用の修正
+// ========================================================
+
+&&Guild_whole_quit Quit
+&&Guild_back_quest_selection Return 

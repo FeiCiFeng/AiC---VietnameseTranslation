@@ -1,0 +1,155 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+
+// =====================
+// About <dwarf> tag::: ドワーフタグについて！
+// The Dwarf language is an original language that replaces hiragana with original symbols. 
+// PLEASE LEAVE sentences that begin with the <dwarf> tag untranslated.
+// 幽霊ちゃんの喋るドワーフ言語はひらがなを表意文字として置き換えた日本語ベースの独自言語です。
+// 「<dwarf>」タグで始まるセンテンスは翻訳せずそのままにしておいて下さい。
+// =====================
+
+// ファースト
+
+*___firstman/t00 n_00
+<I><angry><m scary>A monster!?
+
+*fh_01
+<W3>...
+
+*n_02
+<s4>...
+
+*fh_03
+<s5>......
+
+*n_04
+<s8>......
+
+*n_05
+<think>He’s clearly a monster, but...
+I don’t think he’s hostile.
+
+ 
+ //話しかける
+
+*___firstman/t01 n_00
+Excuse me, but...
+Are you fishing?
+
+*fh_01
+......
+
+*n_02
+The other rod? Are you saying I can have it?
+ 
+ // 受け取らない
+
+*n_10
+I think...I'll pass.
+
+*fh_11
+...
+
+
+// 受け取るが荷物がいっぱい
+
+*n_20
+M-My bag is a bit full right now...
+
+*fh_21
+<s5>......
+
+*n_22
+<think>What’s with that look of disappointment?
+
+
+// 受け取る
+
+*fh_50
+<m joy><s2>...!
+
+*n_51
+<think>I can’t quite tell, but he seems happy.
+
+*n_52
+Um, I’ve...never actually fished before...
+
+*fh_53
+......
+
+*n_54
+<think>He’s pointing...
+Is he trying to show me how it’s done?
+
+
+// お手本を見ない
+*n_60
+I'll try it for myself. I like figuring things out on my own.
+
+*fh_61
+...
+
+
+// お手本を見る.1
+*___firstman/t_fish_turorial n_00
+<think>Okay, so...once the bobber goes under the surface, start reeling it in.
+*
+<think>That makes sense, but I didn’t quite understand the next part. <c5>I should ask him to show me again<c0>.
+
+// お手本を見る.2
+*n_10
+<think>I see. Once the fish bites, move the rod in sync with it by using<key la/><key ra/>.
+*
+<think>It looked like he was doing small movements at a time to adjust, rather than pulling strongly in either direction.
+
+
+// 釣れない時のヒント
+*___firstman/t_fishing_need_listen n_00
+Ohh...I’m not very good at this.
+
+*n_01
+Maybe I should stop and learn more from a professional first.
+
+
+// やめておく
+ 
+ // 水に落下すると助けてくれる。 
+
+*___firstman/_checkpoint_back n_00
+<m scary>Cough, <W2>cough, <W2>puheh...
+<W3><m0>Th-thank you...
+
+*fh_01
+... 
+ 
+ 
+ // 作業台を調べる
+
+*___firstman/t_craft0 n_00
+Is this a workbench? It’s full of notes on how to make a fishing rod.
+*
+I can’t read what it says, but I get the gist of it from the pictures.
+
+*fh_01
+<W4>......
+
+*n_01
+<think>I think he’s okay with me using it.
+*
+...What’s this?
+*
+<think>......
+
+*n_02
+<think>It’s a drawing of someone <c5>throwing bait into the pond<c0>.
+*
+<think>I could <c5>use this workbench to make bait for catching different kinds of fish<c0>. That might be useful.

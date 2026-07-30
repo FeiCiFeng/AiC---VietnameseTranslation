@@ -1,0 +1,322 @@
+// For translaters:
+// entire event statement will be exported to the 
+// In the next version, this txt file containing the
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+// バーでの会話集。
+// ========================================================
+// MARK : ギルド
+// ========================================================
+
+*___city_guild/t00 mb_00
+Welcome to the Adventurer’s Guild! Where Grazia’s boldest elves take on the requests of citizens in need!
+
+*mb_01
+Right now we’re waiving all membership fees to help the city recover from the recent attacks!
+
+*mb_02
+You look like someone who could really help her fellow elf! How about it? Care to sign up?
+
+*mb_03
+I see.
+
+*mb_04
+Well, if you ever change your mind, we’ll be right here waiting!
+
+*mb_05
+Thank you for the ID!
+
+*mb_06
+Bermit Cadet, Noel Cornehl. Is that right?
+We look forward to working with you!
+
+*mb_07
+Here’s your membership card!
+
+*mb_08
+Here's a quick rundown on how things work here.
+
+// 解説
+
+*___city_guild/descryption mb_00
+We’ll have several requests available for you to choose from at our reception desk.
+
+*mb_01
+You can take multiple requests at the same time, but not more than your guild level allows.
+
+*mb_02
+Once you accept a request, you will need to go out to the designated area to complete it.
+
+*mb_03
+However, once you leave the city or any other safe area, all quests must be completed before returning.
+
+*mb_04
+If you do not complete a quest before returning, it will be counted as a failure.
+
+*mb_05
+Quests will reward you with money, guild points <c5>(GP)<c0>, and…
+
+*mb_06
+<m joy>Our super special <c5>Guild Treasure Chest Reel</c5><m0>!
+
+*mb_07
+But it’s not guaranteed. Sometimes you will receive a standard chest reel.
+
+*mb_08
+We can hold up to 5 chests for you at a time. If you fail a request, any held chests will be opened immediately.
+
+*mb_09
+Failing quests by returning without completing them or being defeated will result in a loss of guild points.
+
+*mb_10
+We have a reputation to uphold, after all.
+
+*mb_11
+Requests change on a daily basis, so check back often!
+
+
+*___city_guild/_portal mb_50
+With that out of the way, would you like to take a look at our requests?
+
+*___city_guild/_portal mb_51
+Good day, Miss Cornehl! Here to look at some requests?
+
+*___city_guild/_portal mb_100
+We look forward to seeing you again!
+
+*___city_guild/_portal mb_101
+Thank you! Hope to see you again soon!
+
+
+*___city_guild/_progress mb_00
+Welcome back, Miss Cornehl! How is everything?
+
+// すべてクリアした
+*mb_10
+Wonderful! I’ll inform our client right away!
+*
+We look forward to working with you again.
+
+
+// すべて失敗した
+*mb_20
+...That's unfortunate. In accordance with our guidelines, your guild points will be penalized.
+
+// 
+*
+If taking on multiple requests is too stressful, we recommend sticking to one at a time.
+*
+A small success is infinitely better than a great failure.
+
+// 一部失敗した
+*mb_30
+Well done! Oh...but it looks like not everything got taken care of.
+*
+While we do incentivize taking on multiple requests at a time...
+*
+Please don’t take on more than you can handle. We want out clients to feel like they're in safe hands.
+
+*mb_40
+Now then, care to look at some more requests?
+
+*mb_50
+We’ve got some requests for you, but...
+
+*mb_60
+We need you to finish the ones you’ve already accepted first.
+*
+You can also cancel them if you don’t mind the penalty.
+
+*mb_70
+Good luck! We look forward to your safe return!
+
+
+// ========================================================
+// MARK : 初回ランクアップ報酬
+// ========================================================
+
+*___city_guild/t_rankup mb_00
+Congratulations!
+
+*mb_01
+Since this is the first time you’ve reached this rank, you’ve earned a reward!
+
+*mb_02
+We look forward to your continued efforts!
+
+//最大ランク
+*mb_03
+Oh my! What a grand achievement! I almost can’t believe it!
+*
+Thank you so much for joining our guild, Noel. We hope you’ll continue to assist those in need with us!
+
+
+// ギルドのキッチンで錬金術図鑑を持っていない場合
+*___city_guild/_portal_alchemy_guild n_00
+It's an alchemy cauldron. My sister has one just like it in her atelier.
+
+*n_01
+I don't have a license to use one myself.
+
+*n_02
+Maybe I should ask my sister about getting one...
+
+
+// ========================================================
+// MARK : 防衛戦を終わらせるまで街から山に行けない
+// ========================================================
+*107/_stop_goto_mount_before_pvv115 n_00
+I have class and other responsibilities. Now’s not the time to go exploring.
+
+
+// ========================================================
+// MARK : 防衛戦後：医務室でプリムラ先生との会話
+// ========================================================
+
+*105/health_primula_t_after_td p_01
+Thank you for everything you did to defend Bermit.
+
+*p_02
+How are you feeling?
+
+*n_03
+Pretty good, actually! Everyone gave it their all.
+
+*n_04
+I'm proud that we were able to save the town and the school.
+
+*n_05
+I'm glad that I was able to apply everything you taught me.
+
+*n_06
+I can fight! I can protect the people I care about! It's all thanks to you, Primula!
+
+*p_07
+I see...
+
+*p_08
+You know...that was the first battle I've seen up close.
+
+*p_09
+My duties as a medic were always far away from the combat zone.
+
+*p_11
+Hearing live ammunition being fired, -
+*
+- monsters roaring, my dear students screaming in pain...
+*
+...I was frightened.
+
+*p_12
+Weren't you?
+
+*n_13
+......
+
+*n_14
+Yes...
+I was.
+
+*n_15
+But next time...next time I'll do better. I'll be prepared. I won't -
+
+
+// 防衛戦前に二週間前の回想を見ていない場合、ここで回想を挟む*
+*n_20
+<s3>I'll protect everyone. I won't let this happen again.
+
+*n_20_2
+<s4>Never again.
+
+
+// （回想。
+*n_21
+<m scary>Ah, <W3>hah...
+
+*p_21
+Is everything alright?
+
+*n_22
+<m scary><s3>...hah...<W6>
+<m fadein><s2>hoo...<W2>uuu...
+
+*n_23
+<m fadein>...it feels like an eternity since then.
+*
+<m fadein>But my wounds are still open and bleeding.
+
+// 見ている場合 
+
+*n_30
+<W3><s3>Ah...<m scary>
+<m0>I can't stop shaking.
+
+// 合流
+
+*p_40
+Take my paw.
+
+*n_41
+<s3>Sensei...
+
+*n_42
+<W2><s3>Your paws are so warm.
+
+*p_43
+<W2><s2>Listen to me.
+
+*p_43_2
+<W2><s2>This fear is part of you.
+
+*p_44
+<s2>But it does not define you.
+
+*p_45
+<s2>What you did in the face of your fears is who you are.
+
+*p_46
+<s2>When your classmates reached out to you for help, you answered.
+
+*p_47
+<s2>And in turn, they helped you.
+
+*p_48
+<s2>You accomplished as a group what no individual could.
+
+*p_49
+<s2>So the next time your fear strikes, just remember...
+
+*p_50
+<s2>You are not alone.
+
+*n_51
+<W4><s3><m scary>...<m0><W2>thank you, sensei.
+
+
+// 二週間前の回想を既に見ている場合
+
+*n_60
+Um...<W2>could I ask you for...one more favor?
+
+*p_61
+What is it?
+
+*n_62
+M-...May I<m joy>floof<m0> your tail?
+
+*p_63
+Oh my, when was the last time you asked for that? When you were little, you always -
+
+*n_64
+<m ple>I didn't "<b>always</b>"!
+
+// もふもふ
+
+// 二週間前回想を再生していた場合
+*n_65
+<think>I need to be more independent so I don't worry Primula so much.
