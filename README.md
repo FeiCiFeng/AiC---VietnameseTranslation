@@ -16,7 +16,7 @@ This is a small personal project aimed at bringing a Vietnamese translation of A
 
 ## Disclaimer
 - **Volunteer Translation:** This translation is created and maintained by volunteers. It is **not** an official translation. <br>
-*Đây là bản dịch do tình nguyện viên thực hiện, không phải sản phẩm dịch thuật chính từ developer.*
+*Dịch bởi tình nguyện viên: Đây là bản dịch do tình nguyện viên thực hiện, không phải sản phẩm dịch thuật chính từ developer.*
 
 - **Disclaimer:** The lead developer and the development team are not responsible for any errors, misunderstandings, or damages resulting from the use of this translation. <br>
 *Miễn trừ trách nhiệm: lập trình viên chính và nhóm phát triển không chịu trách nhiệm về các sai sót, hiểu lầm hoặc thiệt hại phát sinh từ bản dịch này.*
