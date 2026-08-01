@@ -1,6 +1,6 @@
 # 🔷Alice in Cradle🔶 - Vietnamese Translation
 
-This is a small personal project aimed at bringing a Vietnamese translation of Alice in Cradle to the community.
+This is a small personal project aimed at bringing a Vietnamese translation of Alice in Cradle to the community. <br>
 *đây là một dự án nhỏ cá nhân được thực hiện để đem tới bản dịch tiếng Việt cho Alice in Cradle.*
 
 ---
@@ -30,7 +30,7 @@ This is a small personal project aimed at bringing a Vietnamese translation of A
 - **Note:** Please contact us **only** regarding translation-related issues, such as translation errors, typos, or unnatural wording. <br>
 *Vui lòng chỉ liên hệ với chúng tôi về các vấn đề liên quan đến dịch thuật, chẳng hạn như lỗi dịch thuật, lỗi chính tả hoặc cách diễn đạt thiếu tự nhiên*
 
-- ID discord: <br>
+- ID discord (contact) of the two translator: <br>
 Feng: _phongwibu <br>
 Nian: niansprout163
 
