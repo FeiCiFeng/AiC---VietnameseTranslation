@@ -163,7 +163,7 @@ GP를 너무 팔아 랭크가 저하했을 경우
 
 /* ___ WarpConfirm_enable_night_warp ___ */
 조사도가 &1%를 달성해
-야간・우천시에도 &2 에서
+야간·우천시에도 &2 에서
 빠른 이동을 할 수 있게 되었다!
 
 &&GM_Mag_switch_tool_gz 특수 도구
@@ -200,3 +200,56 @@ GP를 너무 팔아 랭크가 저하했을 경우
 
 &&GM_skill_edit_manip 입력 방식 변경
 &&GM_skill_switch_enabled 사용/미사용 변경
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+&&Item_cmd_equip_cane_in_battle 장비한다……<img mesh=\"alert\" />
+/* ___ Item_switch_cane_in_battle  ___ */
+전투중에 지팡이를 교체하기 위해서는
+마술 수정의 인증 전환에 시간이 걸립니다.
+안전을 확보한 후 작업해주세요.
+
+/* ___ Item_switch_cane_in_battle_alert  ___ */
+<img mesh=\"alert\" />주의: 작업이 중단되었을 경우
+지팡이를 그 자리에 떨어트립니다.
+작업중인 지팡이는 자동으로 회수되지 않습니다.
+
+
+&&Error_not_enough_room 공간이 충분하지 않습니다
+&&Error_no_cane 지팡이가 없어.
+&&Error_cannot_attack_no_cane 지팡이가 없어서 공격할 수 없어.
+&&Error_cannot_magic_no_cane 지팡이가 없어서 영창할 수 없어.
+&&Error_cannot_swap_cane_no_anoother 주위에 다른 지팡이가 없어.
+&&Error_cannot_init_swap_cane_dest 교환할 지팡이가 없어.
+&&Error_cannot_init_swap_cane_src 교환하기 전 지팡이가 없어.
+
+&&Cane_Swap_Restart 지팡이 교체 재개
+
+
+
+// MOD使用者向け: 整合性エラーが出ている場合にDiscordに報告を促さない行う
+
+/* ___ Title_error_announce_wrong_package ___ */
+<font color="ff:#BD1818">프로그램 내부 파일이 파손되었을 가능성이 있습니다.</font>
+재다운로드로 해결될 수 있습니다.
+<font size="66%" alpha=0.5>해당 에러는 개발진에 제보하실 필요 없습니다.</font>
+
+
+&&SerTitle_cane_itemdrop 디바이스 로스트
+&&SerDesc_cane_itemdrop  지팡이를 떨어트린 상태. 마술을 사용할 수 없게 되며 공격도 나약한 맨주먹 뿐. <key a/>으로 맵을 확인해 떨어트린 곳으로 돌아가 회수해주세요.
+
+
+/* ___ Title_error_announce_console ___ */
+<font size="66%" alpha=0.5>해당 플레이에서는 콘솔이 사용되었습니다. 콘솔 사용이 원인인 버그의 경우 제보하실 필요는 없습니다.</font>
+
+
+// ========================================================
+// MARK : フェイタルシーンxゲームオーバーメニュー用処理
+// ========================================================
+&&GO_Select_go_to_fatal 몸을 맡긴다… (페이탈 씬 재생)
+&&GO_Select_return_to_title_skipping_fatal (페이탈 씬 스킵)
+
+&&Fatal_quit_to_title 끝 (타이틀로)

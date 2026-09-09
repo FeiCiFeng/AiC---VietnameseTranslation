@@ -50,4 +50,7 @@
 釣り経験値:&2 (Lv.&3)
 
 /* ___ fish_result_max_score ___ */
-最大サイズ! 経験値x2
+最大サイズ
+
+/* ___ fish_result_no_miss ___ */
+ノーミス! 経験値x2

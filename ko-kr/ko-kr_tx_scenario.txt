@@ -232,4 +232,24 @@ TO BE CONTINUED
 &&quest__subquest_treasurehunt_001__5 사진의 장소를 찾는다 (???)
 
 &&quest__subquest_treasurehunt_001 사진의 장소를 찾는다 (개척자의 산악)
- 
+
+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+
+&&Album_visible_term_200 그라치아 방위전을 전부 클리어
+
+
+&&Album_visible_term_215 메인 시나리오 제 2장 '유령'을 클리어
+
+
+&&quest__subquest_mount_cocktail__0 그라치아의 바에서 발로스 씨가 좋아하는 칵테일을 사온다
+&&quest__subquest_mount_cocktail__1 바에서 아르바이트 한다
+&&quest__subquest_mount_cocktail__2 바에서 '히트샷 197'을 산다
+&&quest__subquest_mount_cocktail__3 발로스 씨에게 전해준다
+
+
+&&quest__subquest_city_forge_030__0 대장간에 선물을 받으러간다

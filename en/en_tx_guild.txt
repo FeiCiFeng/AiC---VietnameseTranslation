@@ -317,3 +317,16 @@ You accepted &1 request(s) from the guild, and &2 remain incomplete. If you leav
 
 &&Guild_whole_quit Quit
 &&Guild_back_quest_selection Return 
+
+
+// ========================================================
+// MARK : 030 ニュース
+// ========================================================
+
+&&EvTitle_news_p104_nusi Who will stop its rampage?
+&&EvTitle_news_p105_lost Missing persons
+&&EvTitle_news_p107_td State of emergency
+&&EvTitle_news_p200_lost Who is behind the disappearances?
+&&EvTitle_news_p200_spider Mountain perils
+&&EvTitle_news_p200_claim Statement on the attack
+&&EvTitle_news_ad Ad

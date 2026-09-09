@@ -449,3 +449,16 @@
 
 &&Guild_whole_quit 終了
 &&Guild_back_quest_selection クエスト一覧に戻る
+
+
+// ========================================================
+// MARK : 030 ニュース
+// ========================================================
+
+&&EvTitle_news_p104_nusi ヌシ討伐は誰が？
+&&EvTitle_news_p105_lost 捜索願
+&&EvTitle_news_p107_td 非常事態宣言
+&&EvTitle_news_p200_lost 神隠しの犯人は？
+&&EvTitle_news_p200_spider 山岳地帯の危険について
+&&EvTitle_news_p200_claim 襲撃事件に対する声明
+&&EvTitle_news_ad 広告欄

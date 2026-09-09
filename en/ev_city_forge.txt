@@ -333,3 +333,97 @@ You could also fight contaminated monster variants. Their HP is high, but they h
 Don't worry if you're defeated. The staff will still retain any collected data.
 *
 And do be aware that <c5>non-magical damage<c0>, grenades, environment, etc. doesn't log any data.
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+*___city_forge/t_no_src_cane fd_00
+...Where's your staff?
+
+*n_01
+Um...well...y'see...
+I kinda...lost it...
+
+*fd_02
+Not much we can do for you without one.
+We need the crystal to swap anything out. Better go find it.
+
+// 030 ではまだ救済措置がないのでできるようにする
+*fd_100
+...I feel kinda bad just brushing you off like that.
+*
+I did have a dream last night about being able to give out new staves without needing to exchange old ones.
+*
+But we don't have anything like that yet. Maybe someday.
+
+
+// レベル5まで育てた報酬
+*___city_forge/t_prize_holder fd_00
+Wow, a max level staff.
+This doesn't happen very often, even with our regulars. Here, take this as thanks.
+
+// ver0.30対応 (レベル5まで育てた杖を持って鍛冶屋に行ったとき)
+*fd_00_2
+How's that maxed-staff treating you?
+*
+Hopefully you're treating it just as well.
+
+*fd_01
+The data you've collected for us is invaluable. Even the old goat is singing your praises.
+
+*ff_02
+......Respect.
+
+*fd_03
+It's not much, but this is a thank you gift from us. Please take good care of it.
+
+
+// ========================================================
+// MARK : 既に星5を持っているプレイヤー向け
+// ========================================================
+*___city_forge board_announce_v030
+To players that have upgraded a staff to level 5:
+The blacksmith has a gift for you.
+Head to the forge to claim it!
+
+
+// ========================================================
+// MARK : 030 手元での杖の交換に関する説明
+// ========================================================
+
+*___city_forge/t_desc_switch n_00
+Can I switch to a staff that I'm currently gathering data with in the wild?
+
+*fd_01
+Uhh, yeah, but it's tricky. Here, lemme see your staff.
+
+//暗転
+*fd_10
+Open the cover here and do the same for the staff you want to swap with.
+*
+Hold the button until you hear a beep annnd...done.
+
+*n_12
+I see. So now I can switch to this staff?
+*
+That wasn't so tricky.
+
+*fd_13
+Eh, it is on the backend.
+*
+Swapping out authentication tokens on the fly without triggering the tamper detection system takes a light touch.
+*n_13
+I see.
+<W1><MT l=-1><W3>Oh, <W2>is it done?
+
+// 暗転開け
+*fd_20
+The tricky part for you is <c1>attempting to switch it out during combat<c0>.
+*
+We have to pause a lot of functions during the token switch, including the staff's user identification and command system.
+*
+So if you <c1>drop it while swapping it out, it won't fly back to you automatically<c0>.
+*
+Be safe.

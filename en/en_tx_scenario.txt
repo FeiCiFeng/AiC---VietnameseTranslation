@@ -223,3 +223,19 @@ TO BE CONTINUED
 &&quest__subquest_treasurehunt_001__5 Find the location in the photo (???)
 
 &&quest__subquest_treasurehunt_001 Find the location in the photo (Mountain)
+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+&&Album_visible_term_200 Complete all Defending Grazia battles
+
+&&Album_visible_term_215 Complete main story Chapter 2: Ghost
+
+&&quest__subquest_mount_cocktail__0 Buy Walross’ favorite drink\bat the bar in Grazia
+&&quest__subquest_mount_cocktail__1 Work part-time at the bar
+&&quest__subquest_mount_cocktail__2 Buy a "Heatshot 197"
+&&quest__subquest_mount_cocktail__3 Take the cocktail to Walross
+
+&&quest__subquest_city_forge_030__0 Pick up a gift from the blacksmith

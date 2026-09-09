@@ -452,3 +452,10 @@ Guests will start from the indicated position. If multiple positions are indicat
 &&Smnc_ui_seed_previous Previous seed: &1
 
 &&UiSmnCreator_cc_attack_ratio Guest attack freq.
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+&&Smnc_td_play_fatal Replay Fatal Scene upon failing

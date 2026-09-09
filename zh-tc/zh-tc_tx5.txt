@@ -200,3 +200,56 @@ GP賣過頭導致階級下降時，
 
 &&GM_skill_edit_manip 操作方式變更
 &&GM_skill_switch_enabled 啟用／停用切換
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+&&Item_cmd_equip_cane_in_battle 裝備...<img mesh="alert" tx_color />
+/* ___ Item_switch_cane_in_battle  ___ */
+在戰鬥中執行替換法杖時
+魔術水晶的認證切換非常費時。
+還請確認周遭安全無慮在替換。
+
+/* ___ Item_switch_cane_in_battle_alert  ___ */
+<img mesh=\"alert\" />注意: 替換程序被中斷時、
+法杖將會掉落於地面。
+掉落的法杖無法立即回收。
+
+
+&&Error_not_enough_room 周圍沒足夠的空間
+&&Error_no_cane 沒有持有法杖。
+&&Error_cannot_attack_no_cane 沒法杖時無法攻擊。
+&&Error_cannot_magic_no_cane 沒法杖時無法詠唱。
+&&Error_cannot_swap_cane_no_anoother 周圍沒有別的法杖。
+&&Error_cannot_init_swap_cane_dest 沒有能交換的法杖。
+&&Error_cannot_init_swap_cane_src 要有原先法杖才能替換。
+
+&&Cane_Swap_Restart 繼續替換程序
+
+
+
+// MOD使用者向け: 整合性エラーが出ている場合にDiscordに報告を促さない行う
+
+/* ___ Title_error_announce_wrong_package ___ */
+<font color="ff:#BD1818">遊戲的檔案可能有損壞。</font>
+將遊戲重新下載後或許就能解決。
+<font size="66%" alpha=0.5>遇此錯誤訊息，無需至官方伺服器回報BUG。</font>
+
+
+&&SerTitle_cane_itemdrop 裝置遺落
+&&SerDesc_cane_itemdrop  法杖掉落的狀態。\n無法使用魔術、攻擊只能使出微弱的巴掌。\n按<key a/>來看地圖確認位置、\b請到掉落地點撿回法杖。
+
+
+/* ___ Title_error_announce_console ___ */
+<font size="66%" alpha=0.5>本次遊玩時似乎使用主控台。\b如是因使用主控台所產生的狀況\b無需至官方伺服器回報BUG。</font>
+
+
+// ========================================================
+// MARK : フェイタルシーンxゲームオーバーメニュー用処理
+// ========================================================
+&&GO_Select_go_to_fatal 聽天由命... (播放戰敗情段)
+&&GO_Select_return_to_title_skipping_fatal (跳過戰敗情段)
+
+&&Fatal_quit_to_title 結束 (回到標題畫面)

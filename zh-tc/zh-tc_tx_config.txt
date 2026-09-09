@@ -343,8 +343,6 @@ Choose your display language.
 /* ___ Config_desc_VSync ___ */
 使用垂直同步(VSync)的話，
 會減少背景的閃爍。
-// <font color="#E70B0B">設定後必須要重新啟動才有效。</font>
-// 現在設定: <i>&1</i>
 
 
 
@@ -729,6 +727,8 @@ GAME OVER時操作說明UI
 &&Config_spatial_sound 空間音效
 /* ___ Config_desc_spatial_sound ___ */
 設定是否使用Windows空間音效功能。
+
+/* ___ Config_apply_after_reboot ___ */
 <font color="#E70B0B">重新啟動遊戲後設定才會生效。</font>
 目前的設定: <i>&1</i>
 
@@ -847,3 +847,19 @@ GAME OVER時操作說明UI
 
 &&GO_KeyHelp_pause_progress 前進1幀
 
+
+&&Config_category_general 基本／難易度設定
+&&Config_category_manipulate 操作設定
+&&Config_category_graphics 圖像
+&&Config_category_ui UI
+&&Config_category_effects 演出
+&&Config_category_effects_sp 特殊演出
+&&Config_category_sound 音訊
+
+
+&&Config_reset 重置設定...
+&&Config_reset_thistab 僅這標籤頁
+&&Config_reset_alltab 全部標籤頁
+&&Config_reset_normal 通常選項
+&&Config_reset_sp 擴充功能(已解鎖)
+&&Config_reset_sp_invisible 擴充功能(未解鎖)

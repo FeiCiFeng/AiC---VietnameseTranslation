@@ -85,7 +85,8 @@ Let's get warmed up!
 
 // Museum Viewer
 &&Museum_image_index &1<font size="20">/&2</font>
-&&KD_museum_viewer <key rem/>Hide UI <key shift/>+<key ba/><key ta/>Zoom in/out
+&&KD_museum_viewer <key rem/>Hide UI 
+&&KD_scaling Zoom in/out
 &&KD_museum_viewer_move Alts
 &&KD_museum_viewer_quit <key menu/>Close
 &&KD_museum_viewer_comment <key c/>Commentary

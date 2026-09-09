@@ -450,3 +450,16 @@
 
 &&Guild_whole_quit 取消
 &&Guild_back_quest_selection 返回委托列表
+
+
+// ========================================================
+// MARK : 030 ニュース
+// ========================================================
+
+&&EvTitle_news_p104_nusi 森之领主被何人讨伐？
+&&EvTitle_news_p105_lost 寻人启事
+&&EvTitle_news_p107_td 紧急状态宣告
+&&EvTitle_news_p200_lost 神隐事件的真凶是？
+&&EvTitle_news_p200_spider 关于山岳地带的危险
+&&EvTitle_news_p200_claim 对于袭击事件之声明
+&&EvTitle_news_ad 广告栏

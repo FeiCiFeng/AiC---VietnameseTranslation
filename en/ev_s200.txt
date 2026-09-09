@@ -1141,3 +1141,37 @@ Yeah, but...thank you for offering.
 *200/47_evadejump_tips l_00
 Having trouble using Meta-dodge?
 Try changing the input style for it in the Skills tab.
+
+
+// ========================================================
+// MARK : v030 杖なしでボスに向かった際の処理
+// ========================================================
+*200/69_no_cane n_00
+I don’t have my staff with me.
+Going any further will be dangerous.
+
+
+// ========================================================
+// MARK : v030 スキルチップ取得後の導線がわかりにくいという声をもらったため修正
+// ========================================================
+// キャノン砲を打ち出してからの反応
+
+
+// オストレアのイベントクリアしてる場合
+*200/66_cannonroad_shoot n_00
+<think>Incredible...
+It blasted the rubble like it was nothing.
+
+// オービタルで無理やりきた場合
+*n_01
+<think>W-wow. Did the beastmen design this to blast through bedrock?
+
+// 合流
+
+*n_02
+<think>Now where did that girl go?
+*
+<think>Last time I was here, I didn't see any mana traces. She must've passed by.
+
+*n_03
+<think>The ground here looks solid, but I bet that cannon could loosen it up.

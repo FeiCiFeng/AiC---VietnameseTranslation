@@ -320,3 +320,155 @@ Oh my, when was the last time you asked for that? When you were little, you alwa
 // 二週間前回想を再生していた場合
 *n_65
 <think>I need to be more independent so I don't worry Primula so much.
+
+
+// ========================================================
+// MARK : 0.30 ギルド追加ニュース
+// ========================================================
+
+*___city/guild_news p105_lost
+【MISSING】
+
+Short, female elf with light-green hair.
+Answers to Aura.
+Last seen near the forest floor.
+If anyone has any information, please contact
+the Heavenly Facilities or the Adventurer's Guild.
+Help me find my little sister.
+
+
+*___city/guild_news p107_td
+【EMERGENCY】
+
+The Adventurer's Guild and the Heavenly Facilities
+have declared a state of emergency for the town of Grazia.
+
+A horde of monsters has been sighted approaching from the
+mountains. Follow the evacuation routes to the nearest
+designated safehouse for your region.
+
+Those who are elderly, infirm, or in need of assistance
+should contact the nearest police station for help.
+
+Guild members are to remain on standby and await further
+instructions.
+
+Should the barrier be breached, guild members are to
+engage the horde and protect civilian life.
+
+Do not engage in combat until the signal is given.
+
+
+*___city/guild_news p200_lost
+【Special report】 What lies below?
+
+We've seen a steady stream of mysterious disappearances
+near the lower realms over the past month. Nine missing people
+have been confirmed so far, all of them elves.
+
+An expert from the Grazian historial society has put forth
+a startling theory, claiming that the Dwarves, a race thought
+only to exist in legend, are behind the disappearances.
+
+Naturally, this raises the question that if Dwarves do exist,
+how have they avoided detection for so long? And if they are
+behind the disappearances, why has nobody they've abducted
+ever returned, nor have there been any demands or ransoms
+from the Dwarves?
+
+Are the Dwarves devouring their victims? If you have any
+information on the subject, please contact the Guild.
+
+
+*___city/guild_news p200_spider
+【Dangerous monsters sighted】
+
+A Queen Leech and a Mountain Spider have been spotted
+within the Fallen Mountain range. Both are highly
+territorial and very dangerous.
+
+Adventurers are not to go near their lairs without
+prior Guild approval.
+
+
+【Caution: Loose rocks】
+
+Multiple reports of the ground giving way beneath
+the feet of travelers on the Fallen Mountain range
+have been made recently. Travelers are to exercise caution.
+
+The strata of the mountains was formed when magical forces
+eroded layers of rocks. The sediment settled and formed
+the mountains we know today.
+
+Due to the nature of the sediment, the newly formed strata
+is unstable and can collapse with little to no warning.
+
+Please report collapses to the Guild as soon as you see them.
+
+
+*___city/guild_news p200_claim
+I would like to thank those who contributed to the defense
+of our fair city of Grazia, with specific thanks to the
+elves on the front lines.
+
+However, this victory only shows that our defenses are not
+impenetrable. The fact that the barrier was destroyed means
+that we need to tighten our security processes and learn
+from this near miss.
+
+We are not looking to blame any singular entity or persons.
+We simply wish for our city's governors to take these three
+points into consideration:
+
+ - A public explanation behind the events which led to the
+   barrier's destruction.
+ - Concrete, measurable ways that the military will improve
+   the way the barrier is maintained.
+ - Establish a forum where citizens can voice their concerns
+   and participate in discussions and decisions on the future
+   of the defense of our city.
+
+Please sign if you support our cause.
+
+- The Concerned Citizens Association of Bermit   
+
+*n_200
+<think>This one doesn't have the Guild's official seal stamped on it. I don't think it was posted with permission...
+
+*___city/guild_news ad_p104
+【Ad】
+
+"Super Magical: How your guardian spirit is the key to your magic abilities"
+Unlock your true potential!!
+
+A book that tells all on how to increase your magical potency!
+A must-have for elves!
+
+Pick up your copy today!
+
+(Written by John Beastman, published by Elven Lit)
+
+
+*___city/guild_news ad_p107
+【Ad】
+
+Tired of dealing with clogged toilets and leaky pipes?
+Call our beastman plumbing agency!
+
+We'll handle any workload, even elven ones!
+MS714-HT0829
+Grazia Infrastructure
+
+
+*___city/guild_news ad_p205
+【Ad】
+
+Fallen Church Community Book Club
+Book of the month: "Our Father in Heaven"
+
+Meetings are held the first of every month
+at the church in the Fallen Mountains.
+
+Tea and cookies will be served.
+Newcomers, family, and children are welcome.

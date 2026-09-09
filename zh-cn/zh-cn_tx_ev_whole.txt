@@ -275,14 +275,14 @@
 &&EvTitle_secret_about_walross 瓦罗斯的秘密
 
 &&Select_buy_order 点单
-&&Select_ask_you_are_monster0 你是魔族吗？
-&&Select_ask_you_are_monster1 你真的是兽人吗？
-&&Select_ask_you_are_monster2 你果然是魔族吧
+&&Select_ask_you_are_monster0 您是魔族吗？
+&&Select_ask_you_are_monster1 您真的是兽人吗？
+&&Select_ask_you_are_monster2 您果然是魔族吧
 &&Select_ask_you_are_monster3 …………
 &&Select_drunker …………？？
 
 &&Select_imsorry 对不起
-&&Select_ask_you_sucked 你刚刚在吸什么…？
+&&Select_ask_you_sucked 您刚刚是不是用吸的…？
 
 
 &&Tuto_backlog <key add/> 对话记录
@@ -523,3 +523,36 @@
 
 &&Select_back_to_guild 返回公会
 &&Select_back_to_home_normal 直接返回据点
+
+
+// ========================================================
+// MARK : v030
+// ========================================================
+
+// 強調タグ <bo> で使う傍点を入力します。
+&&bouten_dot ・
+
+&&EvTitle_about_td 关于城镇袭击事件
+&&EvTitle_reincarnation 记忆的接续
+&&EvTitle_primula_is_villain 普莉姆拉是坏人？
+&&EvTitle_forced_lavour 劳役
+&&EvTitle_reason_walross 为什么要这么拼命？
+
+&&Select_send_cocktail 交出鸡尾酒
+
+&&Alert_item_reduced_walross 将 &1 交给了瓦罗斯。
+&&Select_drink_cocktail 我喝……！
+&&Select_not_drink_cocktail 不喝……
+
+&&EvTitle_primula_is_villain2 老师是坏人？
+
+&&Select_listen_execute 确定要问
+
+&&Select_mofu 摸摸
+&&Select_not_mofu 还是不摸了
+
+
+
+&&Select_cure_by_rounin 接受治疗（恢复HP、修补服装并治疗异常状态）
+
+&&EvTitle_t_desc_switch 更换当前使用的法杖

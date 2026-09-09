@@ -42,7 +42,7 @@
 &&Turn_manual_2 Player 2's Turn &1
 &&Turn_CPU Thinking...
 
-&&RPL_Playing <key ra/>Fastforward
+&&RPL_Playing Replaying
 
 
 &&Cutin_gamestart SEND YOUR DECISION
@@ -310,3 +310,22 @@ Winning against a higher rank opponent does not confer extra benefits.
 &&ttr_online_reconnect Attempting to reconnect...
 &&ttr_online_reconnected Reconnected
 &&ttr_online_ann_error_logout_youwin Session disconnected, you win.
+
+
+&&RPL_step_forward Next turn
+&&RPL_forward F. Fwd.
+&&RPL_play Play
+&&RPL_pause Pause
+&&RPL_restart Restart
+
+
+
+&&RPL_go_result To results 
+
+&&RPL_Playing_end Finished.\nClick<img mesh="step_last"/>for results screen.
+
+
+
+&&ttr_makerule_allnight Night Party
+&&ttr_makerule_allnight_on On
+&&ttr_makerule_allnight_off Off

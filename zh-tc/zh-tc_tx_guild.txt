@@ -434,3 +434,16 @@
 
 &&Guild_whole_quit 結束
 &&Guild_back_quest_selection 返回任務一覽
+
+
+// ========================================================
+// MARK : 030 ニュース
+// ========================================================
+
+&&EvTitle_news_p104_nusi 討伐森主的是誰？
+&&EvTitle_news_p105_lost 尋人啟事
+&&EvTitle_news_p107_td 緊急狀況宣布
+&&EvTitle_news_p200_lost 神隱的犯人是？
+&&EvTitle_news_p200_spider 山岳地帶危險事宜
+&&EvTitle_news_p200_claim 襲擊事件的聲明
+&&EvTitle_news_ad 廣告欄

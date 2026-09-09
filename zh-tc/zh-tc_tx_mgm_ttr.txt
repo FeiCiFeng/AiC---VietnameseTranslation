@@ -42,7 +42,7 @@
 &&Turn_manual_2 玩家2的回合 &1
 &&Turn_CPU 對手思考中...
 
-&&RPL_Playing 播放重播中 <key ra/>快轉
+&&RPL_Playing 播放重播中
 
 
 &&Cutin_gamestart 遊戲開始
@@ -324,3 +324,23 @@
 &&ttr_online_reconnect 連線不穩定。重新連線中...
 &&ttr_online_reconnected 已重新連線
 &&ttr_online_ann_error_logout_youwin 對手斷線的緣故，你不戰而勝
+
+
+
+&&RPL_step_forward 快轉一回合
+&&RPL_forward 快轉
+&&RPL_play 播放
+&&RPL_pause 暫停
+&&RPL_restart 重新播放
+
+
+
+&&RPL_go_result 到結算畫面 
+
+&&RPL_Playing_end 重播已結束。\n按<img mesh="step_last"/>前往結算畫面。
+
+
+
+&&ttr_makerule_allnight 常夜
+&&ttr_makerule_allnight_on 開啟
+&&ttr_makerule_allnight_off 關閉

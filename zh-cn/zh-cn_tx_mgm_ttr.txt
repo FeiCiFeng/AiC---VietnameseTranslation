@@ -42,7 +42,7 @@
 &&Turn_manual_2 Player 2's Turn &1
 &&Turn_CPU Thinking...
 
-&&RPL_Playing 录像回放中 <key ra/>快进
+&&RPL_Playing 录像回放中
 
 
 &&Cutin_gamestart SEND YOUR DECISION
@@ -311,8 +311,8 @@
 &&ttr_online_ann_connection_error 无法连接到服务器。
 &&ttr_online_ann_matchmake_error 对局匹配超时。
 
-&&ttr_online_ann_rematch 正在发送与对手重赛的请求…
-&&ttr_online_ann_rematch_chk 对方同意了与你重赛…
+&&ttr_online_ann_rematch 正在确认对手重赛意愿…
+&&ttr_online_ann_rematch_chk 对手正在观看对局录像…
 
 &&ttr_online_ann_matchmake_completed 对局匹配成功！
 &&ttr_online_logout_manual 正在断开连接…
@@ -324,3 +324,23 @@
 &&ttr_online_reconnect 网络连接不稳定，重新连接中…
 &&ttr_online_reconnected 重新连接成功。
 &&ttr_online_ann_error_logout_youwin 由于对方放弃对局，你获得了这场比赛的胜利。
+
+
+
+&&RPL_step_forward 下一回合
+&&RPL_forward 快进
+&&RPL_play 播放
+&&RPL_pause 暂停
+&&RPL_restart 重播
+
+
+
+&&RPL_go_result 前往结算界面
+
+&&RPL_Playing_end 录像播放已结束。\n点击<img mesh="step_last"/>进入结算页面。
+
+
+
+&&ttr_makerule_allnight 永夜模式
+&&ttr_makerule_allnight_on 开启
+&&ttr_makerule_allnight_off 关闭

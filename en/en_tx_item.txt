@@ -1283,3 +1283,38 @@ Probably something cool.
 %ITEMREEL sweat_G1 Sweets 2
 
 %ITEMREEL jewel_B_G0 Gems +
+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+%ITEM workbench_holder_bomb Grenade Pouch
+A container for holding grenades. The Mole Snake hide casing protects the grenades from accidental detonation and by extension, you.
+
+
+%ITEM workbench_holder_cane Staff Sheathe
+Holds up to one staff so you can carry two at a time. The crystal bypass feature allows the user to switch their staff out during battle, but only once.
+
+
+%ITEM workbench_holder_itemreel Treasure Chest Chest
+A chest for nesting other chests. There’s only room for one though, and it won’t protect it from opening if you’re defeated.
+
+
+&&Item_cmd_takeout_from_holder Unpack
+&&Item_cmd_pack_in_holder Pack
+
+&&Item_cmd_pack_to_holder Pack into...
+&&Alert_no_holder No appropriate container.
+
+&&Item_prompt_pack_bomb <font size="150%" color="ff:#F7562E">&1</font>\nSelect grenades
+&&Item_prompt_pack_cane <font size="150%" color="ff:#F7562E">&1</font>\nSelect staff
+&&Item_prompt_pack_itemreel <font size="150%" color="ff:#F7562E">&1</font>\nSelect chest
+&&detail_bomb_explode_ratio Chain reaction: &1%
+&&detail_bomb_explode_alert_prefix Carrying too many can be dangerous
+&&detail_bomb_explode_alert_fire There is a risk of chain detonation\bwhen you take fire damage
+&&detail_bomb_explode_alert_thunder There is a risk of chain detonation\bwhen you take lightning damage
+&&detail_bomb_explode_alert_magic There is a risk of chain detonation\bwhen you take magic damage
+&&detail_bomb_not_explode Grenades in the pouch\bdo not contribute to this risk
+
+&&Item_cmd_equip_cane_from_holder Equip (&1 rem.)

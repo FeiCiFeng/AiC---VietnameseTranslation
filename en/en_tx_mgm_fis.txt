@@ -51,4 +51,7 @@ Total fish caught: &1
 Fishing XP: &2 (Lv. &3)
 
 /* ___ fish_result_max_score ___ */
-Max size! XP bonus x2!
+Max size! XP x2!
+
+/* ___ fish_result_no_miss ___ */
+No misses!  XP x2!

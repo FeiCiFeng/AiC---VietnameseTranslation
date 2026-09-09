@@ -231,7 +231,7 @@ TO BE CONTINUED
 
 
 &&scenario_desc_ooparts03__0 為了研究超文物\b而製作炸魚塔可
-&&scenario_desc_ooparts03__1 交給考古學家
+&&scenario_desc_ooparts03__1 將東西交給考古學家
 &&scenario_desc_ooparts03__2 將解讀完的古代裝置\b交到古拉提亞\b優秀的科學家手上
 &&scenario_desc_ooparts03__3 完成古代裝置
 
@@ -240,3 +240,24 @@ TO BE CONTINUED
 &&quest__subquest_treasurehunt_001__5 尋找照片的地點 (???)
 
 &&quest__subquest_treasurehunt_001 尋找照片的地點 (開拓者山岳)
+
+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+
+&&Album_visible_term_200 將古拉提亞防衛戰全通關
+
+
+&&Album_visible_term_215 將主線劇情第二章「幽靈」通關
+
+
+&&quest__subquest_mount_cocktail__0 到古拉提亞酒吧\b購買瓦羅斯\b喜好的雞尾酒
+&&quest__subquest_mount_cocktail__1 在酒吧打工
+&&quest__subquest_mount_cocktail__2 到酒吧購買\b「熱焰射擊197」
+&&quest__subquest_mount_cocktail__3 將東西交給瓦羅斯
+
+
+&&quest__subquest_city_forge_030__0 到鐵匠鋪拿禮物

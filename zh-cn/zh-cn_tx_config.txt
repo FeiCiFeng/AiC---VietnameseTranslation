@@ -63,11 +63,11 @@
 &&Config_desc_VOV   设置诺艾儿声音的音量。
 &&Config_desc_BGMV  设置背景音乐的音量。
 &&Config_desc_keycon  更改键盘和手柄的按键。
-"/* ___ Config_desc_Lang ___ */ 
+/* ___ Config_desc_Lang ___ */ 
 简体中文-特别鸣谢Cicini做出的特殊贡献
 Choose your display language.
-<font size=""12.3"" linespacing=""0.76"">
-感谢译者@rolling_badger,@szsrkirby,Phenix02, @kokonoekyu,TsurukawaAkari,CatInCradle,扁尖笋, Chiyuki,哥哥我欧尼酱,克劳恩Peace,Éphemeral</font>"
+<font size="12.3" linespacing="0.76">
+感谢译者もぐみ@rolling_badger,Phenix02,鶴川Akari,CatInCradle,扁尖笋,克劳恩Peace,Éphemeral</font>
 &&Config_desc_Sensitive 设置是否显示性方面的描写。\n<font color="#E70B0B">未满18岁或正在录像的玩家\n请务必选择健全模式为「开」。</font>
 
 &&Config_desc_Windowed   设置游戏的显示模式。
@@ -637,13 +637,13 @@ Choose your display language.
 
 &&Config_spconfig_dmgcounter_position 受到伤害的\n数值显示
 /* ___ Config_desc_spconfig_dmgcounter_position ___ */
-设置受到的伤害数值在游戏画面中以及
+设置受到伤害的数值在游戏画面中以及
 在诺艾儿的UI立绘上方的显示情况。
 
 &&Config_dmgcounter_0 不显示
 &&Config_dmgcounter_1 在游戏画面中显示
 &&Config_dmgcounter_2 在UI中显示
-&&Config_dmgcounter_3 在游戏画面和UI中显示
+&&Config_dmgcounter_3 游戏画面&UI
 
 &&Config_spconfig_gameover_counter 游戏结束\n倒计时
 /* ___ Config_desc_spconfig_gameover_counter ___ */
@@ -850,17 +850,13 @@ Choose your display language.
 新指令对应的另一魔法。
 
 
-
-
-
-
 &&Config_UiInput_Stick_Thresh UI输入灵敏度
 
 
 // 0.29j
 
-&&Config_spconfig_dmg_counter_in_pause 暂停状态下\b显示伤害数值
-&&Config_spconfig_dmg_counter_in_pause_myself （自机）
+&&Config_spconfig_dmg_counter_in_pause 暂停时显示\b伤害数值
+&&Config_spconfig_dmg_counter_in_pause_myself （玩家）
 &&Config_spconfig_dmg_counter_in_pause_enemy （敌人）
 /* ___ Config_desc_spconfig_dmg_counter_in_pause ___ */
 此选项用于调整\b暂停状态下是否在\b画面中显示伤害数值。
@@ -871,4 +867,21 @@ Choose your display language.
 &&Config_show_dmg_counter_hide 隐藏
 
 
-&&GO_KeyHelp_pause_progress 前往1F
+&&GO_KeyHelp_pause_progress 前进1帧
+
+
+&&Config_category_general 基础设置/游戏难度
+&&Config_category_manipulate 操作设置
+&&Config_category_graphics 图像设置
+&&Config_category_ui UI设置
+&&Config_category_effects 效果设置
+&&Config_category_effects_sp 特殊效果
+&&Config_category_sound 音频设置
+
+
+&&Config_reset 恢复初始设置...
+&&Config_reset_thistab 仅当前类目
+&&Config_reset_alltab 所有类目
+&&Config_reset_normal 基础设置
+&&Config_reset_sp 扩展设置（已解锁）
+&&Config_reset_sp_invisible 扩展设置（未解锁）

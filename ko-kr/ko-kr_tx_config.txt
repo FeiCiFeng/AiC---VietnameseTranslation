@@ -97,7 +97,7 @@ KR fansub ... Thanks to:
 
 
 &&GO_KeyHelp_top <key cancel/>를 길게 눌러 포기하자…
-&&GO_KeyHelp_top_pause <key sort>일시정지
+&&GO_KeyHelp_top_pause <key sort/>일시정지
 &&GO_KeyHelp_pause <key la/><key ba/><key ta/><key ra/>카메라 이동 
 &&GO_KeyHelp_pause_scale <key ltab/><key rtab/>줌 인 / 아웃 
 &&GO_KeyHelp_pause_fix <key sort/>카메라 고정
@@ -310,7 +310,7 @@ KR fansub ... Thanks to:
 // MARK : ver024
 // ========================================================
 
-&&Keyconfig_category_ui   UI 조작
+&&Keyconfig_category_ui  UI 조작
 &&Keyconfig_category_game   게임 내 조작
 &&Keyconfig_name_sort 정렬
 &&Keyconfig_name_add 추가
@@ -640,6 +640,8 @@ MP 비율을 설정합니다.
 /* ___ Config_desc_spatial_sound ___ */
 Windows  입체음향기능을
 사용할지 설정합니다.
+
+/* ___ Config_apply_after_reboot ___ */
 <font color="#E70B0B">설정은 재기동 후 적용됩니다.</font>
 현재 설정: <i>&1</i>
 
@@ -758,5 +760,24 @@ Windows  입체음향기능을
 &&Config_show_dmg_counter_hide 비표시
 
 
-&&GO_KeyHelp_pause_progress 1F 진행
- 
+&&GO_KeyHelp_pause_progress 1프레임 진행
+
+
+&&Config_category_general 기본/난이도 설정
+&&Config_category_manipulate 조작 설정
+&&Config_category_graphics 그래픽
+&&Config_category_ui UI
+&&Config_category_effects 연출
+&&Config_category_effects_sp 특수연출
+&&Config_category_sound 오디오
+
+
+&&Config_reset 설정 리셋…
+&&Config_reset_thistab 이 탭만
+&&Config_reset_alltab 모든 탭
+&&Config_reset_normal 일반 옵션
+&&Config_reset_sp 확장 옵션(해금 완료)
+&&Config_reset_sp_invisible 확장 옵션(미해금)
+
+
+

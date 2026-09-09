@@ -163,7 +163,7 @@
 &&noel_juice_grade1 따끈따끈 &1
 &&noel_juice_grade2 갓 짜낸 &1
 &&noel_juice_grade3 품질이 검증된 &1
-&&noel_juice_grade4 &1・누보
+&&noel_juice_grade4 &1·누보
 
 
 &&name_skill_book 스킬:&1
@@ -335,7 +335,7 @@
 %RECIPE_REPLACE mtr_meat_chicken0 치킨 
 
 &&recipe_effect_atk 물리공격력, 샷건 위력
-&&recipe_effect_atk_magic 물리・마법공격력, 샷건 위력
+&&recipe_effect_atk_magic 물리·마법공격력, 샷건 위력
 
 %ITEM mtr_cabbage 양배추 ​
 드레싱을 뿌리는 편이
@@ -731,8 +731,8 @@
 밀폐하지 않고 버리면
 큰일이 일어날 것 같아.
 
-%ITEM mtr_essence_golem 목우의 오른손 ​
-목우형 마족의 재주 좋은 오른손.
+%ITEM mtr_essence_golem 목각의 오른손 ​
+목각형 마족의 재주 좋은 오른손.
 오염체가 되어도 지능이
 많이 남아있는 것 같아.
 
@@ -1392,7 +1392,7 @@ HP &1% / MP &2% 일때 부활
 되는데에 걸리는 시간이 길다.
 
 
-%ITEM cane_bermit2 베르밋 지팡이・개
+%ITEM cane_bermit2 베르밋 지팡이·개
 베르밋 군의 표준장비의
 출력을 더욱 강하게 조정한 것.
 록온 성능과 샷건의 위력,
@@ -1639,7 +1639,7 @@ HP &1% / MP &2% 일때 부활
 
 
 %ITEM anc_cure_paralysis 마비용 연고
-수인・엘프 공용, 여행용 소용량. 민트의 화한 느낌 때문에 추운 계절에는 조금 그렇다.
+수인·엘프 공용, 여행용 소용량. 민트의 화한 느낌 때문에 추운 계절에는 조금 그렇다.
 
 
 %ITEM mtr_tarot_empress 타로 카드: 여황제
@@ -1664,4 +1664,52 @@ HP &1% / MP &2% 일때 부활
 %ITEMREEL sweat_G1 단것 2
 
 %ITEMREEL jewel_B_G0 보석 +
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+%ITEM workbench_holder_bomb 그레네이드 홀더
+그레네이드를 안전하게 휴대하기 위한 기구.
+토사의 가죽으로 만든 단단하면서도
+유연한 외장에 의해 안에 있는 그레네이드를
+유폭의 위험으로부터 지켜준다.
+
+
+%ITEM workbench_holder_cane 지팡이 홀더
+지팡이를 1개 보관할 수 있는 홀더.
+마술수정의 바이패스 기능을 탑재해
+전투중 1번 보관된 지팡이와 장비중인 지팡이를
+지연 없이 교체할 수 있다.
+
+
+%ITEM workbench_holder_itemreel 보물상자 홀더
+보물상자를 1개 보관할 수 있는 홀더.
+그저 가지고 다니면 즐거울 뿐
+특별한 효과는 없다.
+패배시 상자의 강제 확인 처리로부터
+지켜주지도 않는다.
+
+
+&&Item_cmd_takeout_from_holder 홀더에서 꺼낸다
+&&Item_cmd_pack_in_holder 홀더에 넣는다
+
+&&Item_cmd_pack_to_holder 홀더에 넣는다…
+&&Alert_no_holder 홀더가 없어.
+
+&&Item_prompt_pack_bomb <font size="150%" color="ff:#F7562E">&1</font>\n에 넣을 그레네이드 선택
+&&Item_prompt_pack_cane <font size="150%" color="ff:#F7562E">&1</font>\n에 넣을 지팡이 선택
+&&Item_prompt_pack_itemreel <font size="150%" color="ff:#F7562E">&1</font>\n에 넣을 보물상자 선택
+&&detail_bomb_explode_ratio 현재 유폭 확률: &1%
+&&detail_bomb_explode_alert_prefix 과다소지 주의
+&&detail_bomb_explode_alert_fire  불·폭발 피해를 받았을 때 유폭할 위험이 있습니다
+&&detail_bomb_explode_alert_thunder  번개 피해를 받았을 때 유폭할 위험이 있습니다
+&&detail_bomb_explode_alert_magic  마술의 폭발의 영향을 받았을 때 유폭할 위험이 있습니다
+&&detail_bomb_not_explode 홀더 안에 있는 그레네이드는 유폭확률에 영향이 없다
+
+
+
+
+
+&&Item_cmd_equip_cane_from_holder 장비한다 (앞으로 &1번까지)
  

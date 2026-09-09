@@ -1639,3 +1639,52 @@ HP &1% / MP &2% で復活
 %ITEMREEL sweat_G1 甘味2
 
 %ITEMREEL jewel_B_G0 宝石+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+%ITEM workbench_holder_bomb 手榴弾ホルダー
+手榴弾を安全に携行する為の容器。
+土蛇型魔族の皮膚由来の強固かつ
+柔軟な外装によって、中にある
+手榴弾を誘爆の危険から守る。
+
+
+%ITEM workbench_holder_cane 杖ホルダー
+杖を1本保持できるホルダー。
+魔術水晶のバイパス機能を
+搭載しており、戦闘中に１度だけ
+収めている杖と装着中の杖を遅延なしで
+持ち替えることができる。
+
+
+%ITEM workbench_holder_itemreel 宝箱ホルダー
+宝箱を1つ入れておくホルダー。
+ただ持ち歩きが楽になるだけで
+特別な効果はない。
+敗北時の宝箱の強制確定の処理からも
+守られたりしない。
+
+
+&&Item_cmd_takeout_from_holder ホルダーから取り出す
+&&Item_cmd_pack_in_holder ホルダーに入れる
+
+&&Item_cmd_pack_to_holder ホルダーに入れる...
+&&Alert_no_holder ホルダーがない。
+
+&&Item_prompt_pack_bomb <font size="150%" color="ff:#F7562E">&1</font>\nにつめるグレネードを選択
+&&Item_prompt_pack_cane <font size="150%" color="ff:#F7562E">&1</font>\nにつめる杖を選択
+&&Item_prompt_pack_itemreel <font size="150%" color="ff:#F7562E">&1</font>\nにつめる宝箱を選択
+&&detail_bomb_explode_ratio 現在の誘爆確率: &1%
+&&detail_bomb_explode_alert_prefix 持ちすぎ注意
+&&detail_bomb_explode_alert_fire  炎・爆発ダメージを\b受けた際に誘爆する\b危険があります
+&&detail_bomb_explode_alert_thunder  雷ダメージを\b受けた際に誘爆する\b危険があります
+&&detail_bomb_explode_alert_magic  魔術の爆風を\b受けた際に誘爆する\b危険があります
+&&detail_bomb_not_explode ホルダー内にあるグレネードは\b誘爆確率に影響しない
+
+
+
+
+
+&&Item_cmd_equip_cane_from_holder 装備する (あと&1回まで)

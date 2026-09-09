@@ -1621,3 +1621,51 @@
 %ITEMREEL sweat_G1 甘味2
 
 %ITEMREEL jewel_B_G0 寶石+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+%ITEM workbench_holder_bomb 手榴彈收納袋
+能安全攜帶手榴彈的袋子。
+外裝使用了既堅固且柔軟
+土蛇型魔族的外皮
+能減少袋內手榴彈被誘爆的危險。。
+
+
+%ITEM workbench_holder_cane 法杖收納架
+能夠支撐一把法杖的固定架。
+搭載魔術水晶旁路功能、
+在戰鬥中可以使用一次
+將法杖快速切換成
+收納中的法杖的功能。
+
+
+%ITEM workbench_holder_itemreel 寶箱收納袋
+能裝入一個寶箱的收納袋。
+僅是能省下物品攜帶量而已
+不具備特別的功能。
+也無法迴避戰敗時寶箱強制開啟的事件。
+
+
+&&Item_cmd_takeout_from_holder 將收納東西取出
+&&Item_cmd_pack_in_holder 裝進收納器
+
+&&Item_cmd_pack_to_holder 將東西放入收納器...
+&&Alert_no_holder 沒有收納器。
+
+&&Item_prompt_pack_bomb 選擇要放入<font size="150%" color="ff:#F7562E">&1</font>\n的手榴彈
+&&Item_prompt_pack_cane 選擇要放入<font size="150%" color="ff:#F7562E">&1</font>\n的法杖
+&&Item_prompt_pack_itemreel 選擇要放入<font size="150%" color="ff:#F7562E">&1</font>\n的寶箱
+&&detail_bomb_explode_ratio 現在誘爆機率: &1%
+&&detail_bomb_explode_alert_prefix 注意攜帶數量
+&&detail_bomb_explode_alert_fire  受到火焰・爆炸傷害時\b有誘爆的危險性
+&&detail_bomb_explode_alert_thunder  受到電撃傷害時\b有誘爆的危險性
+&&detail_bomb_explode_alert_magic  受到魔術衝擊波時\b有誘爆的危險性
+&&detail_bomb_not_explode 裝入收納袋的各類手榴彈\b將不受誘爆機率引響
+
+
+
+
+
+&&Item_cmd_equip_cane_from_holder 裝備 (還剩&1次)

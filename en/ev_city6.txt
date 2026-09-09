@@ -1,0 +1,153 @@
+// For translaters:
+// In the next version, this txt file containing the
+// entire event statement will be exported to the 
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+
+// ========================================================
+// MARK : ヴァーロスのバニーイベントを見終わった後
+// ========================================================
+
+
+
+// 先生に「先生は罪人か？」と聞く
+
+*105/health_primula_t_primula_is_villain p_00
+Hm? Something on your mind?
+
+*n_01
+...
+
+// 本当に聞く / やめておく
+
+*n_10
+...I was told it’s extremely rare for a beastman to be reincarnated without their memories.
+
+*p_11
+Ah, yes. Perhaps my previous self had memories she’d rather seal away.
+
+*n_12
+<s2>...or maybe she committed terrible crimes and had them taken away.
+<W2><small>Or something.
+
+*p_13
+I’ve had that thought too.
+*
+I decided it’s best not to know.
+*
+It would do more harm than good.
+
+*p_14
+But I understand your curiosity.
+*
+It’s hard to resist the allure of a secret, isn’t it?
+
+*n_15
+......
+
+*p_16
+Suppose I did lose my memories as a punishment, -
+*
+- the people I wronged would see me walking around one day and might plot their revenge.
+
+*p_17
+But I would have no idea when or where they might strike.
+*
+Living in fear of them every day would be part of my punishment.
+
+*n_18
+That would be unnecessarily cruel.
+
+*p_19
+Hehe, true.
+*
+<s3>But it would be what I deserve.
+
+*p_20
+<s3><W2>Noel...
+Are you afraid of me?
+
+
+// A:怖い
+// B:怖くない
+
+// A==
+*p_100
+I've always appreciated your honesty.
+
+*n_101
+I’m not scared of <i>you</i>.
+*
+I’m scared...that your memories might come back and you’ll be different from the Primula I know.
+*
+What if she really is a criminal? What if all that time we've spent together was a lie?
+
+*p_102
+Memories exist in more places than just our brains.
+*
+Some can take on a life of their own.
+
+*p_103
+...Let me make you a promise.
+//=> C
+
+
+// B==
+*n_150
+Even if you were a criminal before, you’ll always be Primula to me.
+*
+If your old memories came back, I’d just have to find a way to restore your Primula ones.
+
+*p_151
+Oh? How would you do that?
+
+*n_152
+I’d...um...find someone at the Heavenly Facilities to help me.
+
+*p_153
+Beastmen are the cogs of society. Tampering with their memories might grind the system to a halt.
+
+*p_153_2
+Whoever you talk to would turn you in and you’d get a punishment that makes mine look like a timeout.
+
+*n_154
+Oh...
+
+*p_155
+Hehe.
+Promise me you won’t do anything that’ll get you arrested.
+*
+And I’ll promise you this...
+
+
+//=> C
+
+// C===
+
+*p_200
+Even if my old memories are restored, you’ll still be as precious to me as you are now.
+*
+That memory will always find its way back to me.
+
+*n_201
+...I’d still feel better if I knew you weren’t a criminal in the past.
+
+*p_202
+I understand. But, even if that’s the case, you’ll still be my Noel.
+*
+No matter what.
+
+*n_203
+...
+
+*p_204
+Ohh, you look so upset.
+Wanna touch my tail?
+
+*n_205
+<think>Uuu, she’s treating me like I’m a little kid...

@@ -1,0 +1,126 @@
+%FAMILY _
+// ミニゲーム バニー給仕
+
+&&Select_talk_more 更深入話題
+
+&&Select_takeout_liquir 關於外帶
+&&Select_arbeit 打工
+
+&&Select_arbeit_start 開始打工
+&&Select_arbeit_rule0 規則說明: 基本
+&&Select_arbeit_rule1 規則說明: 小費
+&&Select_arbeit_rule2 規則說明: 體力&回復
+
+
+&&Select_talk_more_you_are_monster 果然是魔族嗎？？
+&&Select_talk_more_not_takeout 為什麼不能外帶？
+&&Select_talk_more_mount_friend 山上有熟人嗎？
+&&Select_talk_more_about_td 襲擊那時候、還好嗎？
+&&Select_talk_more_password 儲藏室的密碼是？
+&&Select_talk_more_about_td2 你覺得為什麼發生襲擊呢？
+&&Select_talk_more_about_walross 有好多瓦羅斯
+&&Select_talk_more_about_food 員工餐裡放了什麼？
+
+&&Select_takeout 外帶點餐
+&&Select_back_to_takeout 還是外帶吧
+&&Select_quit_takeout 不點餐
+
+&&Select_retry_arbeit_talking 繼續打工(退出)
+&&Select_quit_arbeit_talking 結束打工(退出)
+&&Select_retry_arbeit 繼續打工
+&&Select_quit_arbeit 結束打工
+
+&&MgmBun_Take_Cocktail   運送
+&&MgmBun_Take_Cocktail_Replace   交換
+&&MgmBun_Serve_Cocktail   交付
+
+&&MgmBun_Receipt   單據
+&&MgmBun_Trash   丟棄
+
+
+&&MgmBun_ui_highscore_bunny 最高分(兔女郎)
+&&MgmBun_ui_highscore_bunnyrev 最高分(逆兔女郎)
+
+// ========================================================
+// MARK : 選択
+// ========================================================
+
+&&MgmBun_costume_select 選擇服裝
+
+&&MgmBun_costume_title_bunny 兔女郎裝
+&&MgmBun_difficulty 工作難度
+
+/* ___ MgmBun_costume_desc_bunny ___ */
+提到酒吧就一定要有、即使這麼說
+也一點都不誇張、基本款造型。
+穿脫極為不便的關係、
+開始職務後就不能去上廁所了
+這點需要特別注意。
+
+
+&&MgmBun_costume_title_bunnyrev 逆兔女郎裝
+
+
+/* ___ MgmBun_costume_desc_bunnyrev ___ */
+令人血脈噴張的造型。
+光是靠走路散發的魅力
+大概就能將客人擄獲吧。
+能獲得預期之外更多小費的同時、
+也需格外注意體力分配。
+
+&&Log_bun_attacked_breast   被客人摸了胸部...
+&&Log_bun_attacked_belly   被客人摸了腹部...
+&&Log_bun_attacked_leg   被客人摸了大腿...
+&&Log_bun_attacked_back   被客人摸了背部...
+&&Log_bun_attacked_hip   被客人摸了屁股...
+&&Log_bun_attacked_other  被客人摸了身體...
+
+&&Log_bun_restroom_disable  到洗手間休息還太早。
+&&Log_bun_restroom_finished  迅速地休息了一會兒。
+
+
+//SituCon (メニューの直近の思い出ログ用)
+&&Log_bun_attacked_total   在酒吧打工時身體被摸了&1次...
+&&Log_bun_failed_omorashi   打工時在客人們的面前失禁了...
+
+// ========================================================
+// MARK : Debuff
+// ========================================================
+
+&&MgmBun_cured_debuff_1   腦袋變得昏沉沉...
+&&MgmBun_cured_debuff_2   身體不由自主身体火熱起來...
+// ========================================================
+// MARK : Result
+// ========================================================
+
+&&MgmBun_result_row_title_order_total 成功送餐數/點餐的次數
+&&MgmBun_result_row_value_order_total &1 / &2 (&3%)
+
+&&MgmBun_store_only_can_one 一次最多只能要求一杯。
+
+&&MgmBun_result_row_title_combo 最大連鎖
+&&MgmBun_result_row_value_combo &1 次
+
+
+&&MgmBun_result_row_title_people 來店人數
+&&MgmBun_result_row_value_people &1 人
+
+&&MgmBun_result_row_title_touched 被性騷擾的次數
+&&MgmBun_result_row_value_touched &1 次
+
+
+&&MgmBun_result_row_title_eat 吃員工餐的次數
+&&MgmBun_result_row_value_eat &1 次
+
+&&MgmBun_result_row_title_sell 營業額
+&&MgmBun_result_row_title_chip + 小費
+&&MgmBun_result_row_title_cleaning - 服裝・店面清潔費
+
+&&MgmBun_result_row_value_money &1 pt.
+
+&&MgmBun_result_total 合計 &1 pt.
+
+&&MgmBun_cure 回復
+
+
+&&Store_no_enough_bun_score <b>得再增加ㄧ些班次才行...</b>

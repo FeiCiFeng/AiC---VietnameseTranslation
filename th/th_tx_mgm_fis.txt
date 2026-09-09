@@ -1,53 +1,57 @@
 %FAMILY _
 // ミニゲーム 魚釣り用
 
-&&Select_fish_start 竿を投げる
-&&Select_fish_settings エサ・竿の変更
-&&fish_feed_submit エサを撒く
-&&fish_feed_target エサ撒き対象
+&&Select_fish_start Cast
+&&Select_fish_settings Change bait/rod
+&&fish_feed_submit Use bait
+&&fish_feed_target Targets
 &&fish_feed_counter &1 / &2 
-&&fish_KD_pickup_from_water 引き揚げる
-&&fish_KD_tutorial_slow 長押しでスローで観察
+&&fish_KD_pickup_from_water Reel in
+&&fish_KD_tutorial_slow Hold for slow motion
 
 /* ___ fish_alert_feed_override ___ */
-エサを投げ入れると、
-古いエサの効果は失われます。
+Effect of previous bait will be overwritten.
 
 /* ___ fish_alert_no_rod ___ */
-釣り竿を持っていません
+You don't have a fishing rod.
 
 /* ___ fish_result_success ___ */
-<font color="ff:#ff9d45">&1</font> を引き揚げた！
-/* ___ fish_result_length ___ */
-体長： &1cm
+Caught a <font color="ff:#ff9d45">&1</font>!
 
-&&fish_gyotaku_len スコア： &1<font color="ff:#666666">／&2cm</font>
-&&fish_gyotaku_meet 出会った数： &1匹
-&&fish_gyotaku_catch 捕獲した数： &1匹
+/* ___ fish_result_length ___ */
+Length: &1 cm
+
+&&fish_gyotaku_len Score: &1<font color="ff:#666666">／&2 cm</font>
+&&fish_gyotaku_meet Number encountered: &1
+&&fish_gyotaku_catch Number caught: &1
 
 
 /* ___ fish_catchermgm_press ___ */
-捕獲エリアを魚に合わせる
+Catch
+
 /* ___ fish_catchermgm_keep ___ */
-キープ！
+HOLD!
 
 /* ___ fish_result_highscore ___ */
-魚拓更新！
+New high score!
 
-&&FishUi_equip 装備中の釣り竿
-&&FishUi_pond_state 現在の池の状態
-&&FishUi_pond_no_feed エサが撒かれていません
-&&FishUi_pond_time_left_minute (あと&1分&2秒)
-&&FishUi_pond_time_left (あと&1秒)
-&&FishUi_pond_appear_fish 現在釣れそうな魚: 
-&&FishUi_catcharea_cfg_manipulate 捕獲時の左右操作
-&&FishUi_catcharea_cfg_manipulate0 ノーマル
-&&FishUi_catcharea_cfg_manipulate1 リバース
+&&FishUi_equip Rod info
+&&FishUi_pond_state Water info
+&&FishUi_pond_no_feed No bait
+&&FishUi_pond_time_left_minute - &1m &2s rem.
+&&FishUi_pond_time_left - &1s rem.
+&&FishUi_pond_appear_fish Available fish:
+&&FishUi_catcharea_cfg_manipulate Left/Right
+&&FishUi_catcharea_cfg_manipulate0 Normal
+&&FishUi_catcharea_cfg_manipulate1 Inverted
 
 
 /* ___ FishUi_in_item_description ___ */
-釣り上げた魚の総数:&1
-釣り経験値:&2 (Lv.&3)
+Total fish caught: &1
+Fishing XP: &2 (Lv. &3)
 
 /* ___ fish_result_max_score ___ */
-最大サイズ! 経験値x2
+Max size! XP x2!
+
+/* ___ fish_result_no_miss ___ */
+No misses!  XP x2!

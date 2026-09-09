@@ -10,7 +10,7 @@
 请通过Discord或Bilibili官方账号所公示的反馈途径告知您遇到的情况，
 这能够帮助游戏作者更高效地排查问题。
 
-&&discord_url_is_here 请在我们的网站上报告您遇到的bug：
+&&discord_url_is_here 用于报告bug的Discord链接：
 
 &&Title_Show_Log 打开错误报告所在文件夹
 
@@ -85,13 +85,13 @@
 // ========================
 
 /* ___ alchemy_workbench_complete_bottle ___ */
-<font size="28">第<font color="ff:#6D72FF">&1</font>个空瓶收纳槽
+<font size="28">第<font color="ff:#6D72FF">&1</font>个空瓶收纳器
 制作完成！</font>
 
-%ITEM workbench_bottle 空瓶收纳槽
+%ITEM workbench_bottle 空瓶收纳器
 特制的收纳容器，
 专门用来容纳暂时不用的空瓶子。
-放进收纳槽的空瓶
+放进收纳器的空瓶
 不会再占用物品栏的槽位，
 从而为其他战利品留下宝贵的背包空间。
 

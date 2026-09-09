@@ -653,3 +653,490 @@ Yum Yum Yum Yum Yum
 // ※5
 *bt_107_b
 <font color="ff:#000000">I have a proposition for you. The lock combo for the storeroom below the bar is 378. Enter and ring the bell 3 times to call me if you're interested.
+
+
+// ========================================================
+// MARK : ver30
+// ========================================================
+
+*___city_bar/_barten_portal bt_50
+Nothing much to talk about. I'm just your average hardworking beastman.
+
+*___city_bar/_barten_portal n_51
+I don't think I'm gonna get anything out of him right now. Maybe I need to <c5>wait for the right moment</c5>.
+
+
+*___city_bar/_arbeit_portal n_00
+May I ask you something?
+
+*bt_01
+Certainly. What can I do for you?
+
+*n_02
+A beastman named Walross asked me to fetch his favorite drink.
+*
+Could you make it for him?
+
+
+*bt_03
+Ah.
+*
+I imagine by "favorite", he's asking for his usual.
+
+
+*n_04
+Oh, good, you know what it is. How much do I owe you?
+
+*bt_05
+Slow down a there. This establishment doesn't do takeout.
+
+*n_05
+Oh, um...
+Could you make an exception for me?
+
+
+*bt_06
+<m fadein><s3>Hmm...
+<s1><m0><W3>Ahh.
+*
+I just can't say no to such a cute face.
+*
+And Walross <i>is</i> one of my best customers.
+
+
+*bt_07
+Alright, how about this? I'll let you do a takeout order -
+*
+- <i>if</i> <c5>you work here part-time<c0>.
+
+
+
+*n_08
+<I>A...a part-time job!?
+<m ple>Here!?
+*
+Buh-but I don't have any customer service experience! I wouldn't know what to say to them!
+
+
+*bt_09
+I'm not asking you to entertain customers.
+*
+Just take the drinks and food orders to the correct tables.
+
+
+*n_10
+Oh. (<i>phew</i>)
+I can do that.
+
+*bt_11
+Good. Go change into your work uniform when you're ready to start.
+*
+Can't have you serving customers if you don't look like you work here.
+
+
+
+
+
+// 一度ミスした
+
+
+*___city_bar/_arbeit_pretalk_0 bt_00
+Back for another shift already?
+
+*n_01
+I...didn't get the right drink for Walross.
+                            
+*bt_02
+I see. Well I'm happy for the extra help.
+
+*bt_03
+This place gets so busy sometimes, I'd even take help from a monster.
+    
+*n_04
+<think>...Is he self-aware or not?
+
+
+
+
+// 完了後
+*___city_bar/_arbeit_pretalk_1 bt_00
+Did Walross enjoy his drink?
+
+*n_01
+Yes. Thank you so much for helping me.
+
+*bt_02
+Would you still be interested in working here part-time?
+
+*n_03
+Um...I guess so. I think the responsibility would be good for me.
+
+*bt_04
+Hah. That's a great way to look at it.
+
+*bt_05
+Alright, I'll mix ‘em, you serve ‘em. Let's do our best.
+
+
+// 最初にバニー服を着る
+
+*___city_bar/_arbeit_first_cloth n_00
+Th-this is a bold uniform.
+But...I kinda like it. The ears make me look like a cute beastman.
+
+*bt_01
+It's called a “Bunny Suit”. Apparently it was worn in establishments like this one in ancient times.
+*
+The one you're wearing is a replica tailored by enthusiasts of such culture.
+
+*n_02
+Oh? Then why do <i>you</i> have it?
+
+*bt_03
+All sorts of customers pass through here.
+*
+Every now and then one of them can't pay and we have to...(<i>ahem</i>) barter.
+
+
+// 最初に逆バニー服を着る
+*n_50
+<angry>Wha-<m scary>wha-what <m ple>kind of uniform is this!?
+<m0>It doesn't cover anything!!
+
+*bt_51
+There's a research group in town dedicated to recreating fashion designs found in old textbooks.
+*
+They rushed that one over here as a gift one day.
+
+
+*n_52
+<I><angry><m ple>I don't care <i>why</i> you have it! How does something like this qualify as clothing!?
+
+*bt_53
+I don't think that information was in the textbooks.
+
+*bt_54
+It's possible they were working from an incomplete description. Such is the nature of archaeology.
+
+*n_55
+They could have at least <b><i>tried</i></b> to fill in the blanks...
+
+
+
+// バイトルール
+
+*___city_bar/_arbeit_rule bt_200
+Serve the customers the drink they ordered. Simple.
+*
+You can carry up to two drinks at a time. Pick them up with <key check/>, serve them with <key x/>.
+*
+<c5>A bubble will appear above each customer's head with their order<c0>, so don't worry about having to memorize faces.
+
+*bt_201
+Ideally, you should <c5>serve drinks in the order they were placed<c0>.
+*
+If a drink takes too long to arrive, the customer <c1>will get upset<c0>.
+*
+Serving them in the correct sequence will also <c5>earn us more tips<c0>.
+
+*bt_202
+I say “us”, but all tips will remain with the bar.
+*
+They'll factor into how well you're doing, though. Do well enough and I'll let you make a takeout order.
+
+*bt_203
+The order sequence will be written on the slip next to the counter. Check it if you get confused.
+
+
+// お触りについて
+*bt_250
+Customers can get a little...handsy when they're drunk.
+*
+Some of the sleazy ones might try to touch you.
+
+*n_251
+<m scary>EWWWWWW, NO!!
+
+*bt_252
+Yes, well...
+*
+If you can put up with it, it might <c5>increase your tips<c0>.
+
+*bt_253
+Just stand close to them for a bit and see what happens.
+*
+But don't push yourself.
+
+
+// 休憩について
+
+*bt_300
+You will have a stamina bar that will gradually decrease while you're working part-time.
+*
+Getting orders wrong, getting harassed, and other such things will cause it to significantly decrease.
+*
+When your stamina gets low, you'll move much more slowly and have trouble remembering orders.
+
+*bt_301
+To help keep your stamina up, I've prepared some biscuits for you. <c5>Eat them by holding <key d/> whenever you need one<c0>.
+*
+Just make sure nothing else is happening at the same time or you might drop them.
+
+*n_302
+How many am I allowed to have?
+
+*bt_303
+As much as you like. But, if you eat too many...
+*
+Well, we'll cross that bridge when we come to it.
+
+
+//ログ上書き
+*bt_303_b
+<font color="ff:#000000"><b>Eating two biscuits will reduce the damage you take from harassment, but the Actihol in them will make you need to use the restroom more often. You can use the bar's restroom if you're wearing the Reverse Bunny Suit while you're working.
+
+*n_304
+...?
+
+
+*___city_bar/_arbeit_end_game bt_00
+Thanks for your help. You can take a break now.
+
+// おもらししそう
+*bt_10
+Thanks for your help. Please go take a bre-
+
+*n_11
+<I><m scary>S-<m ple>Sor-excuse me!
+
+
+//粗相をしてしまう
+*___city_bar/_arbeit_omorashi n_00
+<think><s3><m fadein>Ahhh...why do I feel so hot? M-My stomach's all tingly...
+
+*n_01
+<think><s2><m fadein>Oh no! <s5><m scary>A-Aaaahh…
+<W5>I can't hold it in!
+<s3>S-Stop! Noooo!
+
+
+// おもらしイベント途中のお客様、大丈夫ですか？ (ev_city2 bt_403) の代わりに使用。
+*___city/_omorashi bt_404
+Oh dear, it seems you've pushed yourself too hard. Here, take this towel and go to the back.
+*
+Stand back, beastmen patrons. This liquid contains high concentrations of magic.
+
+
+// ========================================================
+// MARK : Bunny game Result
+// ========================================================
+
+//粗相をして
+*___city_bar/_arbeit_result bt_00
+...(sigh)
+While I do appreciate your hard work, I wish you wouldn't make a mess of my bar.
+
+*n_01
+I'm so sorry...
+
+*bt_02
+I'll have to send the suit to the cleaners. That'll be coming out of your pay.
+
+// ログには別の文章が出力される
+// ログ上書き
+
+*bt_02_b
+<font color="ff:#000000"><b>It had a wonderful, rich aroma. Extremely delicious. But, for appearances' sake, I'll still have to deduct the cost of cleaning the suit.</b></font>
+
+
+// リザルト表示 〜〜〜〜
+
+
+//カクテル分が溜まってない
+
+*bt_10
+We're still pretty busy. Can you work another shift?
+
+//溜まっている
+
+*bt_20
+You've earned your takeout order. What would you like?
+
+
+// 十分な額を稼いだ
+
+*bt_25
+Place seems livelier than usual. And our reputation is soaring.
+
+*bt_26
+Since you're doing such a good job, I'll <c5>let you take multiple drink orders with you at a time from now on<c0>.
+
+
+//テイクアウト
+
+//テイクアウトしない場合
+
+*bt_30
+Are you sure? Hmm...
+That would mean I'm indebted to you.
+
+
+*bt_31
+Tell you what, if you have any questions for me, I'll answer them. It's not really fair compensation, but it's the best I can do.
+
+*announce_end_result_00
+※You may ask the bartender one question per break.
+
+
+// 終了
+
+*bt_200
+I think it's about time I got back to tending the bar. You comin'?
+
+
+// やっぱり魔族ですよね？
+
+*___city_bar/_barten_tm_you_are_monster bt_00
+You already know about the storeroom.
+
+*bt_01
+All I'll say is that I'm the one doing our off-the-books transactions.
+
+
+// 何故テイクアウトできない？
+
+*___city_bar/_barten_tm_not_takeout bt_00
+Because I like seeing the customer's face light up when they drink one of my cocktails.
+*
+It makes me feel alive. If I let people do takeout orders, I wouldn't get to see their expressions.
+
+*bt_01
+It's times like that I'm glad I moved here from my gloomy old hometown.
+
+
+// 山に知り合いはいる？
+
+*___city_bar/_barten_tm_mount_friend bt_00
+Ah, the fisherman. I wouldn't really say we're friends.
+*
+We occasionally do business and chat casually, as any beastmen do.
+
+*bt_01
+I'm not going to divulge all of his personal info.
+*
+He chose a life of quietude, away from the rest of the world. I respect it.
+
+
+// 襲撃の時、大丈夫だった？
+*___city_bar/_barten_tm_about_td bt_00
+I was here, heedless of the evacuation orders.
+*
+As were many other residents.
+*
+They have so little. I understand their decision to not abandon their home.
+
+*bt_01
+I'd like to put down roots here with them.
+*
+Offering respite at my bar during their time of need was in service of that.
+
+*n_02
+<think>I was hoping he'd give me a lead on the reason behind the attack.
+Does he really not know anything?
+
+
+// 貯蔵庫のパスワードは？
+*___city_bar/_barten_tm_password bt_00
+Curiosity getting the better of you? What are you hoping to find down there?
+*
+For security reasons, I can't tell you the password outright.
+
+*bt_01
+But, there's a chance I <m joy>may have let it slip<m0> during one of our conversations.
+*
+<c5><s3>Think back on what I said<c0>.
+<s1><W3>Better yet, <c1>look back at what I said<c0>. I think you can figure it out.
+
+
+// 別ワードがログに出力
+*bt_01_b
+<font color="ff:#000000"><b>The code for the Storage Room is 378. Head in and ring the bell three times to call me. Thanks for all your hard work.</b></font>
+
+
+// 襲撃はなぜ起きたと思う？
+*___city_bar/_barten_tm_about_td2 bt_00
+The regulars at the bar seem to think it was an orchestrated attack.
+*
+That someone lured the horde into the city.
+
+*n_01
+Do you think so too?
+
+*bt_02
+I think everyone is overthinking the whole situation.
+*
+The horde gets hungry, horde needs a lot of food, the tree here in town is aglow with mana, horde makes its way here.
+
+*n_03
+......
+
+*bt_04
+Let's just say, hypothetically, there was a mastermind behind the attack.
+*
+Someone that cunning and ambitious wouldn't be working themselves to the bone in a seedy bar every day.
+
+*n_05
+But what if they were an assistant to the mastermind? Someone who could sabotage the barrier from inside?
+
+*bt_06
+And why would they do that?
+*
+What do they have to gain from their customers dying and watching as their own bar gets reduced to rubble?
+
+*n_07
+I-It was just a hypothetical, remember? Forget I said anything.
+
+
+// ヴァーロスは複数いる
+
+*___city_bar/_barten_tm_about_walross bt_00
+Clones? He must've sold his identity. Guess that means his financial troubles finally caught up to him.
+
+*bt_01
+We beastmen <i>can</i> create duplicates of ourselves.
+*
+But they have none of our memories. They are empty husks to be discarded once they're used up.
+
+*bt_02
+But do they not feel pain? Do they have wants and desires?
+*
+Whether they do or not is of no importance to those concerned. The clone doesn't reincarnate. All troubles are erased when they die.
+
+*bt_03
+It's a terrifying concept to think on.
+
+*n_04
+...Do you pass on your memories?
+
+*bt_05
+Of course.
+I am a beastman, after all.
+
+
+// ログ上書き
+
+*bt_05_b
+<font color="ff:#000000"><b>Of course. Ever since I learned how to.</b></font>
+
+*n_07
+......
+
+
+// まかないには何が入ってる？
+*___city_bar/_barten_tm_about_food bt_00
+Chocolate chips, pastry dough, -
+*
+- and some Actihol, to help take the edge off.
+
+*n_01
+<think>It takes off a little too much...

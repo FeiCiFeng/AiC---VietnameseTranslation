@@ -524,3 +524,36 @@
 
 &&Select_back_to_guild 回到公會
 &&Select_back_to_home_normal 回到據點
+
+
+// ========================================================
+// MARK : v030
+// ========================================================
+
+// 強調タグ <bo> で使う傍点を入力します。
+&&bouten_dot ﹅
+
+&&EvTitle_about_td 關於城鎮襲擊
+&&EvTitle_reincarnation 記憶的傳承
+&&EvTitle_primula_is_villain 普莉姆拉是壞人？
+&&EvTitle_forced_lavour 強制勞動
+&&EvTitle_reason_walross 為什麼、做到這種地步？
+
+&&Select_send_cocktail 交付調酒
+
+&&Alert_item_reduced_walross 把&1 交給瓦羅斯了。
+&&Select_drink_cocktail 喝……！
+&&Select_not_drink_cocktail 不喝……
+
+&&EvTitle_primula_is_villain2 老師是壞人？
+
+&&Select_listen_execute 詢問詳情
+
+&&Select_mofu 摸一下好了
+&&Select_not_mofu 不摸
+
+
+
+&&Select_cure_by_rounin 接受治療(HP、衣服、狀態異常回復)
+
+&&EvTitle_t_desc_switch 就地更換法杖

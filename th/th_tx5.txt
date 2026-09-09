@@ -5,118 +5,236 @@
 // MARK : ver0.29
 // ========================================================
 
-&&SerTitle_poison    毒
+&&SerTitle_poison Poison
 /* ___ SerDesc_poison ___ */ 
-HPが少しずつ減少しますが、
-この状態異常だけで戦闘不能にはなりません。
-ノーマル以下の難易度でのHP自動回復速度が減少するほか、
-料理で得られる特殊効果が半減します。
+HP steadily decreases, but cannot reduce it to less than 1.
+HP regen and cooking effects are halved on Normal difficulty and lower.
 
 
-
-&&SerTitle_poison_2    猛毒
+&&SerTitle_poison_2 Deadly Poison
 /* ___ SerDesc_poison_2 ___ */ 
-この状態は自然治癒せず、
-またベンチに座っても回復しません。
+Poison effects will no longer clear on their own or from sitting at a bench.
 
 
-&&SerTitle_fainted    気絶
-&&SerDesc_fainted    意識を一時的に失った状態。\n行動不能になります。
+&&SerTitle_fainted Fainted
+&&SerDesc_fainted No actions can be taken.
 
 
 
-&&corrupt_fear 恐怖で身体が竦み、力が入らない...
+&&corrupt_fear I'm frozen in fear...
 
 
  
-&&SerTitle_sexercise_fear   弱気
-&&SerDesc_sexercise_fear  恐怖値が上がりやすくなります。\nMPゲージのヒビ割れがわずかに防がれます。
+&&SerTitle_sexercise_fear Dread
+&&SerDesc_sexercise_fear Fear status builds up more rapidly.\nMP gauge is slightly resistant to cracking.
 
-&&SerTitle_shamed_ep_fear   戦慄
-&&SerDesc_shamed_ep_fear    <font color="#FF729F">【恐怖値50%以上】</font>\n恐怖によって集中できない状態。\n敵との接触の時に転倒しにくくなるが、\n被ダメージで詠唱中の魔力が散りやすくなります。
+&&SerTitle_shamed_ep_fear Trembling
+&&SerDesc_shamed_ep_fear <font color="#FF729F">【Fear at 50%+】</font>\nLess likely to fall on contact with monsters, but taking damage while holding a spell dissipates your magic more easily.
 
 
-&&SerTitle_orgasm_after_fear    戦意喪失
-&&SerDesc_orgasm_after_fear 恐怖によって行動を制限された状態。\n走行ができなくなり、移動速度が落ちます。\nMPゲージのヒビ割れが防がれます。\n魔力の回復効率が低下します。
+&&SerTitle_orgasm_after_fear Despondent
+&&SerDesc_orgasm_after_fear Cannot run; walk speed decreased. Mana gauge will not crack. MP recovery impaired.
 
 
 // ========================================================
 // MARK : 恐怖処理
 // ========================================================
 
-&&Submit_cure_fear 恐怖を鎮める
-&&Bench_Cmd_cure_fear_home 恐怖を鎮める(拠点)
-&&Alert_cannot_cure_fear そろそろ、先に進まないと。
-&&Alert_cure_fear 恐怖心が少し回復した。
-&&Alert_cure_fear_little 腹ぺこのせいで、回復に集中できなかった…
+&&Submit_cure_fear Cure fear
+&&Bench_Cmd_cure_fear_home Cure fear (home)
+&&Alert_cannot_cure_fear I should move on soon.
+&&Alert_cure_fear Fear cured slightly.
+&&Alert_cure_fear_little I couldn’t focus on recovery because I’m hungry...
+
 /* ___ WarpConfirm_cure_fear ___ */
-恐怖によって削られた魔力最大値を回復する代わりに、
-食べたものが少し消化されます。
-（連続で恐怖を鎮めることはできません）
+Instead of restoring reduced max MP, a small amount of consumed food will be digested.
 
 /* ___ WarpConfirm_cure_fear_alert ___ */
-お腹がすきすぎているため、うまく回復できません。
+I’m too hungry to recover properly.
 
-&&Catalog_categ_sub_reduce_ep_fear 恐怖値減少
-&&Catalog_categ_sub_cure_ep_fear 恐怖値回復
+&&Catalog_categ_sub_reduce_ep_fear Reduce fear
+&&Catalog_categ_sub_cure_ep_fear Cure fear
 
-&&Item_detail_cure_ep_fear 恐怖値 &1 回復
-&&Item_detail_dmg_ep_fear <font color="#864788">恐怖値 &1 上昇</font>
-
-
-&&Tuto_shotgun <key x/>魔術詠唱中<key z/>でショットガン
+&&Item_detail_cure_ep_fear Cure &1 fear
+&&Item_detail_dmg_ep_fear <font color="#864788">Induce &1 fear</font>
 
 
-
-&&SkillItem_Map_Treasure_title &1のお宝のメモ
-&&SkillItem_Map_Treasure_desc &1にある宝箱の位置を\bランダムで1つ\bマップ上に表示する。
-
-&&SerTitle_atk_up   攻撃力上昇
-&&SerDesc_atk_up   攻撃力が&1%上昇します。
-&&SerTitle_def_up   防御力上昇
-&&SerDesc_def_up   防御力が&1%上昇します。
-&&SerTitle_atk_down   攻撃力減少
-&&SerDesc_atk_down   攻撃力が&1%減少します。
-&&SerTitle_def_down   防御力減少
-&&SerDesc_def_down   防御力が&1%減少します。
+&&Tuto_shotgun <key z/>with a held spell: Shotgun
 
 
-&&Stat_ep_fear 恐怖値 &1 / &2
+
+&&SkillItem_Map_Treasure_title &1 treasure map
+&&SkillItem_Map_Treasure_desc Randomly display one treasure chest from &1 on the map.
+
+&&SerTitle_atk_up Attack up
+&&SerDesc_atk_up Attack +&1%
+&&SerTitle_def_up Defense up
+&&SerDesc_def_up Defense +&1%
+&&SerTitle_atk_down Attack down
+&&SerDesc_atk_down Attack -&1%。
+&&SerTitle_def_down Defense down
+&&SerDesc_def_down Defense -&1%
+
+
+&&Stat_ep_fear Fear &1 / &2
 
 
 // ========================================================
 // MARK : ver029 宿屋
 // ========================================================
-&&EvTitle_inn_caravan 宿屋「クロの巣」 
+&&EvTitle_inn_caravan Inn Due Time
 // もちろん Chronos のもじりです。クロというNPCが登場するわけではないので、翻訳の際は Chronos 側に寄せて下さい。
-&&EvTitle_inn_city 宿屋「狩人の寝屋」
-&&UiInn_nmenu_simple_tent テント泊
-&&UiInn_nmenu_simple 素泊まり
-&&UiInn_nmenu_economy エコノミールーム
-&&UiInn_nmenu_sweet スイートルーム
-&&UiInn_nmenu_royalsweet ロイヤルスイート
-&&Select_CheckIn_Tent チェックイン
+&&EvTitle_inn_city Hunter's Rest
+&&UiInn_nmenu_simple_tent Cot
+&&UiInn_nmenu_simple Simple room
+&&UiInn_nmenu_economy Economy
+&&UiInn_nmenu_sweet Suite
+&&UiInn_nmenu_royalsweet Royal suite
+&&Select_CheckIn_Tent Check-in
 
-&&UiInn_dangerousness_add 危険度 &1 上昇
-&&UiInn_dangerousness_rem 危険度 &1 減少
-&&UiInn_dangerousness_reset 危険度と効果リールを初期化\n今回の冒険の戦闘履歴を初期化
-&&UiInn_stomach_progress 満腹度 <img mesh="recipe_cost_3" width="24"/>&1 減少
-
-
-&&UiInn_content 宿泊プラン内容
-&&UiInn_content_hp 体力全回復
-&&UiInn_content_mp 魔力全回復
-&&UiInn_content_ser 状態異常を全回復
-&&UiInn_content_mp_fear 恐怖による魔力最大値減少をリセット
-&&UiInn_content_mp_gauge_weak 魔力器のヒビ割れを仮接着
-&&UiInn_content_mp_gauge 魔力器のヒビ割れを完全回復
-
-&&UiInn_content_offprice_food フードメニュー &1％割引券付き (&2品まで)
-&&UiInn_content_ticket_food フードメニュー &1品まで
-&&UiInn_check_foodmenu フードメニューを確認
+&&UiInn_dangerousness_add Danger level +&1
+&&UiInn_dangerousness_rem Danger level -&1
+&&UiInn_dangerousness_reset Reset danger level, reels, and encounters
+&&UiInn_stomach_progress Lose <img mesh="recipe_cost_3" width="24"/>&1 fullness
 
 
-&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">\< 注文できるのは宿泊したお客さんだけみたい。 \></font>
+&&UiInn_content Details
+&&UiInn_content_hp HP fully restored
+&&UiInn_content_mp MP fully restored
+&&UiInn_content_ser Full status recovery
+&&UiInn_content_mp_fear Reset fear effects
+&&UiInn_content_mp_gauge_weak Improvised MP gauge repair
+&&UiInn_content_mp_gauge Full MP gauge repair
 
-&&UiInn_service_discount フード &1％割引券 x&2
+&&UiInn_content_offprice_food &1％ discount on food (limit &2 item(s))
+&&UiInn_content_ticket_food &1 food menu item
+&&UiInn_check_foodmenu View food menu
 
+
+&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">Only guests who have stayed overnight may order.</font>
+
+&&UiInn_service_discount &1% discount x &2
+
+
+// ========================================================
+// MARK : 特殊コンフィグ用
+// ========================================================
+&&catalog_suitable_for_vore_digest Can digest prey
+&&CatalogI_fishable_area Can be caught at:
+
+&&GO_Select_return_to_bench Return to bench
+&&GO_Select_return_to_title Return to title
+
+&&GO_KeyHelp_top_show_menu Menu
+&&Telop_gameover GAME OVER...
+
+// ========================================================
+// MARK : 特殊コマンド用
+// ========================================================
+
+/* ___ Store_GRank_Help_Title ___ */
+Mysterious Stranger
+
+/* ___ Store_GRank_Help_Contents ___ */
+You can exchange Guild Points from the Adventurer’s Guild for items.
+
+If you exchange enough points to drop your rank, the available quests will be immediately downgraded.
+
+
+
+&&Store_no_enough_grank <b>Not enough GP</b>
+
+&&ItemConfirm_term_need Quest required:
+
+&&ItemConfirm_Dish_total_cost Cost &1 or higher
+&&ItemConfirm_Dish_total_grade Total rank &1 or higher
+
+&&Log_item_cannot_obtain I can’t carry any more...
+
+&&Alert_cannot_change_temporary Cannot change.
+
+
+
+/* ___ WarpConfirm_enable_night_warp ___ */
+Since you’ve explored more than &1% of the &2, you can now fast travel at night and during the rain!
+
+&&GM_Mag_switch_tool_gz Special tool
+&&Item_cmd_edit_tool_gz Edit special tool functions
+
+&&SerTitle_cocoon Cocooned
+&&SerDesc_cocoon Trapped in sticky threads. MP recovery increased, but button mashing effectiveness decreased.
+
+
+
+/* ___ GzToolSel_assign ___ */ 
+Press <key s/>+<key la/><key ba/><key ta/><key ra/> during combat to use assigned special tool functions.
+
+
+&&KeyHelp_Hold_to_execute Hold to execute
+&&Item_cmd_gztool_use Execute immediately
+
+&&Alert_replaced_temporary_item Voucher exchanged.
+
+// エッグリムーバー説明追加
+&&Mgm_eggremove_show_help Explanation
+&&Mgm_eggremove_help_1 1. Press and hold <key submit/>, then gently push the device all the way in.
+&&Mgm_eggremove_help_2 2. When the eggs have been removed, press <key submit/> and pull it out slowly.
+
+
+// ========================================================
+// MARK : ver0.29e
+// ========================================================
+
+&&GM_skill_edit_manip Edit operations
+&&GM_skill_switch_enabled Switch On/Off
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+&&Item_cmd_equip_cane_in_battle Equip...<img mesh="alert" tx_color />
+/* ___ Item_switch_cane_in_battle  ___ */
+Switching your staff mid-battle takes a second.
+Make sure you're in a safe spot before attempting.
+
+/* ___ Item_switch_cane_in_battle_alert  ___ */
+<img mesh=\"alert\" />If you get interrupted, you will drop
+your staff and will have to pick it up yourself after.
+
+
+&&Error_not_enough_room Not enough space
+&&Error_no_cane No staff
+&&Error_cannot_attack_no_cane You need a staff to attack
+&&Error_cannot_magic_no_cane You need a staff to cast
+&&Error_cannot_swap_cane_no_anoother No other staves
+&&Error_cannot_init_swap_cane_dest No staff to swap with
+&&Error_cannot_init_swap_cane_src Missing previous staff
+
+&&Cane_Swap_Restart Resuming swap
+
+
+
+// MOD使用者向け: 整合性エラーが出ている場合にDiscordに報告を促さない処理を行う
+
+/* ___ Title_error_announce_wrong_package ___ */
+<font color="ff:#BD1818">Corrupted program files.</font>
+Redownloading the game may resolve this issue.
+<font size="66%" alpha=0.5>Do not report this error to the dev team.</font>
+
+
+&&SerTitle_cane_itemdrop Staff lost
+&&SerDesc_cane_itemdrop You've dropped your staff.\nYou are limited to a weak slap attack and cannot cast magic.\nOpen your map to check\bwhere you dropped it.
+
+
+/* ___ Title_error_announce_console ___ */
+<font size="66%" alpha=0.5>Console is enabled.\bAny bugs that occur during console use\bdo not need to be reported to the dev team.</font>
+
+
+// ========================================================
+// MARK : フェイタルシーンxゲームオーバーメニュー用処理
+// ========================================================
+&&GO_Select_go_to_fatal Submit... (View fatal scene)
+&&GO_Select_return_to_title_skipping_fatal (Skip fatal scene)
+
+&&Fatal_quit_to_title The End (To Title)

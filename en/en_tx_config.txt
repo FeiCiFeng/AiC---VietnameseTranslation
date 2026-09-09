@@ -265,6 +265,7 @@ Pressing and holding<key d/>opens the shortcut menu.
 /* ___ Config_desc_VSync ___ */
 Choose whether V-Sync is enabled
 to reduce background flickering.
+
 // <font color="#E70B0B">Reboot the game to apply these changes.</font>
 // Now: <i>&1</i>
 
@@ -583,6 +584,8 @@ Adds a camera function to Noel's staff. Activate it in the lower-left corner of 
 &&Config_spatial_sound Spatial Audio
 /* ___ Config_desc_spatial_sound ___ */
 Choose whether to use Windows spatial audio functionality.
+
+/* ___ Config_apply_after_reboot ___ */
 <font color="#E70B0B">Reboot the game to apply these changes.</font>
 Now: <i>&1</i>
 
@@ -678,3 +681,22 @@ Select whether to display the damage numbers animation while paused.
 
 
 &&GO_KeyHelp_pause_progress Next Frame
+
+
+
+
+&&Config_category_general General
+&&Config_category_manipulate Gameplay
+&&Config_category_graphics Video
+&&Config_category_ui UI
+&&Config_category_effects Effects
+&&Config_category_effects_sp Extra
+&&Config_category_sound Sound
+
+
+&&Config_reset Reset
+&&Config_reset_thistab This tab
+&&Config_reset_alltab All tabs
+&&Config_reset_normal Defaults
+&&Config_reset_sp 拡張オプション(解禁済)
+&&Config_reset_sp_invisible 拡張オプション(未解禁)

@@ -200,3 +200,56 @@ GPを売りすぎてランクが下がった場合、
 
 &&GM_skill_edit_manip 入力タイプを変更
 &&GM_skill_switch_enabled 使用／不使用の切り替え
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+&&Item_cmd_equip_cane_in_battle 装備する...<img mesh="alert" tx_color />
+/* ___ Item_switch_cane_in_battle  ___ */
+戦闘中に杖を取り替えるには
+魔術水晶の認証切り替えに時間がかかります。
+周囲の安全を確認して作業して下さい。
+
+/* ___ Item_switch_cane_in_battle_alert  ___ */
+<img mesh=\"alert\" />注意: 作業が中断された場合、
+杖をその場に落としてしまいます。
+作業中の杖は自動で回収されません。
+
+
+&&Error_not_enough_room 十分なスペースがありません
+&&Error_no_cane 杖を持っていない。
+&&Error_cannot_attack_no_cane 杖がないので攻撃できない。
+&&Error_cannot_magic_no_cane 杖がないので詠唱できない。
+&&Error_cannot_swap_cane_no_anoother 周りに別の杖がない。
+&&Error_cannot_init_swap_cane_dest 交換先の杖がない。
+&&Error_cannot_init_swap_cane_src 交換前の杖がない。
+
+&&Cane_Swap_Restart 杖の取り替えを再開
+
+
+
+// MOD使用者向け: 整合性エラーが出ている場合にDiscordに報告を促さない処理を行う
+
+/* ___ Title_error_announce_wrong_package ___ */
+<font color="ff:#BD1818">プログラム内のファイルが壊れている可能性があります。</font>
+ゲームの再ダウンロードを行うと解決する場合があります。
+<font size="66%" alpha=0.5>当エラーの公式へのバグ報告は不要です。</font>
+
+
+&&SerTitle_cane_itemdrop デバイスロスト
+&&SerDesc_cane_itemdrop  杖を落とした状態。\n魔術を使用できなくなり、攻撃も弱々しい平手のみ。\n<key a/>でマップを確認し、\b落とした場所まで\b拾いに行って下さい。
+
+
+/* ___ Title_error_announce_console ___ */
+<font size="66%" alpha=0.5>当該プレイでは\bコンソールが\b使用されています。\bコンソール使用に起因するバグの場合、\b報告は不要です。</font>
+
+
+// ========================================================
+// MARK : フェイタルシーンxゲームオーバーメニュー用処理
+// ========================================================
+&&GO_Select_go_to_fatal 身を任せる... (フェイタルシーンへ)
+&&GO_Select_return_to_title_skipping_fatal (フェイタルシーンをスキップ)
+
+&&Fatal_quit_to_title おしまい (タイトルに戻る)

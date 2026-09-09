@@ -42,7 +42,7 @@
 &&Turn_manual_2 Player 2's Turn &1
 &&Turn_CPU Thinking...
 
-&&RPL_Playing リプレイ再生中 <key ra/>早送り
+&&RPL_Playing リプレイ再生中
 
 
 &&Cutin_gamestart SEND YOUR DECISION
@@ -324,3 +324,23 @@
 &&ttr_online_reconnect 通信が不安定です。再接続中...
 &&ttr_online_reconnected 再接続しました。
 &&ttr_online_ann_error_logout_youwin セッションが切断されたので、不戦勝となります。
+
+
+
+&&RPL_step_forward 1ターン進む
+&&RPL_forward 早送り
+&&RPL_play 再生
+&&RPL_pause 停止
+&&RPL_restart 最初から再生
+
+
+
+&&RPL_go_result リザルトへ 
+
+&&RPL_Playing_end リプレイ再生が終了しました。\n<img mesh="step_last"/>でリザルト画面に進みます。
+
+
+
+&&ttr_makerule_allnight 常夜
+&&ttr_makerule_allnight_on オン
+&&ttr_makerule_allnight_off オフ

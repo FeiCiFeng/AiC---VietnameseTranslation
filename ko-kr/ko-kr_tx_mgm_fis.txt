@@ -50,4 +50,7 @@
 낚시 경험치: &2 (Lv.&3)
 
 /* ___ fish_result_max_score ___ */
-최대 크기! 경험치x2
+최대 크기
+
+/* ___ fish_result_no_miss ___ */
+노 미스! 경험치 x2

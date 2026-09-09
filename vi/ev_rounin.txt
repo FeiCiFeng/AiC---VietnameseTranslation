@@ -1,0 +1,263 @@
+// For translaters:
+// entire event statement will be exported to the 
+// In the next version, this txt file containing the
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+// ========================================================
+// MARK : 流浪人 (TIPS獣人お姉さん)
+// ========================================================
+
+*___Rounin/t_intro ro_00
+Yo. Nice outfit.
+You a cadet?
+*
+You might already know this, but...
+
+
+// 2度目以降。
+*ro_02
+Yo. Good t' see ya, cadet.
+
+*ro_10
+Yo. Good t' see you're safe.
+
+*ro_11
+Yo. We meet again.
+
+*ro_12
+Yo. Not hurt or nothin', are ya?
+
+*ro_13
+Yo. Always good to see you.
+
+
+// 特殊な位置のイントロ
+// @コルネール家
+
+*ro_100
+Yo. Fancy meeting you here.
+*
+This place is chock-full of strange oddities. Really piques my interest as an adventurer.
+
+
+// @キャラバン酒場
+
+*ro_101
+Yo. Fancy meeting you here.
+*
+I used to work around here as a monster hunter.
+*
+Got tired’a bein’ tied down though, so I started wanderin’.
+
+
+
+// @グラティア酒場 (防衛戦の時にのみ登場する)
+
+*ro_102
+Yo. This place is pretty noisy, ain’t it?
+*
+Glad it’s still open, though. I offered to help, but they said they didn’t have any use for a wandering beastman.
+*
+Maybe I’ll try my luck at the Adventurer’s Guild.
+
+
+// 戦闘があった後
+
+*ro_19
+Yo. I had eyes on your battle earlier.
+*
+You are one serious butt-kicker. I’d love to train with you someday.
+
+
+
+// 服が破れている
+
+
+*___Rounin/t_cure ro_00
+Yo. Y'look like you’ve had a rough go.
+*
+Want some healing?
+
+
+//受ける
+*ro_01
+Okay, all done. Be careful out there.
+
+//受けない
+*ro_10
+As you wish. Be careful out there.
+
+
+// 治療中にはランダムな繋ぎの会話 ================
+
+*___Rounin/t_tsunagi ro_00
+Fighting monsters is rough. I'm always scared when I'm fightin' 'em.
+*
+Can’t imagine how scared you must be sometimes, as someone who can’t reincarnate.
+
+
+*ro_20
+It’s tricky handling magic as a beastman, but that just makes it all the more fulfilling.
+
+
+*ro_21
+My staff? It’s a one-of-a-kind original designed for beastmen. I customized the heck out of it.
+*
+I envy you elves. You don’t need anything this elaborate to use magic.
+
+
+*ro_22
+I got destroyed by a group of monsters the other day.
+*
+Next thing I knew, I was in a fresh body back at the Heavenly Facilities. What a blessing reincarnation is.
+
+
+*ro_23
+Ran outta healing potions the other day.
+*
+Kept waiting for that merchant girl to show up, but she never did.
+*
+Maybe I should buy that bell of hers? Ah, somehow that feels like admitting defeat.
+
+*ro_24
+Have you met that old dude peddling his bitter brown water?
+*
+I ran into him the other day and he talked like he’d been waiting for me. Weirdo.
+
+*ro_25
+I ran into a little monster who was acting like a merchant.
+*
+Was pretty sure he stole all his goods, so I shot him with a White Arrow.
+*
+Next thing I knew, a giant had ripped off my arms and gouged out my eyes.
+*
+That dude is really dangerous. Keep your guard up.
+
+
+*ro_26
+I get glutocruorin injections once a week to help handle my magic better.
+*
+I’m proud to say that my magic is closer to elves in style than beastmen.
+*
+Course, that also means my body expels mana the same way an elf does...
+*
+I’m still not used to going in bottles and sealing them up to avoid attracting monsters.
+
+
+*ro_27
+Sometimes I feel a bit out of place as a beastman practicing magic.
+*
+But then I remember what got me into it in the first place.
+*
+A bunch of monsters destroyed the caravan I was guarding in the forest.
+*
+Just as they were about to move on us, a troop of elves showed up.
+*
+Their captain was breathtaking. She had the most gorgeous blue hair.
+*
+If I were an elf, I’d have definitely fallen in love with her.
+*
+Well, with the way I feel when I talk about her...maybe I already have.
+
+
+*___Rounin/t_cnct_tips ro_50
+By the way...
+
+*ro_51
+By the way...
+
+*ro_52
+By the way...
+
+
+// ========================================================
+// MARK : TIPS内容
+// ========================================================
+
+// プロローグで駅に行った場合のみ表示
+*___Rounin/t_p00 ro_00
+The clock tower up ahead has been taken over by a powerful monster.
+*
+You might want to steer clear of it.
+
+
+*___Rounin/t_shotgun ro_00
+Your shotgun ability deals heavy damage to monsters.
+*
+It can even smash through their defenses, like when a Mushroom type curls up.
+*
+You can press <key z/> while chanting to store it, but shielding <key lsh/>will leave you less vulnerable.
+
+
+*___Rounin/t_bomb ro_00
+It’s fun to poke around with Ground Bombs to check for secrets.
+*
+But sometimes it can feel like a waste of mana when they don’t explode.
+*
+Buuut, guess what? Any bombs that don’t explode will automatically convert to mana when you move to a different section.
+
+
+
+*___Rounin/t_drainlock ro_00
+After you cast a spell, you’re locked out of absorbing mana for a little while.
+*
+If you cast spells in rapid succession, it will take much longer for the lock to expire.
+*
+Keep an eye on your mana gauge. If it’s flashing, you’re locked out.
+*
+Make sure to pace yourself when casting spells.
+
+
+*___Rounin/t_evade_air ro_00
+If you dodge off a ledge, you can still jump afterwards.
+*
+Might come in handy if you’re ever cornered.
+
+
+*___Rounin/t_watershard ro_00
+While you’re encircled by Water Shard, you can consume one shard to negate an instance of fire damage.
+*
+The circle needs to be very close to you for this to work, though.
+
+
+
+*___Rounin/t_poison ro_00
+Poison is a real pain to deal with, especially if it progresses to the next stage.
+*
+Keep antidotes ready just in case. You can buy them from the elf merchant around here or at certain shops in town.
+
+
+// ========================================================
+// MARK : 260808
+// ========================================================
+*___Rounin/t_shotgun_kind ro_00
+The shotgun ability has different effects depending on which type of magic you’re using.
+*
+For example, Energy Ball does lots more damage than White Arrow.
+*
+Ground Bomb does less damage, but has a high chance to stun enemies for an extended period.
+*
+Using the right spell for the situation can be the difference between life and death.
+
+
+
+*___Rounin/t_reel ro_00
+If you’re looking for a specific material, try checking the Field Guide.
+*
+Items you’ve seen before are automatically recorded in it.
+*
+If the item appears from a treasure chest, you can look up the type of chest and see where that chest comes from.
+
+
+
+*___Rounin/t_chant_setting ro_00
+Do you ever feel like the spell selection overlay is a bit slow?
+*
+It can really mess with the flow of a fight.
+*
+If you want to adjust the speed, go to the Settings menu and check the <c5>Slow-mo effects<c0> option.

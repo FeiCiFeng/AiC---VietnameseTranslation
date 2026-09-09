@@ -1,7 +1,7 @@
 
 // Korean //
 ko-kr      KR      한국어
-%VERSION 0.29
+%VERSION 0.30
 
 // 1st word: This name corresponds to %FAMILY in the _tx_** file.
 // 2nd word: Simplified name (write in 2 letters)

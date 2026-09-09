@@ -51,3 +51,6 @@
 
 /* ___ fish_result_max_score ___ */
 最大尺寸！ 經驗值x2
+
+/* ___ fish_result_no_miss ___ */
+零失誤! 經驗值x2

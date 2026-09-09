@@ -56,14 +56,10 @@ which some viewers may find disturbing. Discretion is advised.
 /* ___ SaveDataDesc_auto  ___ */
 Autosave Data
 Overall Play Time: &1
-※Save data from early-access versions
-may be unusable in future versions.
 
 /* ___ SaveDataDesc  ___ */
 Save Data &1 
 Overall Play Time: &2
-※Save data from early-access versions
-may be unusable in future versions.
 
 
 /* ___ SaveDataDesc_Empty_auto ___ */

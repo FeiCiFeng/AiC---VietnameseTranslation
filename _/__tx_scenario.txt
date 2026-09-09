@@ -237,3 +237,24 @@ TO BE CONTINUED
 &&quest__subquest_treasurehunt_001__5 写真の場所を探す (???)
 
 &&quest__subquest_treasurehunt_001 写真の場所を探す (拓く者の山岳)
+
+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+
+&&Album_visible_term_200 グラティア防衛戦を全てクリア
+
+
+&&Album_visible_term_215 メインシナリオ第2章「幽霊」をクリア
+
+
+&&quest__subquest_mount_cocktail__0 グラティアのバーで\bヴァーロスさん\b好みのカクテルを買う
+&&quest__subquest_mount_cocktail__1 バーでアルバイトする
+&&quest__subquest_mount_cocktail__2 バーで\b「ヒートショット197」を買う
+&&quest__subquest_mount_cocktail__3 ヴァーロスさんに届ける
+
+
+&&quest__subquest_city_forge_030__0 鍛冶屋でギフトを受け取る

@@ -1,0 +1,126 @@
+%FAMILY _
+// ミニゲーム バニー給仕
+
+&&Select_talk_more 混み入った話
+
+&&Select_takeout_liquir テイクアウトについて
+&&Select_arbeit アルバイト
+
+&&Select_arbeit_start アルバイト開始
+&&Select_arbeit_rule0 ルール説明: 基本
+&&Select_arbeit_rule1 ルール説明: チップ
+&&Select_arbeit_rule2 ルール説明: 体力&回復
+
+
+&&Select_talk_more_you_are_monster やっぱり魔族ですよね？？
+&&Select_talk_more_not_takeout 何故テイクアウトできない？
+&&Select_talk_more_mount_friend 山に知り合いはいる？
+&&Select_talk_more_about_td 襲撃の時、大丈夫だった？
+&&Select_talk_more_password 貯蔵庫のパスワードは？
+&&Select_talk_more_about_td2 襲撃はなぜ起きたと思う？
+&&Select_talk_more_about_walross ヴァーロスは複数いる
+&&Select_talk_more_about_food まかないには何が入ってる？
+
+&&Select_takeout テイクアウトを注文
+&&Select_back_to_takeout やっぱりテイクアウトする
+&&Select_quit_takeout 注文しない
+
+&&Select_retry_arbeit_talking アルバイト再開(退出)
+&&Select_quit_arbeit_talking アルバイト終了(退出)
+&&Select_retry_arbeit アルバイトを再開
+&&Select_quit_arbeit アルバイトを終了
+
+&&MgmBun_Take_Cocktail   運ぶ
+&&MgmBun_Take_Cocktail_Replace   交換
+&&MgmBun_Serve_Cocktail   渡す
+
+&&MgmBun_Receipt   伝票
+&&MgmBun_Trash   捨てる
+
+
+&&MgmBun_ui_highscore_bunny ハイスコア(バニー)
+&&MgmBun_ui_highscore_bunnyrev ハイスコア(逆バニー)
+
+// ========================================================
+// MARK : 選択
+// ========================================================
+
+&&MgmBun_costume_select コスチューム選択
+
+&&MgmBun_costume_title_bunny バニーガール
+&&MgmBun_difficulty お仕事難易度
+
+/* ___ MgmBun_costume_desc_bunny ___ */
+バーと言ったらコレ、といっても
+過言ではない、定番のスタイルです。
+とても脱ぎにくい作りのため、
+給仕が始まるとお手洗いには行けない
+コトにはゴ注意くださいマセ。
+
+
+&&MgmBun_costume_title_bunnyrev 逆バニーガール
+
+
+/* ___ MgmBun_costume_desc_bunnyrev ___ */
+ナカナカに刺激的なスタイルです。
+フロアを歩くだけでアナタの魅力に
+オ客様が虜になっていくコトでしょう。
+大量のチップが期待できる反面、
+体力の配分には十分にゴ注意を。
+
+&&Log_bun_attacked_breast   お客さんに胸を触られた...
+&&Log_bun_attacked_belly   お客さんにおなかを触られた...
+&&Log_bun_attacked_leg   お客さんに太ももを触られた...
+&&Log_bun_attacked_back   お客さんに背中を触られた...
+&&Log_bun_attacked_hip   お客さんにお尻を触られた...
+&&Log_bun_attacked_other  お客さんに身体を触られた...
+
+&&Log_bun_restroom_disable  まだお手洗い休憩には早い。
+&&Log_bun_restroom_finished  手早く休憩を済ませた。
+
+
+//SituCon (メニューの直近の思い出ログ用)
+&&Log_bun_attacked_total   酒場でのアルバイト中に&1回身体を触られた...
+&&Log_bun_failed_omorashi   アルバイト中にお客さん達の前でおもらししてしまった...
+
+// ========================================================
+// MARK : Debuff
+// ========================================================
+
+&&MgmBun_cured_debuff_1   少し頭がぽわぽわしてきた...
+&&MgmBun_cured_debuff_2   身体がどうしようもなく火照ってきた...
+// ========================================================
+// MARK : Result
+// ========================================================
+
+&&MgmBun_result_row_title_order_total 成功した注文/もらった注文数
+&&MgmBun_result_row_value_order_total &1 / &2 (&3%)
+
+&&MgmBun_store_only_can_one 1度に頼めるのは1杯までみたい。
+
+&&MgmBun_result_row_title_combo 最大コンボ
+&&MgmBun_result_row_value_combo &1 回
+
+
+&&MgmBun_result_row_title_people 来店人数
+&&MgmBun_result_row_value_people &1 人
+
+&&MgmBun_result_row_title_touched セクハラされた回数
+&&MgmBun_result_row_value_touched &1 回
+
+
+&&MgmBun_result_row_title_eat まかないを食べた回数
+&&MgmBun_result_row_value_eat &1 回
+
+&&MgmBun_result_row_title_sell 基本売上額
+&&MgmBun_result_row_title_chip + チップ
+&&MgmBun_result_row_title_cleaning - 衣装・店舗クリーニング代
+
+&&MgmBun_result_row_value_money &1 pt.
+
+&&MgmBun_result_total 合計 &1 pt.
+
+&&MgmBun_cure 回復
+
+
+&&Store_no_enough_bun_score <b>もっとシフト増やさなきゃ...</b>

@@ -153,3 +153,95 @@ I can’t read what it says, but I get the gist of it from the pictures.
 <think>It’s a drawing of someone <c5>throwing bait into the pond<c0>.
 *
 <think>I could <c5>use this workbench to make bait for catching different kinds of fish<c0>. That might be useful.
+
+
+// ========================================================
+// MARK : 030 宝探しの報酬
+// ========================================================
+
+*___firstman/t_finish_treasurehunt n_00
+Do you know anything about this photo?
+*
+I've searched high and low, but I can't seem to find what it's showing.
+
+*fh_01
+<W4>......
+<W4>I hid it.
+
+*n_02
+<I><m ple>!
+<W2><m0>You can talk?
+
+*fh_03
+<W4>......
+
+*n_50
+...Will you...help me find it?
+
+*fh_51
+<W4>......
+
+*n_52
+Thank you...I think?
+
+
+*n_100
+Do you know anything about this photo?
+
+*fh_101
+<W4>......
+
+*n_102
+You said you hid the other treasure.
+*
+Are <i>all</i> the hidden treasures your doing?
+
+*fh_103
+<W4>......
+
+*n_104
+<think>I think he nodded.
+*
+May I ask why you did it?
+
+*fh_105
+<W4>......
+
+*n_151
+...Okay.
+*
+<think>He's not going to tell me.
+
+
+*n_200
+What about this photo?
+*
+Is it a clue to finding this cave?
+
+*fh_201
+<W4>......
+
+*n_202
+Why hide all this treasure? And why reveal the entrance to your cave.
+
+*fh_203
+<W4>To find...people.
+
+*n_204
+People?
+*
+What do you mean?
+
+*fh_250
+<W4>......
+
+*n_251
+<think>Once again he is not gonna tell me.
+
+
+// ========================================================
+// MARK : 既に宝探しを終わらせてるプレイヤー向け
+// ========================================================
+*___firstman board_announce_v030
+The final reward for the treasure hunt has been added.
+Check the cave beyond the location in the sixth clue.

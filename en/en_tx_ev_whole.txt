@@ -98,7 +98,7 @@
 &&Tuto_evade_1 <key lsh/>+<key la/><key ra/> Dodge ( 2 left )
 &&Tuto_evade_2 <key lsh/>+<key la/><key ra/> Dodge ( 1 left )
 
-&&Tuto_fireball <key x/>+<key la/> Shoot Energy Ball and <key ta/> to change the direction
+&&Tuto_fireball <key FIREBALL la/> Shoot Energy Ball and <key ta/> to change the direction
 
 &&Select_kitchen Kitchen
 &&EV_access_costume_change   Change costume (WIP)
@@ -500,3 +500,36 @@ all consumables will be returned to you afterwards.
 
 &&Select_back_to_guild Return to the guild
 &&Select_back_to_home_normal Return normally
+
+
+// ========================================================
+// MARK : v030
+// ========================================================
+
+// 強調タグ <bo> で使う傍点を入力します。
+&&bouten_dot ﹅
+
+&&EvTitle_about_td About the attack
+&&EvTitle_reincarnation Reincarnation
+&&EvTitle_primula_is_villain Is Primula evil?
+&&EvTitle_forced_lavour Hard labor
+&&EvTitle_reason_walross Reason for being
+
+&&Select_send_cocktail Give cocktail
+
+&&Alert_item_reduced_walross Gave &1 to Walross
+&&Select_drink_cocktail Drink!
+&&Select_not_drink_cocktail Abstain
+
+&&EvTitle_primula_is_villain2 Are you a criminal?
+
+&&Select_listen_execute Really ask
+
+&&Select_mofu Touch fluffy tail
+&&Select_not_mofu Don't touch
+
+
+
+&&Select_cure_by_rounin Heal me
+
+&&EvTitle_t_desc_switch Switch staves

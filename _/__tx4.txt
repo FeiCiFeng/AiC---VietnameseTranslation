@@ -88,7 +88,8 @@
 
 // Museum Viewer
 &&Museum_image_index &1<font size="20">/&2</font>
-&&KD_museum_viewer <key rem/>UI非表示 <key shift/>+<key ba/><key ta/>拡大／縮小
+&&KD_museum_viewer <key rem/>UI非表示 
+&&KD_scaling 拡大／縮小
 &&KD_museum_viewer_move 切替
 &&KD_museum_viewer_quit <key menu/>終了
 &&KD_museum_viewer_comment <key c/>品評

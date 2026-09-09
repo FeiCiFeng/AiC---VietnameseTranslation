@@ -187,3 +187,54 @@ Press <key s/>+<key la/><key ba/><key ta/><key ra/> during combat to use assigne
 
 &&GM_skill_edit_manip Edit operations
 &&GM_skill_switch_enabled Switch On/Off
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+&&Item_cmd_equip_cane_in_battle Equip...<img mesh="alert" tx_color />
+/* ___ Item_switch_cane_in_battle  ___ */
+Switching your staff mid-battle takes a second.
+Make sure you're in a safe spot before attempting.
+
+/* ___ Item_switch_cane_in_battle_alert  ___ */
+<img mesh=\"alert\" />If you get interrupted, you will drop
+your staff and will have to pick it up yourself after.
+
+
+&&Error_not_enough_room Not enough space
+&&Error_no_cane No staff
+&&Error_cannot_attack_no_cane You need a staff to attack
+&&Error_cannot_magic_no_cane You need a staff to cast
+&&Error_cannot_swap_cane_no_anoother No other staves
+&&Error_cannot_init_swap_cane_dest No staff to swap with
+&&Error_cannot_init_swap_cane_src Missing previous staff
+
+&&Cane_Swap_Restart Resuming swap
+
+
+
+// MOD使用者向け: 整合性エラーが出ている場合にDiscordに報告を促さない処理を行う
+
+/* ___ Title_error_announce_wrong_package ___ */
+<font color="ff:#BD1818">Corrupted program files.</font>
+Redownloading the game may resolve this issue.
+<font size="66%" alpha=0.5>Do not report this error to the dev team.</font>
+
+
+&&SerTitle_cane_itemdrop Staff lost
+&&SerDesc_cane_itemdrop You've dropped your staff.\nYou are limited to a weak slap attack and cannot cast magic.\nOpen your map to check\bwhere you dropped it.
+
+
+/* ___ Title_error_announce_console ___ */
+<font size="66%" alpha=0.5>Console is enabled.\bAny bugs that occur during console use\bdo not need to be reported to the dev team.</font>
+
+
+// ========================================================
+// MARK : フェイタルシーンxゲームオーバーメニュー用処理
+// ========================================================
+&&GO_Select_go_to_fatal Submit... (View fatal scene)
+&&GO_Select_return_to_title_skipping_fatal (Skip fatal scene)
+
+&&Fatal_quit_to_title The End (To Title)

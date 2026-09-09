@@ -342,9 +342,6 @@
 /* ___ Config_desc_VSync ___ */
 垂直同期(VSync)を使用して
 背景のちらつきを抑えます。
-<font color="#E70B0B">設定は再起動後に有効になります。</font>
-現在の設定: <i>&1</i>
-
 
 
 /* ___ Keyconfig_title_header_keyboard ___ */
@@ -745,6 +742,8 @@ MP割合を設定します。
 /* ___ Config_desc_spatial_sound ___ */
 Windows 立体音響機能を
 使用するかどうかを設定します。
+
+/* ___ Config_apply_after_reboot ___ */
 <font color="#E70B0B">設定は再起動後に有効になります。</font>
 現在の設定: <i>&1</i>
 
@@ -866,3 +865,23 @@ Windows 立体音響機能を
 
 
 &&GO_KeyHelp_pause_progress 1F進む
+
+
+&&Config_category_general 基本／難易度の設定
+&&Config_category_manipulate 操作設定
+&&Config_category_graphics グラフィックス
+&&Config_category_ui UI
+&&Config_category_effects 演出
+&&Config_category_effects_sp 特殊演出
+&&Config_category_sound オーディオ
+
+
+&&Config_reset 設定リセット...
+&&Config_reset_thistab このタブのみ
+&&Config_reset_alltab 全てのタブ
+&&Config_reset_normal 通常オプション
+&&Config_reset_sp 拡張オプション(解禁済)
+&&Config_reset_sp_invisible 拡張オプション(未解禁)
+
+
+

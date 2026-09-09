@@ -236,3 +236,24 @@
 &&quest__subquest_treasurehunt_001__5 寻找照片中的地点（？？？）
 
 &&quest__subquest_treasurehunt_001 寻找照片中的地点（拓荒者山岳）
+
+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+
+&&Album_visible_term_200 完成整场格拉提亚保卫战
+
+
+&&Album_visible_term_215 完成主线剧情第2章「幽灵」
+
+
+&&quest__subquest_mount_cocktail__0 在格拉提亚的酒吧\b帮瓦罗斯点一杯\b他喜欢的鸡尾酒
+&&quest__subquest_mount_cocktail__1 在酒吧打工
+&&quest__subquest_mount_cocktail__2 在酒吧点一杯\b「满杯热吻197」
+&&quest__subquest_mount_cocktail__3 把鸡尾酒带给瓦罗斯
+
+
+&&quest__subquest_city_forge_030__0 领取铁匠的礼物

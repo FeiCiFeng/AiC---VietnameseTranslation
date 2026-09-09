@@ -523,3 +523,37 @@
 
 &&Select_back_to_guild ギルドに戻る
 &&Select_back_to_home_normal 普通に拠点に戻る
+
+
+// ========================================================
+// MARK : v030
+// ========================================================
+
+// 強調タグ <bo> で使う傍点を入力します。
+&&bouten_dot ﹅
+
+&&EvTitle_about_td 街の襲撃について
+&&EvTitle_reincarnation 記憶の引き継ぎ
+&&EvTitle_primula_is_villain プリムラは悪人？
+&&EvTitle_forced_lavour 強制労働
+&&EvTitle_reason_walross なぜ、そこまで？
+
+&&Select_send_cocktail カクテルを渡す
+
+&&Alert_item_reduced_walross &1 をヴァーロスさんに渡した。
+&&Select_drink_cocktail 飲む……！
+&&Select_not_drink_cocktail 飲まない……
+
+&&EvTitle_primula_is_villain2 先生は悪人？
+
+&&Select_listen_execute 本当に聞く
+
+&&Select_mofu もふもふする
+&&Select_not_mofu もふもふしない
+
+
+
+&&Select_cure_by_rounin 手当を受ける(HP、衣装、状態異常を回復します)
+
+&&EvTitle_t_desc_switch 手元での杖の交換
+

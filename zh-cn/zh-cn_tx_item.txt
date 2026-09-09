@@ -1641,3 +1641,52 @@ HP为0败北的时候自动复活了。
 %ITEMREEL sweat_G1 甜蔬2
 
 %ITEMREEL jewel_B_G0 宝石+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+%ITEM workbench_holder_bomb 手榴弹收纳器
+用于安全携带手榴弹的容器。
+外层由土蛇型魔族的外皮加工而来，
+坚固而柔韧，能够保护内部的手榴弹
+免遭意外引爆。
+
+
+%ITEM workbench_holder_cane 法杖收纳器
+可收纳一根法杖的收纳器。
+配有魔法水晶的中继转发功能，
+可在战斗中将已装备的法杖
+与内部收纳的法杖迅速对调，
+无需经过等待。每场战斗仅限使用1次。
+
+
+%ITEM workbench_holder_itemreel 宝箱收纳器
+可收纳一个宝箱的收纳器。
+只能为携带宝箱提供便利，
+并没有其他特殊效果。
+战败时也无法发挥保护作用，
+内部的宝箱依然会被强制打开。
+
+
+&&Item_cmd_takeout_from_holder 从收纳器中取出
+&&Item_cmd_pack_in_holder 放入收纳器
+
+&&Item_cmd_pack_to_holder 放入收纳器…
+&&Alert_no_holder 没有可用的收纳器
+
+&&Item_prompt_pack_bomb 选择要放入\n<font size="150%" color="ff:#F7562E">&1</font>的手榴弹
+&&Item_prompt_pack_cane 选择要放入\n<font size="150%" color="ff:#F7562E">&1</font>的法杖
+&&Item_prompt_pack_itemreel 选择要放入\n<font size="150%" color="ff:#F7562E">&1</font>的宝箱
+&&detail_bomb_explode_ratio 被意外引爆的概率: &1%
+&&detail_bomb_explode_alert_prefix 注意携带数量不宜过多
+&&detail_bomb_explode_alert_fire  受到火焰或爆炸伤害时\b可能被意外引爆
+&&detail_bomb_explode_alert_thunder  受到雷电伤害时\b可能被意外引爆
+&&detail_bomb_explode_alert_magic  受到魔法的爆炸气浪冲击时\b可能被意外引爆
+&&detail_bomb_not_explode 计算意外引爆的概率时\b不会计入收纳器中的手榴弹
+
+
+
+
+
+&&Item_cmd_equip_cane_from_holder 换用该法杖 (剩余可用&1次)

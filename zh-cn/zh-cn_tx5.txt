@@ -200,3 +200,56 @@ HP因沾染毒物而缓慢减少，但不会直接导致阵亡。
 
 &&GM_skill_edit_manip 切换操作方式
 &&GM_skill_switch_enabled 切换为启用/禁用
+
+
+// ========================================================
+// MARK : ver0.30
+// ========================================================
+
+&&Item_cmd_equip_cane_in_battle 装备...<img mesh="alert" tx_color />
+/* ___ Item_switch_cane_in_battle  ___ */
+战斗中更换法杖需要消耗一定时间
+完成魔法水晶的认证切换程序。
+开始操作前请确保周围安全。
+
+/* ___ Item_switch_cane_in_battle_alert  ___ */
+<img mesh=\"alert\" />注意：若操作被打断，
+法杖将会掉落在原地。
+更换操作未完成的法杖无法自动收回。
+
+
+&&Error_not_enough_room 空间不足
+&&Error_no_cane 未持有法杖。
+&&Error_cannot_attack_no_cane 没有法杖，无法攻击。
+&&Error_cannot_magic_no_cane 没有法杖，无法咏唱。
+&&Error_cannot_swap_cane_no_anoother 附近没有其他法杖。
+&&Error_cannot_init_swap_cane_dest 交换过程缺少目标法杖。
+&&Error_cannot_init_swap_cane_src 交换过程缺少原法杖。
+
+&&Cane_Swap_Restart 继续更换法杖
+
+
+
+// MOD使用者向け: 整合性エラーが出ている場合にDiscordに報告を促さない処理を行う
+
+/* ___ Title_error_announce_wrong_package ___ */
+<font color="ff:#BD1818">程序内文件可能已损坏。</font>
+某些情况下，重新下载游戏可解决该错误。
+<font size="66%" alpha=0.5>该错误不属于bug，无需向官方反馈。</font>
+
+
+&&SerTitle_cane_itemdrop 设备遗失
+&&SerDesc_cane_itemdrop  遗失法杖的状态。\n无法使用魔法，攻击手段仅剩柔弱无力的手掌。\n请按下<key a/>查看地图，\b前往遗失的位置\b重新捡拾法杖。
+
+
+/* ___ Title_error_announce_console ___ */
+<font size="66%" alpha=0.5>检测到\b本次游玩过程中\b启用了控制台。\b若因控制台而出现bug，\b则无需向官方反馈。</font>
+
+
+// ========================================================
+// MARK : フェイタルシーンxゲームオーバーメニュー用処理
+// ========================================================
+&&GO_Select_go_to_fatal 任凭敌人摆布…（进入战败事件）
+&&GO_Select_return_to_title_skipping_fatal （跳过战败事件）
+
+&&Fatal_quit_to_title 落幕（返回标题画面）

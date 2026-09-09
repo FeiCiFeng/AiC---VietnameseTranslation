@@ -42,7 +42,7 @@
 &&Turn_manual_2 Player 2's Turn &1
 &&Turn_CPU Thinking…
 
-&&RPL_Playing 리플레이 재생중 <key ra/>빨리감기
+&&RPL_Playing 리플레이 재생중
 
 
 &&Cutin_gamestart SEND YOUR DECISION
@@ -322,3 +322,23 @@
 &&ttr_online_reconnect 통신이 불안정합니다. 재연결중…
 &&ttr_online_reconnected 재연결 완료.
 &&ttr_online_ann_error_logout_youwin 대전이 중단되어 부전승 처리되었습니다.
+ 
+
+
+&&RPL_step_forward 1턴 진행
+&&RPL_forward 빨리감기
+&&RPL_play 재생
+&&RPL_pause 정지
+&&RPL_restart 처음부터 재생
+
+
+
+&&RPL_go_result 결과화면으로
+
+&&RPL_Playing_end 리플레이 재생이 종료되었습니다. <img mesh="step_last"/> 결과화면 확인
+
+
+
+&&ttr_makerule_allnight 항상 밤으로
+&&ttr_makerule_allnight_on 활성화
+&&ttr_makerule_allnight_off 비활성화

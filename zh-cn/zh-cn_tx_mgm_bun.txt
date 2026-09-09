@@ -1,0 +1,126 @@
+%FAMILY _
+// ミニゲーム バニー給仕
+
+&&Select_talk_more 更深入的话题
+
+&&Select_takeout_liquir 关于外带
+&&Select_arbeit 打工
+
+&&Select_arbeit_start 开始打工
+&&Select_arbeit_rule0 规则讲解：基本玩法
+&&Select_arbeit_rule1 规则讲解：小费
+&&Select_arbeit_rule2 规则讲解：体力&恢复
+
+
+&&Select_talk_more_you_are_monster 您果然是魔族吧？？
+&&Select_talk_more_not_takeout 为什么不让外带？
+&&Select_talk_more_mount_friend 您在山里有没有熟人？
+&&Select_talk_more_about_td 之前遭受袭击的时候，没出事吧？
+&&Select_talk_more_password 贮藏室的密码是多少？
+&&Select_talk_more_about_td2 您认为袭击发生的原因是什么？
+&&Select_talk_more_about_walross 有不止一个瓦罗斯
+&&Select_talk_more_about_food 伙食里面加了什么？
+
+&&Select_takeout 外带点单
+&&Select_back_to_takeout 算了还是外带吧
+&&Select_quit_takeout 放弃点单
+
+&&Select_retry_arbeit_talking 继续打工（离开）
+&&Select_quit_arbeit_talking 停止打工（离开）
+&&Select_retry_arbeit 继续打工
+&&Select_quit_arbeit 停止打工
+
+&&MgmBun_Take_Cocktail   端起
+&&MgmBun_Take_Cocktail_Replace   互换
+&&MgmBun_Serve_Cocktail   上酒
+
+&&MgmBun_Receipt   单据
+&&MgmBun_Trash   倒掉
+
+
+&&MgmBun_ui_highscore_bunny 最高分数记录（兔女郎）
+&&MgmBun_ui_highscore_bunnyrev 最高分数记录（逆兔女郎）
+
+// ========================================================
+// MARK : 選択
+// ========================================================
+
+&&MgmBun_costume_select 选择服装
+
+&&MgmBun_costume_title_bunny 兔女郎
+&&MgmBun_difficulty 工作难度
+
+/* ___ MgmBun_costume_desc_bunny ___ */
+最经典的款式。一说酒吧，
+基本上大家第一时间想到的都是它。
+由于构造原因，想脱下来会非常费劲，
+因此开始工作之后没法去上洗手间，
+折一点请恁务必多加注意。
+
+
+&&MgmBun_costume_title_bunnyrev 逆兔女郎
+
+
+/* ___ MgmBun_costume_desc_bunnyrev ___ */
+折一种款式刺激性还挺强的。
+想必光是穿着它走在店里，恁散发出的魅力
+都足以把客仁们迷得神魂颠倒了。
+有望收到相当丰厚的小费，
+但需要恁多多注意体力的分配。
+
+&&Log_bun_attacked_breast   胸部被客人摸了一把…
+&&Log_bun_attacked_belly   肚子被客人摸到了…
+&&Log_bun_attacked_leg   大腿被客人摸了一把…
+&&Log_bun_attacked_back   后背被客人摸到了…
+&&Log_bun_attacked_hip   屁股被客人摸了一把…
+&&Log_bun_attacked_other  身体被客人摸到了…
+
+&&Log_bun_restroom_disable  现在还用不着去洗手间休息。
+&&Log_bun_restroom_finished  匆匆休息了片刻。
+
+
+//SituCon (メニューの直近の思い出ログ用)
+&&Log_bun_attacked_total   在酒吧打工时身体被抚摸了&1次…
+&&Log_bun_failed_omorashi   打工时在客人们面前失禁了…
+
+// ========================================================
+// MARK : Debuff
+// ========================================================
+
+&&MgmBun_cured_debuff_1   脑袋开始感觉有点轻飘飘了…
+&&MgmBun_cured_debuff_2   身体不受控制地开始燥热起来…
+// ========================================================
+// MARK : Result
+// ========================================================
+
+&&MgmBun_result_row_title_order_total 完成订单数/订单总数
+&&MgmBun_result_row_value_order_total &1 / &2 (&3%)
+
+&&MgmBun_store_only_can_one 每次最多好像只能点一杯。
+
+&&MgmBun_result_row_title_combo 最大连击数
+&&MgmBun_result_row_value_combo &1 次
+
+
+&&MgmBun_result_row_title_people 到店人数
+&&MgmBun_result_row_value_people &1 人
+
+&&MgmBun_result_row_title_touched 遭遇性骚扰次数
+&&MgmBun_result_row_value_touched &1 次
+
+
+&&MgmBun_result_row_title_eat 食用伙食次数
+&&MgmBun_result_row_value_eat &1 次
+
+&&MgmBun_result_row_title_sell 基础销售额
+&&MgmBun_result_row_title_chip + 小费
+&&MgmBun_result_row_title_cleaning - 服装及店铺清理费
+
+&&MgmBun_result_row_value_money &1 pt.
+
+&&MgmBun_result_total 共计 &1 pt.
+
+&&MgmBun_cure 恢复
+
+
+&&Store_no_enough_bun_score <b>得让老板再给我多排几班…</b>

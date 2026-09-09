@@ -1,0 +1,125 @@
+%FAMILY _
+// ミニゲーム バニー給仕
+
+&&Select_talk_more Talk more
+
+&&Select_takeout_liquir Takeout order
+&&Select_arbeit Work part-time
+
+&&Select_arbeit_start Begin
+&&Select_arbeit_rule0 Overview
+&&Select_arbeit_rule1 Tips
+&&Select_arbeit_rule2 Stamina
+
+
+&&Select_talk_more_you_are_monster Are you a monster?
+&&Select_talk_more_not_takeout Why no takeout?
+&&Select_talk_more_mount_friend Mountain friend
+&&Select_talk_more_about_td Where were you during the attack?
+&&Select_talk_more_password Storeroom password
+&&Select_talk_more_about_td2 Reason for the attack
+&&Select_talk_more_about_walross Walross clones
+&&Select_talk_more_about_food Why bartend?
+
+&&Select_takeout Order takeout
+&&Select_back_to_takeout Order takeout
+&&Select_quit_takeout Don't order
+
+&&Select_retry_arbeit_talking Work part-time
+&&Select_quit_arbeit_talking End shift
+&&Select_retry_arbeit Work part-time
+&&Select_quit_arbeit End shift
+
+&&MgmBun_Take_Cocktail   Take
+&&MgmBun_Take_Cocktail_Replace   Swap
+&&MgmBun_Serve_Cocktail   Serve
+
+&&MgmBun_Receipt   Receipt
+&&MgmBun_Trash   Toss
+
+
+&&MgmBun_ui_highscore_bunny High score (Bunny)
+&&MgmBun_ui_highscore_bunnyrev High score (R. Bunny)
+
+// ========================================================
+// MARK : 選択
+// ========================================================
+
+&&MgmBun_costume_select Outfit Select
+
+&&MgmBun_costume_title_bunny Bunnygirl
+&&MgmBun_difficulty Difficulty
+
+/* ___ MgmBun_costume_desc_bunny ___ */
+The quintessential waitress outfit.
+Tight-fitting and tough to take off.
+You won’t be able to use the restroom
+once your shift starts.
+
+
+
+&&MgmBun_costume_title_bunnyrev Reverse Bunnygirl
+
+
+/* ___ MgmBun_costume_desc_bunnyrev ___ */
+The attention grabber.
+Customers will be captivated and tip generously.
+Just be careful...
+
+
+&&Log_bun_attacked_breast   A customer groped my breasts...
+&&Log_bun_attacked_belly   A customer groped my belly...
+&&Log_bun_attacked_leg   A customer groped my thighs...
+&&Log_bun_attacked_back   A customer groped my back...
+&&Log_bun_attacked_hip   A customer groped my hips...
+&&Log_bun_attacked_other  A customer touched me...
+
+&&Log_bun_restroom_disable It's too early to take a break.
+&&Log_bun_restroom_finished I took a quick break.
+
+
+//SituCon (メニューの直近の思い出ログ用)
+&&Log_bun_attacked_total Customers groped me &1 time(s) at my part-time job...
+&&Log_bun_failed_omorashi I wet myself in front of the customers at my part-time job...
+
+// ========================================================
+// MARK : Debuff
+// ========================================================
+
+&&MgmBun_cured_debuff_1 My head feels fuzzy...
+&&MgmBun_cured_debuff_2 I feel all hot...
+// ========================================================
+// MARK : Result
+// ========================================================
+
+&&MgmBun_result_row_title_order_total Orders filled/received
+&&MgmBun_result_row_value_order_total &1 / &2 (&3%)
+
+&&MgmBun_store_only_can_one You can only order one drink.
+
+&&MgmBun_result_row_title_combo Max combo
+&&MgmBun_result_row_value_combo &1
+
+
+&&MgmBun_result_row_title_people Number of customers
+&&MgmBun_result_row_value_people &1
+
+&&MgmBun_result_row_title_touched Times harrassed
+&&MgmBun_result_row_value_touched &1
+
+
+&&MgmBun_result_row_title_eat Biscuits eaten
+&&MgmBun_result_row_value_eat &1
+
+&&MgmBun_result_row_title_sell Sales
+&&MgmBun_result_row_title_chip + Tips
+&&MgmBun_result_row_title_cleaning - Cleaning bill
+
+&&MgmBun_result_row_value_money &1 pt.
+
+&&MgmBun_result_total Total &1 pt.
+
+&&MgmBun_cure Recover
+
+
+&&Store_no_enough_bun_score <b>I’ll have to work another shift...</b>

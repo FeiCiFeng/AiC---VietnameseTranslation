@@ -87,7 +87,8 @@
 
 // Museum Viewer
 &&Museum_image_index &1<font size="20">/&2</font>
-&&KD_museum_viewer <key rem/>UI 비표시 <key shift/>+<key ba/><key ta/>확대/축소
+&&KD_museum_viewer <key rem/>UI 비표시 
+&&KD_scaling 확대/축소
 &&KD_museum_viewer_move 교체
 &&KD_museum_viewer_quit <key menu/>완료
 &&KD_museum_viewer_comment <key c/>품평

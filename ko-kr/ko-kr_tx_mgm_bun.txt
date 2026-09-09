@@ -1,0 +1,126 @@
+%FAMILY ko-kr
+// ミニゲーム バニー給仕
+
+&&Select_talk_more 심도 깊은 이야기
+
+&&Select_takeout_liquir 테이크아웃에 대해
+&&Select_arbeit 아르바이트
+
+&&Select_arbeit_start 아르바이트 개시
+&&Select_arbeit_rule0 룰 설명: 기본
+&&Select_arbeit_rule1 룰 설명: 팁
+&&Select_arbeit_rule2 룰 설명: 체력&회복
+
+
+&&Select_talk_more_you_are_monster 역시 마족이죠??
+&&Select_talk_more_not_takeout 왜 테이크아웃은 안되니요?
+&&Select_talk_more_mount_friend 산에 지인이 있나요?
+&&Select_talk_more_about_td 습격때 괜찮으셨나요?
+&&Select_talk_more_password 저장고의 비밀번호는?
+&&Select_talk_more_about_td2 습격은 왜 일어난걸까요?
+&&Select_talk_more_about_walross 발로스는 여러명 있다
+&&Select_talk_more_about_food 직원식에는 무엇이 들어가나요?
+
+&&Select_takeout 테이크아웃 주문
+&&Select_back_to_takeout 역시 테이크아웃 한다
+&&Select_quit_takeout 주문하지 않는다
+
+&&Select_retry_arbeit_talking 아르바이트 재개(퇴출)
+&&Select_quit_arbeit_talking 아르바이트 종료(퇴출)
+&&Select_retry_arbeit 아르바이트 재개
+&&Select_quit_arbeit 아르바이트 종료
+
+&&MgmBun_Take_Cocktail   옮긴다
+&&MgmBun_Take_Cocktail_Replace   교환
+&&MgmBun_Serve_Cocktail   건넨다
+
+&&MgmBun_Receipt   전표
+&&MgmBun_Trash   버린다
+
+
+&&MgmBun_ui_highscore_bunny 하이스코어(바니)
+&&MgmBun_ui_highscore_bunnyrev 하이스코어(역바니)
+
+// ========================================================
+// MARK : 選択
+// ========================================================
+
+&&MgmBun_costume_select 복장 선택
+
+&&MgmBun_costume_title_bunny 바니 걸
+&&MgmBun_difficulty 업무 난이도
+
+/* ___ MgmBun_costume_desc_bunny ___ */
+바라고 하면 이것, 이라고 해도
+과언이 아닌 정석 스타일입니다.
+무척이나 벗기 힘들게 만들어져 있어
+일이 시작되면 화장실에 갈 수 없게
+된다는 점에 주의해주십시오.
+
+
+&&MgmBun_costume_title_bunnyrev 역바니
+
+
+/* ___ MgmBun_costume_desc_bunnyrev ___ */
+꽤나 자극적인 스타일입니다.
+돌아다니는 것만으로 당신의 매력으로
+손님들을 사로잡을 수 있겠죠.
+많은 팁을 기대할 수 있지만
+체력배분에 주의를.
+
+&&Log_bun_attacked_breast   손님에게 가슴을 만져졌어…
+&&Log_bun_attacked_belly   손님에게 배를 만져졌어…
+&&Log_bun_attacked_leg   손님에게 허벅지를 만져졌어…
+&&Log_bun_attacked_back   손님에게 등을 만져졌어…
+&&Log_bun_attacked_hip   손님에게 엉덩이를 만져졌어…
+&&Log_bun_attacked_other  손님에게 몸을 만져졌어…
+
+&&Log_bun_restroom_disable  아직 휴식시간이 아니야.
+&&Log_bun_restroom_finished  재빠르게 일을 보았다.
+
+
+//SituCon (メニューの直近の思い出ログ用)
+&&Log_bun_attacked_total   술집에서 아르바이트 중에 &1번 몸을 만져졌어…
+&&Log_bun_failed_omorashi   아르바이트 중에 손님들 앞에서 지렸어…
+
+// ========================================================
+// MARK : Debuff
+// ========================================================
+
+&&MgmBun_cured_debuff_1   머리가 조금 둥실둥실거려…
+&&MgmBun_cured_debuff_2   몸이 감당 못할 정도로 뜨거워졌어…
+// ========================================================
+// MARK : Result
+// ========================================================
+
+&&MgmBun_result_row_title_order_total 성공한 주문 / 받은 주문
+&&MgmBun_result_row_value_order_total &1 / &2 (&3%)
+
+&&MgmBun_store_only_can_one 한 번에 한 잔까지만 주문할 수 있는 것 같아.
+
+&&MgmBun_result_row_title_combo 최대 콤보
+&&MgmBun_result_row_value_combo &1 회
+
+
+&&MgmBun_result_row_title_people 손님 수
+&&MgmBun_result_row_value_people &1 명
+
+&&MgmBun_result_row_title_touched 추행당한 횟수
+&&MgmBun_result_row_value_touched &1 회
+
+
+&&MgmBun_result_row_title_eat 직원식을 먹은 횟수
+&&MgmBun_result_row_value_eat &1 회
+
+&&MgmBun_result_row_title_sell 기본 매상액
+&&MgmBun_result_row_title_chip + 팁
+&&MgmBun_result_row_title_cleaning - 의상·가게 청소 비용
+
+&&MgmBun_result_row_value_money &1 pt.
+
+&&MgmBun_result_total 합계 &1 pt.
+
+&&MgmBun_cure 회복
+
+
+&&Store_no_enough_bun_score <b>좀 더 시프트를 늘려야 해…</b>

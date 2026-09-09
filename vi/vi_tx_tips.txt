@@ -243,3 +243,19 @@ Check out the Special Tools options within the Magic menu.
 /* ___ tips_gztool_1 ___ */
 Editing shortcuts allows you to call special functions
 with a long press of <key s/>.
+
+
+/* ___ tips_syabon_btm ___ */
+Pressing<key ba/>while riding a bubble
+will drop its altitude slightly.
+
+
+/* ___ tips_boss_general_2 ___ */
+If you're stuck on a fight,
+there's no shame in lowing the
+game difficulty setting.
+
+
+/* ___ tips_cane_itemdrop ___ */
+If you drop your staff, you
+can check its location on your map.

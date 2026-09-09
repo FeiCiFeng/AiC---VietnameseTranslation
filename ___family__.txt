@@ -4,7 +4,7 @@ _      JP      日本語(JP)
 // 2nd word: Simplified name (write in 2 letters)
 // 3rd word: Full name in the option
 %SYSTEM_LANGUAGE Japanese
-%VERSION 0.29
+%VERSION 0.30
 // Enter a valid key from this SystemLanguage class.
 // (see https://docs.unity3d.com/2019.4/Documentation/ScriptReference/SystemLanguage.html )
 

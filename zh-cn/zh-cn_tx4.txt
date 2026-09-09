@@ -88,7 +88,8 @@
 
 // Museum Viewer
 &&Museum_image_index &1<font size="20">/&2</font>
-&&KD_museum_viewer <key rem/>隐藏UI <key shift/>+<key ba/><key ta/>放大/缩小
+&&KD_museum_viewer <key rem/>隐藏UI
+&&KD_scaling 放大/缩小
 &&KD_museum_viewer_move 切换
 &&KD_museum_viewer_quit <key menu/>停止
 &&KD_museum_viewer_comment <key c/>品鉴
@@ -477,5 +478,3 @@ MP计量槽变得容易碎裂，
 <font color="ff:#000000"><b>游戏完整性校验出现错误。</b></font>
 …这可能是游戏资源文件损坏导致的。
 请尝试再次解压游戏文件，若问题仍然存在，请考虑重新下载游戏。
-
-

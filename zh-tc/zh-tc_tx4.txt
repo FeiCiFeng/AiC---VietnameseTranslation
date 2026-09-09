@@ -88,7 +88,8 @@
 
 // Museum Viewer
 &&Museum_image_index &1<font size="20">/&2</font>
-&&KD_museum_viewer <key rem/>隱藏介面 <key shift/>+<key ba/><key ta/>放大／縮小
+&&KD_museum_viewer <key rem/>隱藏介面 
+&&KD_scaling 放大／縮小
 &&KD_museum_viewer_move 切換
 &&KD_museum_viewer_quit <key menu/>結束
 &&KD_museum_viewer_comment <key c/>品評
@@ -271,6 +272,7 @@ MP槽變得非常容易破裂，
 音訊驅動初始化失敗。
 &1
 
+/* ___ Title_error_no_sound_driver_nosound ___ */
 遊戲將已無聲狀態啟動。
 
 

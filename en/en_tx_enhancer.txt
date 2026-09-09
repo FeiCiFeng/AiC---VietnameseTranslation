@@ -71,7 +71,7 @@ Juice production skyrockets.
 
 &&Enhancer_title_shield_guarantee Shield Bracing
 /* ___ Enhancer_desc_shield_guarantee ___ */
-Prevents the stun status when Noel’s shield breaks. Shield recharges for a time after breaking.
+Prevents Noel from becoming stunned when her shield breaks.
 
 &&Enhancer_title_watershard_sticky Aqua Ring
 /* ___ Enhancer_desc_watershard_sticky ___ */

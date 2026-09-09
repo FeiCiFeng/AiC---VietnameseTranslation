@@ -522,7 +522,12 @@
 &&Smnc_ui_enemy_position 이 적의 초기 위치: 
 
 &&Smnc_ui_enemy_position_all 랜덤
-&&Smnc_ui_seed_previous 直前のシード: &1
+&&Smnc_ui_seed_previous 직전 시드: &1
 
 &&UiSmnCreator_cc_attack_ratio 게스트의 공격 빈도(전 인원 공통)
- 
+
+// ========================================================
+// MARK : ver0.39
+// ========================================================
+
+&&Smnc_td_play_fatal 실패시 페이탈 씬 재생

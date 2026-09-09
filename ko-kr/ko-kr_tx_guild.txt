@@ -409,3 +409,17 @@
 
 &&Guild_whole_quit 취소
 &&Guild_back_quest_selection 퀘스트 목록으로
+
+
+// ========================================================
+// MARK : 030 ニュース
+// ========================================================
+
+&&EvTitle_news_p104_nusi 주인을 토벌한건 누구?
+&&EvTitle_news_p105_lost 수색 바람
+&&EvTitle_news_p107_td 비상사태선언
+&&EvTitle_news_p200_lost 실종의 범인은?
+&&EvTitle_news_p200_spider 산악 지역의 위험에 대해
+&&EvTitle_news_p200_claim 습격사건
+&&EvTitle_news_ad 광고
+ 

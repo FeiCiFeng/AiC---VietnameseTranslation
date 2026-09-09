@@ -1,0 +1,381 @@
+// For translaters:
+// entire event statement will be exported to the 
+// In the next version, this txt file containing the
+// StreamingAssets directory.
+
+// =====================
+// Add an asterisk at the beginning of the sentence 
+// to define the event name and label.
+// =====================
+
+
+*___Fatal/spider b00
+“Haa, haa…”
+*
+Having dodged the spider's attack, an exhausted Noel
+found herself covered in sticky threads.
+*
+How could she have missed them?
+Where was the tactical mistake that got her here?
+*
+Her mind shifted away from analyzing the details.
+What mattered now was breaking free.
+
+*b00_2
+“Nn-aah!”
+*
+Before she could even begin to struggle,
+a sudden pain shot up her body,
+coursing through her veins.
+*
+Toxins.
+*
+A paralytic agent injected through hair-like needles
+embedded in the webs.
+
+
+// b01_sticky
+*b01
+(I can’t...move)
+*
+Noel’s body went limp as she collapsed
+down onto more webs.
+*
+“Ah...”, she muttered, too tired to cry out
+as the toxins took hold of her.
+
+
+// b02_sticky_escape
+*b01_3
+Grrch. Grrch.
+With a dull, earthy, drag, the spider
+pinned Noel’s limbs to the ground.
+*
+“A-ah…”
+*
+(What should I do?)
+(What <i>can</i> I do?)
+*
+Her mind raced, looking for any solution.
+But all magical options required at least <i>some</i> movement from her.
+
+*b01_5
+“Nn-mmm! Hnnng!!”
+*
+Noel pushed as hard as she could,
+trying to get any part of her body to move.
+*
+But only her neck, chest,
+and stomach were listening.
+*
+(Come on.)
+
+// b03_sticky_escape
+*b03
+The spider was listening, too; answering her thoughts and
+languid movements with its own body language.
+*
+“Nn...o...”
+*
+Noel stared down at the spider’s ovipositor,
+perturbed by the lack of fear in her mind.
+
+*b03_2
+“D-don...t...!”
+*
+The ovipositor dangled just above,
+softly kissing her outer lips before-
+
+
+*b03_3
+“Ka-hah!”
+*
+Noel gasped as her organs pressed up against
+her lungs from the force of the spider’s thrusts.
+*
+“Kahh! Hah, ahh, ah!”
+
+*b05
+Slrch. Sqrrt.
+A slimy liquid began pouring into her.
+*
+“Wh-...wha...!?”
+*
+It flowed smoothly into her abdomen,
+causing it to swell.
+*
+A faint glow began to shine
+where the liquid pooled inside her.
+*
+Noel quivered.
+
+*b05_2
+“Wh-what’s happening!?”
+*
+An unfamiliar sensation gripped Noel as she felt
+her mana shift towards her center.
+*
+(I...haven’t been drained...)
+*
+(Why? What is it pla-)
+
+*b06
+Glrch, sllsh!!
+*
+“N-, kah! Ahh!”
+*
+A heavier load of viscous liquid poured into her.
+Noel could help but cry out in agony.
+
+*b06_2
+Throb. Throb. The ovipositor pulsed,
+pouring a mass of tainted mana into her.
+*
+Noel’s vision blurred as she passed out.
+
+
+//暗転。ノエル妊娠（初妊娠なのでお腹はまだ小さめ）
+
+//b07_pregnant
+*b07
+“Hah, ah, hoh...”
+*
+Pain. Swelling. A feeling of fullness
+like she was about to burst.
+*
+The sensation renewed itself
+with each beat of her heart.
+
+*b07_2
+Ba-dump...ba-dump.
+*
+“Aghh...”
+*
+“It...hurts...”
+
+*b07_3
+“Kee-yaaaaa!”
+
+*b09
+Splut.
+
+*b09_1
+With a wet splat, something fell out of Noel.
+*
+“What...was that?”
+
+*b09_2
+Noel looked down and saw
+a tiny creature crawling on spindly legs.
+*
+She knew immediately what it was.
+
+*b09_3
+(Ah...)
+*
+(My...baby...)
+*
+Noel’s consciousness faded once again.
+
+
+
+//暗転 ===========================
+*b10
+–How much time had passed?
+*
+Her rest had not restored any of her strength.
+Noel still found herself unable to move.
+*
+And now surrounded entirely by spiderwebs.
+
+*b10_2
+Scrch. Scrch.
+Noel could hear the spider returning.
+*
+(What is that smell!?)
+*
+A strong, fermented smell assaulted her senses.
+*
+It was metallic, like iron.
+Noel’s eyes began to water.
+*
+She closed them to squeeze out
+the tears as the stench got stronger.
+*
+When she opened them, the spider
+thrust a glob of sludge into her mouth.
+
+*b10_3
+“Gghk, kaff, ekk! Urrrgh!”
+*
+Noel’s gag reflex rejected
+the offering to her stomach.
+
+*b11
+The spider, watching Noel emotionlessly,
+pulled out its ovipositor once more.
+*
+“No...not again!”
+
+*b11_2
+“Please…<i>please</i>!”
+*
+“I don’t want to be a mother to spiders!”
+
+*b11_3
+“Guh!”
+*
+“Agh, yah, ah...”
+*
+“Ahn, auu, no more...”
+
+*b11_4
+After the wet slapping of flesh stopped,
+a cry rang out.
+*
+New life greeting the world.
+
+
+//暗転
+
+*b12
+...Days passed, life outside
+the pitch-black cave continued.
+*
+Inside the cocoon, a weak,
+parched Noel slowly opened her eyes.
+
+*b12_2
+“Guu, ah...not again...how many...”
+*
+More eggs slipped out from between her legs.
+*
+The pain had not lessened since the first one,
+and Noel wished desperately
+that she had remained unconscious.
+
+*b12_2b
+But even if she was unconscious, the pain was seared
+so deeply into her mind that it would burn even if she
+transcended to a different plane of existence.
+*
+The same for that rancid,
+fishy smell the spider kept bringing back to her.
+
+*b12_3
+Noel still had her pride as an elf.
+*
+But it didn’t mean much in the face of starvation.
+*
+She was at her limit.
+
+*b12_4
+“Mmph, hom...”
+*
+Noel nibbled and sucked at the juices
+from the mushy glob.
+*
+Strangely...it didn’t taste that bad.
+*
+With her thirst quenched,
+Noel felt her spirits lift just a little.
+
+*b12_5
+Slurp, slurp, suuuck.
+*
+(Help will come. I just have to stay alive.)
+*
+The spider stared down at her coldly.
+
+
+//暗転。ノエル少し乳が大きくなる
+
+*b13
+...More days passed. Noel had given birth
+to several more babies.
+*
+She felt she deserved a reward.
+*
+She wriggled slightly, alerting
+the master of the cave to her desires.
+
+*b13_2
+The spider, as if expecting her call,
+arrived with the glob and thrust it into her face.
+*
+Noel opened her mouth wide and...
+
+*b13_3
+“Nom, om, mph, mmm...”
+*
+Took huge bites from it.
+She knew she should be ashamed
+to be eating such filth, but she didn’t care.
+*
+Right now, it was the sweetest-tasting thing
+in the world to her.
+
+*b14
+Once she had eaten her fill,
+she spread her legs and relaxed her muscles.
+*
+The spider produced its ovipositor without hesitation
+and deposited its eggs into her.
+*
+Groan. Stretch.
+Multiple at a time.
+
+*b14_2
+Noel’s mind emptied.
+She thought of nothing but the pleasure
+she felt in these moments.
+*
+Eat. Mate. Repeat.
+*
+What more could she ever want?
+
+
+ // 暗転。さらに膨乳化。ノイズを乗せて、自我が曖昧になってることを表現しても良いかも
+*b15
+<s5>　────
+*
+<s5>　Wake up. Hungry.
+*
+<s5>　Wiggle. Get food.
+*
+<s5>　Eat. Happy.
+
+*b15_2
+<s5>　Full. Happy. Heart.
+*
+<s5>　Children. Born. Happy.
+*　
+<s5>　Grow. Thrive.
+
+*b15_3
+<s5>　More.
+*
+<s5>　Babies.
+*
+<s5>　More. More. More.
+
+*b16
+// 出産
+*b16_1
+<s5>　Spider. Happy.
+*
+<s5>　Head. Fuzzy.
+
+*b16_2
+<s5>　Tomorrow. Again.
+*
+<s5>　More. Babies.　
+*
+<s5>　...Happy.
+
+*b17
+No one came to rescue her.
+The pitiful girl lived out
+the rest of her days in that cave.
+*
+The perfect ending in her eyes.
