@@ -1,43 +1,43 @@
-%FAMILY en
+%FAMILY vi
 
 &&Config_SEV  SFX
-&&Config_VOV  Voice
+&&Config_VOV  Giọng nói
 &&Config_BGMV  BGM
 
 
-&&Config_Windowed Full-screen mode
-&&Config_Windowed_0 Windowed
-&&Config_Windowed_1 Full Screen
+&&Config_Windowed Chế độ toàn màn hình
+&&Config_Windowed_0 Cửa sổ
+&&Config_Windowed_1 toàn màn hình
 
-&&Config_Sensitive SFW Mode
-&&Config_Sensitive_0 Off
-&&Config_Sensitive_1 On
+&&Config_Sensitive Chế độ an toàn
+&&Config_Sensitive_0 Tắt
+&&Config_Sensitive_1 Mở
 
-&&Config_AutoSave Autosave
-&&Config_AutoSave_0 Off
-&&Config_AutoSave_1 On benches
-&&Config_AutoSave_2 Story progression
-&&Config_AutoSave_3 Both
+&&Config_AutoSave Tự động lưu
+&&Config_AutoSave_0 Tắt
+&&Config_AutoSave_1 Trên ghế băng
+&&Config_AutoSave_2 Tiến trình cốt truyện
+&&Config_AutoSave_3 Cả hai
 
-&&Config_Magsel Slow-mo effects
-&&Config_Magsel_0 Disable
-&&Config_Magsel_1 1x speed
-&&Config_Magsel_2 1/2x speed
-&&Config_Magsel_3 1/3x speed
-&&Config_Magsel_4 1/4x speed
+&&Config_Magsel Hiệu ứng slow-mo
+&&Config_Magsel_0 Tắt
+&&Config_Magsel_1 Tốc độ 1x
+&&Config_Magsel_2 Tốc độ 1/2x
+&&Config_Magsel_3 Tốc độ 1/3x
+&&Config_Magsel_4 Tốc độ 1/4x
 
 
-&&Config_Draw_Fps Refresh rate\n- overall
-&&Config_Draw_Fps_0 Every frame
-&&Config_Draw_Fps_1 Every 2 frames
-&&Config_Draw_Fps_2 Every 3 frames
-&&Config_Draw_Fps_3 Every 4 frames
+&&Config_Draw_Fps Tần suất cập nhật - tổng thể
+&&Config_Draw_Fps_0 Mỗi khung hình
+&&Config_Draw_Fps_1 Mỗi 2 khung hình
+&&Config_Draw_Fps_2 Mỗi 3 khung hình
+&&Config_Draw_Fps_3 Mỗi 4 khung hình
 
-&&Config_Draw_EfFps Refresh rate\n- effects
-&&Config_Draw_EfFps_0 Every frame
-&&Config_Draw_EfFps_1 Every 2 frames
-&&Config_Draw_EfFps_2 Every 3 frames
-&&Config_Draw_EfFps_3 Every 4 frames
+&&Config_Draw_EfFps Tần suất cập nhật - hiệu ứng
+&&Config_Draw_EfFps_0 Mỗi khung hình
+&&Config_Draw_EfFps_1 Mỗi 2 khung hình
+&&Config_Draw_EfFps_2 Mỗi 3 khung hình
+&&Config_Draw_EfFps_3 Mỗi 4 khung hình
 
 &&Config_UiEf_Dirty UI dirty\n- Amount
 
