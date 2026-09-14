@@ -27,264 +27,264 @@
 &&Config_Magsel_4 Tốc độ 1/4x
 
 
-&&Config_Draw_Fps Tần suất cập nhật - tổng thể
+&&Config_Draw_Fps Tần suất cập nhật\n- tổng thể
 &&Config_Draw_Fps_0 Mỗi khung hình
 &&Config_Draw_Fps_1 Mỗi 2 khung hình
 &&Config_Draw_Fps_2 Mỗi 3 khung hình
 &&Config_Draw_Fps_3 Mỗi 4 khung hình
 
-&&Config_Draw_EfFps Tần suất cập nhật - hiệu ứng
+&&Config_Draw_EfFps Tần suất cập nhật\n- hiệu ứng
 &&Config_Draw_EfFps_0 Mỗi khung hình
 &&Config_Draw_EfFps_1 Mỗi 2 khung hình
 &&Config_Draw_EfFps_2 Mỗi 3 khung hình
 &&Config_Draw_EfFps_3 Mỗi 4 khung hình
 
-&&Config_UiEf_Dirty UI dirty\n- Amount
+&&Config_UiEf_Dirty UI Giao diện bẩn\n- Mức độ
 
-&&Config_MapEf_Level Stage effects
-&&Config_UiEf_Level UI effects\n- Amount
-&&Config_UiEf_TimeScale UI effects\n- Length
+&&Config_MapEf_Level Hiệu ứng màn chơi
+&&Config_UiEf_Level Giao diện hiệu ứng\n- Mức độ
+&&Config_UiEf_TimeScale Giao diện hiệu ứng\n- Thời lượng
 
 
-&&Config_Kisekae Color Variation
-&&Config_Kisekae_0 Normal
-&&Config_Kisekae_1 Pink
-&&Config_Kisekae_2 Cyan
-&&Config_Kisekae_3 Purple
-&&Config_Kisekae_4 Red
+&&Config_Kisekae Biến thể màu sắc
+&&Config_Kisekae_0 Bình thường
+&&Config_Kisekae_1 Hồng
+&&Config_Kisekae_2 Xanh lam
+&&Config_Kisekae_3 Tím
+&&Config_Kisekae_4 Đỏ
 
 /* ___ Config_desc_SEV ___ */
-Raise or lower the volume
-of sound effects.
+Tăng hoặc giảm âm lượng
+của hiệu ứng âm thanh.
 
 /* ___ Config_desc_VOV ___ */
-Raise or lower the volume
-of Noel's moaning voice.
+Tăng hoặc giảm âm lượng
+giọng rên của Noel.
 
 /* ___ Config_desc_BGMV ___ */
-Raise or lower the
-BGM volume.
+Tăng hoặc giảm
+âm lượng nhạc nền.
 
 
 /* ___ Config_desc_keycon ___ */
-Configure key bindings
-for keyboard or gamepad here.
+Thiết lập phím điều khiển
+cho bàn phím hoặc tay cầm tại đây.
 
-&&Config_desc_Lang  言語設定を変更します。\nChoose your display language.
+&&Config_desc_Lang  言語設定を変更します。\nChọn ngôn ngữ hiển thị.
 
-&&Config_desc_Sensitive Turn "Safe For Work" mode on/off.\nWhen set to "On", sexual content will NOT be displayed.
+&&Config_desc_Sensitive Bật/tắt chế độ "An toàn".\nKhi đặt thành "Bật", nội dung R18 sẽ KHÔNG được hiển thị.
 
-/* ___ Config_desc_Windowed ___ */  
-Switch between fullscreen
-or windowed mode.
+/* ___ Config_desc_Windowed ___ */
+Chuyển đổi giữa chế độ
+toàn màn hình và cửa sổ.
 
 
 /* ___ Config_desc_AutoSave ___ */
-Configure when autosave triggers. 
-(Manually saved data will
- not be overwritten)
+Thiết lập thời điểm tự động lưu.
+(Dữ liệu đã lưu thủ công sẽ
+không bị ghi đè)
 
 /* ___ Config_desc_Magsel ___ */
-Set the slow motion speed
-when you start casting spells.
+Thiết lập tốc độ của slow-mo
+khi bắt đầu niệm phép.
 
 /* ___ Config_desc_Kisekae ___ */
-Changes the color of
-Noel's clothes.
-<font color="#E70B0B" size="12" linespacing="0.7">Note: Only configurable 
-from the title screen settings.</font>
+Thay đổi màu sắc
+trang phục của Noel.
+<font color="#E70B0B" size="12" linespacing="0.7">Lưu ý: Chỉ có thể thiết lập
+trong phần cài đặt ở màn hình tiêu đề.</font>
 
 /* ___ Config_desc_Draw_Fps ___ */
-Changes the refresh rate. 
-If the game feels slow during gameplay,
-move the slider to the right.
+Thay đổi tốc độ khung hình.
+trong khi chơi cảm giác game không mượt,
+hãy kéo thanh trượt sang bên phải.
 
 /* ___ Config_desc_Draw_EfFps ___ */
-Changes the refresh rate
-of visual effects.
-<font color="#E70B0B" size="12" linespacing="0.7">Note: This will not work if set 
-higher than the overall rate.</font>
+Thay đổi tốc độ khung hình
+của các hiệu ứng hình ảnh.
+<font color="#E70B0B" size="12" linespacing="0.7">Lưu ý: Thiết lập này sẽ không có tác dụng nếu
+cao hơn tốc độ khung hình tổng thể.</font>
 
-
+text id="58217"
 /* ___ Config_desc_MapEf_Level ___ */
-Sets the amount of 
-visual effects on stage.
+Thiết lập mức độ
+hiệu ứng hình ảnh trên màn chơi.
 
 /* ___ Config_desc_UiEf_Level ___ */
-Sets the amount of 
-visual effects on the UI.
+Thiết lập mức độ
+hiệu ứng hình ảnh trên giao diện.
 
 /* ___ Config_desc_UiEf_TimeScale ___ */
-Sets the length of 
-visual effects on the UI.
+Thiết lập thời lượng
+hiệu ứng hình ảnh trên giao diện.
 
 /* ___ Config_desc_UiEf_Dirty ___ */
-Sets the maximum amount of 
-dirtying effects on Noel's portrait.
+Thiết lập mức độ tối đa của
+hiệu ứng làm bẩn chân dung Noel.
 
-&&KD_submit <key submit/>Submit
-&&KeyHelp_title_top <key la/><key ba/><key ta/><key ra/>Move cursor <key submit/>Submit 
-&&KeyHelp_title_config <key ta/><key ba/>Move cursor <key la/><key ra/>Choose values <key submit/>Submit
-&&KeyHelp_title_svd_select <key ta/><key ba/>Move cursor <key submit/>Submit
-
-
-&&GO_KeyHelp_top Hold <key cancel/> to give up... 
-&&GO_KeyHelp_top_pause <key sort/>Pause
-&&GO_KeyHelp_pause <key la/><key ba/><key ta/><key ra/>Move camera 
-&&GO_KeyHelp_pause_scale <key ltab/><key rtab/>Zoom in/out 
-&&GO_KeyHelp_pause_fix <key sort/>Fix camera
+&&KD_submit <key submit/>Xác nhận
+&&KeyHelp_title_top <key la/><key ba/><key ta/><key ra/>Di chuyển con trỏ <key submit/>Xác nhận
+&&KeyHelp_title_config <key ta/><key ba/>Di chuyển con trỏ <key la/><key ra/>Chọn giá trị <key submit/>Xác nhận
+&&KeyHelp_title_svd_select <key ta/><key ba/>Di chuyển con trỏ <key submit/>Xác nhận
 
 
+&&GO_KeyHelp_top Giữ <key cancel/> để bỏ cuộc...
+&&GO_KeyHelp_top_pause <key sort/>Tạm dừng
+&&GO_KeyHelp_pause <key la/><key ba/><key ta/><key ra/>Di chuyển camera
+&&GO_KeyHelp_pause_scale <key ltab/><key rtab/>Phóng to/thu nhỏ
+&&GO_KeyHelp_pause_fix <key sort/>Cố định camera
 
-&&Keyconfig_title   Keybindings
-&&Keyconfig_name_submit   Confirm
-&&Keyconfig_name_cancel   Cancel/Skip
-&&Keyconfig_name_la  Left
-&&Keyconfig_name_ra  Right
-&&Keyconfig_name_ta  Up
-&&Keyconfig_name_ba  Down
-&&Keyconfig_name_z   Attack
-&&Keyconfig_name_x   Magic
-&&Keyconfig_name_c   Change target
-&&Keyconfig_name_a   Map
-&&Keyconfig_name_s   Other
-&&Keyconfig_name_d   Item
-&&Keyconfig_name_jump   Jump
-&&Keyconfig_name_lsh   Dodge
+
+
+&&Keyconfig_title   Thiết lập phím
+&&Keyconfig_name_submit   Xác nhận
+&&Keyconfig_name_cancel   Hủy/Bỏ qua
+&&Keyconfig_name_la  Trái
+&&Keyconfig_name_ra  Phải
+&&Keyconfig_name_ta  Lên
+&&Keyconfig_name_ba  Xuống
+&&Keyconfig_name_z   Tấn công
+&&Keyconfig_name_x   Phép thuật
+&&Keyconfig_name_c   Đổi mục tiêu
+&&Keyconfig_name_a   Bản đồ
+&&Keyconfig_name_s   Khác
+&&Keyconfig_name_d   Vật phẩm
+&&Keyconfig_name_jump   Nhảy
+&&Keyconfig_name_lsh   Né tránh
 &&Keyconfig_name_menu   Menu
-&&Keyconfig_name_ltab   Left Tab
-&&Keyconfig_name_rtab   Right Tab
+&&Keyconfig_name_ltab   Tab trái
+&&Keyconfig_name_rtab   Tab phải
 
 
 /* ___ Keyconfig_column_header_keyboard ___ */
-<font color="#FFFDBB">Input</font> <font color="#A7A39F">／</font> In-game name 
+<font color="#FFFDBB">Phím bấm</font> <font color="#A7A39F">／</font> Tên trong game
 
 /* ___ Keyconfig_column_header_pad ___ */
-<font color="#FFFDBB">Input</font> <font color="#A7A39F">／</font> In-game name 
+<font color="#FFFDBB">Nút bấm</font> <font color="#A7A39F">／</font> Tên trong game
 
 /* ___ Keyconfig_box_input_kb ___ */
-<font color="#000000">Press any key on your keyboard</font>
-<font size="12">(Except return key)</font>
+<font color="#000000">Nhấn bất kỳ phím nào trên bàn phím</font>
+<font size="12">(Ngoại trừ phím Enter)</font>
 
 /* ___ Keyconfig_box_input_pad ___ */
-<font color="#000000">Press any button on your gamepad
-(Hold if assigning stick input here)</font>
+<font color="#000000">Nhấn bất kỳ nút nào trên tay cầm
+(giữ nút nếu muốn gán stick của tay cầm vào đây)</font>
 
-&&Keyconfig_label_field_caption     In-game name
+&&Keyconfig_label_field_caption     Tên trong game
 
-&&Keyconfig_input_nouse     I don't use this
-
-
-
-&&Keyconfig_prompt_confirm     <font color="#000000"><b>Hold <key submit /> to save this assignment.</b></font>
+&&Keyconfig_input_nouse     Tôi không sử dụng
 
 
-&&Config_ui_sensitive_description Abuse Log
-&&Config_desc_ui_sensitive_description Sets the amount of log texts that will appear when Noel is assaulted.
+
+&&Keyconfig_prompt_confirm     <font color="#000000"><b>Giữ <key submit /> để lưu thiết lập này.</b></font>
+
+
+&&Config_ui_sensitive_description Nhật ký hành vi
+&&Config_desc_ui_sensitive_description Thiết lập số lượng dòng nhật ký sẽ xuất hiện khi Noel bị tấn công.
 
 &&Config_SE_stereo Stereo
 &&Config_SE_stereo_0 Mono
 &&Config_SE_stereo_1 Stereo
-&&Config_desc_SE_stereo   Huh? Noel, you're not using a stereo TV!?
-// Inside joke: Metal Gear Solid (A mono TV...)
+&&Config_desc_SE_stereo   Hả? Noel, cậu không dùng TV stereo sao!?
+// Inside joke: Metal Gear Solid (TV mono...)
 
-&&Config_PostEf_Level On-Screen Effects
-&&Config_desc_PostEf_Level Configure the amount of on-screen effects (such as when HP drops). The lower the amount, the lower the burden on your PC.
+&&Config_PostEf_Level Hiệu ứng trên màn hình
+&&Config_desc_PostEf_Level Thiết lập mức độ hiệu ứng trên màn hình (chẳng hạn như khi HP giảm). Mức độ càng thấp, máy tính càng ít bị ảnh hưởng.
 
 // ========================================================
 // MARK : 2202 追加分
 // ========================================================
 &&Config_Effect_No_Restriction Unrestricted
 
-&&Config_UiEf_Dirty_Blood Blood Effects
-/* ___ Config_desc_UiEf_Dirty_Blood ___ */   
-When set closer to 0%, effects 
-that look like blood on Noel's 
-portrait are replaced by black color.
-This also reduces red splashes 
-on the game screen.
+&&Config_UiEf_Dirty_Blood Hiệu ứng máu
+/* ___ Config_UiEf_Dirty_Blood ___ */
+Khi thiết lập gần 0%, các hiệu ứng
+trông giống máu trên Noel
+sẽ được thay thế bằng màu đen.
+Điều này cũng làm giảm các vệt máu
+trên màn hình game.
 
 
 
-&&Config_UiEf_Density UI dirty\n- Density
-/* ___ Config_desc_UiEf_Density ___ */ 
-Sets the intensity of
-dirtying effects on Noel's portrait.
+&&Config_UiEf_Density Độ bẩn giao diện\n- Mật độ
+/* ___ Config_desc_UiEf_Density ___ */
+Thiết lập cường độ của
+hiệu ứng làm bẩn chân dung Noel.
 
 
-&&Keyconfig_name_run Run
-&&Enabled Enabled
-&&Disabled Disabled
-&&Slider_On On
-&&Slider_Off Off
-&&Config_val_sensitivity over &1 
+&&Keyconfig_name_run Chạy
+&&Enabled Bật
+&&Disabled Tắt
+&&Slider_On Bật
+&&Slider_Off Tắt
+&&Config_val_sensitivity over &1
 
-&&Config_Running_Reverse Auto-run
+&&Config_Running_Reverse Tự động chạy
 /* ___ Config_desc_Running_Reverse ___ */
-Configure whether Noel runs automatically or not. 
-If enabled, hold <key run/> to walk.
+Thiết lập việc Noel có tự động chạy hay không.
+Nếu bật, giữ <key run/> để đi bộ.
 
 
-&&Config_Running_Double Double Tap to Run
+&&Config_Running_Double Nhấn đúp để chạy
 /* ___ Config_desc_Running_Double ___ */
-Quickly press <key la/>or<key ra/> twice
-to start running when this option is enabled.
+Nhấn nhanh <key la/> hoặc <key ra/> hai lần
+để bắt đầu chạy khi tùy chọn này được bật.
 
-&&Config_Running_Stick_Thresh Run threshold
+&&Config_Running_Stick_Thresh Ngưỡng chạy
 /* ___ Config_desc_Running_Stick_Thresh ___ */
-Choose how far the joystick needs to be tilted in either direction before you start to run.
+Chọn mức độ nghiêng cần thiết của cần analog theo mỗi hướng trước khi bắt đầu chạy.
 
 
-&&window_size_recomennded \n<font size="10">(Recommended)</font>
-&&Config_Window_Size Window Size
+&&window_size_recomennded \n<font size="10">(Khuyến nghị)</font>
+&&Config_Window_Size Kích thước cửa sổ
 /* ___ Config_desc_Window_Size ___ */
-Choose the window size when not in full-screen mode.
-If you don't choose recommended values, pixels may be blurred.
+Chọn kích thước cửa sổ khi không ở chế độ toàn màn hình.
+Nếu không chọn kích thước được khuyến nghị, hình ảnh có thể bị mờ.
 
 
-&&Config_Shield_Hold_Evadable Dodge while Shielding
+&&Config_Shield_Hold_Evadable Né tránh khi đang tạo khiên
 /* ___ Config_desc_Shield_Hold_Evadable ___ */
-When enabled, tapping <key la/>or<key ra/> allows
-you to dodge while your shield is still up.
+Khi bật, nhấn <key la/> hoặc <key ra/> cho phép
+bạn né tránh trong khi vẫn đang giơ khiên.
 
 
 
 
-&&Config_USel_Z_Push Using Shortcut Items
+&&Config_USel_Z_Push Sử dụng vật phẩm phím tắt
 /* ___ Config_desc_USel_Z_Push ___ */
-Choose how to use items from the shortcut menu.
-Pressing and holding<key d/>opens the shortcut menu.
+Chọn cách sử dụng vật phẩm từ menu phím tắt.
+Nhấn và giữ <key d/> để mở menu phím tắt.
 
 
 
-&&USel_D_Release Release <key d/>
-&&USel_Z_Push Tap <key submit/>
+&&USel_D_Release Thả <key d/>
+&&USel_Z_Push Nhấn <key submit/>
 
 
-&&Config_VSync Use V-Sync
+&&Config_VSync Dùng V-Sync
 /* ___ Config_desc_VSync ___ */
-Choose whether V-Sync is enabled
-to reduce background flickering.
+Chọn xem bật được V-Sync hay không
+để giảm hiện tượng nhấp nháy nền.
 
-// <font color="#E70B0B">Reboot the game to apply these changes.</font>
-// Now: <i>&1</i>
+// <font color="#E70B0B">Khởi động lại game để áp dụng thay đổi.</font>
+// Ngay bây giờ: <i>&1</i>
 
 
 /* ___ Keyconfig_title_header_keyboard ___ */
 <fiximg mesh="KC_keyboard" tx_color alpha="0.25" margin="-10" behind="1" x="0" y="-16"/>
-Keyboard
+Bàn phím
 
 /* ___ Keyconfig_title_header_pad ___ */
 <fiximg mesh="KC_pad" tx_color alpha="0.25" margin="-10" behind="1" x="0" y="-16" />
 Gamepad
 
-&&KeyCon_Reset_Label Reset labels and icons
-&&KeyCon_Reset_Pad_DI Reset (DirectInput)
-&&KeyCon_Reset_Pad_XI Reset (XInput)
-&&KeyCon_No_Reset Do not reset
+&&KeyCon_Reset_Label Đặt lại nhãn và biểu tượng
+&&KeyCon_Reset_Pad_DI Đặt lại (DirectInput)
+&&KeyCon_Reset_Pad_XI Đặt lại (XInput)
+&&KeyCon_No_Reset Không đặt lại
 
 
-&&Keyconfig_prompt_has_duplicate <font color="ff:#B828AC"><img mesh="alert_triangle" width="20" tx_color />There are duplicate entries.</font> 
+&&Keyconfig_prompt_has_duplicate <font color="ff:#B828AC"><img mesh="alert_triangle" width="20" tx_color />Có các mục trùng lặp.</font> 
 
 
 // ========================================================
@@ -292,12 +292,12 @@ Gamepad
 // ========================================================
 
 
-&&Config_Difficulty Difficulty
+&&Config_Difficulty Độ khó
 /* ___ Config_desc_Difficulty ___ */
-Change the game difficulty.
+Thay đổi độ khó.
 
 
-&&Config_Sensitive_2 On (Super Safe)
+&&Config_Sensitive_2 Bật (Siêu an toàn)
 
 
 
@@ -305,44 +305,43 @@ Change the game difficulty.
 // MARK : ver023d
 // ========================================================
 
-&&Config_GO_Position UI in Incapacitated
-&&Config_GO_Position_0 Bottom right
-&&Config_GO_Position_1 Top
+&&Config_GO_Position Giao diện khi bất tỉnh
+&&Config_GO_Position_0 Góc dưới bên phải
+&&Config_GO_Position_1 góc trên
 /* ___ Config_desc_GO_Position ___ */
-Change position of the UI displayed in the Incapacitated state.
+Thay đổi vị trí của giao diện hiển thị khi bất tỉnh.
 
-&&Config_MagSel_Decide Spellcasting
-&&Config_MagSel_Decide_0 Only hold <key x/>
+&&Config_MagSel_Decide Thi triển kỹ năng
+&&Config_MagSel_Decide_0 Chỉ giữ <key x/>
 &&Config_MagSel_Decide_1 Tap <key submit/> (&1)
 &&Config_MagSel_Decide_2 Tap <key z/>
 &&Config_MagSel_Decide_3 Tap <key c/>
 /* ___ Config_desc_MagSel_Decide ___ */
-Choose whether to immediately start chanting a spell by pressing a specific button when holding <key x/>.
-
+Chọn có bắt đầu niệm phép ngay lập tức bằng cách nhấn một nút cụ thể khi đang giữ <key x/> hay không.
 
 // ========================================================
 // MARK : ver024
 // ========================================================
 
-&&Keyconfig_category_ui   UI Config
-&&Keyconfig_category_game   In-game Config
-&&Keyconfig_name_sort Sort
-&&Keyconfig_name_add Add
-&&Keyconfig_name_rem Remove
+&&Keyconfig_category_ui   Cài đặt giao diện
+&&Keyconfig_category_game   Cài đặt trong game
+&&Keyconfig_name_sort Sắp xếp
+&&Keyconfig_name_add Thêm
+&&Keyconfig_name_rem Xóa
 &&Keyconfig_name_shift Shift
 
-&&Config_UI_KD_appearance Key/Button display
-&&Config_UI_KD_appearance_0 Auto
-&&Config_UI_KD_appearance_1 Keyboard
-&&Config_UI_KD_appearance_2 Gamepad
+&&Config_UI_KD_appearance Hiển thị phím/nút
+&&Config_UI_KD_appearance_0 Tự động
+&&Config_UI_KD_appearance_1 Bàn phím
+&&Config_UI_KD_appearance_2 Tay cầm
 
 /* ___ Config_desc_UI_KD_appearance ___ */
-Choose how indications such as <key submit/>and<key cancel/> appear in overlay displays.
+Chọn cách hiển thị các chỉ dẫn như <key submit/> và <key cancel/> trên màn hình.
 
 //アイテムショートカットの追加オプション
 &&USel_D_Tap_Z Tap<key d/>& Tap<key submit/>
 
-&&Keyconfig_box_input_pad_hold Hold...
+&&Keyconfig_box_input_pad_hold Giữ...
 
 
 &&Stick_sensitivity_adjust Joystick sensitivity
