@@ -1,4 +1,4 @@
-%FAMILY _
+%FAMILY vi
 
 &&KD_tips_next <key submit/>Next
 

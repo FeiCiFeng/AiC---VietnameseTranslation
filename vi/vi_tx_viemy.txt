@@ -1,4 +1,4 @@
-%FAMILY en
+%FAMILY vi
 
 &&Enemy_WORMS Insect
 &&Enemy_OTHER Enemy

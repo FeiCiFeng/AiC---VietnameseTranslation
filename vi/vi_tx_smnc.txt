@@ -1,4 +1,4 @@
-%FAMILY _
+%FAMILY vi
 
 &&Smnc_title_enemy Enemies:
 

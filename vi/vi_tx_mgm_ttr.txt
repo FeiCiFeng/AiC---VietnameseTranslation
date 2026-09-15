@@ -1,4 +1,4 @@
-%FAMILY en
+%FAMILY vi
 // ミニゲーム 4ASCEND用
 
 // &&BackToTitle    タイトルに戻る

@@ -1,4 +1,4 @@
-%FAMILY _
+%FAMILY vi
 
 /* ___ Title_error_announce ___ */
 An error log was generated in the previous play.

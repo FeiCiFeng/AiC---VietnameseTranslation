@@ -1,4 +1,4 @@
-%FAMILY en
+%FAMILY vi
 // 卑猥なものを書く
 // えっちな攻め箇所
 &&EP_Targ_cli clitoris
