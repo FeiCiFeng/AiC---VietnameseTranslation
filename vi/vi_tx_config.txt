@@ -217,7 +217,7 @@ hiệu ứng làm bẩn chân dung Noel.
 &&Disabled Tắt
 &&Slider_On Bật
 &&Slider_Off Tắt
-&&Config_val_sensitivity over &1
+&&Config_val_sensitivity quá &1
 
 &&Config_Running_Reverse Tự động chạy
 /* ___ Config_desc_Running_Reverse ___ */
@@ -227,12 +227,12 @@ Nếu bật, giữ <key run/> để đi bộ.
 
 &&Config_Running_Double Nhấn đúp để chạy
 /* ___ Config_desc_Running_Double ___ */
-Nhấn nhanh <key la/> hoặc <key ra/> hai lần
+Nhấn đúp <key la/> hoặc <key ra/> 
 để bắt đầu chạy khi tùy chọn này được bật.
 
 &&Config_Running_Stick_Thresh Ngưỡng chạy
 /* ___ Config_desc_Running_Stick_Thresh ___ */
-Chọn mức độ nghiêng cần thiết của cần analog theo mỗi hướng trước khi bắt đầu chạy.
+Chọn mức độ nghiêng cần thiết của joystick theo mỗi hướng trước khi bắt đầu chạy.
 
 
 &&window_size_recomennded \n<font size="10">(Khuyến nghị)</font>
@@ -267,7 +267,7 @@ Chọn xem bật được V-Sync hay không
 để giảm hiện tượng nhấp nháy nền.
 
 // <font color="#E70B0B">Khởi động lại game để áp dụng thay đổi.</font>
-// Ngay bây giờ: <i>&1</i>
+// Hiện tại: <i>&1</i>
 
 
 /* ___ Keyconfig_title_header_keyboard ___ */
@@ -344,14 +344,14 @@ Chọn cách hiển thị các chỉ dẫn như <key submit/> và <key cancel/> 
 &&Keyconfig_box_input_pad_hold Giữ...
 
 
-&&Stick_sensitivity_adjust Joystick sensitivity
+&&Stick_sensitivity_adjust Độ nhạy Joystick
 /* ___ Stick_sensitivity_adjust_auto_prompt ___ */
-Automatically adjusting,
-Please do not move your joystick.
+Tự động điều chỉ,
+Đừng di chuyển Joystick của bạn.
 
-&&Stick_sensitivity_auto Automatic adjustment
-&&Stick_sensitivity_value Sensitivity
-&&Stick_manage Please use a mouse or a keyboard to manage.
+&&Stick_sensitivity_auto Tự động điều chỉ
+&&Stick_sensitivity_value Độ nhạy
+&&Stick_manage Vui lòng dùng chuột hoặc bàn phím để quản lý.
 
 
 // ========================================================
@@ -359,213 +359,213 @@ Please do not move your joystick.
 // ========================================================
 
 
-&&Config_spconfig_uipic_lr Portrait Display
+&&Config_spconfig_uipic_lr Hiển thị chân dung
 /* ___ Config_desc_spconfig_uipic_lr ___ */
-Choose where or if Noel's portrait is displayed.
-&&Config_left Left
-&&Config_right Right
-&&Config_hidden Hidden
+Chọn nơi hiển thị hoặc liệu có hiển thị chân dung của Noel không.
+&&Config_left Trái
+&&Config_right Phải
+&&Config_hidden Ẩn
 
-&&Config_spconfig_dmg_multivoice Voice Layering
+&&Config_spconfig_dmg_multivoice Xếp lớp giọng nói
 /* ___ Config_desc_spconfig_dmg_multivoice ___ */
-Choose if Noel's voice will play on top of itself when she receives damage.
+Chọn xem giọng nói của Noel có được phát chồng lên chính nó khi cô ấy nhận sát thương hay không.
 
-&&Config_spconfig_cloth_strength Clothing Strength
+&&Config_spconfig_cloth_strength Độ bền trang phục
 /* ___ Config_desc_spconfig_cloth_strength ___ */
-Choose how strong Noel's clothes are.
-The higher the value, the less likely they'll break.
+Chọn xem trang phục của Noel bền như nào.
+Giá trị càng cao thì trang phục càng khó bị rách.
 
 // 最も壊れやすいもの／最も堅いものの比喩を入れて下さい。
-&&Config_Super_fragile Fragile
-&&Config_Unbreakable Unbreakable
+&&Config_Super_fragile Rất dễ rách
+&&Config_Unbreakable Không thể rách
 
-&&Config_spconfig_cloth_broken_debuff Clothing Debuffs
+&&Config_spconfig_cloth_broken_debuff Hiệu ứng bất lợi khi rách
 /* ___ Config_desc_spconfig_cloth_broken_debuff ___ */
-Change how much extra damage Noel takes and how much extra invincibility she gets when dodging while her clothes are broken.
+Thay đổi lượng sát thương thêm mà Noel phải nhận và thời gian bất khả xâm phạm thêm mà cô ấy nhận được khi né đòn trong lúc trang phục bị rách.
 
 
-&&Config_spconfig_milk Milk Chance
+&&Config_spconfig_milk Tỷ lệ nhận sữa
 /* ___ Config_desc_spconfig_milk ___ */
-Set the probability of getting Noel Milk when she pees.
+Đặt xác suất nhận được Sữa Noel khi cô ấy đi tiểu.
 
-&&Config_spconfig_juice Juice Chance
+&&Config_spconfig_juice Tỷ lệ nhận Nước ép
 /* ___ Config_desc_spconfig_juice ___ */
-Set the probability of getting Noel Juice when she pees.
+Đặt xác suất nhận được dịch ngọt của Noel khi cô ấy đi tiểu.
 
 
-&&Config_spconfig_deadburned Stop, Don't Drop or Roll
+&&Config_spconfig_deadburned Stop, Dừng lại, Đừng chạy khi đang cháy
 /* ___ Config_desc_spconfig_deadburned ___ */
-Set whether or not to run around when on fire while outside of combat.
+Thiết lập xem Noel có chạy lung tung khi đang bốc cháy và ở ngoài giao chiến hay không.
 
-&&Config_spconfig_dmgte_pixel_density Flashing Density\n(Sprite)
+&&Config_spconfig_dmgte_pixel_density Mật độ nhấp nháy\n(Sprite)
 /* ___ Config_desc_spconfig_dmgte_pixel_density ___ */
-Set how often and how intense Noel's pixels flash when she receives damage.
+Thiết lập tần suất và mức độ các pixel của Noel nhấp nháy khi cô ấy nhận sát thương.
 
-&&Config_spconfig_dmgte_pixel_duration Flashing Duration\n(Sprite)
+&&Config_spconfig_dmgte_pixel_duration Thời gian nhấp nháy\n(Sprite)
 
 
-&&Config_spconfig_dmgte_ui_density Flashing Density\n(Portrait)
+&&Config_spconfig_dmgte_ui_density Mật độ nhấp nháy\n(chân dung)
 /* ___ Config_desc_spconfig_dmgte_ui_density ___ */
-Set how often and how intense Noel's portrait flashes when she receives damage.
+Thiết lập tần suất và mức độ nhấp nháy chân dung của Noel khi cô ấy nhận sát thương.
 
-&&Config_spconfig_dmgte_ui_duration Flashing Duration\n(Portrait)
+&&Config_spconfig_dmgte_ui_duration Thời gian nhấp nháy\n(chân dung)
 
 // 右スティックを使用して魔術使用をもうちょっと使いやすくする予定です……
 
-&&Keyconfig_name_m_neutral  Basic Spell
-&&Keyconfig_name_mla  Spell←
-&&Keyconfig_name_mra   Spell→
-&&Keyconfig_name_mta   Spell↑
-&&Keyconfig_name_mba   Spell↓
+&&Keyconfig_name_m_neutral  Phép cơ bản
+&&Keyconfig_name_mla  Niệm←
+&&Keyconfig_name_mra   Niệm→
+&&Keyconfig_name_mta   Niệm↑
+&&Keyconfig_name_mba   Niệm↓
 
 
-&&Config_spconfig_juice_cutin Pee Portrait
+&&Config_spconfig_juice_cutin Chân dung khi tiểu
 /* ___ Config_desc_spconfig_juice_cutin ___ */
-Choose whether to always use the cut-in picture or the default when Noel pees.
+Chọn sử dụng hình ảnh cut-in hoặc hình ảnh mặc định mỗi khi Noel đi tiểu.
 
 
-&&Config_normal Default
+&&Config_normal Mặc định
 &&Config_juice_cutin_1 Cut-in
 
 
-&&Config_spconfig_voice_for_pleasure Sex Voice
+&&Config_spconfig_voice_for_pleasure Tiếng rên
 /* ___ Config_desc_spconfig_voice_for_pleasure ___ */
-Set the frequency of sexual voice playback when Noel receives an attack.
+Thiết lập tần suất tiếng rên khi Noel nhận đòn tấn công.
 
-&&Config_spconfig_voice_for_pleasure2m Sex Voice→Masturbation Voice
+&&Config_spconfig_voice_for_pleasure2m Tiếng rên→Giọng thủ dâm
 /* ___ Config_desc_spconfig_voice_for_pleasure2m ___ */
-↑Noel's voice when she is sexually attacked is occasionally replaced by her masturbation voice.
+↑Giọng của Noel khi cô ấy bị tấn công tình dục đôi khi được thay thế bằng giọng thủ dâm của cô ấy.
 
 
-&&Keyconfig_name_check   Check/Talk
+&&Keyconfig_name_check   Kiểm tra/Trò Chuyện
 
 
 // ========================================================
 // MARK : ver0.25f
 // ========================================================
 
-&&Config_spconfig_go_cheat Taking Turns
+&&Config_spconfig_go_cheat Theo lượt
 
 /* ___ Config_desc_spconfig_go_cheat ___ */
-Remove all restraints and shuffle monster positions during a Game Over.
+Loại bỏ mọi giới hạn và tráo đổi ngẫu nhiên vị trí của quái vật khi Game Over.
 
 // ========================
 // 特定部位の位置追加
 
-&&Config_spconfig_ep_boost_cli Clit\nBoost
-&&Config_spconfig_ep_boost_vagina Vulva\nBoost
-&&Config_spconfig_ep_boost_canal Vagina\nBoost
-&&Config_spconfig_ep_boost_gspot Womb\nBoost
-&&Config_spconfig_ep_boost_urethra Urethra\nBoost
-&&Config_spconfig_ep_boost_breast Breast\nBoost
-&&Config_spconfig_ep_boost_anal Anal\nBoost
-&&Config_spconfig_ep_boost_mouth Mouth\nBoost
-&&Config_spconfig_ep_boost_ear Ear\nBoost
+&&Config_spconfig_ep_boost_cli Âm vật\nTăng Cường
+&&Config_spconfig_ep_boost_vagina Âm hộ\nTăng Cường
+&&Config_spconfig_ep_boost_canal Âm đạo\nTăng Cường
+&&Config_spconfig_ep_boost_gspot Tử cung\nTăng Cường
+&&Config_spconfig_ep_boost_urethra Niệu đạo\nTăng Cường
+&&Config_spconfig_ep_boost_breast Ngực\nTăng Cường
+&&Config_spconfig_ep_boost_anal Hậu môn\nTăng Cường
+&&Config_spconfig_ep_boost_mouth Miệng\nTăng Cường
+&&Config_spconfig_ep_boost_ear Tai\nTăng Cường
 
 /* ___ Config_desc_spconfig_ep_boost ___ */
-Increase the odds of Noel's &1 being targeted when possible.
+Tăng khả năng &1 của Noel bị nhắm đến khi có thể.
 
 
-&&Config_spconfig_opacity_marunomi Vore Opacity
+&&Config_spconfig_opacity_marunomi độ trong suốt của bụng
 /* ___ Config_desc_spconfig_opacity_marunomi ___ */
-Set the opacity of the monster's stomach when Noel is inside.
+Thiết lập độ mờ của bụng quái vật khi Noel ở bên trong.
 
 // ========================================================
 // MARK : ver0.25f-2
 // ========================================================
 
-&&Config_spconfig_epdmg_vo_mouth Silent Scream
+&&Config_spconfig_epdmg_vo_mouth Tiếng hét câm lặng
 /* ___ Config_desc_spconfig_epdmg_vo_mouth ___ */
-Set the frequency of Noel's voice coming through while her mouth is covered.
+Thiết lập tần suất giọng nói của Noel lọt ra khi miệng cô ấy bị bịt kín.
 
 // ========================================================
 // MARK : ver0.26
 // ========================================================
 
-&&Config_spconfig_use_uipic_press Flattening Portrait
+&&Config_spconfig_use_uipic_press Ép dẹt chân dung
 /* ___ Config_desc_spconfig_use_uipic_press ___ */
-Set whether or not Noel gets squished flat when stuck between two objects or specific enemy attacks.
+Thiết lập việc Noel có bị ép dẹt khi bị kẹt giữa hai vật thể hoặc trúng một số đòn tấn công hay không.
 
-&&Config_spconfig_use_uipic_press_gimmick Flattening\n(Objects)
+&&Config_spconfig_use_uipic_press_gimmick Ép dẹt\n(Vật thể)
 /* ___ Config_desc_spconfig_use_uipic_press_gimmick ___ */
-Set whether or not Noel gets squished flat when stuck between two objects.
+Thiết lập việc Noel có bị ép dẹt khi bị kẹt giữa hai vật thể hay không.
 
-&&Config_spconfig_use_uipic_press_enemy Flattening\n(Attacks)
+&&Config_spconfig_use_uipic_press_enemy Ép dẹt\n(Tấn công)
 /* ___ Config_desc_spconfig_use_uipic_press_enemy ___ */
-Set whether or not Noel gets squished flat when hit by specific enemy attacks.
+Thiết lập việc Noel có bị ép dẹt khi trúng một số đòn tấn công hay không.
 
-&&Config_spconfig_use_uipic_press_balance Flattening\n(Thresholds)
+&&Config_spconfig_use_uipic_press_balance Ép dẹt\n(Ngưỡng)
 /* ___ Config_desc_spconfig_use_uipic_press_balance ___ */
-Set the thresholds for when Noel gets squished flat.
-&&Config_press_balance_fare None
-&&Config_press_balance_t Vertical +&1%
-&&Config_press_balance_n Horizontal +&1%
+Thiết lập ngưỡng xác định khi nào Noel bị ép dẹt.
+&&Config_press_balance_fare Không
+&&Config_press_balance_t Dọc +&1%
+&&Config_press_balance_n Ngang +&1%
 
 
 
 
-&&Config_spconfig_dmgcounter_position Damage Numbers
+&&Config_spconfig_dmgcounter_position Lượng sát thương
 /* ___ Config_desc_spconfig_dmgcounter_position ___ */
-Configure where the damage numbers are displayed, over Noel's portrait, the game action area, neither, or both.
-&&Config_dmgcounter_0 Neither
+Thiết lập vị trí hiển thị số sát thương: trên chân dung của Noel, khu vực hành động của game, không hiển thi, hoặc cả hai.
+&&Config_dmgcounter_0 Không
 &&Config_dmgcounter_1 Game
-&&Config_dmgcounter_2 Portrait
-&&Config_dmgcounter_3 Both
+&&Config_dmgcounter_2 Chân dung
+&&Config_dmgcounter_3 Cả hai
 
-&&Config_spconfig_gameover_counter Game Over\nCountdown
+&&Config_spconfig_gameover_counter Game Over\nĐếm ngược
 /* ___ Config_desc_spconfig_gameover_counter ___ */
-Configure whether there will be a countdown on the continue screen when “Scapecat” is available to use.
+Thiết lập việc có hiển thị đếm ngược trên màn hình Continue khi “Scapecat” có thể được sử dụng hay không.
 
-&&Config_spconfig_epdmg_vo_iku Cum Voice Chance
+&&Config_spconfig_epdmg_vo_iku Xác suất thoại khi lên đỉnh
 /* ___ Config_desc_spconfig_epdmg_vo_iku ___ */
-Set the probability that Noel will say "I'm cumming" when she orgasms or is close to it.
-(Affected by the "Sex Voice" setting frequency as well)
+Thiết lập xác suất Noel sẽ nói "Em sắp ra" khi lên đỉnh hoặc gần đạt đến đó.
+(Cũng bị ảnh hưởng bởi tần suất của cài đặt "Tiếng rên")
 
 
-&&Config_vib_level Vibration
+&&Config_vib_level Độ rung
 /* ___ Config_desc_vib_level ___ */
-Set the intensity of the controller vibration.
-(Incompatible with some controllers on Mac)
+Thiết lập cường độ rung của tay cầm.
+(Không tương thích với một số tay cầm trên Mac)
 
-&&Config_spconfig_threshold_pregnant Belly Threshold
+&&Config_spconfig_threshold_pregnant Ngưỡng bụng phình
 /* ___ Config_desc_spconfig_threshold_pregnant ___ */
-Set the percentage of MP required when an egg is laid in Noel for her belly to swell.
-(If set higher than current value, the swollen belly will always be displayed)
+Thiết lập phần trăm MP cần có khi một quả trứng được đưa vào Noel khiến bụng cô ấy phình lên.
+(Nếu đặt cao hơn giá trị hiện tại, bụng phình sẽ luôn được hiển thị)
 
-&&Config_not_visible Do not display
+&&Config_not_visible Không hiển thị
 
 
 // ========================================================
 // MARK : ver0.27
 // ========================================================
-&&Config_spconfig_frozen_effect Trapped Under Ice
+&&Config_spconfig_frozen_effect Bị kẹt dưới băng
 /* ___ Config_desc_spconfig_frozen_effect ___ */
-Choose whether Noel will turn into an ice sculpture or a block of ice when fully frozen. The closer to 100%, the more likely she'll turn into a block of ice.
+Chọn việc Noel sẽ biến thành một bức tượng băng hay một khối băng khi bị đóng băng hoàn toàn. Giá trị càng gần 100% thì khả năng cô ấy biến thành một khối băng càng cao.
 
 
-&&Config_spconfig_frozen_dmg_voice Frozen Soul
+&&Config_spconfig_frozen_dmg_voice Linh hồn băng giá
 /* ___ Config_desc_spconfig_frozen_dmg_voice ___ */
-Choose whether Noel’s voice clips will play or not when she’s fully frozen.
+Chọn việc các đoạn thoại của Noel có được phát hay không khi cô bị đóng băng hoàn toàn.
 
 
-&&Config_spconfig_stone_dmg_voice Stony Silence
+&&Config_spconfig_stone_dmg_voice Stony Sự im lặng cứng nhắc
 /* ___ Config_desc_spconfig_stone_dmg_voice ___ */
-Choose whether Noel’s voice clips will play or not when she’s fully petrified.
+Chọn việc các đoạn thoại của Noel có được phát hay không khi cô ấy bị hóa đá hoàn toàn.
 
 
-&&Config_spconfig_frozen_lock_orgasm Put On Ice
+&&Config_spconfig_frozen_lock_orgasm Khoái cảm lạnh
 /* ___ Config_desc_spconfig_frozen_lock_orgasm ___ */
-Prevent Noel from orgasming while she is fully frozen.
+Ngăn Noel đạt cực khoái khi cô ấy bị đóng băng hoàn toàn.
 
 
-&&Config_spconfig_stone_lock_orgasm No Getting Your Rocks Off
+&&Config_spconfig_stone_lock_orgasm Không thể đạt cực khoái
 /* ___ Config_desc_spconfig_stone_lock_orgasm ___ */
-Prevent Noel from orgasming while she is fully petrified.
+Ngăn Noel đạt cực khoái khi cô ấy bị hóa đá hoàn toàn.
 
 
-&&Config_spconfig_freecamera Free-cam
+&&Config_spconfig_freecamera Cam tự do
 /* ___ Config_desc_spconfig_freecamera ___ */
-Adds a camera function to Noel's staff. Activate it in the lower-left corner of the Menu screen. You can also configure it to activate on a keypress.
+Thêm chức năng camera vào cây trượng của Noel. Kích hoạt chức năng này ở góc dưới bên trái của màn hình Menu. Bạn cũng có thể thiết lập để kích hoạt bằng một phím.
 
 
 // ========================================================
@@ -573,129 +573,129 @@ Adds a camera function to Noel's staff. Activate it in the lower-left corner of 
 // ========================================================
 &&Keyconfig_arrow_on_ui (UI)
 
-&&Config_MASTER_VOL Master
-&&Config_desc_MASTER_VOL Adjust the master volume.
+&&Config_MASTER_VOL Tổng
+&&Config_desc_MASTER_VOL Âm lượng tổng.
 
 
 // ========================================================
 // MARK : ver0.28h サウンドエラー対処
 // ========================================================
-&&Config_spatial_sound Spatial Audio
+&&Config_spatial_sound Âm thanh không gian
 /* ___ Config_desc_spatial_sound ___ */
-Choose whether to use Windows spatial audio functionality.
+Chọn có sử dụng chức năng âm thanh không gian của Windows hay không.
 
 /* ___ Config_apply_after_reboot ___ */
-<font color="#E70B0B">Reboot the game to apply these changes.</font>
-Now: <i>&1</i>
+<font color="#E70B0B">Khởi động lại game để áp dụng thay đổi.</font>
+Hiện tại: <i>&1</i>
 
 
 // ========================================================
 // MARK : ver0.29
 // ========================================================
 
-&&Config_camera_center_hor Flexcam (H)
-&&Config_camera_center_ver Flexcam (V)
+&&Config_camera_center_hor Flexcam (ngang)
+&&Config_camera_center_ver Flexcam (Dọc)
 /* ___ Config_desc_camera_center ___ */
-Configure how closely the camera tracks Noel to keep her centered on screen. 0 will keep her dead-center at all times.
+Thiết lập mức độ camera đi theo Noel để giữ cô ấy ở giữa màn hình. 0 sẽ luôn giữ cô ấy chính giữa màn hình. 
 
-&&Config_center_face HUD Icon
+&&Config_center_face Biểu tượng HUD
 
-&&Config_always_show_hud HUD behavior
+&&Config_always_show_hud Trạng thái HUD
 /* ___ Config_desc_always_show_hud ___ */
-Configure how the HUD behaves when outside of combat. “Disabled” here means it will operate in its default state and hide itself on occasion. All other options will force it to stay displayed at all times.
+Thiết lập cách HUD hoạt động khi không trong chiến đấu. “Tắt” ở đây có nghĩa là HUD sẽ hoạt động theo trạng thái mặc định và đôi khi tự ẩn. Tất cả các tùy chọn khác sẽ buộc HUD luôn hiển thị.
 
-&&Config_always_show_hud_top Top
-&&Config_always_show_hud_bottom Bottom
-&&Config_always_show_hud_switch Auto-switch
+&&Config_always_show_hud_top Trên
+&&Config_always_show_hud_bottom dưới
+&&Config_always_show_hud_switch Tự động đổi
 
-&&Config_ep_fear_mode Pleasure to Pain
+&&Config_ep_fear_mode Khoái cảm thành đau đớn
 /* ___ Config_desc_ep_fear_mode ___ */
-Changes Noel’s expressions of arousal to be fearful.
+Thay đổi biểu cảm kích thích của Noel thành biểu cảm đau đớn.
 
-&&Config_spconfig_ep_fear_mode_item Pleasure to Pain - Specifics
+&&Config_spconfig_ep_fear_mode_item Khoái cảm thành đau đớn - Chi tiết
 /* ___ Config_desc_spconfig_ep_fear_mode_item ___ */
-Allows for the individual configuration of the setting that switches Noel’s arousal expressions to fear in Super Safe Mode.\nThis setting will appear in the normal config tab.
+Cho phép thiết lập riêng từng tùy chọn của chức năng chuyển biểu cảm kích thích của Noel thành đau đớn trong Chế độ Siêu An toàn.\nCài đặt này sẽ xuất hiện trong tab cấu hình thông thường.
 
-&&Config_spconfig_vore_digest Acid Bath
+&&Config_spconfig_vore_digest Tắm acid
 /* ___ Config_desc_spconfig_vore_digest ___ */
-Configure whether enemies with vore attacks fatally digest their prey. Higher values decrease the amount of time required for digestion.
-Check the Field Guide to see which enemies this affects.
+Thiết lập việc kẻ địch có đòn tấn công nuốt chửng có tiêu hóa con mồi đến chết hay không. Giá trị càng cao thì thời gian cần thiết để tiêu hóa càng ngắn.
+Xem Field Guide để biết những kẻ địch nào bị ảnh hưởng.
 
-&&Config_spconfig_share_all_setting Collective Knowledge
+&&Config_spconfig_share_all_setting Kiến thức chung
 /* ___ Config_desc_spconfig_share_all_setting ___ */
-Configuration options unlocked within one save file will display across all others. Settings for each configuration option are still unique for each file.
+Các tùy chọn cấu hình được mở khóa trong một file lưu sẽ được hiển thị trong tất cả các file lưu khác. Tuy nhiên, cài đặt của từng tùy chọn cấu hình vẫn được lưu riêng cho mỗi file.
 
-&&Config_spconfig_uigo_menu_bench Game Over menu: Return to bench
+&&Config_spconfig_uigo_menu_bench Game Over menu: Quay lại ghế băng
 /* ___ Config_desc_spconfig_uigo_menu ___ */
-Configure whether the fast travel menu appears after Noel is defeated.
+Thiết lập xem menu dịch chuyển nhanh sẽ xuất hiện sau khi Noel bại trận hay không.
 
-&&Config_spconfig_uigo_menu_title Game Over menu: Return to title
+&&Config_spconfig_uigo_menu_title Game Over menu: Quay về trang tiêu đề
 
-&&Config_spconfig_bsspider_vore Spider Vore
+&&Config_spconfig_bsspider_vore Bụng của nhện
 /* ___ Config_desc_spconfig_bsspider_vore ___ */
-Configure whether the Mountain Spider will execute a vore attack instead of egg-laying.
+Thiết lập xem Nhện Núi sẽ thực hiện tấn công nuốt chửng thay vì đẻ trứng.
 
-&&Config_spconfig_vore_liquid_color Chromatic Depths
+&&Config_spconfig_vore_liquid_color Độ sâu sắc màu
 /* ___ Config_desc_spconfig_vore_liquid_color ___ */
-Configure the color of juices that appear during vore attacks.
+Thiết lập màu của dịch xuất hiện trong các đòn tấn công nuốt chửng.
 
-&&Config_liquid_color_white White
-&&Config_liquid_color_gray Gray
-&&Config_liquid_color_red Red
-&&Config_liquid_color_yellow Yellow
-&&Config_liquid_color_green Green
-&&Config_liquid_color_viridian Viridian
-&&Config_liquid_color_indigo Indigo
-&&Config_liquid_color_purple Purple
-&&Config_liquid_color_pink Pink
-&&Config_liquid_color_random Random
-&&Config_liquid_color_transparent Transparent
+&&Config_liquid_color_white Trắng
+&&Config_liquid_color_gray Xám
+&&Config_liquid_color_red Đỏ
+&&Config_liquid_color_yellow Vàng
+&&Config_liquid_color_green Xanh lá
+&&Config_liquid_color_viridian Xanh lục bảo
+&&Config_liquid_color_indigo Chàm
+&&Config_liquid_color_purple Tím
+&&Config_liquid_color_pink Hồng 
+&&Config_liquid_color_random Ngẫu nhiên
+&&Config_liquid_color_transparent Độ trong suốt
 
-&&Config_spconfig_uipic_web_trapped_density Sticky Thicky
+&&Config_spconfig_uipic_web_trapped_density Độ dính mạng nhện
 /* ___ Config_desc_spconfig_uipic_web_trapped_density ___ */
-Configure the density for sticky effects on Noel’s portrait.
+Thiết lập độ dày của hiệu ứng dính trên chân dung của Noel.
 
 // 029c
 
-&&Config_MagSel_Cancel_Stick_Input Spell swap
+&&Config_MagSel_Cancel_Stick_Input Đổi phép
 /* ___ Config_desc_MagSel_Cancel_Stick_Input ___ */
-Enable to allow spell shortcut keys (<key mla/><key mta/><key mba/><key mra/>) to replace a chanted/held spell when a different one is chosen.
+Cho phép các phím tắt phép thuật (<key mla/><key mta/><key mba/><key mra/>) để thay thế phép đang niệm/giữ khi chọn một phép khác.
 
 
-&&Config_UiInput_Stick_Thresh Sensitivity (UI)
+&&Config_UiInput_Stick_Thresh Độ nhạy (Giao diện)
 
 
 
 // 0.29j (260405 Untranslated, Temporary translated by Hinayua)
 
-&&Config_spconfig_dmg_counter_in_pause  Damage Numbers Animation
-&&Config_spconfig_dmg_counter_in_pause_myself (Myself)
-&&Config_spconfig_dmg_counter_in_pause_enemy (Enemy)
+&&Config_spconfig_dmg_counter_in_pause  Hoạt ảnh số sát thương
+&&Config_spconfig_dmg_counter_in_pause_myself (Bản thân)
+&&Config_spconfig_dmg_counter_in_pause_enemy (Kẻ địch)
 /* ___ Config_desc_spconfig_dmg_counter_in_pause ___ */
-Select whether to display the damage numbers animation while paused.
+Chọn có hiển thị hoạt ảnh số sát thương khi đang tạm dừng hay không.
 
-&&Config_show_dmg_counter_show Auto
-&&Config_show_dmg_counter_fix Fixed
-&&Config_show_dmg_counter_hide Hidden
-
-
-&&GO_KeyHelp_pause_progress Next Frame
+&&Config_show_dmg_counter_show Tự động
+&&Config_show_dmg_counter_fix Cố định
+&&Config_show_dmg_counter_hide Ẩn
 
 
+&&GO_KeyHelp_pause_progress Khung hình tiếp theo
 
 
-&&Config_category_general General
+
+
+&&Config_category_general Chung
 &&Config_category_manipulate Gameplay
-&&Config_category_graphics Video
-&&Config_category_ui UI
-&&Config_category_effects Effects
-&&Config_category_effects_sp Extra
-&&Config_category_sound Sound
+&&Config_category_graphics Hình ảnh
+&&Config_category_ui Giao diện
+&&Config_category_effects Hiệu ứng
+&&Config_category_effects_sp Bổ sung
+&&Config_category_sound Âm thanh
 
 
-&&Config_reset Reset
-&&Config_reset_thistab This tab
-&&Config_reset_alltab All tabs
-&&Config_reset_normal Defaults
-&&Config_reset_sp 拡張オプション(解禁済)
-&&Config_reset_sp_invisible 拡張オプション(未解禁)
+&&Config_reset Đặt lại
+&&Config_reset_thistab Tab này
+&&Config_reset_alltab Tất cả
+&&Config_reset_normal Mặc định
+&&Config_reset_sp Tùy chọn mở rộng (Đã mở khóa)
+&&Config_reset_sp_invisible Tùy chọn mở rộng (Chưa mở khóa)
