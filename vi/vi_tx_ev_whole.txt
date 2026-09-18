@@ -470,28 +470,28 @@ Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 
 &&Alert_item_reduced_alice Đã đưa &1
 
-&&Select_guild_enough_point1 About points
-&&Select_guild_enough_point2 About excess points
+&&Select_guild_enough_point1 Về điểm số
+&&Select_guild_enough_point2 Về điểm số dư
 
-&&Select_business_ooparts About OOPArts
+&&Select_business_ooparts Về OOPArts
 
-&&Alert_item_reduced_ooparts Gave &1
+&&Alert_item_reduced_ooparts Đã đưa &1
 
-&&Talker_laboman Archaeologist
+&&Talker_laboman Nhà khảo cổ
 
 &&Select_ooparts OOPArts
 
-&&Select_send_ooparts Give OOPArt
+&&Select_send_ooparts Đưa OOPArt
 
-&&Select_send_taco Give taco
+&&Select_send_taco Đưa taco
 
-&&Select_launch_elec_faciliy Restore power
+&&Select_launch_elec_faciliy Khôi phục nguồn điện
 
-&&Tuto_evade_jump Tap <key la/>/<key ra/> mid-dodge: Meta-dodge
+&&Tuto_evade_jump Tap <key la/>/<key ra/> Giữa lúc né: Meta-dodge
 
-&&Alert_item_reduced_ooparts_tigrina Gave &1 
+&&Alert_item_reduced_ooparts_tigrina Đã đưa &1 
 
-&&Select_tellme2 Tell me
+&&Select_tellme2 Nói cho tôi biết
 
 &&Tuto_flowerycircle <key FLOWERYCIRCLE/>Flowery Circle
 
