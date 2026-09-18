@@ -309,7 +309,7 @@ A pair of bean-shaped organs located on both sides of your waist. Kidneys help f
 *
 Dilators
 
-A pair of small organs found on both sides of your chest. A subset of the respiratory system, these organs take mana from the air you breathe and store it in red blood cells to circulate throughout your body.
+A pair of small organs found on both sides of your chest. These organs take mana from the air you breathe and store it in red blood cells to circulate throughout your body.
 
 Mana can still be drawn out once metabolized, but may be painful depending on the method.
 *

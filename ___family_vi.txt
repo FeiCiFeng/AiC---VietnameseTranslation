@@ -38,7 +38,8 @@ vi      VI      Vietnamese
 
 %BUNDLE_PATH __AdditionalFonts opensans
 %FONT OpenSans-Regular OpenSans-Light 
+%USE_ARIEL 1
 %FONT_BASE_HEIGHT 0.84
 %FONT_YSHIFT 0.88
-%FONT_XRATIO 1.02
-%FONT_XRATIO_1BYTE 1.00
+%FONT_XRATIO 1.0
+%FONT_XRATIO_1BYTE 1

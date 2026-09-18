@@ -176,7 +176,7 @@ I've searched high and low, but I can't seem to find what it's showing.
 <W4>......
 
 *n_50
-...Will you...help me find it?
+...You're just...giving me the treasure?
 
 *fh_51
 <W4>......

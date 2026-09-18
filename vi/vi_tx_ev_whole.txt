@@ -6,10 +6,10 @@
 
 &&Talker_Tilde Tilde Cornehl
 &&Talker_NoelDad Delfini Cornehl
-&&Talker_Customer Customer
+&&Talker_Customer Khách Hàng
 &&Talker_Walross Walross
 &&Talker_Ostrea Ostrea
-&&Talker_Army Soldier
+&&Talker_Army Binh lính
 
 // ========================================================
 // MARK : 220115追加
@@ -18,60 +18,60 @@
 &&Talker_Unknown ？？？
 &&Talker_Mob ＊
 &&Talker_Nightingale Nightingale
-&&Talker_Guard Village Guard
+&&Talker_Guard Vệ binh làng
 &&Talker_Alma Alma Opfebaum
 
-&&EV_access_alchemy Perform alchemy
-&&EV_access_cook Cook
+&&EV_access_alchemy Luyện kim
+&&EV_access_cook Nấu ăn
 &&EV_access_atelier Atelier
-&&EV_access_myroom My room
-&&EV_access_shower Shower
-&&EV_access_restroom Restroom
-&&EV_access_dadroom Father's room 
-&&EV_access_terrace Terrace
+&&EV_access_myroom Phòng của tôi
+&&EV_access_shower Tắm
+&&EV_access_restroom Nhà vệ sinh
+&&EV_access_dadroom Phòng của bố
+&&EV_access_terrace Sân hiên
 
-&&EV_access_warp_oneway Return to checkpoint (One way)
-&&EV_access_warp Warp
-
-
-&&EV_access_fasttravel Travel
+&&EV_access_warp_oneway Quay lại checkpoint (một chiều)
+&&EV_access_warp Dịch chuyển
 
 
-
-&&Select_yes Yes
-&&Select_no No
-&&Select_yep Yep
-&&Select_nope Not really...
-&&Select_see_masturbate Play masturbation scene
-&&Select_skip Skip
-&&Select_buying Shop
-&&Select_talk Talk
-&&Select_nothanks No thanks
+&&EV_access_fasttravel Di chuyển
 
 
-&&Select_gate Front gate
-&&Select_entrance Entrance
-&&Select_garden Garden
-&&Select_myroom My room
+
+&&Select_yes Có
+&&Select_no Không
+&&Select_yep Đúng
+&&Select_nope Không hẳn...
+&&Select_see_masturbate Xem cảnh thủ dâm
+&&Select_skip Bỏ qua
+&&Select_buying Cửa hàng
+&&Select_talk Trò chuyện
+&&Select_nothanks Không, cảm ơn
 
 
-&&EvTitle_YourName Your name
-&&EvTitle_ReasonForMoving Reason for wandering
-&&EvTitle_Wanted Wanted person
-&&EvTitle_hp_red Low HP
-
-&&Tuto_punch <key z/> Weak attack
+&&Select_gate Cổng trước
+&&Select_entrance Lối vào
+&&Select_garden Khu vườn
+&&Select_myroom Phòng của tôi
 
 
-&&Select_sitdown Sit next to her 
-&&Select_stop_sitdown Do nothing
+&&EvTitle_YourName Tên của bạn
+&&EvTitle_ReasonForMoving Lí do lang thang
+&&EvTitle_Wanted Người bị truy nã
+&&EvTitle_hp_red HP thấp
+
+&&Tuto_punch <key z/> Tấn công thường
+
+
+&&Select_sitdown Ngồi cạnh cô ấy
+&&Select_stop_sitdown Không làm gì cả
 
 //選択肢
-&&Select_daijoubu I'm okay
-&&Select_notgood Not quite...
+&&Select_daijoubu Tôi ổn
+&&Select_notgood Không hẳn...
 
-&&Select_noproblem That's no problem
-&&Select_weird That's nuts
+&&Select_noproblem Không sao đâu
+&&Select_weird Điên thật đấy
 
 
 
@@ -79,64 +79,64 @@
 // MARK : 2202 追加分
 // ========================================================
 
-&&Talker_elf_man Elf man
-&&Talker_elf_madam Elf lady
-&&Talker_elf_woman Elf woman
-&&Talker_elf_student Elf student
-&&Talker_NoelCane Noel's staff
-&&Talker_IxiaCane Ixia's staff
+&&Talker_elf_man Nam Elf
+&&Talker_elf_madam Quý bà Elf
+&&Talker_elf_woman Nữ Elf
+&&Talker_elf_student Học sinh Elf
+&&Talker_NoelCane Trượng của Noel
+&&Talker_IxiaCane Trượng của Ixia
 
-&&Tuto_collect <key submit/> Collect
-&&Tuto_magic Hold <key x/> to cast spell
-&&Tuto_map <key a/> Open map
-&&Tuto_wakeup <key submit/> Wake up
-&&Tuto_magic_dropbomb <key DROPBOMB /> Ground Bomb
-&&Tuto_menu Show Menu
-&&Tuto_guard Hold <key lsh/> to raise shield
-&&Tuto_evade <key lsh/>+<key la/><key ra/> Dodge
-&&Tuto_evade_0 <key lsh/>+<key la/><key ra/> Dodge ( 3 left )
-&&Tuto_evade_1 <key lsh/>+<key la/><key ra/> Dodge ( 2 left )
-&&Tuto_evade_2 <key lsh/>+<key la/><key ra/> Dodge ( 1 left )
+&&Tuto_collect <key submit/> Thu thập
+&&Tuto_magic Hold <key x/> Để niệm phép
+&&Tuto_map <key a/> mở bản đồ
+&&Tuto_wakeup <key submit/> Thức dậy
+&&Tuto_magic_dropbomb <key DROPBOMB /> Địa lôi
+&&Tuto_menu Mở menu
+&&Tuto_guard Hold <key lsh/> Để tạo khiên
+&&Tuto_evade <key lsh/>+<key la/><key ra/> Né
+&&Tuto_evade_0 <key lsh/>+<key la/><key ra/> Né ( còn 3 lần )
+&&Tuto_evade_1 <key lsh/>+<key la/><key ra/> Né ( còn 2 lần )
+&&Tuto_evade_2 <key lsh/>+<key la/><key ra/> Né ( còn 1 lân )
 
-&&Tuto_fireball <key FIREBALL la/> Shoot Energy Ball and <key ta/> to change the direction
+&&Tuto_fireball <key FIREBALL la/> Bắn cầu năng lượng và <key ta/> để đổi hướng
 
-&&Select_kitchen Kitchen
-&&EV_access_costume_change   Change costume (WIP)
-&&EV_access_scene_memory   Watch cutscenes
-&&EV_access_theroom_occupied   The room (in use)
-&&EV_access_theroom_wip   The room (WIP)
-&&EV_access_read Read
-
-
-&&EV_access_collect_by_attack Attack or use spell to collect
-&&EV_access_collected_already Already collected
+&&Select_kitchen Nhà bếp
+&&EV_access_costume_change   Thay đổi trang phục (Đang phát triển)
+&&EV_access_scene_memory   Xem lại các ký ức
+&&EV_access_theroom_occupied   Căn phòng (có người)
+&&EV_access_theroom_wip   Căn phòng (Đang phát triển)
+&&EV_access_read Đọc
 
 
+&&EV_access_collect_by_attack Tấn công hoặc niệm phép để thu thập
+&&EV_access_collected_already Đã thu thập
 
 
-&&Select_cook_tutorial Learn how to cook
-&&Select_lunchtime Eat the dish
-
-&&EvTitle_AboutMana About Mana
-&&EvTitle_Cane Staff
-&&EvTitle_Cooking Breakfast
-&&EvTitle_Cooking2 Benefits of food
-&&EvTitle_Cooking3 Let's Cooking!
-&&EvTitle_StomachAndEfficient Hunger and food potency
 
 
-&&EvTitle_HomeRoad On the way home
-&&EvTitle_ForestRoad Path safety
-&&EvTitle_Village Elf Village
+&&Select_cook_tutorial Học cách nấu ăn
+&&Select_lunchtime Dùng món ăn
 
-&&EvTitle_MtrQuality Material quality
-&&EvTitle_Dangerousness Danger level
-&&EvTitle_BattleReward Battle rewards 
-&&EvTitle_Weather Weather
+&&EvTitle_AboutMana Về Mana
+&&EvTitle_Cane Trượng
+&&EvTitle_Cooking Bữa sáng
+&&EvTitle_Cooking2 Lợi ích của đồ ăn
+&&EvTitle_Cooking3 Bắt đầu nấu ăn!
+&&EvTitle_StomachAndEfficient Độ đói và hiệu quả của thức ăn
 
-&&EvTitle_Quake Thunderous sound
-&&EvTitle_Memory Memories
-&&EvTitle_Sell Goods
+
+&&EvTitle_HomeRoad Đường về nhà
+&&EvTitle_ForestRoad Độ an toàn của tuyến đường
+&&EvTitle_Village Làng Elf
+
+&&EvTitle_MtrQuality Chất lượng vật liệu
+&&EvTitle_Dangerousness Mức độ nguy hiểm
+&&EvTitle_BattleReward Phần thưởng trận chiến
+&&EvTitle_Weather Thời tiết
+
+&&EvTitle_Quake Tiếng sấm
+&&EvTitle_Memory Ký ức
+&&EvTitle_Sell Vật phẩm
 
 // ========================================================
 // MARK : ver0.22 追加
@@ -144,11 +144,11 @@
 
 
 
-&&Talker_beastman Mountain Beastman
+&&Talker_beastman Thú nhân vùng núi
 
-&&EvTitle_nusi  Large Monster
+&&EvTitle_nusi  Quái vật khổng lồ
 
-&&Talker_Soldier  Soldier
+&&Talker_Soldier  Lính
 &&Talker_Mepha Mepha Gridyard
 // Mepha Gridyard
 
@@ -157,10 +157,10 @@
 // MARK : v0.23 追加
 // ========================================================
 
-&&Select_itsfunny Yes
-&&Select_notfunny No way!
-&&EV_access_theroom  The Break Room
-&&EV_access_theroom_aloma  Prepare aroma
+&&Select_itsfunny Có
+&&Select_notfunny Không đời nào!
+&&EV_access_theroom  Phòng nghỉ ngơi
+&&EV_access_theroom_aloma  Chuẩn bị hương
 
 
 / ========================================================
@@ -168,307 +168,307 @@
 // ========================================================
 
 
-&&Talker_EnemyPuppet Puppet-type Monster
-&&Talker_CoffeeMaker Coffee Maker
-&&Select_use_pot Borrow cookware
+&&Talker_EnemyPuppet Quái vật dạng búp bê
+&&Talker_CoffeeMaker Máy pha cà phê
+&&Select_use_pot Mượn dụng cụ nấu ăn
 
 
-&&Select_buying_puppet Trade
-&&EV_access_manipulate  Use
+&&Select_buying_puppet Trao đổi
+&&EV_access_manipulate  Dùng
 
-&&Select_alchemy_coffee Borrow the siphon
+&&Select_alchemy_coffee Mượn bình siphon
 
 
-&&Select_switch_old_portrait Switch battle portrait to old version
-&&EV_access_costume_change2    Change costume
+&&Select_switch_old_portrait Đổi chân dung chiến đâu sang phiên bản cũ
+&&EV_access_costume_change2    Đổi trang phục
 
 
 // ========================================================
 // MARK : ver 0.25
 // ========================================================
 
-&&Talker_dojo_teacher Master
-&&Talker_dojo_student Pupil
-&&Talker_dairy_farmer Farmer
+&&Talker_dojo_teacher Sư phụ
+&&Talker_dojo_student Đệ tử
+&&Talker_dairy_farmer Nông dân
 
-&&Select_dojo_study Train
+&&Select_dojo_study Luyện tập
 
-&&Select_dojo_practice Practice match
-
-
-&&EvTitle_dojo_statue About the statue
-&&EvTitle_dojo_cap What's on your head?
+&&Select_dojo_practice Đấu tập
 
 
-&&Select_do_farming Sure
-&&Select_check_rule How does it work?
-
-&&Select_cfg_stick_thresh_on Set stick run threshold to 0
-&&Select_cfg_stick_thresh_off Stick run threshold: 0
-
-&&Select_cfg_auto_run_on Auto-run: On
-&&Select_cfg_auto_run_off Auto-run: Off
-&&Select_start_mini_game Begin
-&&Select_nothanks_mini_game Actually, nevermind
-&&Select_quit_mini_game I'm done
+&&EvTitle_dojo_statue Về bức tượng
+&&EvTitle_dojo_cap Trên đầu ông có gì vậy?
 
 
-&&EV_access_suckmilk   Milk
-&&KD_farm_suck  <key ba/>hold to milk
+&&Select_do_farming Được
+&&Select_check_rule Nó hoạt động thế nào?
+
+&&Select_cfg_stick_thresh_on Đặt ngưỡng chạy bằng cần analog thành 0
+&&Select_cfg_stick_thresh_off Ngưỡng chạy bằng cần analog: 0
+
+&&Select_cfg_auto_run_on Tự động chạy: Bật
+&&Select_cfg_auto_run_off Tự động chạy: Tắt
+&&Select_start_mini_game Bắt đầu
+&&Select_nothanks_mini_game Thôi, không cần nữa
+&&Select_quit_mini_game Tôi xong rồi
+
+
+&&EV_access_suckmilk   Vắt sữa
+&&KD_farm_suck  <key ba/>Giữ để vắt
 
 
 
-&&EvTitle_uniform Your clothes...
-&&EvTitle_curemagic Recovery magic
-&&EvTitle_boring Are you bored?
-&&EvTitle_4ascend_ixia Play with Ixia <img mesh="icon_4ascend" />
+&&EvTitle_uniform Quần áo của bạn...
+&&EvTitle_curemagic Phép hồi phục
+&&EvTitle_boring Cậu thấy chán à?
+&&EvTitle_4ascend_ixia Chơi với Ixia <img mesh="icon_4ascend" />
 
-&&EvTitle_road2city On the way to town
-&&EvTitle_battle_w1nusi Lord of the Forest
-&&EvTitle_4ascend_primula Play with Primula <img mesh="icon_4ascend" />
+&&EvTitle_road2city Trên đường tới thị trấn
+&&EvTitle_battle_w1nusi Chúa tể khu rừng
+&&EvTitle_4ascend_primula Chơi với Primula <img mesh="icon_4ascend" />
 
 &&EvTitle_alma Alma
 
 
-&&Talker_teacher Teacher
-&&Select_go_class Go to class
-&&Select_wait_a_minute Hang on...
+&&Talker_teacher Giáo viên
+&&Select_go_class Đến lớp
+&&Select_wait_a_minute Chờ chút...
 
-&&Talker_museum Curator
+&&Talker_museum Giám tuyển
 
-&&Select_pay Pay
-&&Select_dont_pay Don't pay
-&&Select_cannot_pay I can't afford that
-
-
-&&EvTitle_camera Contraption
-&&EvTitle_structure Design
-&&EV_access_restroom2 Shower
-
-&&Talker_army Soldier
-&&Talker_engineer Engineer
+&&Select_pay Trả tiền
+&&Select_dont_pay Không trả tiền
+&&Select_cannot_pay Tôi không đủ tiền
 
 
-&&EvTitle_bar What brings you here?
-&&EvTitle_fight About the fight
-&&EvTitle_forklore Tell me a story
-&&EvTitle_replacable Long life
+&&EvTitle_camera Máy móc
+&&EvTitle_structure Thiết kế
+&&EV_access_restroom2 Tắm
+
+&&Talker_army Lính
+&&Talker_engineer Kỹ sư
+
+
+&&EvTitle_bar Cơn gió nào đưa bạn tới đây?
+&&EvTitle_fight Về trận chiến
+&&EvTitle_forklore Kể cho tôi nghe một câu chuyện
+&&EvTitle_replacable Trường thọ
 
 
 &&EvTitle_4ascend 4-Ascend <img mesh="icon_4ascend" />
-&&EvTitle_4ascend_play Play 4-Ascend <img mesh="icon_4ascend" />
-&&EvTitle_4ascend_ostrea Play with Ostrea <img mesh="icon_4ascend" />
+&&EvTitle_4ascend_play Chơi 4-Ascend <img mesh="icon_4ascend" />
+&&EvTitle_4ascend_ostrea Chơi với Ostrea <img mesh="icon_4ascend" />
 
 
-&&Talker_Barten Bartender
+&&Talker_Barten Người pha chế
 
 
-&&Select_speak_to Talk
-&&EvTitle_similar_person Look-alike
+&&Select_speak_to Nói chuyện
+&&EvTitle_similar_person Trông giống
 
-&&EvTitle_secret_about_walross Walross' family
+&&EvTitle_secret_about_walross Gia đình của Walross
 
-&&Select_buy_order Order
-&&Select_ask_you_are_monster0 Are you a monster?
-&&Select_ask_you_are_monster1 You're really a beastman?
-&&Select_ask_you_are_monster2 You're definitely a monster.
+&&Select_buy_order Gọi món
+&&Select_ask_you_are_monster0 Ngươi là quái vật à? //đoạn này đang check lại
+&&Select_ask_you_are_monster1 Ngươi có thực sự là thú nhân? // không nhớ đoạn này trong game
+&&Select_ask_you_are_monster2 Ngươi chắn chắn là quái vật.
 &&Select_ask_you_are_monster3 ......
 &&Select_drunker ......?
 
-&&Select_imsorry I'm sorry
-&&Select_ask_you_sucked Slurping sound
+&&Select_imsorry Tôi xin lỗi
+&&Select_ask_you_sucked Tiếng soàm soạp
 
 
-&&Tuto_backlog <key add/> History log
+&&Tuto_backlog <key add/> Lịch sử
 
 
-&&EV_access_city_cafe   Cafe Tigerlily
-&&EV_access_ring_bell Ring bell
+&&EV_access_city_cafe   Quán cà phê Tigerlily
+&&EV_access_ring_bell Rung chuông
 
 
 // ========================================================
 // MARK : ver0.26
 // ========================================================
-&&EvTitle_nightingale_quest00 Nightingale's Request
-&&EvTitle_nightingale_quest00_1 Bring Nightingale the Forbidden Fruit
+&&EvTitle_nightingale_quest00 Yêu cầu của Nightingale
+&&EvTitle_nightingale_quest00_1 Đưa cho Nightingale trái cấm
 
 
-&&Select_find_nightingale Look for Nightingale
-&&Select_callback_nightingale (SFW Mode) Call for Nightingale
+&&Select_find_nightingale Tìm Nightingale
+&&Select_callback_nightingale (Chế độ) Gọi Nightingale
 
 
-&&Select_choose_bottle Get an empty bottle
-&&Select_excrete I can't hold it...!
+&&Select_choose_bottle Lấy một cái chai rỗng
+&&Select_excrete Tôi không nhịn được nữa...!
 
-&&Timer_find_bottle Take out an empty bottle
+&&Timer_find_bottle Lấy chai rỗng ra
 
 // ========================================================
 // MARK : ver0.27
 // ========================================================
 
-&&EV_access_mirror Mirror
-&&Select_guild_get_quest Requests
-&&Select_guild_desc Overview
-&&Select_guild_register Register
+&&EV_access_mirror Gương
+&&Select_guild_get_quest Nhiệm vụ
+&&Select_guild_desc Tổng quan
+&&Select_guild_register Đăng ký
 
 
-&&Select_smnc Simulation
+&&Select_smnc Mô phỏng
 
 
 &&Talker_Tigrina Tigrina Soala
 
-&&Select_s14_help Help her
-&&Select_s14_later Maybe later...
+&&Select_s14_help Giúp cô ấy
+&&Select_s14_later Để sau đi...
 
-&&Select_s14_go_armory Enter the armory!
+&&Select_s14_go_armory Vào kho vũ khí!
 
-&&Select_back Leave
-&&Select_continue_sneaking Keep trying
+&&Select_back Rời đi
+&&Select_continue_sneaking Tiếp tục thử
 
-&&Select_accept Push the button
-&&Select_reset_garage Reset
+&&Select_accept Nhấn nút
+&&Select_reset_garage Đặt lại
 
 
 // 学園のお店 (西B1)
-&&EV_access_tuckshop School Store
+&&EV_access_tuckshop Cửa hàng học viên
 // 森軍地区の食堂
-&&EV_access_cafeteria Cafeteria
+&&EV_access_cafeteria Nhà ăn
 
 
-&&EvTitle_t_unlock_enemy  Unlocking new enemies
-&&EvTitle_t_enemydrop  Tip: Enemy drops
-&&EvTitle_t_elecboard  Tip: Circuit boards
+&&EvTitle_t_unlock_enemy  Mở khóa kẻ địch mới
+&&EvTitle_t_enemydrop  Mẹo: Vật phẩm rớt từ quái
+&&EvTitle_t_elecboard  Mẹo: Bảng mạch
 
-&&Select_tilde_open_box  Open chests for me
+&&Select_tilde_open_box  Mở rương hộ chị
 
 
-&&Select_osioki_progress Submit
-&&Select_osioki_progress_sensitive Submit (Super SFW off)
-&&Select_osioki_skip Count the ceiling tiles (skip)
+&&Select_osioki_progress Xác nhận
+&&Select_osioki_progress_sensitive Xác nhận (đã tắt chế độ siêu an toàn)
+&&Select_osioki_skip Đếm ô tren trần nhà (bỏ qua)
 
 
 // ========================================================
 // MARK : 0.28
 // ========================================================
 
-&&EV_access_hvn_book_abyss 「The Tale of Lily」
-&&EV_access_hvn_book_cane 「Grazia's Beginnings」
-&&EV_access_hvn_book_orthodoxy 「Grazian Orthodoxy」
-&&EV_access_hvn_book_cooking 「The Seasonal Chef」
-&&EV_access_hvn_book_elfbody 「Your Body and You」
-&&EV_access_hvn_book_demon 「Monster Ecology」
-&&EV_access_hvn_book_urasima 「Missing Persons Report」
-&&EV_access_hvn_book_uv 「Medusa's Light」
+&&EV_access_hvn_book_abyss 「Chuyện kể về Lily」
+&&EV_access_hvn_book_cane 「Khởi đầu của Grazia」
+&&EV_access_hvn_book_orthodoxy 「Chính giáo Grazian」
+&&EV_access_hvn_book_cooking 「Đầu bếp bốn mùa」
+&&EV_access_hvn_book_elfbody 「Cơ thể của bạn và bạn」
+&&EV_access_hvn_book_demon 「Sinh thái học quái vật」
+&&EV_access_hvn_book_urasima 「Báo cáo người mất tích」
+&&EV_access_hvn_book_uv 「Ánh sáng của Medusa」
 
-&&Select_forge_choose Staff conversion
-&&Select_forge_choose_buy Convert/Buy
+&&Select_forge_choose Chuyển đổi cây trượng
+&&Select_forge_choose_buy Chuyển đổi/Mua
 
-&&Select_forge_buy Can I buy one instead?
-&&Select_guild_talk About staff specs 
-&&Select_guild_talk2 Talk/Staff specs
-&&EvTitle_t_desc_buy Tester tips
-
-
-&&Talker_Blacksmith Blacksmith
-
-&&Talker_Grazia_forge Forge (Grazia)
+&&Select_forge_buy Tôi có thể mua cái khác không?
+&&Select_guild_talk Về thông số trượng
+&&Select_guild_talk2 Nói chuyện/Thông số trang bị
+&&EvTitle_t_desc_buy Mẹo từ người thử nghiệm
 
 
-&&EV_access_hvn_bottom   Heavenly Facility - Hospice
+&&Talker_Blacksmith Thợ rèn
 
-&&Tuto_watershard_04 While shards are forming, press<key lsh/>
-&&Tuto_watershard_mv_2 <font size="70%" linespacing=0.8>You can move and cast other spells\nwhile holding onto shards.</font>
-
-&&Tuto_watershard_05 With Water Shard selected, press and hold<key ta/>
-&&Tuto_watershard_06 With Water Shard selected, press and hold<key la/>or<key ra/>
-
-&&Tuto_watershard_07 With Water Shard selected, do not press any directional keys
-
-&&Select_retry_again I'd like to try again
-&&Select_finish_lecture I think I got it
+&&Talker_Grazia_forge Lò rèn (Grazia)
 
 
-&&Talker_instructor Instructor
+&&EV_access_hvn_bottom   Cơ Sở Thiên Đường - Nhà An Dưỡng
 
-&&Talker_Cane Staff
+&&Tuto_watershard_04 Khi thủy phiến hình thành, nhấn<key lsh/>
+&&Tuto_watershard_mv_2 <font size="70%" linespacing=0.8>Bạn có thể di chuyển và niệm phép\nkhi đang giữ mảnh mỡ.</font>
+
+&&Tuto_watershard_05 Khi đã chọn thủy phiến, nhấn và giữ<key ta/>
+&&Tuto_watershard_06 Khi đã chọn thủy phiến, nhấn và giữ<key la/>hoặc<key ra/>
+
+&&Tuto_watershard_07 Khi đã chọn thủy phiến, đừng bấm phím định hướng nào
+
+&&Select_retry_again Em muốn thửu lại
+&&Select_finish_lecture Em nghĩ em hiểu rồi
+
+
+&&Talker_instructor Giảng viên
+
+&&Talker_Cane Nhân viên
 
 &&Talker_Alice Alice
 
-&&EV_remember Revisit
+&&EV_remember Trải nghiệm lại
 
-&&Select_guessing Something's off...
+&&Select_guessing Có gì đó không ổn...
 
-&&Select_playagain_ixia_matoate Target practice
-&&Select_playagain_td Defend Grazia!
-&&Select_playagain Replay!
-&&Select_playagain_td1 Replay (Midday)
-&&Select_playagain_td2 Replay (Afternoon)
-&&Select_playagain_td3 Replay (Evening)
+&&Select_playagain_ixia_matoate Luyện tập bắn mục tiêu
+&&Select_playagain_td Bảo vệ Grazia!
+&&Select_playagain Chơi lại!
+&&Select_playagain_td1 Chơi lại (Giữa trưa)
+&&Select_playagain_td2 Chơi lại (Chiều)
+&&Select_playagain_td3 Chơi lại (Tối)
 
 /* ___ desc_playagain_ixia_matoate ___ */
-Play through the target practice
-competition with Ixia once more.
+Vượt qua màn luyện tập bắn mục tiêu
+Tái đấu với Ixia một lần nữa.
 
 /* ___ desc_playagain_td ___ */
-Revisit the horror of defending Grazia
-from a horde of monsters.
+Trải nghiệm lại cuộc chiến kinh hoàng bảo vệ Grazia 
+khỏi đàn quái vật.
 
-Grenades will be allowed this time and
-all consumables will be returned to you afterwards.
+Lần này được phép sử dụng lựu đạn và
+Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 
 
 
 // 防衛戦後ティグリナ
-&&EvTitle_t_after_td Defending Bermit
+&&EvTitle_t_after_td Bảo vệ học viện Bermit
 
-&&Select_ruokay You okay?
+&&Select_ruokay Bạn ổn chứ?
 
 
 
 // 防衛戦中のガレージ
-&&Select_return_BGM Music
+&&Select_return_BGM Nhạc
 
 
-&&Select_about_cane I need a replacement staff
-&&Select_replace_cane Yes, please
-&&Select_wanna_test Can I test it first?
+&&Select_about_cane Tôi cần một cây trượng thay thế
+&&Select_replace_cane Vâng, làm ơn
+&&Select_wanna_test Tôi có thể thử trước được không?
 
-&&Select_abort I'll pass
+&&Select_abort Thôi, không cần đâu
 
-&&Select_replace_cane_back Can I have my old staff back?
+&&Select_replace_cane_back Tôi có thể lấy lại cây trượng cũ không?
 
 
 // ========================================================
 // MARK : ver029
 // ========================================================
-&&Tuto_Jump <key jump/>Jump (hold for more height)
+&&Tuto_Jump <key jump/>Nhảy (Giữ để nhảy cao hơn)
 
-&&Tuto_Through_Lift <key ba/>Drop down
+&&Tuto_Through_Lift <key ba/>Nhảy xuống
 
-&&EV_access_carry_block_release Release
+&&EV_access_carry_block_release Đặt xuống
 
-&&Talker_ghost Ghost
+&&Talker_ghost Hồn ma
 
-&&Select_leave Leave her here
-&&Select_arrest_ghost Bring her back
+&&Select_leave Để cô ấy ở lại
+&&Select_arrest_ghost Đưa cô ấy trở về
 
-&&EV_access_fishing Fishing
+&&EV_access_fishing Câu cá
 
-&&Select_fishing_tutorial Observe
+&&Select_fishing_tutorial Quan sát
 
-&&Select_getit Take it
-&&Select_getit_enough I don't have space
+&&Select_getit Lấy
+&&Select_getit_enough Không còn chỗ trống
 
-&&Select_no_fishing_tutorial I'll learn on my own
-&&Select_watch_again Show me again
+&&Select_no_fishing_tutorial Tôi sẽ tự học
+&&Select_watch_again làm mẫu lại cho tôi với
 
-&&Select_pinch Pinch
-&&Select_giving Give item
-&&Select_watching Observe
-&&Select_think_hint Ponder (hint)
+&&Select_pinch Nhéo
+&&Select_giving Tặng vật phẩm
+&&Select_watching Quan sát
+&&Select_think_hint Suy ngẫm (gợi ý)
 &&Select_think_myself Hmm
 
-&&Alert_item_reduced_alice Gave &1
+&&Alert_item_reduced_alice Đã đưa &1
 
 &&Select_guild_enough_point1 About points
 &&Select_guild_enough_point2 About excess points

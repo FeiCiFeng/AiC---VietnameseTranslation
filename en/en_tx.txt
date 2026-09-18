@@ -54,8 +54,8 @@ which some viewers may find disturbing. Discretion is advised.
 
 
 /* ___ SaveDataDesc_auto  ___ */
-Autosave Data
-Overall Play Time: &1
+Autosave Data &1 
+Overall Play Time: &2
 
 /* ___ SaveDataDesc  ___ */
 Save Data &1 
@@ -73,7 +73,7 @@ Save Data &1
 // SAVE DATA
 &&SVD_Error_Occured Failed to read file header.
 
-&&SVD_0 Autosave:
+&&SVD_0 Autosave
 &&SVD_topright HP &1/&2, MP &3/&4
 
 &&SVD_ignore_svd_cfg Ignore saved configuration
