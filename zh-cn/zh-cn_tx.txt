@@ -47,8 +47,8 @@
 
 
 /* ___ SaveDataDesc_auto  ___ */
-自动存档
-总游玩时间：&1
+自动存档 &1 
+总游玩时间：&2
 
 /* ___ SaveDataDesc  ___ */
 存档 &1
@@ -64,7 +64,7 @@
 
 &&SVD_Error_Occured 文件头读取失败
 
-&&SVD_0 自动保存:
+&&SVD_0 自动保存
 &&SVD_topright HP &1/&2, MP &3/&4
 
 &&SVD_ignore_svd_cfg 忽略存档内的设置

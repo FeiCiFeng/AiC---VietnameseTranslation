@@ -64,10 +64,10 @@
 &&Config_desc_BGMV  设置背景音乐的音量。
 &&Config_desc_keycon  更改键盘和手柄的按键。
 /* ___ Config_desc_Lang ___ */ 
-简体中文-特别鸣谢Cicini做出的特殊贡献
+简体中文 - 特别鸣谢Cicini的特殊贡献
 Choose your display language.
 <font size="12.3" linespacing="0.76">
-感谢译者もぐみ@rolling_badger,Phenix02,鶴川Akari,CatInCradle,扁尖笋,克劳恩Peace,Éphemeral</font>
+译者：もぐみ, Phenix02, 鶴川Akari, CatInCradle, 扁尖笋, 克劳恩Peace, Éphemeral（排名不分先后）</font>
 &&Config_desc_Sensitive 设置是否显示性方面的描写。\n<font color="#E70B0B">未满18岁或正在录像的玩家\n请务必选择健全模式为「开」。</font>
 
 &&Config_desc_Windowed   设置游戏的显示模式。
@@ -746,9 +746,11 @@ Choose your display language.
 &&Config_spatial_sound 空间音频
 /* ___ Config_desc_spatial_sound ___ */
 设置是否使用Windows的空间音效功能。
+
+
+/* ___ Config_apply_after_reboot ___ */
 <font color="#E70B0B">重启游戏后方可生效。</font>
 当前状态为：<i>&1</i>
-
 
 
 // ========================================================

@@ -253,3 +253,16 @@ GP賣過頭導致階級下降時，
 &&GO_Select_return_to_title_skipping_fatal (跳過戰敗情段)
 
 &&Fatal_quit_to_title 結束 (回到標題畫面)
+
+
+
+
+
+// 26/09/13 :  030g オートセーブデータ履歴のための実装
+
+&&SVD_History 自動存檔紀錄
+&&SVD_manual_save 手動存檔
+
+
+&&Fatal_beto_level 髒污
+

@@ -252,4 +252,17 @@ GP를 너무 팔아 랭크가 저하했을 경우
 &&GO_Select_go_to_fatal 몸을 맡긴다… (페이탈 씬 재생)
 &&GO_Select_return_to_title_skipping_fatal (페이탈 씬 스킵)
 
-&&Fatal_quit_to_title 끝 (타이틀로)
+&&Fatal_quit_to_title 끝 (타이틀 화면으로)
+
+
+
+
+
+// 26/09/13 :  030g オートセーブデータ履歴のための実装
+
+&&SVD_History 오토 세이브 내역
+&&SVD_manual_save 수동 저장
+
+
+&&Fatal_beto_level 더러움
+

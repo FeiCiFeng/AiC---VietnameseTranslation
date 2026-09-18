@@ -47,8 +47,8 @@
 
 
 /* ___ SaveDataDesc_auto  ___ */
-オートセーブデータ 
-総プレイ時間: &1
+オートセーブデータ &1 
+総プレイ時間: &2
 
 
 /* ___ SaveDataDesc  ___ */
@@ -66,7 +66,7 @@
 
 &&SVD_Error_Occured ヘッダの読み込みに失敗しました
 
-&&SVD_0 オートセーブ:
+&&SVD_0 オート\bセーブ
 &&SVD_topright HP &1/&2, MP &3/&4
 
 &&SVD_ignore_svd_cfg セーブデータ内のコンフィグを無視

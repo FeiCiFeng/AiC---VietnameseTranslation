@@ -47,8 +47,8 @@
 
 
 /* ___ SaveDataDesc_auto  ___ */
-오토 세이브 데이터 
-총 플레이 시간: &1
+오토 세이브 데이터 &1 
+총 플레이 시간: &2
 
 
 /* ___ SaveDataDesc  ___ */
@@ -65,7 +65,7 @@
 
 &&SVD_Error_Occured 헤더를 불러들이는데 실패했습니다
 
-&&SVD_0 오토 세이브:
+&&SVD_0 오토 세이브
 &&SVD_topright HP &1/&2, MP &3/&4
 
 &&SVD_ignore_svd_cfg 세이브 데이터 내의 설정 무시

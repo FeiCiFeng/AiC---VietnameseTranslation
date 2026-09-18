@@ -253,3 +253,16 @@ GPを売りすぎてランクが下がった場合、
 &&GO_Select_return_to_title_skipping_fatal (フェイタルシーンをスキップ)
 
 &&Fatal_quit_to_title おしまい (タイトルに戻る)
+
+
+
+
+
+// 26/09/13 :  030g オートセーブデータ履歴のための実装
+
+&&SVD_History オートセーブ履歴
+&&SVD_manual_save 手動保存
+
+
+&&Fatal_beto_level 汚し
+
