@@ -1,96 +1,96 @@
 %FAMILY en
 
-&&Mag_title_whitearrow White Arrow
+&&Mag_title_whitearrow Bạch Tiễn
 
 /* ___ Mag_desc_whitearrow ___ */
-<font letterspacing="0.94">Shoots an arrow of light from above the caster's head.
-Easy to master and has a short casting time, but isn't very powerful.
-Mostly used by support mages to help keep enemies at a distance.</font>
+<font letterspacing="0.94">Bắn một mũi tên ánh sáng từ phía trên đầu người thi triển.
+Dễ thành thạo và có thời gian niệm phép ngắn, nhưng uy lực không cao.
+Chủ yếu được các pháp sư hỗ trợ sử dụng để giữ kẻ địch ở khoảng cách an toàn.</font>
 
 
-&&Mag_title_fireball Energy Ball
+&&Mag_title_fireball Cầu Năng Lượng
 
 /* ___ Mag_desc_fireball ___ */
-<font letterspacing="0.94">A massive fireball of devastating power.
-Deals splash damage that can hit through walls.
-Its direction can be changed 3 times, but the caster will be defenseless while controlling it.
-Shield or dodge to break control in a pinch.
-Will knock down the caster if it explodes too close to them.
+<font letterspacing="0.94">Một quả cầu lửa khổng lồ mang sức công phá hủy diệt.
+Gây sát thương lan có thể xuyên qua tường.
+Có thể thay đổi hướng bay 3 lần, nhưng người thi triển sẽ hoàn toàn mất phòng thủ trong lúc điều khiển nó.
+Tạo khiên hoặc né đòn để ngắt điều hướng trong tình huống khẩn cấp.
+Sẽ đánh ngã chính người thi triển nếu nó phát nổ ở khoảng cách quá gần.
 </font>
 
 
-&&Mag_title_pr_burst Holy Burst
+&&Mag_title_pr_burst Bộc Phá Thánh Quang
 
 /* ___ Mag_desc_pr_burst ___ */
-<font letterspacing="0.94">Hold <key PR_BURST/>.
-Releases a burst of energy to knock back enemies.
-Mana used for this spell cannot be recollected which risks enemies absorbing it.
-Can still be cast even when out of mana, but will take a serious toll on the caster's mind. 
+<font letterspacing="0.94">Giữ <key PR_BURST/>.
+Phóng ra một luồng năng lượng mạnh, đẩy lùi kẻ địch.
+Lượng mana tiêu hao cho phép này không thể thu hồi, có nguy cơ bị kẻ địch hấp thụ.
+Vẫn có thể thi triển ngay cả khi cạn mana, nhưng sẽ gây tổn hại nghiêm trọng đến tâm trí của người thi triển.
 </font>
 
-&&Mag_title_dropbomb Ground Bomb
+&&Mag_title_dropbomb Địa Lôi
 
 /* ___ Mag_desc_dropbomb ___ */
-<font letterspacing="0.94">Compresses energy into a small bomb.
-Low range and power, but frightens and scatters enemies.
-Useful for buying time to cast other spells or to break up groups.
-It can also destroy certain types of walls, making it useful for exploring.
+<font letterspacing="0.94">Nén năng lượng thành một quả bom nhỏ.
+Tầm hoạt động và uy lực thấp, nhưng có thể khiến kẻ địch hoảng loạn và tản ra.
+Hữu dụng để câu giờ niệm các phép khác hoặc phá đội hình kẻ địch.
+Ngoài ra, nó còn có thể phá hủy một số loại tường nhất định, rất hữu ích khi thám hiểm.
 </font>
 
 // ========================================================
 // MARK : 220115 追加分
 // ========================================================
 
-&&Mag_title_thunderbolt Thunderbolt
+&&Mag_title_thunderbolt Thiên Lôi Kích
 
 /* ___ Mag_desc_thunderbolt ___ */
-Shoots a straight beam of electricity from thin air to attack enemies.
-The electric orb must be suspended in the air first to charge its energy. 
-If it collides with a wall or enemies before it finishes charging, the energy will be scattered and the orb will lose considerable power.
-<font color="ff:#FF2B79">You can also get hurt by this magic.</font> Be careful while using it.
+Bắn ra một tia điện thẳng từ hư không để tấn công kẻ thù.
+Quả cầu điện phải được treo lơ lửng trên không trung trước để tích tụ năng lượng. 
+Nếu nó va chạm với tường hoặc kẻ địch trước khi hoàn tất quá trình tích năng lượng, luồng điện sẽ bị phân tán và quả cầu sẽ mất đi một phần uy lực đáng kể.
+<font color="ff:#FF2B79">Bạn cũng có thể bị thương bởi chính ma pháp này.</font> Hãy cẩn thận khi sử dụng.
 
 
 // ========================================================
 // MARK : 250305
 // ========================================================
 
-&&Mag_title_watershard Water Shard
+&&Mag_title_watershard Thủy Phiến
 
 /* ___ Mag_desc_watershard ___ */
-Summons 8 shards of water.
-Each can lock onto a separate target before being fired,
-or be kept to encircle Noel like protective armor.
+Triệu hồi 8 Thủy Phiến.
+Mỗi mảnh có thể khóa vào mỗi mục tiêu riêng biệt trước khi phóng đi,
+hoặc được giữ lại để bao quanh Noel như một lớp giáp bảo hộ.
 
-&&Mag_title_powerbomb Powerbomb
+&&Mag_title_powerbomb Bom Năng Lượng
 
 /* ___ Mag_desc_powerbomb ___ */
-Unleashes an explosive wave of heat. Destroys certain terrain and items.
-Dispersing energy over a large field has less destructive power than one would think.
-But, when concentrated into a shotgun blast...
+Giải phóng một làn sóng nhiệt bùng nổ. Có thể phá hủy một số địa hình và vật phẩm.
+Khi năng lượng được phân tán trên một phạm vi rộng, sức công phá sẽ yếu đi.
+Nhưng khi được tập trung thành một phát bắn tản xạ...
 
-&&Mag_KD_default (Use:&1)
+&&Mag_KD_default (Sử dụng:&1)
 
 
 // ========================================================
 // MARK : ver0.29
 // ========================================================
-&&Mag_title_flowerycircle Flowery Circle
+&&Mag_title_flowerycircle Bách Hoa Trận
 
 
 /* ___ Mag_desc_flowerycircle ___ */
-Creates a magical field that quickens HP regen speed.
-Monsters inside the field further increase the regen speed and have their
-attack and defense weakened. Area of effect scales with the Lock-on stat.
-No effect against mechanical enemies.
+Tạo ra một ma pháp trận giúp tăng tốc độ hồi HP.
+Quái vật bên trong vòng sẽ làm tăng tốc độ hồi phục, đồng thời chúng bị suy yếu công và thủ.
+Phạm vi ảnh hưởng tỷ lệ thuận với chỉ số Khóa mục tiêu.
+Không có tác dụng với kẻ địch cơ giới.
 
-&&Mag_KD_default (Cast: &1)
+&&Mag_KD_default (Sử dụng: &1)
 
-&&Mag_title_blackhole Gravity Well
+&&Mag_title_blackhole Giếng Trọng Lực
 
 /* ___ Mag_desc_blackhole ___ */
-Creates a miniature black hole that pulls in airborne objects and small monsters.
-Area of effect scales with the Lock-on stat.
-Recast to end the effect early and refund a portion of the mana cost.
+Tạo ra một hố đen mini hút các vật thể trên không và những quái vật nhỏ.
+Phạm vi ảnh hưởng tăng theo chỉ số Khóa mục tiêu.
+Thi triển lại để kết thúc hiệu ứng sớm và hoàn lại một phần mana đã tiêu hao.
 
 
 // 260114 hinayua フラワリーサークルの効果テキストに変更があります。

@@ -194,7 +194,7 @@ hiệu ứng làm bẩn chân dung Noel.
 // ========================================================
 // MARK : 2202 追加分
 // ========================================================
-&&Config_Effect_No_Restriction Unrestricted
+&&Config_Effect_No_Restriction Không Hạn Chế
 
 &&Config_UiEf_Dirty_Blood Hiệu ứng máu
 /* ___ Config_desc_UiEf_Dirty_Blood ___ */
