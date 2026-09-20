@@ -3,7 +3,7 @@ vi      VI      Vietnamese
 // 1st word: This name corresponds to %FAMILY in the _tx_** file.
 // 2nd word: Simplified name (write in 2 letters)
 // 3rd word: Full name in the option
-%VERSION 0.29
+%VERSION 0.30
 
 %DEFAULT_LANGUAGE 0
 // the family will be chosen as default when no other family
