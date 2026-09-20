@@ -197,8 +197,8 @@ hiệu ứng làm bẩn chân dung Noel.
 &&Config_Effect_No_Restriction Unrestricted
 
 &&Config_UiEf_Dirty_Blood Hiệu ứng máu
-/* ___ Config_UiEf_Dirty_Blood ___ */
-Khi thiết lập gần 0%, các hiệu ứng
+/* ___ Config_desc_UiEf_Dirty_Blood ___ */
+Khi thiết lập về 0%, các hiệu ứng
 trông giống máu trên Noel
 sẽ được thay thế bằng màu đen.
 Điều này cũng làm giảm các vệt máu
