@@ -70,7 +70,7 @@ Tăng hoặc giảm
 Thiết lập phím điều khiển
 cho bàn phím hoặc tay cầm tại đây.
 
-&&Config_desc_Lang  言語設定を変更します。\nChọn ngôn ngữ hiển thị.
+&&Config_desc_Lang  Choose your display language。\nChọn ngôn ngữ hiển thị.
 
 &&Config_desc_Sensitive Bật/tắt chế độ "An toàn".\nKhi đặt thành "Bật", nội dung R18 sẽ KHÔNG được hiển thị.
 

@@ -493,13 +493,13 @@ Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 
 &&Select_tellme2 Nói cho tôi biết
 
-&&Tuto_flowerycircle <key FLOWERYCIRCLE/>Flowery Circle
+&&Tuto_flowerycircle <key FLOWERYCIRCLE/>Vòng hoa
 
-&&Select_ok Okay
+&&Select_ok Được thôi
 
 
-&&Select_back_to_guild Return to the guild
-&&Select_back_to_home_normal Return normally
+&&Select_back_to_guild Trở về hiệp hội
+&&Select_back_to_home_normal Trở về bình thường
 
 
 // ========================================================
@@ -509,27 +509,27 @@ Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 // 強調タグ <bo> で使う傍点を入力します。
 &&bouten_dot ﹅
 
-&&EvTitle_about_td About the attack
-&&EvTitle_reincarnation Reincarnation
-&&EvTitle_primula_is_villain Is Primula evil?
-&&EvTitle_forced_lavour Hard labor
-&&EvTitle_reason_walross Reason for being
+&&EvTitle_about_td Về cuộc tấn công
+&&EvTitle_reincarnation Chuyển sinh
+&&EvTitle_primula_is_villain Primula là kẻ xấu?
+&&EvTitle_forced_lavour Lao động khổ sai
+&&EvTitle_reason_walross Lý do tồn tại
 
-&&Select_send_cocktail Give cocktail
+&&Select_send_cocktail Đưa cocktail
 
-&&Alert_item_reduced_walross Gave &1 to Walross
-&&Select_drink_cocktail Drink!
-&&Select_not_drink_cocktail Abstain
+&&Alert_item_reduced_walross Đã đuă &1 cho Walross
+&&Select_drink_cocktail Uống!
+&&Select_not_drink_cocktail Từ chối
 
-&&EvTitle_primula_is_villain2 Are you a criminal?
+&&EvTitle_primula_is_villain2 Cậu là tội phạm ư?
 
-&&Select_listen_execute Really ask
+&&Select_listen_execute Hỏi thật
 
-&&Select_mofu Touch fluffy tail
-&&Select_not_mofu Don't touch
+&&Select_mofu Chạm vào cái đuôi mềm mại
+&&Select_not_mofu Không chạm
 
 
 
-&&Select_cure_by_rounin Heal me
+&&Select_cure_by_rounin Chữa trị cho tôi
 
-&&EvTitle_t_desc_switch Switch staves
+&&EvTitle_t_desc_switch Đổi Trượng

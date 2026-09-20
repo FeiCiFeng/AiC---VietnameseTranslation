@@ -1,45 +1,45 @@
 %FAMILY vi
 
 // ギルドクエスト
-&&GuildQ_categ_collectnew Collect
+&&GuildQ_categ_collectnew Thu thập
 /* ___ GuildQ_categ_desc_collectnew ___ */ 
-Collect the specified items. Only items gathered after accepting the quest will count.
+Thu thập các vật phẩm được chỉ định. Chỉ những vật phẩm thu thập sau khi nhận nhiệm vụ mới được tính.
 
-&&GuildQ_categ_collect Supply
+&&GuildQ_categ_collect Cung cấp
 /* ___ GuildQ_categ_desc_collect ___ */
-Deliver the specified items to the guild. Items gathered prior to accepting the quest can be used.
+Giao các vật phẩm được chỉ định cho hội. Có thể sử dụng những vật phẩm đã thu thập trước khi nhận nhiệm vụ.
 
-&&GuildQ_categ_defeat Extermination
+&&GuildQ_categ_defeat Tiêu diệt
 /* ___ GuildQ_categ_desc_defeat ___ */
-Defeat all enemies at the designated locations.
+Tiêu diệt toàn bộ kẻ địch tại các địa điểm được chỉ định.
 
-&&GuildQ_categ_cook Cooking
+&&GuildQ_categ_cook Nấu ăn
 /* ___ GuildQ_categ_desc_cook   ___ */
 
-&&GuildQ_categ_rescue Rescue
+&&GuildQ_categ_rescue Cứu hộ
 /* ___ GuildQ_categ_desc_rescue ___ */
-Find and rescue the individual in the designated area. Failing this type of request will result in a large penalty.
+Tìm và giải cứu người được chỉ định trong khu vực. Thất bại trong loại nhiệm vụ này sẽ chịu một mức phạt lớn.
 
-&&GuildQ_categ_weapon Weapon Test
+&&GuildQ_categ_weapon Thử vũ khí
 /* ___ GuildQ_categ_desc_weapon ___ */
-A special request from the blacksmith.
-Fight a certain number of battles with the weapon they’ve provided.
+Một yêu cầu đặc biệt từ thợ rèn.
+Sử dụng vũ khí họ cung cấp để tham gia một số trận chiến nhất định.
 
-&&GuildQ_categ_deliver Courier
+&&GuildQ_categ_deliver Vận chuyển
 /* ___ GuildQ_categ_desc_deliver___ */
-Deliver cargo to the destination. While carrying this cargo, the odds of being attacked by monsters is extremely high. Their attacks will damage the cargo and reduce the reward for turning it in. No fast travel is allowed while you have the cargo.　
+Vận chuyển hàng hóa đến địa điểm được chỉ định. Khi mang theo hàng hóa, khả năng bị quái vật tấn công sẽ cực kỳ cao. Các cuộc tấn công của chúng sẽ làm hư hại hàng hóa và giảm phần thưởng khi giao hàng. Không thể di chuyển nhanh khi đang mang hàng hóa.
 
 /* ___ GuildQ_categ_comment_collectnew_0 ___ */ 
-We are conducting a geological survey of Grazia and need new samples of &1.
+Chúng tôi đang tiến hành khảo sát địa chất tại Grazia và cần những mẫu &1 mới.
 　　
 /* ___ GuildQ_categ_comment_collectnew_1 ___ */ 
-I need some fresh &1 so I can study the effects of mana exposure on it.　
+Tôi cần một ít &1 mới để nghiên cứu tác động của việc tiếp xúc với mana lên chúng.
 
 /* ___ GuildQ_categ_comment_collectnew_2 ___ */ 
-We need some &1 for our construction project. And it has to be new, to meet building codes.
+Chúng tôi cần một ít &1 cho công trình xây dựng. Và chúng phải là đồ mới để đáp ứng các tiêu chuẩn xây dựng.
 　　
 /* ___ GuildQ_categ_comment_collectnew_3 ___ */ 
-I love the taste of fresh &1. Find me some more, please!
+Tôi rất thích hương vị của &1 tươi mới. Làm ơn tìm thêm cho tôi một ít nhé!
 　
 /* ___ GuildQ_categ_comment_collectnew_4 ___ */ 
 I’m in a real catch-22 here. I need new &1 to do my job efficiently, but it’s inefficient to gather it myself! Can you help me out?

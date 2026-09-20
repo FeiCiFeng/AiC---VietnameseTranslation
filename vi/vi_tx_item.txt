@@ -4,198 +4,198 @@
 // You can replace the name and description
 // written in the item script here.
 // ========================
-%ITEM fruit_cherry0 Blood Cherry 
-A fruit that slightly heals
-the caster's vitals.
-It's also useful as an 
-ingredient for making potions.
-%RECIPE_REPLACE fruit_cherry0 Cherry
+%ITEM fruit_cherry0 Huyết Anh Đào
+Một loại quả giúp hồi phục nhẹ
+các chỉ số sinh lực của người sử dụng.
+Nó cũng hữu ích như một
+nguyên liệu để chế tạo thuốc.
+%RECIPE_REPLACE fruit_cherry0 Anh Đào
 
-%ITEM fruit_apple0 Blood Apple
-A fruit that moderately heals
-the caster's vitals.
-It's also useful as an 
-ingredient for making potions.
-%RECIPE_REPLACE fruit_apple0 Apple
+%ITEM fruit_apple0 Huyết Táo
+Một loại quả giúp hồi phục vừa phải
+các chỉ số sinh lực của người sử dụng.
+Nó cũng hữu ích như một
+nguyên liệu để chế tạo thuốc.
+%RECIPE_REPLACE fruit_apple0 Táo
 
-%ITEM fruit_pine0 Blood Pine
-A fruit that greatly heals
-the caster's vitals.
-It's also useful as an 
-ingredient for making potions.
-%RECIPE_REPLACE fruit_pine0 Pine
+%ITEM fruit_pine0 Huyết Dứa
+Một loại quả giúp hồi phục đáng kể
+các chỉ số sinh lực của người sử dụng.
+Nó cũng hữu ích như một
+nguyên liệu để chế tạo thuốc.
+%RECIPE_REPLACE fruit_pine0 Dứa
 
-%ITEM anc_mp0 Ankh of Grazia
-Ankh with a prayer for the earth.
-Recovers all MP and temporarily
-repairs the MP gauge.
+%ITEM anc_mp0 Thánh Giá Grazia
+Một cây thánh giá mang lời cầu nguyện cho đất mẹ.
+Hồi phục toàn bộ MP và tạm thời
+khôi phục thanh MP.
 
-%ITEM fruit_epdmg_apple0 Forbidden Fruit
-A mysteriously shaped apple.
-It seems to be connected to
-a myth of the forgotten past...?
+%ITEM fruit_epdmg_apple0 Trái Cấm
+Một loại quả bí ẩn trông giống quả táo.
+Trông nó có vẻ liên quan đến
+một huyền thoại từ một quá khứ bị quên lãng...?
 
-%ITEM gummy_mp0 Magic Gummy
-Portable food made from
-gel and magic crystals.
-A favorite among support mages
-and alchemists.
+%ITEM gummy_mp0 Kẹo dẻo ma lực
+Thức ăn tiện lợi được làm từ
+gel và tinh thể ma thuật.
+Được các pháp sư hỗ trợ
+và nhà giả kim đặc biệt yêu thích.
 
 
-%ITEM gummy_hp0 Vital Gummy
-Portable food made from
-gel and blood-fruit juice.
-A favorite among support mages
-and alchemists.
+%ITEM gummy_hp0 Kẹo Dẻo Sinh Lực
+Thức ăn tiện lợi được làm từ
+gel và nước ép từ Huyết Quả.
+Được các pháp sư hỗ trợ
+và nhà giả kim đặc biệt yêu thích.
 
 %ITEM mtr_jelly0 Gel
-A material mainly obtained from slimes.
-Edible, but only good for re-hydrating.
+Một nguyên liệu chủ yếu thu được từ slimes.
+Có thể ăn được, nhưng chỉ có tác dụng bù nước.
 
-%ITEM mtr_bottle0 Empty Bottle
-Container for holding various liquids.
-Liquid-type items will automatically
-fill empty bottles when collected.
-May break if Noel faints.
+%ITEM mtr_bottle0 Chai Rỗng
+Vật chứa dùng để đựng nhiều loại chất lỏng.
+Các vật phẩm dạng chất lỏng sẽ tự động
+được đựng vào chai rỗng khi thu thập.
+Có thể bị vỡ nếu Noel bất tỉnh.
 
 
-%ITEM mtr_essence0 Dark Essence
-A sticky liquid obtained from
-defeating a dark enemy.
-%RECIPE_REPLACE mtr_essence0 Sludgy
+%ITEM mtr_essence0 Tinh Chất Hắc Ám
+Một chất lỏng sền sệt thu được từ
+việc đánh bại quái vật hắc ám.
+%RECIPE_REPLACE mtr_essence0 Chất Nhầy
 
-%ITEM mtr_water0 Clean Water
-Clean, refreshing water.
-Stay hydrated.
+%ITEM mtr_water0 Nước sạch
+Nước sạch, trong lành.
+Hãy giữ cho cơ thể đủ nước.
 
-%ITEM mtr_noel_juice0 Noel Juice
-Obtained automatically when Noel squirts or leaks liquid while you have an empty bottle.
-Restores magic power slightly, but...
+%ITEM mtr_noel_juice0 Dịch ngọt của Noel
+Tự động thu thập khi Noel bắn hoặc rỉ nước khi bạn có chai rỗng.
+Hồi phục một chút ma lực, nhưng...
 
-%ITEM mtr_bottle_life0 Life Bottle
-Heals HP.
+%ITEM mtr_bottle_life0 Chai Sinh Lực
+Hồi HP.
 
 // ========================================================
 // MARK : 220115追加分
 // ========================================================
 
 
-%ITEM mtr_wheat Wheat
-A plant that serves as a staple food in cities above ground.
-An ingredient in portable food.
+%ITEM mtr_wheat Lúa mì
+Một loại cây lương thực chủ yếu ở các thành phố trên mặt đất.
+Là nguyên liệu để chế biến thức ăn tiện lợi.
 
-%ITEM mtr_lettuce Lettuce
-A fresh, green vegetable.
+%ITEM mtr_lettuce Rau diếp
+Một loại rau xanh tươi mát.
 
 // ========================================================
 // MARK : 貴重品
 // ========================================================
 
-%ITEM precious_noel_cloth Old Healer Uniform
-A military uniform used in the Elven village, handed down by my grandmother.
+%ITEM precious_noel_cloth Đồng phục cũ
+Một bộ quân phục từng được sử dụng tại ngôi làng của tộc Elf, được bà của mình truyền lại.
 
-%ITEM precious_dangerous_meter Mana-meter
-An indispensable item for adventurers that detects the flow of magic and informs the user of the approximate level of danger in their current location. It is recommended you return home as soon as its colors turn dark.
+%ITEM precious_dangerous_meter Máy đo ma lực
+Một vật phẩm không thể thiếu đối với các nhà thám hiểm, có khả năng phát hiện dòng chảy ma thuật và cho người dùng biết mức độ nguy hiểm ước tính tại khu vực hiện tại. Khi màu sắc của nó sậm lại, lúc đó bạn nên trở về nhà ngay.
 
-&&desc_dangerous_meter You can check the danger level from the Status menu.
+&&desc_dangerous_meter Bạn có thể kiếm tra mức độ nguy hiểm trong menu Trạng thái.
 
-%ITEM precious_noel_shorts Cotton undergarments
-White panties with a bow on the front.
+%ITEM precious_noel_shorts Đồ lót vải cotton
+Quần lót màu trắng có một chiếc nơ ở phía trước.
 
-%ITEM enhancer_slot Enhancer Slot
-An extension for your staff that allows you to set enhancers.
-Certain conditions may cause it to temporarily go offline.
+%ITEM enhancer_slot Ô cường hóa
+Một phần mở rộng cho trượng phép, cho phép bạn trang bị các vật cường hóa.
+Một số điều kiện nhất định có thể khiến nó tạm thời ngừng hoạt động.
 
 
 // ========================================================
 // MARK : その他 Other
 // ========================================================
 
-&&prefix_item_broken Ragged
-&&prefix_item_splashed Dirty
-&&item_abb_noel_cloth Uniform
+&&prefix_item_broken Rách
+&&prefix_item_splashed Bẩn
+&&item_abb_noel_cloth Đồng phục
 
-&&desc_noel_cloth_0 It's a little tight around my chest...
-&&desc_noel_cloth_2 It's been torn to shreds.
-&&desc_noel_cloth_1 It's thoroughly stained with monster fluids.
+&&desc_noel_cloth_0 Nó hơi chật một chút ở phần ngực của mình...
+&&desc_noel_cloth_2 Nó đã bị xé rách tơi tả.
+&&desc_noel_cloth_1 Nó đã dính đầy chất dịch của quái vật.
 
-&&detail_noel_cloth_0 Damage to clothing is reset at the end of battle unless they are torn.
-&&detail_noel_cloth_1 You can repair or wash your clothes at a bench.
-&&prefix_item_abb_noel_cloth Uniform
+&&detail_noel_cloth_0 Quần áo bị hư hại sẽ được khôi phục sau trận đấu, trừ khi chúng bị rách.
+&&detail_noel_cloth_1 Bạn có thể sửa hoặc giặt quần áo tại ghế băng.
+&&prefix_item_abb_noel_cloth Đồng phục
 
-&&name_noel_shorts_1 Dirty Underwear
+&&name_noel_shorts_1 Đồ lót bẩn
 
-&&desc_noel_shorts_0 The texture feels nice, and the water absorbency is perfect.
-&&desc_noel_shorts_1 There are stains from when I wet myself... 
-&&desc_noel_shorts_2 Secretions from the eggs laid by the monsters are dripping from the crotch area. 
+&&desc_noel_shorts_0 Chất vải rất dễ chịu, và khả năng thấm nước cũng hoàn hảo.
+&&desc_noel_shorts_1 Có một vài vết bẩn do lúc mình bắn... 
+&&desc_noel_shorts_2 Dịch từ những quả trứng do quái vật đẻ ra đang nhỏ xuống ướt đẫm từ háng chân.
 
 &&noel_juice_grade0 &1
-&&noel_juice_grade1 Lukewarm &1
-&&noel_juice_grade2 Fresh &1
-&&noel_juice_grade3 Quality &1
+&&noel_juice_grade1 &1 Ấm nóng
+&&noel_juice_grade2 &1 Tươi mới
+&&noel_juice_grade3 &1 Hảo hạng
 &&noel_juice_grade4 &1 Nouveau
 
 
-&&name_skill_book Skill: &1
-&&desc_skill_book A book that contains skills.\n Learn “&1”.
+&&name_skill_book Kỹ năng: &1
+&&desc_skill_book Cuốn sách chứa các kỹ năng.\n Học “&1”.
 
 
-&&name_enhancer_device Enhancer: &1
-&&desc_enhancer_device Allows you to use the enhancer “&1”.
-&&enhancer_cost Cost: &1
+&&name_enhancer_device Cường hóa: &1
+&&desc_enhancer_device Cho phép sử dụng cường hóa “&1”.
+&&enhancer_cost Chi phí: &1
 
-&&name_recipe_cook Cooking recipe: &1
-&&desc_recipe_cook Can be made at a cooking area.
+&&name_recipe_cook Công thức nấu ăn: &1
+&&desc_recipe_cook Có thể chế biến tại khu vực nấu ăn.
 
-&&name_recipe_alchemy Alchemy recipe: &1
-&&desc_recipe_alchemy Can be made at a crafting area.
+&&name_recipe_alchemy Công thức giả kim: &1
+&&desc_recipe_alchemy Có thể chế tạo tại khu vực chế tác.
 
 // ========================================================
 // MARK : レシピ用 [For] Recipes
 // ========================================================
 
-&&recipe_categ_cook Cooking
-&&recipe_categ_alchemy Alchemy
+&&recipe_categ_cook Nấu ăn
+&&recipe_categ_alchemy Giả kim
 
-&&recipe_item_categ_wheat Grains
-&&recipe_item_categ_vegi Vegetable
-&&recipe_item_categ_meat Meat
-&&recipe_item_categ_fish Seafood
-&&recipe_item_categ_fruit Fruit
-&&recipe_item_categ_mush Mushroom
-&&recipe_item_categ_egg Egg
-&&recipe_item_categ_water Water
+&&recipe_item_categ_wheat Ngũ cốc
+&&recipe_item_categ_vegi Rau củ
+&&recipe_item_categ_meat Thịt
+&&recipe_item_categ_fish Hải sản
+&&recipe_item_categ_fruit Hoa quả
+&&recipe_item_categ_mush Nấm
+&&recipe_item_categ_egg Trứng
+&&recipe_item_categ_water Nước
 
 
-&&recipe_effect_maxhp Max HP
-&&recipe_effect_maxmp Max MP
-&&recipe_effect_mana_neutral Less mana from magic attacks will be absorbed by the enemy
-&&recipe_effect_shield_enpower Shield strength
-&&recipe_effect_punch_drain Stealable mana generated from weak attacks
+&&recipe_effect_maxhp HP tối đa
+&&recipe_effect_maxmp MP tối đa
+&&recipe_effect_mana_neutral Kẻ địch sẽ hấp thụ ít mana hơn từ đòn đánh phép
+&&recipe_effect_shield_enpower Độ bền khiên
+&&recipe_effect_punch_drain Lượng mana có thể cướp được từ các đòn đánh thường
 
-&&recipe_effect_how_much &1 (Pow:&2%)
+&&recipe_effect_how_much &1 (Sức mạnh:&2%) 
 &&__adding &1 &2
 // ↑ In English, you should write here "&1 &2"
 
 &&recipe_adj_enough_specific &1
-&&recipe_adj_manykind Various
-&&recipe_adj_manykind_specific Various &1
-&&recipe_double_item &1 and &2
+&&recipe_adj_manykind Độ đa dạng
+&&recipe_adj_manykind_specific Độ đa dạng &1
+&&recipe_double_item &1 và &2
 
-&&recipe_adj_grade0 Questionable &1
-&&recipe_adj_grade1 Ordinary &1
-&&recipe_adj_grade2 Fashionable &1
-&&recipe_adj_grade3 Super &1
-&&recipe_adj_grade4 Divine &1
+&&recipe_adj_grade0 &1 Đáng ngờ
+&&recipe_adj_grade1 &1 Thường
+&&recipe_adj_grade2 &1 Thời thượng
+&&recipe_adj_grade3 Siêu &1
+&&recipe_adj_grade4 &1 Thần thánh
 
-&&Recipe_title_bread Bread
-&&Recipe_desc_bread Perfect for breakfast. Can be used as a plate when stale.
+&&Recipe_title_bread Bánh mì
+&&Recipe_desc_bread Rất hợp cho bữa sáng. Có thể dùng làm đĩa khi để khô.
 
-&&Recipe_title_sandwich Sandwich
-&&Recipe_desc_sandwich I heard that this food is named after a person - is that true?
+&&Recipe_title_sandwich Bánh Sandwich
+&&Recipe_desc_sandwich Tui nghe nói món này được đặt tên theo một người - Thật vậy sao?
 
-&&Food_unknown Unknown
-&&Food_unknown_desc Tastes like food created in a binary editor. Futuristic.
+&&Food_unknown Không rõ
+&&Food_unknown_desc Có vị như món ăn được code ra từ hệ nhị phân. Đậm mùi tương lai.
 
 
 
@@ -204,310 +204,310 @@ Certain conditions may cause it to temporarily go offline.
 // ========================================================
 
 %RECIPE_REPLACE mtr_water0 
-%RECIPE_REPLACE mtr_seed0 Bean
+%RECIPE_REPLACE mtr_seed0 Đậu
 
-%ITEM oc_slot OverCharger Slot
-A container for storing excess mana. Spells cast with mana from this do not need to be chanted.
+%ITEM oc_slot Khe quá tải
+Vật chứa dùng để lưu trữ mana dư thừa. Phép thuật sử dụng mana từ đây không cần niệm chú.
 
 
-%ITEM timecapsule Old Container
-A time capsule my sister and I buried together a long time ago.
-Big sister's dream is.....
+%ITEM timecapsule Chiếc hộp cũ
+Một viên nang thời gian mà chị mình với mình chôn vùi từ rất lâu.
+Ước mơ của chị là.....
 .........................
-R-really....?
+T-Thật ư....?
 
 
-%ITEM mtr_lily_bulb0 Moonlight Muguet's Bulb
-Highly poisonous. Sister warned me not to nibble on it.
+%ITEM mtr_lily_bulb0 Củ Muguet ánh trăng
+Cực kỳ độc. Chị đã dặn tui không được cắn thử nó.
 
 
-%ITEM mtr_black_harb0 Black-striped Herb
-According to my sister, essential oils from this herb make you feel very good, like you're floating on a cloud~! 
+%ITEM mtr_black_harb0 Thảo dược sọc đen
+Theo lời của chị, tinh dầu từ loại thảo dược này khiến người ta cảm thấy cực kỳ dễ chịu, cứ như đang lơ lửng trên mây vậy~!
 
-%ITEM mtr_coal0 Coal
-I don't like touching this because it makes my hands dirty, but it's inevitable when doing alchemy.
+%ITEM mtr_coal0 Than
+Tui không thích chạm vào thứ này vì nó làm bẩn tay, nhưng làm giả kim thì không tránh được.
 
-%ITEM mtr_quartz0 Quartz
-A small sparkling stone.
+%ITEM mtr_quartz0 Thạch Anh
+Một viên đá nhỏ lấp lánh.
 
-%ITEM mtr_amethyst0 Amethyst
-A common stone. I've heard it's almost the same as quartz. It's my sister's favorite; she is always happy when I gather them.
+%ITEM mtr_amethyst0 Thanh anh tím
+Một loại đá khá phổ biến. Nghe nói nó gần như giống hệt thạch anh. Đây là loại đá chị mình thích nhất; mỗi khi mình nhặt được chúng, chị mình vui lắm.
 
-%ITEM mtr_iron0 Iron
-Basic iron ore.
-
-
-%ITEM mtr_chrom0 Chrome
-It is said that people in ancient times built their civilization with these metals, just as we do today.
-Not many materials can withstand mana corrosion like these, so much has been lost over time.
+%ITEM mtr_iron0 Sắt
+Quặng sắt cơ bản
 
 
-
-%ITEM nightingale_bell Merchant Bell
-A bell available at Nightingale's shop.
-If you put this on your bag, she'll hear the bell and start walking over to you...at her own pace.
-
-
-%ITEM cooking_pan Beginner's pan
-A hand-me-down pan from Tilde.
-From this day I am a chef too!
+%ITEM mtr_chrom0 Quặng Crom
+Nghe nói người xưa đã dùng những kim loại này để xây dựng nền văn minh của họ, cũng như chúng ta ngày nay.
+Không có nhiều vật liệu có thể chống lại sự ăn mòn do mana như chúng, nên theo thời gian, rất nhiều thứ đã bị thất lạc.
 
 
 
-%ITEM mtr_beast_skin0 Beast's Skin
-Hide of a monster.
-Excellent for blocking mana.
-
-%ITEM mtr_glass0 Glass Shards
-Hard, transparent shards.
-Some monsters form these substances in their skeletons.
-
-%ITEM mtr_organ0 Monster's Liver
-Symbol of a monster's greed.
-Too bitter to use for cooking.
-%RECIPE_REPLACE mtr_organ0 Liver
+%ITEM nightingale_bell Chuông của thương nhân
+Một chiếc chuông có bán tại cửa hàng của Nightingale.
+Nếu đặt nó vào túi, cô ấy sẽ nghe thấy tiếng chuông và bắt đầu đi về phía bạn... theo đúng tốc độ của cô ấy.
 
 
-%ITEM mtr_meat_demon0 Monster's Meat
-Black meat.
-The magic within will stay in the pit of your stomach like a rock. Not tasty.
-%RECIPE_REPLACE mtr_meat_demon0 Black Meat
+%ITEM cooking_pan Chảo tập sự
+Chiếc chảo cũ được trao lại Tilde.
+Kể từ ngày hôm nay thì mình cũng là đầu bếp rồi!
 
 
-%ITEM mtr_meat_chicken0 Mountain Chicken
-Meat from mountain-raised livestock.
-Healthy and delicious, but has a hoity-toity aura about it.
-%RECIPE_REPLACE mtr_meat_chicken0 Chicken
 
-&&recipe_effect_atk Physical Power
-&&recipe_effect_atk_magic Spell Power
+%ITEM mtr_beast_skin0 Da quái vật
+Da của một con quái vật.
+Có khả năng ngăn mana cực tốt.
 
-%ITEM mtr_cabbage Cabbage
-Needs dressing.
+%ITEM mtr_glass0 Mảnh kính
+Những mảnh vỡ cứng và trong suốt.
+Một số quái vật hình thành loại vật chất này trong bộ xương.
 
-&&recipe_effect_arrest_hpdamage_reduce HP damage when restrained
-&&recipe_effect_arrest_mpdamage_reduce MP damage when restrained
-
-
-%ITEM mtr_tomato Tomato
-I don't like the mushy texture.
-But ketchup is fine.
-&&recipe_effect_evade_nodam_extend Extend invincibility time of dodges
-
-%ITEM mtr_green_pepper Green Pepper
-I've hated these since I was a kid.
-&&recipe_effect_smoke_resist Smoke resistance
-
-%ITEM mtr_paprika Bell Pepper
-Part of the green pepper gang.
-You can't fool me with those charming colors.
-&&recipe_effect_arrest_escape Struggle efficacy
-
-%ITEM mtr_celery Celery
-Fiber.
-Fiber everywhere.
-
-&&recipe_effect_elec_damage_reduce Thunder resistance
-
-%ITEM mtr_waterplant Eggplant
-Tastes good when served with meat and mixed with gravy.
-But that's more the taste of the gravy, not the eggplant itself.
-&&recipe_effect_fire_damage_reduce Fire resistance
+%ITEM mtr_organ0 Gan quái vật
+Biểu tượng cho lòng tham của quái vật.
+Đắng đến mức không thể dùng để nấu ăn.
+%RECIPE_REPLACE mtr_organ0 Gan
 
 
-%ITEM mtr_burdock Burdock
-Looks more like a medicinal ingredient, rather than a vegetable.
-&&recipe_effect_ser_fast Abnormal status duration
+%ITEM mtr_meat_demon0 Thịt quái vật
+miếng thịt màu đen.
+Ma lực bên trong sẽ nằm lì trong bụng như một cục đá. Chẳng ngon lành gì.
+%RECIPE_REPLACE mtr_meat_demon0 Thịt Đen
 
 
-%ITEM mtr_carrot Carrot
-Makes me feel like livestock.
-&&recipe_effect_sink_reduce Clumsiness
+%ITEM mtr_meat_chicken0 Gà núi
+Thịt từ những con gia súc được nuôi trên núi.
+Bổ dưỡng và thơm ngon, nhưng toát ra vẻ quý tộc kì lạ.
+%RECIPE_REPLACE mtr_meat_chicken0 Thịt gà
 
-%ITEM mtr_beets Beets
-Sweet and very tasty.
-Good for squeezing into juice or as a seasoning. I wish Tilde would grow more of these.
+&&recipe_effect_atk Sức mạnh vật lý
+&&recipe_effect_atk_magic Sức mạnh phép thuật
 
+%ITEM mtr_cabbage Bắp cải
+Cần thêm nước sốt.
 
-%ITEM mtr_cucumber Cucumber
-It's 90 percent water. Might as well just drink water instead.
-
-
-%ITEM mtr_turnip Turnip
-Munch munch munch munch...
-&&recipe_effect_chant_speed_overhold Casting speed when MP is depleted
+&&recipe_effect_arrest_hpdamage_reduce Sát thương HP khi bị khống chế
+&&recipe_effect_arrest_mpdamage_reduce Sát thương MP khi bị khống chế
 
 
-%ITEM mtr_corn Corn
-A very good vegetable, sweet and filling. Can be used as oil if processed.
-If you bite into it as-is, you'll be picking it out of your teeth the rest of the day.
-&&recipe_effect_reel_speed Rolling speed of chest reels
+%ITEM mtr_tomato Cà chua
+Mình không thích cái cảm giác nhão nhão này.
+Nhưng tương cà thì được.
+&&recipe_effect_evade_nodam_extend Tăng thời gian bất tử khi né đòn
 
-%ITEM mtr_onion Onion
-Really only good as a meat tenderizing sidekick.
-&&recipe_effect_ser_resist Ailment resistance
+%ITEM mtr_green_pepper Ớt Xanh
+Mình khá ghét thứ này từ hồi còn bé.
+&&recipe_effect_smoke_resist Kháng khói
 
-%ITEM mtr_garlic Garlic
-Essential when sauteing meat.
-&&recipe_effect_lost_mp_when_chanting Mana lost when taking damage during chanting
+%ITEM mtr_paprika Ớt Chuông
+Cùng hội với ớt xanh đấy.
+Đừng hòng đánh lừa tôi bằng mấy màu sắc bắt mắt đó.
+&&recipe_effect_arrest_escape Hiệu quả giãy giụa
 
-%ITEM mtr_broccoli Broccoli 
-You shouldn't recommend certain foods to other people just because it's nutritious.
-&&recipe_effect_mp_gaze_resist MP Gauge sturdiness
+%ITEM mtr_celery Cần tây
+Chất xơ.
+Chất xơ ngập tràn mọi nơi.
 
-%ITEM mtr_noel_egg Noel Egg
-...It hurt.
-These can be collected when out of combat.
-Except, I don't want to collect them...
-&&recipe_effect_chant_speed Casting speed
-%RECIPE_REPLACE mtr_noel_egg Noel Egg
+&&recipe_effect_elec_damage_reduce Kháng sét
 
-%ITEM mtr_egg Livestock Egg
-Eggs of livestock raised in the mountains.
-How sinful of us to cook and eat something before it is even born.
-Maybe that's why it tastes so delicious.
+%ITEM mtr_waterplant Cà tím
+Vị khá ngon khi được trộn cùng thịt và nước sốt.
+Nhưng cái ngon đó thực ra là do sốt, chứ không phải cà tím.
+&&recipe_effect_fire_damage_reduce Kháng lửa
 
-%ITEM mtr_mush Mushroom
-I heard that the knowledge to sort out edible and inedible mushrooms is learned at a young age in the elven village.
 
-&&recipe_effect_random Random effect
-&&recipe_effect_dish_variable Power of current dish
+%ITEM mtr_burdock Ngưu bàng
+Trông nó giống nguyên liệu làm thuốc hơn là một loại rau.
+&&recipe_effect_ser_fast thời gian từ hiệu ứng bất lợi
 
-%ITEM mtr_rocksolt0 Rock Salt
-Brings out the best in any meat and makes vegetables just barely edible.
-%RECIPE_REPLACE mtr_rocksolt0 Salted
 
-%ITEM mtr_pepper Pepper
-There was once a time when pepper was treasured and worth as much as silver and gold.
-I'm glad I was born at a time when it's more affordable.
-%RECIPE_REPLACE mtr_pepper Peppered
+%ITEM mtr_carrot Cà rốt
+Ăn cái này khiến tôi cảm thấy mình như gia súc.
+&&recipe_effect_sink_reduce Giảm sự vụng về
 
-%ITEM rotten_food Spoiled Food
-Food that spoiled from being exposed to mana.
-Even a starving dog wouldn't eat this...
+%ITEM mtr_beets Củ dền
+Ngọt và rất ngon.
+Dùng ép nước hoặc làm gia vị đều được. Ước gì Tilde trồng thêm loại này.
 
-%ITEM lunchbox Lunch Box
-If food is placed in this, it will not rot at the end of the battle.
-Let's make a cute lunch and show it off to everyone at school.
 
-%ITEM special_inventory0 Bag Expansion Kit
-Expands inventory capacity.
+%ITEM mtr_cucumber Dưa chuột
+Nó chứa tới 90% là nước. Uống nước luôn cho rồi.
 
-&&Item_detail_inventory_increase2 Increases inventory by +&1\n(Maximum: &2)
+
+%ITEM mtr_turnip Củ cải
+Nhai nhai nhai nhai...
+&&recipe_effect_chant_speed_overhold Tốc độ niệm chú khi cạn MP
+
+
+%ITEM mtr_corn Bắp
+Một loại trái rất ngon, vừa ngọt vừa no. Có thể ép lấy dầu sau khi chế biến.
+Nếu cứ thế mà cắn thì xác định cả ngày ngồi lấy bắp dính trong kẽ răng.
+&&recipe_effect_reel_speed Tốc độ quay rương
+
+%ITEM mtr_onion Hành tây
+Thật ra chỉ có tác dụng làm trợ thủ cho thịt mềm hơn thôi.
+&&recipe_effect_ser_resist Kháng hiệu ứng
+
+%ITEM mtr_garlic Tỏi
+Không thể thiếu khi áp chảo thịt.
+&&recipe_effect_lost_mp_when_chanting Mana mất đi khi bị đánh trong lúc niệm phép
+
+%ITEM mtr_broccoli Bông cải 
+Đừng vì một món ăn bổ dưỡng mà đi khuyên người khác phải ăn nó.
+&&recipe_effect_mp_gaze_resist Độ bền thanh MP
+
+%ITEM mtr_noel_egg Trứng của Noel
+...Nó đau.
+Có thể thu thập chúng khi không chiến đấu.
+Cơ mà, mình không muốn nhặt nó chút nào...
+&&recipe_effect_chant_speed Tốc độ niệm phép
+%RECIPE_REPLACE mtr_noel_egg Trứng của Noel
+
+%ITEM mtr_egg Trứng gia súc
+Trứng của những con gia súc được nuôi trên núi.
+Thật tội lỗi khi nấu và ăn một thứ còn chưa kịp chào đời.
+Có lẽ vì thế mà nó mới ngon đến vậy.
+
+%ITEM mtr_mush Nấm
+Nghe nói ở làng elf, trẻ con được dạy từ nhỏ cách phân biệt nấm ăn được và nấm không ăn được.
+
+&&recipe_effect_random Hiệu ứng ngẫu nhiên
+&&recipe_effect_dish_variable Sức mạnh của món ăn hiện tại
+
+%ITEM mtr_rocksolt0 Muối đá
+Làm thịt ngon hơn hẳn và khiến rau củ ít nhất cũng ăn được.
+%RECIPE_REPLACE mtr_rocksolt0 Ướp muối
+
+%ITEM mtr_pepper Hạt tiêu
+Đã từng có thời hạt tiêu được quý như vàng bạc, có giá trị chẳng kém gì chúng.
+May mà tôi sinh ra vào thời đại mà hạt tiêu đã rẻ hơn nhiều.
+%RECIPE_REPLACE mtr_pepper Ướp tiêu
+
+%ITEM rotten_food Đồ ăn ôi thiu
+Thức ăn bị hỏng do tiếp xúc với mana.
+Đến chó đói cũng chẳng thèm ăn thứ này...
+
+%ITEM lunchbox Hộp đựng đồ ăn
+Nếu cho thức ăn vào đây, chúng sẽ không bị ôi thiu sau mỗi trận chiến kết thúc.
+Làm một hộp cơm thật dễ thương rồi mang đến trường để khoe với mọi người nào.
+
+%ITEM special_inventory0 Bộ mở rộng túi đồ
+Tăng sức chứa túi đồ.
+
+&&Item_detail_inventory_increase2 Tăng sức chứa túi đồ thêm +&1\n(Tối đa: &2)
 
 // ========================================================
 // MARK : ITEMREEL
 // ========================================================
-&&Item_cmd_reel_open_once Open this chest
-&&Item_cmd_reel_open_all Open all chest(s)
-&&Item_cmd_inventory_expand Expand
+&&Item_cmd_reel_open_once Mở chiếc rương này
+&&Item_cmd_reel_open_all Mở toàn bộ rương
+&&Item_cmd_inventory_expand Mở rộng
 
-&&Inventory_reel_content Content of the chest
+&&Inventory_reel_content Vật phẩm trong rương
 // tab name
-&&Inventory_reel_booster Chest Reels
-&&Alert_reel_content_has_been_sent Chest contents have been sent to Storage.
-&&Alert_reel_cannot_open_in_battle Cannot open chests in battle.
-&&Alert_cannot_eat_in_battle Cannot eat food in battle.
-&&Alert_cannot_inventory_enlarge This bag cannot be expanded any further.
-&&Alert_cannot_inventory_target_different Storage cannot be expanded.
-&&Alert_no_lunchbox I don't have a Lunch Box.
+&&Inventory_reel_booster Cuộn Rương
+&&Alert_reel_content_has_been_sent Vật phẩm trong rương đã được đưa vào kho.
+&&Alert_reel_cannot_open_in_battle Không thể mở rương trong trận chiến.
+&&Alert_cannot_eat_in_battle Không thể ăn trong trận chiến.
+&&Alert_cannot_inventory_enlarge Cái túi này không thể mở rộng thêm nữa.
+&&Alert_cannot_inventory_target_different Kho không thể mở rộng.
+&&Alert_no_lunchbox Tui không có hộp đựng đồ ăn nào.
 
 
-&&ItemReel_Name_Base Chest: &1&2
+&&ItemReel_Name_Base Rương: &1&2
 /* ___ ItemReel_Desc_Base ___ */
-Treasure chest containing unidentified items.
-The quality and quantity of the items inside increases with the danger level when it is opened.
+Rương kho báu chứa những vật phẩm chưa xác định.
+Cấp độ nguy hiểm khi mở rương càng cao, chất lượng và số lượng vật phẩm bên trong càng lớn.
 
 
-%ITEMREEL wheat_G0 Grain 1
-%ITEMREEL jewel_G0 Jewel 1
-%ITEMREEL ore_G0 Ore 1
-%ITEMREEL demon_G0 Demonic 1
-%ITEMREEL demon_G1 Demonic 2
-%ITEMREEL demon_G2 Demonic 3
-%ITEMREEL demon_G3 Demonic 4
-%ITEMREEL fruit_G0 Fruit 1
-%ITEMREEL fruit_G1 Fruit 2
-%ITEMREEL sweat_G0 Sweetness 1
-%ITEMREEL mush_G0 Mushroom 1
-%ITEMREEL meat_G0 Meat 1
-%ITEMREEL green_vegi_G0 Green Vegetable 1
-%ITEMREEL yellow_vegi_G0 Yellow Vegetable 1
-%ITEMREEL variable_vegi_G0 Various Vegetable 1
+%ITEMREEL wheat_G0 Ngũ Cốc 1
+%ITEMREEL jewel_G0 Đá Quý 1
+%ITEMREEL ore_G0 Quặng 1
+%ITEMREEL demon_G0 Ma Vật 1
+%ITEMREEL demon_G1 Ma Vật 2
+%ITEMREEL demon_G2 Ma Vật 3
+%ITEMREEL demon_G3 Ma Vật 4
+%ITEMREEL fruit_G0 Trái Cây 1
+%ITEMREEL fruit_G1 Trái Cây 2
+%ITEMREEL sweat_G0 Đồ Ngọt 1
+%ITEMREEL mush_G0 Nấm 1
+%ITEMREEL meat_G0 Thịt 1
+%ITEMREEL green_vegi_G0 Rau Xanh 1
+%ITEMREEL yellow_vegi_G0 Rau Vàng 1
+%ITEMREEL variable_vegi_G0 Rau Đa Dạng 1
 
 
 
-&&recipe_item_categ_flower Flower
-&&recipe_item_categ_seasoning Seasoning
-&&recipe_item_categ_other Other
-&&recipe_item_categ_fromnoel Made in Noel
+&&recipe_item_categ_flower Hoa
+&&recipe_item_categ_seasoning Gia vị
+&&recipe_item_categ_other Khác
+&&recipe_item_categ_fromnoel Bên trong Noel
 
 &&Recipe_title_salad Salad
-&&Recipe_desc_salad Cooking for vegetable lovers.
+&&Recipe_desc_salad Món dành cho những tín đồ mê rau củ.
 
-&&Recipe_title_oil Oil
+&&Recipe_title_oil Dầu ăn
 /* ___ Recipe_desc_oil ___ */ 
-It tastes good, but don't use too much.
-In this sense, it may be similar to the relationship between medicine and poisons.
+Ngon đấy, nhưng đừng dùng quá nhiều.
+Xét cho cùng, nó cũng giống như thuốc và chất độc vậy.
 
-&&Recipe_title_soup Soup
-&&Recipe_desc_soup Best when sipped late at night.
+&&Recipe_title_soup Súp
+&&Recipe_desc_soup Ngon nhất khi đem nhâm nhi vào đêm khuya.
 
-&&Recipe_title_stew Stew
+&&Recipe_title_stew Món Hầm
 /* ___ Recipe_desc_stew  ___ */
-The only dish where tomatoes are acceptable, aside from ketchup.
+Ngoài tương cà ra, đây là món duy nhất mà tôi chấp nhận cho cà chua vào.
 
 
-&&Recipe_title_fried_vegi Stir Fry
-&&Recipe_desc_fried_vegi Can elves and beastmen understand each other like this?
+&&Recipe_title_fried_vegi Rau Xào
+&&Recipe_desc_fried_vegi Elf và thú nhân có thể hiểu nhau theo cách này sao?
 
-&&Recipe_title_steak Steak
-&&Recipe_desc_steak Has a taste that makes me feel alive.
+&&Recipe_title_steak Bít Tết
+&&Recipe_desc_steak Hương vị khiến tôi cảm thấy mình đang sống.
 
 &&Recipe_title_burger Hamburger
 
-&&Recipe_desc_burger People who put raw tomatoes on hamburgers are the worst.
+&&Recipe_desc_burger Trên đời này ghét nhất những người cho cà chua sống vào hamburger.
 
-&&Recipe_title_fried_egg Fried Egg
+&&Recipe_title_fried_egg Trứng Rán
 /* ___ Recipe_desc_fried_egg  ___ */
-Tilde is very picky about preparing eggs...
-"Egg cooking is difficult, you know?
-The whites and yolks set at different temperatures,
-so you have to mix them very well to make an omelets..."
+Tilde cực kỳ khó tính trong chuyện làm trứng...
+"Luộc trứng khó lắm đấy, biết không?
+Lòng trắng và lòng đỏ đông lại ở nhiệt độ khác nhau,
+nên em phải trộn chúng thật kỹ mới làm được trứng rán..."
 
 
-&&Recipe_title_morning_set Morning Set
-&&Recipe_desc_morning_set Essential for a comfortable day.
+&&Recipe_title_morning_set Set Bữa Sáng
+&&Recipe_desc_morning_set Thứ không thể thiếu để có một ngày thoải mái.
 
 
-&&food_in_lunchbox Packed &1
-
-
-
-
-%ITEM mtr_gecko_skin0 Gecko's Skin
-主にヘビ型の魔族から取れる素材。
-結構ずっしりしてる。
-
-
-%ITEM mtr_seed0 Poisonous Seed
-Material gathered from plant-type monsters.
+&&food_in_lunchbox Đã đóng gói &1
 
 
 
-%ITEM mtr_weed0 Dry Grass
-Dead plants growing in places where mana is thick.
-It can be used to make medicine, but it will be very bitter.
 
-&&SkillItem_Map_title Map of &1
+%ITEM mtr_gecko_skin0 Da Thằn Lằn
+Nguyên liệu chủ yếu lấy từ các ma tộc có hình dạng giống rắn.
+Khá nặng tay đấy.
+
+
+%ITEM mtr_seed0 Hạt Độc
+Nguyên liệu thu được từ những quái vật dạng thực vật.
+
+
+
+%ITEM mtr_weed0 Cỏ Khô
+Những loài cây đã chết mọc ở nơi có mật độ mana dày đặc.
+Có thể dùng để làm thuốc, nhưng sẽ đắng lắm.
+
+&&SkillItem_Map_title Bản đồ của &1
 /* ___ SkillItem_Map_desc ___ */ 
-Shows the topography of 
+Hiển thị địa hình của
 &1.
-Does not reveal where chests and enemies are located.
+Không hiển thị vị trí của rương và kẻ địch.
 
 
 
-&&recipe_effect_atk_magic_overspell Spell power when out of mana
+&&recipe_effect_atk_magic_overspell Sức mạnh phép thuật khi cạn mana
 
 
 
@@ -515,142 +515,142 @@ Does not reveal where chests and enemies are located.
 // MARK : ver022
 // ========================================================
 
-%ITEM mtr_curry Bottle of Spices
-A bottle filled with spices native to Mt. Fallen.
-Smells appetizing.
+%ITEM mtr_curry Lọ Gia Vị
+Một lọ chứa đầy các loại gia vị bản địa của Núi Fallen.
+Ngửi thôi đã thấy ngon miệng.
 
-%RECIPE_REPLACE mtr_curry Curry
+%RECIPE_REPLACE mtr_curry Cà ri
 
-%ITEM ostrea_bomb Beastman’s Explosives
-A small bag with a device attached to it. Most likely the explosives the beastman dropped.
-I’ve never seen anything like it before.
-Just holding it makes me nervous...
-
-
-&&recipe_effect_frozen_damage_reduce Freeze resistance
-
-%ITEM mtr_rosemary Rosemary
-A type of herb.
-It’s covered in pretty blue flowers.
-
-%ITEM mtr_basil Basil
-A type of herb.
-Pairs well with meat.
-
-%ITEM mtr_lemongrass Lemongrass
-A type of herb.
-Smells refreshing.
-
-%ITEM mtr_sage Sage
-A type of herb.
-Useful in making medicines.
-
-%ITEM mtr_pelargonium Rose Geranium
-A type of herb.
-Kind of smells like being an adult.
+%ITEM ostrea_bomb Chất Nổ Của Thú Nhân
+Một chiếc túi nhỏ gắn kèm một thiết bị. Có lẽ là chất nổ mà thú nhân làm rơi.
+Tui chưa từng thấy thứ gì như thế này trước đây.
+Chỉ cầm nó thôi cũng khiến tui thấy bất an...
 
 
-%ITEM mtr_peppermint Peppermint
-A type of herb.
-Not really my favorite.
+&&recipe_effect_frozen_damage_reduce Kháng đóng băng
 
-%ITEM mtr_polygama Catnip
-A type of herb.
-Has an irresistibly alluring aroma.
+%ITEM mtr_rosemary Hương thảo
+Một loại thảo dược.
+Nó được phủ đầy những bông hoa xanh xinh xắn.
+
+%ITEM mtr_basil Húng Quế
+Một loại thảo mộc.
+Rất hợp với thịt.
+
+%ITEM mtr_lemongrass Cây Sả
+Một loại thảo mộc.
+Có mùi hương tươi mát.
+
+%ITEM mtr_sage Xô Thơm
+Một loại thảo mộc.
+Hữu ích trong việc chế thuốc.
+
+%ITEM mtr_pelargonium Phong Lữ Hoa Hồng
+Một loại thảo mộc.
+Có mùi gì đó giống... mùi của người trưởng thành.
 
 
-%ITEM mtr_chamomile Chamomile
-A type of herb.
-Has a calming aroma.
+%ITEM mtr_peppermint Bạc Hà
+Một loại thảo mộc.
+Không phải loại mình thích lắm.
 
-%ITEM mtr_sulfur Sulfur
-A yellowish-colored stone often found in the mountain.
-It has an unbearably pungent stench.
+%ITEM mtr_polygama Cỏ Mèo
+Một loại thảo mộc.
+Có hương thơm quyến rũ đến mức khó cưỡng.
 
-%ITEM mtr_nitre Niter
-A stone used to make gunpowder.
-Found in arid regions rather than forested ones.
 
-%ITEM mtr_gold Gold ore
-A stone with flecks of glittering yellow that can be easily seen through a skimmer.
-Apparently necessary for when my sister makes amulets.
+%ITEM mtr_chamomile Cúc La Mã
+Một loại thảo mộc.
+Có hương thơm dịu nhẹ.
 
-%ITEM mtr_redberyl Red Beryl
-A rare type of emerald.
-Its fiery red color is beautiful.
+%ITEM mtr_sulfur Lưu Huỳnh
+Một loại đá màu vàng thường được tìm thấy trên núi.
+Mùi hôi nồng đến mức không thể chịu nổi.
+
+%ITEM mtr_nitre Diêm Tiêu
+Một loại đá dùng để chế tạo thuốc súng.
+Thường được tìm thấy ở những vùng khô cằn hơn là trong rừng.
+
+%ITEM mtr_gold Quặng Vàng
+Một loại đá có những đốm vàng lấp lánh, có thể dễ dàng nhìn thấy qua khung rây.
+Hình như chị mình cần nó để làm bùa hộ mệnh.
+
+%ITEM mtr_redberyl Ngọc Lục Bảo Đỏ
+Một loại ngọc lục bảo hiếm.
+Màu đỏ rực như lửa, rất đẹp.
 
 %ITEM mtr_sapphire Sapphire
-A rare gemstone.
-It has a pale azure brilliance.
+Một loại đá quý hiếm.
+Có ánh xanh lam nhạt đầy mê hoặc.
 
 %ITEM mtr_topaz Topaz
-A rare gemstone.
-Yellow ones are the most common.
+Một loại đá quý hiếm.
+Loại màu vàng là phổ biến nhất.
 
 %ITEM mtr_morganite Morganite
-A rare gemstone.
-Has a lovely pink color worthy of being put on display.
+Một loại đá quý hiếm.
+Có màu hồng xinh xắn, rất đáng để trưng bày.
 
 %ITEM mtr_nekoite Nekoite
-Has nothing to do with cats.
+Chẳng liên quan gì đến mèo cả.
 
-%ITEM mtr_wood Wood
-Everyone loves games where you combine wood, stone,
-and other materials to craft various things.
-
-
-%ITEM mtr_stone Stone
-An ordinary old stone.
-...but what if it were hiding gems inside?
+%ITEM mtr_wood Gỗ
+Ai mà chẳng thích những trò chơi kết hợp giữa gỗ, đá
+và các nguyên liệu khác để chế tạo đủ thứ.
 
 
-%ITEM mtr_mush2 Spotted Mushroom
-Having this anywhere near me makes me feel unsafe.
-Its colors are a bit grotesque…
-
-%ITEM mtr_essence_slime Fake Slime Egg
-Eggs of a slime monster.
-Unfertilized decoy eggs made to trick predators. No nutritional value.
-
-%ITEM mtr_essence_mush Black Cotton Spores
-A mass of spores from a mushroom monster.
-Improper disposal of these will definitely cause trouble.
-
-%ITEM mtr_essence_golem Golem’s Right Hand
-The dexterous right hand of a golem.
-It’s said they retain their intelligence even in their corrupted form.
+%ITEM mtr_stone Đá
+Một viên đá bình thường.
+...nhưng biết đâu bên trong lại có đá quý thì sao?
 
 
-%ITEM mtr_essence_uni Urchin Spine
-A spine from an urchin monster.
-Careful not to hurt yourself when handling it.
+%ITEM mtr_mush2 Nấm Đốm
+Có thứ này ở gần khiến mình thấy không yên tâm chút nào.
+Màu của nó trông hơi ghê…
 
-%ITEM mtr_essence_snake Snake Skin
-Skin from a snake monster.
-It seems to be very water-resistant. Probably to keep mud from sticking to it when it burrows.
+%ITEM mtr_essence_slime Trứng Slime Giả
+Trứng của quái vật slime.
+Những quả trứng giả chưa được thụ tinh, dùng để đánh lừa kẻ săn mồi. Không có giá trị dinh dưỡng.
 
-%ITEM mtr_essence_gecko Lizard Tail
-The thick tail of a lizard monster.
-It’s still pulsating and slightly warm...
+%ITEM mtr_essence_mush Bào Tử Bông Đen
+Một khối bào tử từ quái vật dạng nấm.
+Vứt bỏ không đúng cách chắc chắn sẽ gây rắc rối.
 
-%ITEM mtr_essence_sponge Round Sponge Shell
-The remains of a sponge monster.
-Outer casing of a magical bullet. Any magic held within seems to be long gone.
+%ITEM mtr_essence_golem Tay Phải Golem
+Bàn tay phải khéo léo của một golem.
+Nghe nói chúng vẫn giữ được ý trí ngay cả khi đã bị tha hóa.
 
-%ITEMREEL wheat_G1 Grain+
 
-%ITEMREEL harb_G0 Herb 1
-%ITEMREEL harb_G1 Herb 2
-%ITEMREEL ore_G1 Ore 2
-%ITEMREEL ore_G2 Ore 3
-%ITEMREEL ore_B_G0 Ore+
-%ITEMREEL craft_G0 Crafting
-%ITEMREEL craft_G1 Crafting+
-%ITEMREEL meat_B_G0 Meat+
-%ITEMREEL mush_B_G0 Mushroom+
-%ITEMREEL mushroom_G0 Mushroom 2
+%ITEM mtr_essence_uni Gai Nhím
+Một chiếc gai từ quái vật nhím.
+Cẩn thận kẻo tự làm mình bị thương khi cầm.
 
-&&recipe_item_categ_herb Herb
+%ITEM mtr_essence_snake Da Rắn
+Da của quái vật rắn.
+Có vẻ nó chống nước rất tốt. Chắc là để bùn đất không bám vào khi chui dưới lòng đất.
+
+%ITEM mtr_essence_gecko Đuôi Thằn Lằn
+Chiếc đuôi dày của quái vật thằn lằn.
+Nó vẫn còn hơi ấm và đang khẽ giật...
+
+%ITEM mtr_essence_sponge  Vỏ Bọt Biển Tròn
+Phần còn lại của quái vật bọt biển.
+Lớp vỏ ngoài của một viên đạn ma thuật. Có vẻ ma lực bên trong đã biến mất từ lâu.
+
+%ITEMREEL wheat_G1 Ngũ Cốc+
+
+%ITEMREEL harb_G0 Thảo Dược 1
+%ITEMREEL harb_G1 Thảo Dược 2
+%ITEMREEL ore_G1 Quặng 2
+%ITEMREEL ore_G2 Quặng 3
+%ITEMREEL ore_B_G0 Quặng+
+%ITEMREEL craft_G0 Nguyên Liệu Chế Tác
+%ITEMREEL craft_G1 Nguyên Liệu Chế Tác+
+%ITEMREEL meat_B_G0 Thịt+
+%ITEMREEL mush_B_G0 Nấm+
+%ITEMREEL mushroom_G0 Nấm 2
+
+&&recipe_item_categ_herb Thảo Dược
 
 
 // ========================================================
@@ -663,419 +663,419 @@ Outer casing of a magical bullet. Any magic held within seems to be long gone.
 // MARK : ver0.23
 // ========================================================
 
-&&recipe_categ_alchemy_workbench Workbench
-&&recipe_categ_aloma Aroma
+&&recipe_categ_alchemy_workbench Bàn Chế Tác
+&&recipe_categ_aloma Hương Thơm
 
-&&Recipe_title_aloma_water Aroma
+&&Recipe_title_aloma_water Hương Thơm
 
 
 // ========================================================
 // MARK : ver0.24
 // ========================================================
 // ↓ver0.24で修正される部分
-%ITEM recipe_collection Field Guide
-A licensed field guide given to me by my sister.
-Holds information on known recipes and items.
-Give it a read with <key d/>+<key a/> wherever, whenever.
+%ITEM recipe_collection Sổ Tay Công thức
+Một cuốn sổ tay công thức được cấp phép, do chị gái đưa cho mình.
+Chứa thông tin về các công thức và vật phẩm đã biết.
+Nhấn <key d/>+<key a/> ở bất cứ đâu, bất cứ lúc nào để xem.
 
 
-&&mapmarker_name_suffix Map marker: &1
-&&mapmarker_name_red  Red
-&&mapmarker_name_yellow  Yellow
-&&mapmarker_name_green  Green
-&&mapmarker_name_blue  Blue
-&&mapmarker_name_heart  Heart
-&&mapmarker_name_skull  Skull
-&&mapmarker_name_human  Someone
-&&mapmarker_name_coffee  Cup
+&&mapmarker_name_suffix Đánh dấu bản đồ: &1
+&&mapmarker_name_red  Đỏ
+&&mapmarker_name_yellow  Vàng
+&&mapmarker_name_green  Xanh Lá
+&&mapmarker_name_blue  Xanh Dương
+&&mapmarker_name_heart  Trái Tim
+&&mapmarker_name_skull  Đầu Lâu
+&&mapmarker_name_human  Người
+&&mapmarker_name_coffee  Cốc
 &&mapmarker_name_exc  !
 &&mapmarker_name_que  ?
-&&mapmarker_name_treasure  Treasure
-&&mapmarker_name_enemy  Monster
-&&mapmarker_name_crafts  Materials
-&&mapmarker_name_fruit  Fruits
-&&mapmarker_name_veggie  Veggies
-&&mapmarker_name_meat  Meat
+&&mapmarker_name_treasure  Kho Báu
+&&mapmarker_name_enemy  Quái Vật
+&&mapmarker_name_crafts  Nguyên Liệu
+&&mapmarker_name_fruit  Trái Cây
+&&mapmarker_name_veggie  Rau Củ
+&&mapmarker_name_meat  Thịt
 
 
 /* ___ mapmarker_Desc ___ */
-Device that lets you place markers on the map.
-Place as many as you like!
+Thiết bị cho phép bạn đặt dấu trên bản đồ.
+Đặt bao nhiêu tùy thích!
 
 
-&&recipe_item_categ_jewel Minerals
-&&recipe_item_categ_craftmaterial Crafting
-&&recipe_item_categ_enemy Monster drop
-&&recipe_item_categ_cushion Cushioning
+&&recipe_item_categ_jewel Khoáng Vật
+&&recipe_item_categ_craftmaterial Chế Tác
+&&recipe_item_categ_enemy Đồ Rơi Từ Quái
+&&recipe_item_categ_cushion Đệm
 
 
-%ITEM mtr_copper Copper
-Basic copper ore.
-Easy to process.
+%ITEM mtr_copper Đồng
+Quặng đồng cơ bản.
+Dễ gia công.
 
 
-%ITEM mtr_woodchip Wood Chips
-Little bits of wood.
-Can be used as a shock absorbent.
+%ITEM mtr_woodchip Dăm Gỗ
+Những mảnh gỗ nhỏ.
+Có thể dùng để giảm chấn.   
 
 
-%ITEM mtr_elecboard Circuit Board
-A strange, jaggy board.
-Useful for making mechanical things.
+%ITEM mtr_elecboard Bảng Mạch
+Một tấm bảng mạch kỳ lạ với những cạnh lởm chởm.
+Hữu ích để chế tạo các thiết bị cơ khí.
 
-%ITEM tool_woodchiper Wood Cutter
-A tool to cut wood.
-Definitely the one tool I’d want if I were stranded on an island.
-
-
-%ITEM throw_bomb Grenade
-A simple explosive made from black powder and a fuse.
-Keep it away from open flames, and (once lit) yourself so you don’t get caught in the blast.
+%ITEM tool_woodchiper Dụng Cụ Chặt Gỗ
+Một dụng cụ để Chặt gỗ.
+Nếu mình mắc kẹt trên đảo hoang thì chắc chắn đây là dụng cụ mình muốn có nhất.
 
 
-%ITEM throw_lightbomb  Stun Grenade
-Emits a blinding flash that can daze or knock out enemies.
-Hold your shield up before it detonates to avoid getting caught in the blast.
+%ITEM throw_bomb Lựu Đạn
+Một loại chất nổ đơn giản làm từ thuốc súng đen và dây cháy.
+Giữ nó tránh xa lửa, và sau khi châm ngòi thì tránh xa để không bị cuốn vào vụ nổ.
 
 
-%ITEM throw_magicbomb Magic Grenade
-An explosive infused with magical energy.
-The blast won’t damage you, but will still knock you down.
-
-%ITEM throwattach_enpower Diffusion Mod
-Grenade attachment. Increases power and area of effect.
-Degrades slightly with each use, eventually becoming unusable.
-
-%ITEM throwattach_long Range Mod
-Grenade attachment. Increases max throw distance and area of effect.
-Degrades slightly with each use, eventually becoming unusable.
-
-%ITEM throwattach_suction Sticky Mod
-Grenade attachment. Causes it to stick to walls and enemies; slightly increases power.
-Degrades slightly with each use, eventually becoming unusable.
+%ITEM throw_lightbomb  Lựu Đạn Choáng
+Phát ra một luồng sáng chói có thể làm choáng hoặc hạ gục kẻ địch.
+Tạo khiên lên trước khi nó phát nổ để tránh bị ảnh hưởng.
 
 
-%ITEM throwattach_chaser Chaser Mod
-Grenade attachment. Causes it to run across floors towards nearby enemies; slightly increases power.
-Degrades slightly with each use, eventually becoming unusable.
+%ITEM throw_magicbomb Lựu Đạn Ma Thuật
+Một loại chất nổ được trữ lượng ma thuật.
+Vụ nổ không gây sát thương cho bạn, nhưng vẫn có thể hất ngã bạn.
+
+%ITEM throwattach_enpower Cường Hóa Uy Lực
+Phụ kiện dành cho lựu đạn. Tăng uy lực và phạm vi ảnh hưởng.
+Sẽ xuống cấp một chút sau mỗi lần sử dụng, cuối cùng trở nên không thể sử dụng.
+
+%ITEM throwattach_long Cường Hóa Tầm
+Phụ kiện dành cho lựu đạn. Tăng khoảng cách ném tối đa và phạm vi ảnh hưởng.
+Sẽ xuống cấp một chút sau mỗi lần sử dụng, cuối cùng trở nên không thể sử dụng.
+
+%ITEM throwattach_suction Cường Hóa Dính
+Phụ kiện dành cho lựu đạn. Cho phép nó dính vào tường và kẻ địch, đồng thời tăng nhẹ uy lực.
+Sẽ xuống cấp một chút sau mỗi lần sử dụng, cuối cùng trở nên không thể sử dụng.
 
 
-%ITEM throwattach_sensor Hover-mine Mod
-Grenade attachment. Once thrown, the grenade will hover in the air and detonate when enemies come close.
-Degrades slightly with each use, eventually becoming unusable.
+%ITEM throwattach_chaser Cường Hóa Truy Đuổi
+Phụ kiện dành cho lựu đạn. Khi ném ra, nó sẽ chạy trên mặt đất về phía những kẻ địch ở gần, đồng thời tăng nhẹ uy lực.
+Sẽ xuống cấp một chút sau mỗi lần sử dụng, cuối cùng trở nên không thể sử dụng.
+
+
+%ITEM throwattach_sensor Cường Hóa Mìn Lơ Lửng
+Phụ kiện dành cho lựu đạn. Sau khi được ném, lựu đạn sẽ lơ lửng trên không và phát nổ khi kẻ địch đến gần.
+Sẽ xuống cấp một chút sau mỗi lần sử dụng, cuối cùng trở nên không thể sử dụng.
 
 
 
 
-%ITEM coffeemaker_ticket Siphon Ticket
-A ticket made from a scrap of paper so thin it could fly away at any moment.
-There appears to be a handwritten signature on it.
-Well...let’s not dig too deep into this.
+%ITEM coffeemaker_ticket Vé Siphon
+Một tấm vé làm từ mẩu giấy mỏng đến mức có thể bay mất bất cứ lúc nào.
+Có vẻ như trên đó có chữ ký viết tay.
+Ừm... tốt nhất là đừng đào sâu vào chuyện này.
 
 
-&&detail_coffeemaker_ticket Good for one use of the coffee machine. Cannot be kept for later use.
+&&detail_coffeemaker_ticket Có thể dùng một lần cho máy pha cà phê. Không thể giữ lại để dùng sau.
 
 
-%ITEM mtr_coffee Coffee Bean
-Its metallic, bitter smell is strangely inviting.
+%ITEM mtr_coffee Hạt Cà Phê
+Mùi kim loại đắng đắng của nó kỳ lạ thay lại rất hấp dẫn.
 
 
-%RECIPE_REPLACE mtr_coffee Coffee
+%RECIPE_REPLACE mtr_coffee Cà Phê
 
-&&recipe_effect_sleep_resist Sleep Resistance
+&&recipe_effect_sleep_resist Chống buồn ngủ
 
 %ITEM tool_siphon Siphon
-Coffee made with this tastes the same as coffee made in a normal pot; yet there’s something special about it.
-Maybe it’s that we’re drinking in the experience of making it.
+Cà phê pha bằng thứ này có vị chẳng khác gì cà phê pha bằng bình thường, nhưng vẫn có gì đó đặc biệt.
+Có lẽ là vì chúng ta đang thưởng thức cả quá trình tự tay pha nó.
 
-&&Item_name_siphon_by_ticket Siphon (Ticket)
+&&Item_name_siphon_by_ticket Siphon (Vé)
 
 /* ___ Item_desc_siphon_by_ticket ___ */
-If I’m not wrong...this piece of scrap pa-...this ticket can be redeemed to use the siphon once.
+Nếu mình nhớ không nhầm... mẩu giấy vụ-... tấm vé này có thể đổi để sử dụng Siphon một lần.
 
 
-&&Recipe_title_herbtea Herbal Tea
+&&Recipe_title_herbtea Trà Thảo Dược
 /* ___ Recipe_desc_herbtea ___ */
-A delicious aqueous solution.
-It’s a type of food, but 
-can be used during battle, but will spoil afterwards if unused.
+Một loại nước thơm ngon.
+Đây là một loại đồ ăn, nhưng 
+có thể sử dụng trong trận chiến; nếu không dùng thì sẽ bị ôi thiu sau đó.
 
-%ITEM mtr_darjeeling Darjeeling Tea
-Just a small whiff of this makes me want to go “<i>Oh ho ho ho!</i>” like Ixia.
+%ITEM mtr_darjeeling Trà Darjeeling
+Chỉ cần ngửi thoang thoảng mùi này thôi cũng khiến tôi muốn “<i>Ồ hô hô hô!</i>” giống Ixia.
 
 
-&&Recipe_titleR_herbtea Tea
-&&Recipe_titleR_sandwich Sandwich
+&&Recipe_titleR_herbtea Trà
+&&Recipe_titleR_sandwich Bánh Sandwich
 
 
 // ========================================================================
 // 230915 突然の追加で申し訳ないです！！！！！！
 
-%ITEMREEL craft_G2 Crafting++
+%ITEMREEL craft_G2 Chế Tác++
 
-&&Catalog_categ_item_cure Healing
-&&Catalog_categ_item_bomb Explosives
-&&Catalog_categ_item_mtr Materials
-&&Catalog_categ_item_ingredient Foods
-&&Catalog_categ_item_water Water
-&&Catalog_categ_item_bottle Containers
-&&Catalog_categ_item_fruit Fruits
-&&Catalog_categ_item_dust Junk
-&&Catalog_categ_item_tool Tools
-&&Catalog_categ_item_enhancer Enhancers
-&&Catalog_categ_item_skill Skills
-&&Catalog_categ_item_reel Chests
-&&Catalog_categ_item_recipe Recipes
+&&Catalog_categ_item_cure Hồi Máu
+&&Catalog_categ_item_bomb Chất Nổ
+&&Catalog_categ_item_mtr Nguyên Liệu
+&&Catalog_categ_item_ingredient Thức Ăn
+&&Catalog_categ_item_water Nước
+&&Catalog_categ_item_bottle Bình Chứa
+&&Catalog_categ_item_fruit Trái Cây
+&&Catalog_categ_item_dust Phế Liệu
+&&Catalog_categ_item_tool Công Cụ
+&&Catalog_categ_item_enhancer Cường Hóa
+&&Catalog_categ_item_skill Kỹ Năng
+&&Catalog_categ_item_reel Rương
+&&Catalog_categ_item_recipe Công Thức
 
-&&Catalog_categ_sub_all All
-&&Catalog_categ_sub_cure_hp Heals HP
-&&Catalog_categ_sub_cure_mp Recovers MP
-&&Catalog_categ_sub_cure_ep Calms EP
+&&Catalog_categ_sub_all Tất Cả
+&&Catalog_categ_sub_cure_hp Hồi HP
+&&Catalog_categ_sub_cure_mp Hồi MP
+&&Catalog_categ_sub_cure_ep Giảm EP
 
 
 // ========================================================================
 // 240301 ver0.25
 
-%ITEM mtr_milk Farm-fresh Milk
-Put your hand on your hip and thrust your head skyward when you drink it!
+%ITEM mtr_milk Trang Trại Sữa TƯơi
+Uống sữa vào thì nhớ chống nạnh, ngẩng mặt lên trời nhé!
 
-%RECIPE_REPLACE mtr_milk Milk
+%RECIPE_REPLACE mtr_milk Sữa
 
 
-%ITEM tool_bread_oven Bread Oven
-Being able to sniff freshly baked bread at all hours of the day is one of the best QOL upgrades.
+%ITEM tool_bread_oven Lò Nướng Bánh Mì
+Có thể ngửi thấy mùi bánh mì mới nướng vào bất cứ lúc nào trong ngày là một trong những thứ giúp cải thiện chất lượng cuộc sống tuyệt vời nhất
 
-%RECIPE_REPLACE tool_bread_oven Oven-baked
+%RECIPE_REPLACE tool_bread_oven Lò Nướng
 
-%ITEM tool_keg Keg
-A quantum device that makes it impossible to tell if the brew inside is rotting or fermenting until you open it.
+%ITEM tool_keg Ủ
+Một thiết bị lượng tử khiến bạn không thể biết thứ bên trong đang thối rữa hay lên men cho đến khi mở nó ra.
 
-%RECIPE_REPLACE tool_keg Keg
+%RECIPE_REPLACE tool_keg Ủ
 
-%ITEM fruit_grape Grape
-Clusters of amethyst-colored berries, my sister's favorite. I have to fight the urge to bite into them.
+%ITEM fruit_grape Nho
+Những chùm quả màu tím thạch anh, món yêu thích của chị mình. Mình phải cố lắm mới cưỡng lại được.
 
-%RECIPE_REPLACE fruit_grape Grape
+%RECIPE_REPLACE fruit_grape Nho
 
-%ITEM fruit_banana Banana
-It tastes best right when it's about to go bad. But if you aren't paying attention, it will go bad. In that sense, it's kind of like an adventure.
+%ITEM fruit_banana Chuối
+Ngon nhất là lúc vừa chớm hỏng. Nhưng nếu không để ý thì nó sẽ hỏng thật. Xét theo nghĩa đó, ăn chuối cũng giống như một cuộc phiêu lưu.
 
 
 %ITEM fruit_kiwi Kiwi
-When I was a kid, I rubbed my eyes after eating one and they got all swollen...
+Hồi nhỏ, mình từng dụi mắt sau khi ăn một quả, thế là mắt sưng húp cả lên...
 
 
-%ITEM fruit_plum Plum
-Colorful green and red fruit.
-Much more sour than it looks.
+%ITEM fruit_plum Mận
+Loại quả có màu xanh và đỏ sặc sỡ.
+Chua hơn nhiều so với vẻ ngoài.
 
-%ITEM fruit_lemon Lemon
-Has a sharp, sour taste that most find unappealing. The fact that it's sour down to the last drop kind of reminds me of Ixia.
+%ITEM fruit_lemon Chanh
+Có vị chua gắt mà hầu hết mọi người đều không thích. Cái kiểu chua đến tận giọt cuối cùng này khiến tôi liên tưởng đến Ixia.
 
-%ITEM fruit_peach Peach
-Enjoyable both in its early, ripe state, and its late, mushy state.
+%ITEM fruit_peach Đào
+Ăn lúc còn xanh giòn hay khi đã chín mềm nhũn đều ngon.
 
-%ITEM mtr_honey Monster Honey
-Irresistably sweet. But I don't want to think about the bugs that produced it.
-%RECIPE_REPLACE mtr_honey Honey
+%ITEM mtr_honey Mật Ong Quái Vật
+Ngọt đến mức không thể cưỡng lại. Nhưng tôi không muốn nghĩ đến việc lũ bọ đã làm ra nó.
+%RECIPE_REPLACE mtr_honey Mật Ong
 
-%ITEM mtr_cacao Cocoa bean
-A rare bean that can be made into delicious sweets if you put in the work.
-%RECIPE_REPLACE mtr_cacao Cocoa
+%ITEM mtr_cacao Hạt Ca Cao
+Một loại hạt hiếm có thể chế biến thành những món ngọt ngon tuyệt nếu chịu khó bỏ công.
+%RECIPE_REPLACE mtr_cacao Ca Cao
 
-%ITEM mtr_bean Green Peas
-A small green bomb that can ruin any meal with its awful taste and texture.
-%RECIPE_REPLACE mtr_bean Bean
+%ITEM mtr_bean Đậu Xanh
+Một quả bom xanh be bé có thể phá hỏng mọi món ăn bằng hương vị và kết cấu kinh khủng của nó.
+%RECIPE_REPLACE mtr_bean Đậu
 
-%ITEM mtr_pumpkin Pumpkin
-Reminds me of Tilde, with its tough outer skin, but soft insides.
+%ITEM mtr_pumpkin Bí Ngô
+Lớp vỏ ngoài cứng cáp nhưng bên trong mềm mại khiến mình liên tưởng đến Tilde.
 
-%ITEM mtr_potato Potato
-Full of Solanine!
+%ITEM mtr_potato Khoai
+Chứa đầy Solaline!
 
-%RECIPE_REPLACE mtr_potato Potato
+%RECIPE_REPLACE mtr_potato Khoai
 
-%ITEM mtr_rice Rice
-Grains grown underground. I always get the urge to put a highly seasoned side dish on top of it.
-%RECIPE_REPLACE mtr_rice Rice
+%ITEM mtr_rice Gạo
+Những hạt ngũ cốc được trồng dưới lòng đất. Lúc nào mình cũng có cảm giác muốn cho một món vị đậm đà lên trên.
+%RECIPE_REPLACE mtr_rice Gạo
 
 %ITEM mtr_actihol Actihol
-If you heat it up, it adds some deep flavors to food. If you drink it as-is, it'll make your head swim...or so I've heard.
+Nếu đun nóng, nó sẽ làm món ăn dậy thêm hương vị đậm đà. Còn nếu uống nguyên chất thì sẽ khiến đầu óc quay cuồng... nghe nói là vậy. 
 %RECIPE_REPLACE mtr_actihol 
- 
 
-&&Recipe_title_tortilla Tortilla
+
+&&Recipe_title_tortilla Bánh Tortilla
 /* ___ Recipe_desc_tortilla ___ */
-I like the soft ones, but the hard ones have a more "real" feel to them.
+Tôi thích loại mềm, nhưng loại cứng lại mang đến cảm giác “đúng chất” hơn.
 
 &&Recipe_title_taco Taco
 /* ___ Recipe_desc_taco ___ */
-Made with the meat of something called "fish", which is rare in the forest and town, but is popular on Mt. Fallen.
+Được làm từ thịt của thứ gọi là “cá”, khá hiếm trong rừng và thị trấn, nhưng lại rất phổ biến trên Núi Fallen.
 
-&&Recipe_title_cream Cream
+&&Recipe_title_cream Kem
 /* ___ Recipe_desc_cream ___ */
-Made by stirring milkfat at great speeds. The culmination of of wisdom, air, and oil.
+Được làm bằng cách đánh bông chất béo sữa ở tốc độ cao. Sự kết tinh của trí tuệ, không khí và dầu.
 
 
 &&Recipe_title_parfait Parfait
 /* ___ Recipe_desc_parfait ___ */
-A perfect dessert for a perfect girl.
+Món tráng miệng hoàn hảo dành cho một cô gái hoàn hảo.
 
-&&Recipe_title_waffle Waffle
+&&Recipe_title_waffle Bánh Waffle
 /* ___ Recipe_desc_waffle ___ */
-Each pocket of the lattice is filled with sweet happiness.
+Mỗi ô vuông trên chiếc bánh đều chứa đầy hạnh phúc ngọt ngào.
 
 
 
 // ↓ French Fries という言葉は使わないで表現して下さい。( French = フランスが存在しないので )
 
-&&Recipe_title_fried_potato Fried Potato
+&&Recipe_title_fried_potato Khoai Chiên
 /* ___ Recipe_desc_fried_potato ___ */
-Potatoes fried in oil.
+Khoai được chiên trong dầu.
 
 
-&&Recipe_title_fried_chicken Fried Chicken
+&&Recipe_title_fried_chicken Gà Rán
 /* ___ Recipe_desc_fried_chicken ___ */
-A drumstick. Father and Tilde get furious when I gobble up all the gristle.
+Một chiếc đùi gà. Mỗi lần tôi ăn sạch cả phần sụn là bố và Tilde lại nổi giận đùng đùng.
 
 
-&&Recipe_title_fried_demon Fried Monster
+&&Recipe_title_fried_demon Quái Vật Chiên
 /* ___ Recipe_desc_fried_demon ___ */
-The oil and breading are doing their best to hide the smell and texture of the meat, but it isn't helping much...
+Dầu và lớp bột chiên cố hết sức để che đi mùi và kết cấu của thịt, nhưng xem ra chẳng được bao nhiêu...
 
 // ↓「お酒」に相当する言葉を使わずに表現して下さい。
 // アクチール: Actihol
 
-&&Recipe_title_yangkueifei Flowery Princess
+&&Recipe_title_yangkueifei Công Chúa Hoa
 /* ___ Recipe_desc_yangkueifei ___ */
-Infused with floral aromas and accented with citrus flavors that evoke the freshness of summer. Best enjoyed before dinner...or so I've heard.
+Hòa quyện hương hoa và điểm thêm vị cam chanh, gợi lên cảm giác tươi mát của mùa hè. Ngon nhất khi dùng trước bữa tối... nghe nói là vậy.
 
 
 &&Recipe_title_cassisorange Trickrush 340
 /* ___ Recipe_desc_cassisorange ___ */
-Milky sweetness blends harmoniously with the actihol. The sweet taste of forgotten memories...or so I've heard.
+Vị ngọt béo hòa quyện hài hòa với Actihol. Hương vị ngọt ngào của những ký ức đã lãng quên... nghe nói là vậy.
 
 
-&&Recipe_title_soltywolf Salty Wolf
+&&Recipe_title_soltywolf Sói Mặn Mòi
 /* ___ Recipe_desc_soltywolf ___ */
-Salt is sprinkled around the edge of the glass. It's a luxurious citrusy drink with two kinds of spices...or so I've heard.
+Muối được rắc quanh miệng ly. Một thức uống cam chanh sang trọng với hai loại gia vị... nghe nói là vậy.
 
 &&Recipe_title_applecider HWG
 /* ___ Recipe_desc_applecider ___ */
-A sweet drink made from apples. Good for those who can't handle their actihol...or so I've heard.
+Một thức uống ngọt làm từ táo. Phù hợp với những ai không chịu được Actihol... nghe nói là vậy.
 
-&&Recipe_title_sparklingwine Red Vermilion
+&&Recipe_title_sparklingwine Vang Đỏ Thắm
 /* ___ Recipe_desc_sparklingwine ___ */
-A carbonated drink made from fermented grapes. A classic that pairs well with meat dishes...or so I've heard.
+Một thức uống có ga được làm từ nho lên men. Thứ kinh điển rất hợp với các món thịt... nghe nói là vậy.
 
-&&Recipe_title_syotyusoda Slash Fantasy
+&&Recipe_title_syotyusoda Vết Chém Thiêu Tửu
 /* ___ Recipe_desc_syotyusoda ___ */
-Has a unique aftertaste that harkens to reincarnation through the Mother Stone...or so I've heard.
+Có hậu vị độc đáo gợi nhớ đến cảm giác tái sinh qua Cự Thạch Khởi Nguyên... nghe nói là vậy.
 
-&&Recipe_title_amaretto Amber Waltz
+&&Recipe_title_amaretto Vũ Điệu Hổ Phách
 /* ___ Recipe_desc_amaretto ___ */
-A sensual drink that invokes the passion of two lovers dancing gracefully...or so I've heard.
+Một thức uống đầy quyến rũ, gợi lên niềm say mê của đôi tình nhân đang uyển chuyển khiêu vũ... nghe nói là vậy.
 
 
-&&Recipe_title_gintonic Heat Shot 197
+&&Recipe_title_gintonic Hỏa Kích 197
 /* ___ Recipe_desc_gintonic ___ */
-The high actihol content and spicy dried mana plants create a storm in the drinker's head...or so I've heard.
+Hàm lượng actihol cao cùng những loại cây mana khô cay nồng tạo nên một cơn bão trong đầu người uống... nghe nói là vậy.
 
 
 &&Recipe_title_spirytus Brave N-E-U World
 /* ___ Recipe_desc_spirytus ___ */
-Very high actihol content from repeated distillation. Drink it and you'll see the world through new eyes...or so I've heard.
+Hàm lượng Actihol cực cao do được chưng cất nhiều lần. Uống vào, bạn sẽ nhìn thế giới bằng một đôi mắt mới... nghe nói là vậy.
 
 
 
-%ITEM mtr_noel_milk Noel Milk
-Normally only produced by mothers who have recently given birth, but...
+%ITEM mtr_noel_milk Sữa của Noel
+Thường thì sữa chỉ được tạo ra bởi những bà mẹ mới sinh, nhưng...
 
-%RECIPE_REPLACE mtr_egg Egg
+%RECIPE_REPLACE mtr_egg Trứng
 
-%ITEM mtr_elf_milk Elf Milk
-There must be someone around who's the right person to drink this...
+%ITEM mtr_elf_milk Sữa của Elf
+Chắc hẳn có ai đó quanh đây phù hợp để uống thứ này...
 
-%RECIPE_REPLACE mtr_elf_milk Milk
+%RECIPE_REPLACE mtr_elf_milk Sữa
 
-%ITEM mtr_elf_egg Elf Egg
-The fruits of someone's suffering. No matter how much we hate the monsters, we can't ignore its nutritional value.
+%ITEM mtr_elf_egg Trứng của Elf
+Thành quả từ sự khổ sở của một ai đó. Dù có ghét lũ quái vật đến đâu, chúng ta cũng không thể phủ nhận giá trị dinh dưỡng của nó.
 
-%RECIPE_REPLACE mtr_elf_egg Egg
-&&recipe_item_categ_milk Milk
+%RECIPE_REPLACE mtr_elf_egg Trứng
+&&recipe_item_categ_milk Sữa
 
 
-%ITEM precious_bone_beast Alloyed Bone
-A lightweight, metallic bone that can resist the corroding effects of magic. Once held the life of a certain beastman together.
+%ITEM precious_bone_beast Xương Hợp Kim
+Một chiếc xương nhẹ, có tính kim loại và có khả năng chống lại tác động ăn mòn của ma lực. Từng là thứ giữ mạng sống cho một thú nhân nào đó.
 
-&&recipe_item_categ_bean Bean
+&&recipe_item_categ_bean Đậu
 
 
 // ========================================================
 // MARK : ver 026
 // ========================================================
 
-%ITEM precious_egg_remover Egg Remover
-A new product from SENKA.
-Helps safely remove monster eggs
-when you’re at a bench.
+%ITEM precious_egg_remover Dụng Cụ Lấy Trứng
+Sản phẩm mới từ SENKA.
+Giúp lấy ra trứng quái vật một cách an toàn
+khi bạn đang ngồi ở ghế băng.
 
-%ITEM scapecat Scapecat
-Automatically revives you when
-HP reaches 0. I wonder what happens
-when you use it while you're
-captured by a monster...? Maybe...
-if your wish reaches the Mother Tree...
+%ITEM scapecat Mèo Thoát Hiểm
+Tự động hồi sinh bạn khi
+HP giảm xuống 0. Không biết chuyện gì sẽ xảy ra
+nếu sử dụng nó khi bạn đang
+bị quái vật khống chế...? Biết đâu...
+nếu điều ước của bạn đến được với Thần Mộc Khởi Nguyên...
 
 /* ___ detail_scapecat ___ */ 
-Usable from the "Game Over" screen.
-Revive Noel to keep her from becoming
-a monster's plaything.
+Có thể sử dụng từ màn hình “Game Over”.
+Hồi sinh Noel để cô ấy không trở thành
+đồ chơi của quái vật.
 
-Revives you with &1% HP / &2% MP,
-and increases the Danger Level by &3.
+Hồi sinh với &1% HP / &2% MP,
+đồng thời tăng Cấp Độ Nguy Hiểm lên thêm &3.
 
 
 // ========================================================
 // MARK : ver 027
 // ========================================================
 
-%ITEM precious_guild_card Adventurer's Guild Card
-Since all guild data is handled by the crystal in my staff, this card is just for show.
+%ITEM precious_guild_card Thẻ Hội Mạo Hiểm Giả
+Vì toàn bộ dữ liệu của hội đều được xử lý bởi viên pha lê trong trượng của mình, nên tấm thẻ này chỉ để làm màu thôi.
 
-%ITEM precious_memorychip Memory Chip
-Tigrina asked me to retrieve this.
-It’s chock-full of information.
-
-
-&&Recipe_title_ration Ration
-&&Recipe_desc_ration A quick and easy meal for someone on the go. Makes my tummy happy and my tongue sad.
+%ITEM precious_memorychip Chip Nhớ
+Tigrina nhờ tôi lấy thứ này.
+Bên trong chứa cả đống thông tin.
 
 
-&&recipe_effect_egg_resist Egg resistance
-&&recipe_effect_itemdrop_ratio Item drop chance
+&&Recipe_title_ration Khẩu Phần
+&&Recipe_desc_ration Một bữa ăn nhanh gọn dành cho người đang vội. Làm bụng tui vui, nhưng lưỡi tui thì buồn.
 
 
-%ITEM mtr_essence_pentapod Pentapod Cord
-Flexile neck of a Pentapod-type monster.
-Feels like I could stretch it to infinity. If only my arms were longer...
+&&recipe_effect_egg_resist Kháng Trứng
+&&recipe_effect_itemdrop_ratio Tỉ lệ rớt vật phẩm
 
-%ITEM mtr_essence_pig Boar Tusk
-Giant tusk of a Boar-type monster.
-The same as the one Nightingale carries around.
 
-%ITEM mtr_essence_roaper Roper Tentacle
-Undulating tentacle of a Roper-type monster.
-Slippery, magically-inert, and seems to move if I so much as touch it...
+%ITEM mtr_essence_pentapod Cổ Pentapod
+Phần cổ dẻo dai của một con quái vật thuộc loài Pentapod.
+Cảm giác như tôi có thể kéo giãn nó đến vô tận vậy. Giá mà tay mình dài hơn một chút nhỉ...
+
+%ITEM mtr_essence_pig Nanh Lợn Rừng
+Chiếc nanh khổng lồ của quái vật loài Lợn Rừng.
+Giống hệt chiếc mà Nightingale luôn mang theo.
+
+%ITEM mtr_essence_roaper Xúc Tu Roper
+Chiếc xúc tu uốn éo của quái vật Xúc Tu.
+Trơn trượt, hoàn toàn kháng ma thuật, và dường như nó sẽ tự cử động dù tôi chỉ mới chạm nhẹ vào...
 
 
 // 自爆アイテム
-%ITEM special_suicide Malevolent Mass
-Found near the Mother Stone. It is densely packed with volatile mana.
+%ITEM special_suicide Khối Ác Ý
+Được tìm thấy gần Cự Thạch Khởi Nguyên. Bên trong chứa một lượng mana cực kỳ bất ổn được nén chặt.
 
-%ITEM mtr_tarot_fool Tarot Card: The Fool
-Freedom, Innocence / Folly, Naivety
-Symbolizes the brutish nature of monsters who trample over the elves and their technology.
+%ITEM mtr_tarot_fool Lá Bài Tarot: Kẻ Khờ
+Tự Do, Ngây Thơ / Điên Rồ, Ngây Ngô
+Biểu tượng cho bản tính hung bạo của lũ quái vật, những kẻ chà đạp lên elf và công nghệ của họ.
 
 
 // ========================================================
@@ -1083,238 +1083,238 @@ Symbolizes the brutish nature of monsters who trample over the elves and their t
 // ========================================================
 
 // 杖
-%ITEM cane_default Beginner Staff
-A well-balanced staff for those just starting out. Leaves a lot to be desired even when fully upgraded.
+%ITEM cane_default Trượng Tập Sự
+Một cây trượng cân bằng dành cho những người mới bắt đầu. Dù đã được nâng cấp tối đa nhưng vẫn còn khá nhiều thiếu sót.
 
-%ITEM cane_bermit Bermit Staff
-Standard issue for cadets and soldiers. Designed for long range combat to support the frontline.
+%ITEM cane_bermit Trượng Tiêu Chuẩn Bermit
+Trang bị tiêu chuẩn dành cho học viên và binh lính. Được thiết kế để chiến đấu tầm xa, hỗ trợ cho tuyến đầu.
 
-%ITEM cane_hammer Warhammer
-Designed for the up-close and personal. Has extremely high damage output with melee and shotgun attacks, but lacks a lock on function.
-Smashy smashy.
+%ITEM cane_hammer Búa CHiến
+Được thiết kế cho những pha áp sát và cận chiến. Sở hữu sát thương cực cao với cả đòn đánh cận chiến lẫn shotgun, nhưng không có chức năng khóa mục tiêu.
+Đập tanh bành.
 
-%ITEM cane_sleipner Sleipnir
-Named after an ancient mythological beast. Greatly improves chanting speed, but has low mana efficiency. Don't get too carried away.
+%ITEM cane_sleipner Trượng Sleipnir
+Được đặt theo tên một sinh vật trong thần thoại cổ đại. Tăng đáng kể tốc độ niệm phép, nhưng hiệu suất sử dụng mana thấp. Đừng quá đà nhé.
 
-%ITEM cane_monopolizer Monopolizer
-A staff with good mana efficiency. Designed with athletes and performers in mind. Great for extended encounters.
+%ITEM cane_monopolizer Trượng Độc Chiếm
+Một cây trượng có hiệu suất sử dụng mana tốt. Được thiết kế cho vận động viên và nghệ sĩ biểu diễn làm đối tượng sử dụng chính. Rất thích hợp cho những cuộc chạm trán kéo dài.
 
-%ITEM cane_bermit2 Modded Bermit Staff
-The standard issue Bermit Staff slightly altered for more efficient power output at the cost of shotgun, retention, and lock on efficiency.
+%ITEM cane_bermit2 Trượng Tiêu Chuẩn Bermit Được Cải Tiến
+Trượng tiêu chuẩn Bermit được chỉnh sửa đôi chút để tăng hiệu suất phát lực, đổi lại khả năng duy trì và khóa mục tiêu cùng với hiệu quả của shotgun đều bị giảm.
 
-%ITEM precious_testor_lisence Staff Tester License
-A permit that allows you to hold more than one staff at any given time (but only for work purposes as a tester). I wonder if the system has any other loopholes...
+%ITEM precious_testor_lisence Giấy Phép Kiểm Thử Trượng Phép
+Một giấy phép cho phép bạn sở hữu nhiều hơn một cây trượng cùng lúc (nhưng chỉ được phép vì mục đích công việc của người kiểm thử). Không biết hệ thống còn kẽ hở nào khác không nhỉ...
 
 // ========================================================
 // MARK : 獣人向グッズ
 // ========================================================
 
-%ITEM bst_hvn_filter Mana Filter
-Used by beastmen to filter out the toxic effects of mana in the atmosphere.
+%ITEM bst_hvn_filter Bộ Lọc Mana
+Được tộc thú nhân sử dụng để lọc bỏ các tác động gây hại của mana trong không khí.
 
-%ITEM mtr_guarana Guarana
-More associated with energy drinks than as a fruit.
+%ITEM mtr_guarana Quả Guarana
+Thường được liên tưởng tới nước tăng lực hơn là một loại trái cây.
 
-&&Recipe_title_energydrink Energy Drink
+&&Recipe_title_energydrink Nước Tăng Lực
 /* ___ Recipe_desc_energydrink ___ */
-Gives you the energy you need now to keep moving. You're really just borrowing it from your future self, though...
+Cung cấp nguồn năng lượng bạn cần ngay lập tức để tiếp tục. Cơ mà thật ra bạn chỉ đang vay mượn năng lượng từ chính bản thân mình trong tương lai thôi...
 
 // ========================================================
 // MARK : ver0.29
 // ========================================================
 
-%ITEM mtr_poisonwater Poisoned Water
-Water tainted by ancient magics and impure mana. Sprinkling it around will slightly increase the danger level.
+%ITEM mtr_poisonwater Nước Nhiễm Độc
+Nước bị nhiễm ma thuật cổ đại và mana ô uế. Rắc nó xung quanh sẽ làm mức độ nguy hiểm tăng nhẹ.
 
-%ITEM mtr_fearmemory Seed of Terror
-Extracted from a vessel toyed with by monsters. The negative energy stored within must be another source of food for them...
+%ITEM mtr_fearmemory Hạt Giống Của Sự Kinh Hoàng
+Được lấy từ một vật chứa từng bị lũ quái vật dày vò. Nguồn năng lượng tiêu cực tích tụ bên trong chắc hẳn cũng là một nguồn thức ăn khác của chúng...
 
-%ITEMREEL nitre_G0 Explosive 1
+%ITEMREEL nitre_G0 Thuốc Nổ 1
 
-%ITEMREEL poisonwater_G0 Poison Water 1
+%ITEMREEL poisonwater_G0 Nước Độ 1
 
-%ITEM anc_cure_poison Antidote
-Cures poison. But it’s so bitter...
+%ITEM anc_cure_poison Thuốc Giải Độc
+Giải được độc tố. Nhưng nó đắng kinh khủng...
 
-%ITEM precious_errorchip Incompatible Skill Chip
-Found within a crystal cave in the mountains. There was a similar cave in the forest...I wonder if there’s any significance behind them?
+%ITEM precious_errorchip Chip Kỹ Năng Lỗi
+Tìm thấy trong một hang động pha lê trên núi. Trong rừng cũng có một hang động tương tự... Không biết giữa chúng có liên quan gì với nhau không nhỉ?
 
-%ITEM precious_magicdevice200 Stolen Installer
-It says “Gravity Well” on it. These things are heavy. How was that girl running around so effortlessly while carrying it?
+%ITEM precious_magicdevice200 Bộ Cài Đặt Bị Đánh Cắp
+Trên đó có ghi “Giếng Trọng Lực”. Thứ này nặng kinh khủng. Không hiểu sao cô gái đó có thể chạy nhảy nhẹ nhàng như vậy khi mang nó theo nhỉ?
 
-%ITEM precious_hotel_foodticket Meal Ticket
-Lets you purchase food at a lodge. Only good for the day and location at which you stayed.
+%ITEM precious_hotel_foodticket Phiếu Ăn
+Dùng để mua đồ ăn tại nhà nghỉ. Chỉ có giá trị trong ngày và tại địa điểm nơi bạn lưu trú.
 
 
 // ========================================================
 // MARK : 魚
 // ========================================================
 
-%ITEM mtr_fishpond_feed Fish Bait
-Used to lure in different kinds of fish. The quality of the bait and the location itself affect which fish will appear.
+%ITEM mtr_fishpond_feed Mồi Câu
+Dùng để thu hút nhiều loại cá khác nhau. Chất lượng mồi và địa điểm câu sẽ ảnh hưởng đến loại cá xuất hiện.
 
-%ITEM fishrod Fishing Rod
-A simple, wooden fishing rod. A higher grade rod helps prevent fish quality from dropping if the hook comes loose.
+%ITEM fishrod Cần Câu
+Một chiếc cần câu gỗ đơn giản. Cần câu chất lượng cao hơn sẽ giúp hạn chế việc chất lượng cá bị giảm nếu lưỡi câu bị lỏng.
 
-%ITEM mtr_fish_sardine Sardine
-A cute little fish.
+%ITEM mtr_fish_sardine Cá Mòi
+Một chú cá nhỏ xinh.
 
-%ITEM mtr_fish_herring Herring
-Belongs in a can.
+%ITEM mtr_fish_herring Cá Trích
+Sinh ra là để đóng hộp.
 
-%ITEM mtr_fish_aji Aji
-A fish with too many bones.
+%ITEM mtr_fish_aji Cá Nục
+Một loài cá có quá nhiều xương.
 
-%ITEM mtr_fish_flounder Flounder
-The most well-known flatfish.
+%ITEM mtr_fish_flounder Cá Bơn
+Loài cá dẹt nổi tiếng nhất.
 
-%ITEM mtr_fish_eel Eel
-An eelongated fish.
+%ITEM mtr_fish_eel Lươn
+Một loài cá dài ngoằn ngoèo.
 
-%ITEM mtr_fish_shrimp Shrimp
-I like to eat 'em, tail and all.
+%ITEM mtr_fish_shrimp Tôm
+Mình thích ăn cả con, kể cả đuôi.
 
-%ITEM mtr_fish_cod Cod
-I’ve heard their roe is quite tasty.
+%ITEM mtr_fish_cod Cá Tuyết
+Nghe nói trứng của chúng khá ngon.
 
-%ITEM mtr_fish_crab Crab
-Someone once said this is what all life is destined to eventually become.
+%ITEM mtr_fish_crab Cua
+Từng có người nói rằng đây chính là hình thái tối thượng mà mọi sự sống cuối cùng đều sẽ tiến hóa thành.
 
-%ITEM mtr_fish_squid Squid
-The ink goes really well with pasta, if you don’t mind your tongue turning black.
+%ITEM mtr_fish_squid Mực
+Mực của nó rất hợp với mì pasta, miễn là bạn không ngại lưỡi mình chuyển sang màu đen.
 
-%ITEM mtr_fish_seabream Seabream
-The bones in these make eating them an ordeal.
+%ITEM mtr_fish_seabream Cá Tráp
+Ăn loài này đúng là một cực hình vì xương của chúng quá nhiều.
 
-%ITEM mtr_fish_mackerel Mackerel
-I always lose myself in the maze-like patterns on their skin.
+%ITEM mtr_fish_mackerel Cá Thu
+Mình luôn bị cuốn vào những hoa văn như mê cung trên lớp da của chúng.
 
-%ITEM mtr_fish_bonito Skipjack
-A really big fish.
+%ITEM mtr_fish_bonito Cá Ngừ Vằn
+Một con cá cực kỳ to.
 
-%ITEM mtr_fish_salmon Salmon
-There’s a shade of pink named after it. How nice!
+%ITEM mtr_fish_salmon Cá Hồi
+Có hẳn một sắc hồng được đặt tên theo loài cá này. Tuyệt thật đấy!
 
-%ITEM mtr_fish_tuna Tuna
-A fish that’s always moving. An impressive catch.
+%ITEM mtr_fish_tuna Cá Ngừ
+Một loài cá luôn luôn bơi không ngừng nghỉ. Một chiến lợi phẩm vô cùng ấn tượng.
 
-%ITEM mtr_fish_marlin Marlin
-En garde!
+%ITEM mtr_fish_marlin Cá Kiếm
+Vào thế thủ!
 
-%ITEM mtr_fish_seastar Starfish
-A misnomered echinoderm.
+%ITEM mtr_fish_seastar Sao Biển
+Một sinh vật da gai bị đặt sai tên.
 
 
 // ========================================================
 // MARK : 公園地区取引
 // ========================================================
-%ITEM tool_gz_pause Pause
-Pause at any time to look around.
+%ITEM tool_gz_pause Tạm Dừng
+Tạm dừng bất cứ lúc nào để quan sát xung quanh.
 
-%ITEM tool_gz_cure_mp MP Restore
-Fully restores MP and repairs gauge cracks. Only usable within safe areas.
+%ITEM tool_gz_cure_mp Hồi phục MP
+Hồi đầy MP và hồi phục các vết nứt trên thanh MP. Chỉ khả dụng trong khu vực an toàn.
 
-%ITEM tool_gz_absorb_item Item Magnet
-Use to pull items towards Noel.
+%ITEM tool_gz_absorb_item Nam Châm Hút Đồ
+Dùng để hút vật phẩm về phía Noel.
 
-%ITEM tool_gz_explode Self-destruct
-Use to reduce Noel’s HP to 0.
+%ITEM tool_gz_explode Tự Hủy
+giảm HP của Noel xuống 0.
 
-%ITEM tool_gz_torn Rip & Tear
-Use to destroy Noel’s clothes. Does not work in Safe Mode.
+%ITEM tool_gz_torn Xé Toạc
+Dùng để phá hỏng quần áo của Noel. Không hoạt động trong chế độ an toàn.
 
-%ITEM tool_gz_egg Incubator
-Ensures that eggs and liquids injected into Noel will grow to term. Does not work in Safe Mode.
+%ITEM tool_gz_egg Máy Ấp Trứng
+Đảm bảo trứng và chất lỏng được tiêm vào Noel sẽ phát triển đến khi đủ kỳ. Không hoạt động trong Chế độ An toàn.
 
-%ITEM precious_ooparts Mysterious Artifact
-Looks like junk, but...it could be an out-of-place artifact.
+%ITEM precious_ooparts Cổ Vật Bí Ẩn
+Trông chẳng khác gì đồ phế thải, nhưng... có thể đây là một cổ vật không thuộc về thời đại này.
 
-&&Item_name__identified__precious_ooparts Identified Artifact
+&&Item_name__identified__precious_ooparts Cổ Vật Đã Được Xác Định
 /* ___ Item_desc__identified__precious_ooparts ___ */ 
-Deciphered by the beastman archaeologist. With the right tools and technician, we might be able to use it.
+Được giải mã bởi nhà khảo cổ thú nhan. Nếu có đúng công cụ và kỹ thuật viên, có lẽ chúng ta có thể sử dụng nó.
 
-%ITEM tool_gz_pause_step Frame-by-frame
-Enables frame-by-frame playback during pauses.
+%ITEM tool_gz_pause_step Từng khung hình
+Cho phép phát từng khung hình một khi đang tạm dừng.
 
 /* ___ Item_tool_gz_detail ___ */
-A Special Tool. Can be assigned from within the "Spell" tab.
+Một Công cụ Đặc biệt. Có thể gán từ mục "Phép thuật".
 
-%ITEM lanthanum Magic Bug Lantern
-A lantern with magic-to-light converting bugs in it. Illuminates dark areas. Carrying three provides maximum brightness.
+%ITEM lanthanum Lồng Đèn Ma Trùng
+Một chiếc lồng đèn chứa loài bọ biến đổi ma thuật thành ánh sáng. Giúp soi sáng các khu vực tối tăm. Mang theo ba chiếc sẽ đem lại độ sáng tối đa.
 
-&&Recipe_title_liquir_ale Fallen Ale
+&&Recipe_title_liquir_ale Ale Lạc Thời
 /* ___ Recipe_desc_liquir_ale ___ */
-“Sent down from on high,
-We forge for the future drawing nigh!
-Our ancestors, now in the void do wander,
-Their work, for us to keep and never squander!”
+"Lệnh từ thượng giới phái sai,
+Ta rèn ta đúc tương lai cận kề!
+Tổ tiên phiêu dạt cõi mê,
+Di sản để lại, nguyện thề giữ nghiêm!"
 
-&&Recipe_title_liquir_mead Fallen Mead
+&&Recipe_title_liquir_mead Rượu Mật Ong Lạc Thời
 /* ___ Recipe_desc_liquir_mead ___ */
-Made by aging the honey of mountain-dwelling monsters. Insanely addictive.
-...or so I’ve heard.
+Được làm bằng cách ủ mật ong của những quái vật sống trên núi. Gây nghiện kinh khủng.
+...nghe nói là vậy.
 
-%ITEM precious_ooparts_cc_sporner Akashic Dreamer
-A hologram machine born from ancient artifacts, beastmen research, and Tigrina’s tinkering. Summons friendlies while inside the Holoshed. I’m not sure what purpose that serves, but new tech always confounds me at first.
-
-
-%ITEM anc_cure_paralysis Muscle Stimulant
-An ointment for beastmen and elves alike. Cures paralysis. Refreshingly minty, but I don't care for it during the winter.
+%ITEM precious_ooparts_cc_sporner Kẻ Mộng Mơ Akashic
+Một cỗ máy ảnh ảo được tạo ra từ sự kết hợp giữa các cổ vật vô giá, nghiên cứu về tộc thú nhân và những màn hí hoáy của Tigrina. Thiết bị này giúp triệu hồi các đồng minh khi ở bên trong Holoshed. Mình cũng chẳng rõ việc đó có tác dụng gì, nhưng công nghệ mới lúc nào cũng làm tôi bối rối khi mới tiếp xúc.
 
 
-%ITEM mtr_tarot_empress Tarot Card: Empress
-Prosperity, abundance / instability, laziness.
-
-%ITEM precious029_1 Exchange Ticket 029.1
-It says "Not yet implemented" on it.
-Probably something cool.
-
-%ITEM precious029_2 Exchange Ticket 029.2
-It says "Not yet implemented" on it.
-Probably something cool.
-
-%ITEM precious029_3 Exchange Ticket 029.3
-It says "Not yet implemented" on it.
-Probably something cool.
+%ITEM anc_cure_paralysis Thuốc Kích Thích Cơ Bắp
+Một loại thuốc mỡ dùng được cho cả thú nhân lẫn Elf. Chữa chứng tê liệt. Có vị bạc hà the mát, nhưng vào mùa đông thì tôi không khoái dùng nó lắm.
 
 
-%ITEMREEL coal_G0 Coal 1
+%ITEM mtr_tarot_empress Lá Bài Tarot: Nữ Hoàng
+Thịnh vượng, sung túc / bất ổn, lười biếng.
 
-%ITEMREEL sweat_G1 Sweets 2
+%ITEM precious029_1 Vé Đổi 029.1
+Trên đó có ghi “Chưa được triển khai”.
+Chắc là thứ gì đó hay ho.
 
-%ITEMREEL jewel_B_G0 Gems +
+%ITEM precious029_2 Vé Đổi 029.2
+Trên đó có ghi “Chưa được triển khai”.
+Chắc là thứ gì đó hay ho.
+
+%ITEM precious029_3 Vé Đổi 029.3
+Trên đó có ghi “Chưa được triển khai”.
+Chắc là thứ gì đó hay ho.
+
+
+%ITEMREEL coal_G0 Than 1
+
+%ITEMREEL sweat_G1 Đồ Ngọt 2
+
+%ITEMREEL jewel_B_G0 Đá Quý +
 
 
 // ========================================================
 // MARK : 030
 // ========================================================
 
-%ITEM workbench_holder_bomb Grenade Pouch
-A container for holding grenades. The Mole Snake hide casing protects the grenades from accidental detonation and by extension, you.
+%ITEM workbench_holder_bomb Túi Đựng Lựu Đạn
+Vật phẩm dùng để chứa lựu đạn. Lớp vỏ bọc làm bằng da Rắn Chuột giúp bảo vệ lựu đạn khỏi việc vô tình kích nổ, và gián tiếp bảo vệ chính mạng sống của bạn.
 
 
-%ITEM workbench_holder_cane Staff Sheathe
-Holds up to one staff so you can carry two at a time. The crystal bypass feature allows the user to switch their staff out during battle, but only once.
+%ITEM workbench_holder_cane Bao Đựng Trượng
+Có thể chứa tối đa một cây gậy, cho phép bạn mang theo hai cây cùng lúc. Tính năng bỏ qua tinh thể cho phép người dùng đổi gậy ngay giữa trận chiến, nhưng chỉ được một lần.
 
 
-%ITEM workbench_holder_itemreel Treasure Chest Chest
-A chest for nesting other chests. There’s only room for one though, and it won’t protect it from opening if you’re defeated.
+%ITEM workbench_holder_itemreel Rương Lồng Rương
+Một chiếc rương dùng để chứa những chiếc rương khác. Tuy nhiên, nó chỉ có đủ chỗ cho một chiếc duy nhất, và nó sẽ không thể bảo vệ chiếc rương đó khỏi bị mở ra nếu bạn bị đánh bại.
 
 
-&&Item_cmd_takeout_from_holder Unpack
-&&Item_cmd_pack_in_holder Pack
+&&Item_cmd_takeout_from_holder Mở gói
+&&Item_cmd_pack_in_holder Đóng gói
 
-&&Item_cmd_pack_to_holder Pack into...
-&&Alert_no_holder No appropriate container.
+&&Item_cmd_pack_to_holder Đóng gói vào...
+&&Alert_no_holder Không có vật chứa phù hợp.
 
-&&Item_prompt_pack_bomb <font size="150%" color="ff:#F7562E">&1</font>\nSelect grenades
-&&Item_prompt_pack_cane <font size="150%" color="ff:#F7562E">&1</font>\nSelect staff
-&&Item_prompt_pack_itemreel <font size="150%" color="ff:#F7562E">&1</font>\nSelect chest
-&&detail_bomb_explode_ratio Chain reaction: &1%
-&&detail_bomb_explode_alert_prefix Carrying too many can be dangerous
-&&detail_bomb_explode_alert_fire There is a risk of chain detonation\bwhen you take fire damage
-&&detail_bomb_explode_alert_thunder There is a risk of chain detonation\bwhen you take lightning damage
-&&detail_bomb_explode_alert_magic There is a risk of chain detonation\bwhen you take magic damage
-&&detail_bomb_not_explode Grenades in the pouch\bdo not contribute to this risk
+&&Item_prompt_pack_bomb <font size="150%" color="ff:#F7562E">&1</font>\nChọn Lựu Đạn
+&&Item_prompt_pack_cane <font size="150%" color="ff:#F7562E">&1</font>\nChọn Gậy Phép
+&&Item_prompt_pack_itemreel <font size="150%" color="ff:#F7562E">&1</font>\nChọn Rương
+&&detail_bomb_explode_ratio Phản Ứng Dây Truyền: &1%
+&&detail_bomb_explode_alert_prefix Mang quá nhiều có thể rơi vào nguy hiểm
+&&detail_bomb_explode_alert_fire Có nguy cơ phát nổ dây chuyền\bkhi bạn chịu sát thương lửa
+&&detail_bomb_explode_alert_thunder Có nguy cơ phát nổ dây chuyền\bkhi bạn chịu sát thương sét
+&&detail_bomb_explode_alert_magic Có nguy cơ phát nổ dây chuyền\bkhi bạn chịu sát thương phép
+&&detail_bomb_not_explode Grenades Lựu đạn trong túi\bkhông làm tăng nguy cơ này
 
-&&Item_cmd_equip_cane_from_holder Equip (&1 rem.)
+&&Item_cmd_equip_cane_from_holder Trang bị (Còn lại &1)
