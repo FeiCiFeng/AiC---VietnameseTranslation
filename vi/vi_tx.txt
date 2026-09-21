@@ -1,7 +1,7 @@
 %FAMILY vi
-&&Submit    Confirm
-&&Reset    Reset
-&&Cancel    Cancel
+&&Submit    Xác Nhận
+&&Reset    Đặt Lại
+&&Cancel    Hủy
 
 &&Name_Noel     Noel Cornehl
 &&Name_Alice    Alice
@@ -13,316 +13,316 @@
 &&lang_en English
 
 /* ___ Title_Announce_For_Sensitive ___ */
-Please turn on "SFW Mode" if you are under 18 years old
-or plan to upload/stream videos of this game to online services.
+Vui lòng bật "Chế độ An Toàn" nếu bạn dưới 18 tuổi
+hoặc dự định tải lên/phát trực tuyến video của trò chơi này lên các nền tảng trực tuyến.
 
-※This game contains depictions of violence, sex, drugs, trauma, and abuse,
-which some viewers may find disturbing. Discretion is advised.
+※Trò chơi này có chứa các nội dung mô tả bạo lực, tình dục, chất kích thích, sang chấn tâm lý và ngược đãi,
+có thể gây khó chịu cho một số người chơi. Người chơi nên cân nhắc trước khi tiếp tục.
 
-&&btn_sensitive_off I am over 18 years old.\n(SFW mode: off)
+&&btn_sensitive_off Tôi trên 18 tuổi.\n(Chế độ An Toàn: Tắt)
 
-&&btn_sensitive_on  I am under 18 years old.\n(SFW mode: on)
+&&btn_sensitive_on  Tôi dưới 18 tuổi.\n(Chế độ An Toàn: Bật)
 
-&&Title_first_tutorial <key la/><key ra/> to select / <key submit/> to submit
-
-
-&&Stat_Condition    Condition
-&&Stat_Condition_And_Ep       Condition+
-&&Stat_Ep       Status Effects
-&&Stat_no_status_error No abnormalities
+&&Title_first_tutorial <key la/><key ra/> để chọn / <key submit/> để xác nhận
 
 
-&&GameMenu_Category_Title_0     Status
-&&GameMenu_Category_Title_1     Items
-&&GameMenu_Category_Title_2     Spells
-&&GameMenu_Category_Title_3     Mutation
-&&GameMenu_Category_Title_4     Map
-&&GameMenu_Category_Title_5     Quest Log
-&&GameMenu_Category_Title_6     Save/Load
-&&GameMenu_Category_Title_7     Settings
+&&Stat_Condition    Trạng thái
+&&Stat_Condition_And_Ep       Trạng thái+
+&&Stat_Ep       Hiệu Ứng Bất Lợi
+&&Stat_no_status_error Bình Thường
 
-&&btn_new_game New Game
-&&btn_continue Continue
-&&btn_option Settings
-&&btn_quit Quit
 
-&&Destination To &1
+&&GameMenu_Category_Title_0     Thông Số
+&&GameMenu_Category_Title_1     Vật Phẩm
+&&GameMenu_Category_Title_2     Phép Thuật
+&&GameMenu_Category_Title_3     Đột Biến
+&&GameMenu_Category_Title_4     Bản Đồ
+&&GameMenu_Category_Title_5     Nhật Ký Nhiệm Vụ
+&&GameMenu_Category_Title_6     Lưu/Tải
+&&GameMenu_Category_Title_7     Cài Đặt
 
-&&Area_forest   Forest of the Weavers
-&&Area_city  Grazia, Blessed Town
-&&Area_house  Witch's Shop
+&&btn_new_game Game Mới
+&&btn_continue Tiếp Tục
+&&btn_option Cài Đặt
+&&btn_quit Thoát
+
+&&Destination Tới &1
+
+&&Area_forest   Rừng Thợ Dệt
+&&Area_city  Thành Phố Được Ban Phước, Grazia
+&&Area_house  Tiệm Phù Thủy
 
 
 /* ___ SaveDataDesc_auto  ___ */
-Autosave Data
-Overall Play Time: &1
+Dữ Liệu Tự Động Lưu &1 
+Tổng Thời Gian Chơi: &2
 
 /* ___ SaveDataDesc  ___ */
-Save Data &1 
-Overall Play Time: &2
+Dữ Liệu Lưu Game &1 
+Tổng Thời Gian Chơi: &2
 
 
 /* ___ SaveDataDesc_Empty_auto ___ */
-No Autosave Data present.
+Không có dữ liệu tự động lưu.
 
 /* ___ SaveDataDesc_Empty ___ */
-Save Data &1
-(Empty)
+Dữ Liệu Lưu Game &1
+(Trống)
 
 
 // SAVE DATA
-&&SVD_Error_Occured Failed to read file header.
+&&SVD_Error_Occured Đọc đầu tệp tin thất bại.
 
-&&SVD_0 Autosave:
+&&SVD_0 Tự động lưu
 &&SVD_topright HP &1/&2, MP &3/&4
 
-&&SVD_ignore_svd_cfg Ignore saved configuration
-&&SVD_cmd_load Load
-&&SVD_cmd_load_do Load
-&&SVD_cmd_save Overwrite
-&&SVD_Load_Ask_Again Load Save File &1 ?
+&&SVD_ignore_svd_cfg Bỏ qua cấu hình đã lưu
+&&SVD_cmd_load Tải
+&&SVD_cmd_load_do Tải
+&&SVD_cmd_save Ghi đè
+&&SVD_Load_Ask_Again Tải dữ liệu &1 ?
 
-&&SVD_need_bench <font color="#E70B0B">You can only save near a bench.</font>
+&&SVD_need_bench <font color="#E70B0B">Bạn chỉ có thể lưu khi ở gần ghế băng.</font>
 
 // GameMenu
 
 
 &&Money_Counter <img mesh="money_icon" /> <b>&1</b>
-&&EmptyBottle_Counter <img mesh="itemicon_empty_bottle_filled" />Empty Bottle: <b>&1/&2</b>
+&&EmptyBottle_Counter <img mesh="itemicon_empty_bottle_filled" />Bình Rỗng: <b>&1/&2</b>
 
 
-&&SerTitle_hp_reduce    Near-death
-&&SerDesc_hp_reduce     <font color="#FF729F">【HP less than 15%】</font>\nYou will lose all of your strength\nif your HP falls to 0.
+&&SerTitle_hp_reduce    Cận tử
+&&SerDesc_hp_reduce     <font color="#FF729F">【HP dưới 15%】</font>\nBạn sẽ mất hết sức lực\nnếu HP giảm xuống 0.
 
 
-&&SerTitle_mp_reduce    Exhausted
-&&SerDesc_mp_reduce    <font color="#FF729F">【MP less than 15% of maximum】</font>\nYou can't run or dodge.
+&&SerTitle_mp_reduce    Kiệt sức
+&&SerDesc_mp_reduce    <font color="#FF729F">【MP dưới 15% MP tối đa】</font>\nBạn không thể chạy hoặc né.
 
-&&SerTitle_death    Incapacitated
-&&SerDesc_death    <font color="#FF729F">【HP is 0】</font>\nYour fate is in the monster's hands.\nYou can leave once they are satisfied.\nHold <key cancel/> to give up.
+&&SerTitle_death    Bất tỉnh
+&&SerDesc_death    <font color="#FF729F">【HP bằng 0】</font>\nSố phận của bạn nằm trong tay quái vật.\nBạn có thể rời đi một khi chúng đã thỏa mãn.\nGiữ <key cancel/> để từ bỏ.
 
-&&SerTitle_sexercise    Aroused
-&&SerDesc_sexercise  Arousal Rate rises more easily.\nMP gauge slightly resists cracking.
+&&SerTitle_sexercise    Hưng Phấn
+&&SerDesc_sexercise  Mức độ hưng phấn tăng dễ dàng hơn.\nThanh MP có khả năng chống cạn kiệt tốt hơn một chút.
 
 // 「被ダメージ」とはなんでしょうか
-&&SerTitle_shamed    Embarrassed
+&&SerTitle_shamed    Xấu Hổ
 /* ___ SerDesc_shamed ___ */    
-You're distressed.
-Less likely to fall down when colliding with
-enemies, but more mana is lost when damage is taken.
+Bạn đang rất khổ sở.
+Giảm khả năng bị ngã khi va chạm với
+kẻ địch, nhưng sẽ mất nhiều mana hơn khi chịu sát thương.
 
 // 
-&&SerTitle_shamed_split    Embarrassed\n(Leak)
+&&SerTitle_shamed_split    Xấu Hổ\n(Rỉ Nước)
 /* ___ SerDesc_shamed_split ___ */    
-You're distressed.
-Less likely to fall down when colliding with
-enemies, but more mana is lost when damage is taken.
+Bạn đang rất khổ sở.
+Giảm khả năng bị ngã khi va chạm với
+kẻ địch, nhưng sẽ mất nhiều mana hơn khi chịu sát thương.
 
-&&SerTitle_shamed_wet    Embarrassed\n(Wet)
+&&SerTitle_shamed_wet    Xấu Hổ\n(Ướt)
 /* ___ SerDesc_shamed_wet   ____ */
-You wet yourself.
-Less likely to fall down when colliding with
-enemies, but more mana is lost when damage is taken.
+Phần dưới bạn đã ướt sũng.
+Giảm khả năng bị ngã khi va chạm với
+kẻ địch, nhưng sẽ mất nhiều mana hơn khi chịu sát thương.
 
-&&SerTitle_shamed_ep    Embarrassed\n(Aroused)
+&&SerTitle_shamed_ep    Xấu hổ\n(Hưng phấn)
 /* ___ SerDesc_shamed_ep ___ */    
-<font color="#FF729F">【Arousal Rate over 50%】</font>
-You cannot suppress your inner desires.
-Less likely to fall down when colliding with
-enemies, but more mana is lost when damage is taken.
+<font color="#FF729F">【Mức hưng phấn trên 50%】</font>
+Bạn không thể kìm nén những ham muốn bên trong.
+Giảm khả năng bị ngã khi va chạm với
+kẻ địch, nhưng sẽ mất nhiều mana hơn khi chịu sát thương.
 
-&&SerTitle_shamed_orgasm_after    Post-orgasm
+&&SerTitle_shamed_orgasm_after    Sau Cực Khoái
 /* ___ SerDesc_shamed_orgasm_after ___ */
-You have been pushed to climax.
-You cannot run or dodge.
-Arousal Rate rises more easily.
-MP gauge extremely resists cracking.
+Bạn đã bị đẩy đến cực khoái.
+Bạn không thể chạy hoặc né tránh.
+Mức Hưng Phấn tăng dễ dàng hơn.
+Thanh MP cực kỳ khó bị cạn kiệt.
 
 
 // 托卵
-&&SerTitle_egged    Parasitic Egg
+&&SerTitle_egged    Trứng Ký Sinh
 /* ___ SerDesc_egged ___ */
-There is a monster egg in your womb.
-Magic attacks are a bit stronger, but chanting speed
-is slower and normal attacks are weaker.
-The egg will absorb MP when you chant or use shotgun.
-You can remove the egg when outside of combat.
+Có một quả trứng quái vật trong tử cung của bạn.
+Các đòn tấn công phép thuật mạnh hơn đôi chút, nhưng tốc độ niệm phép
+chậm hơn và các đòn đánh thường yếu hơn.
+Quả trứng sẽ hấp thụ MP khi bạn niệm phép hoặc sử dụng shotgun.
+Có thể loại bỏ quả trứng khi ở ngoài trận đấu.
 
-&&SerTitle_egged_2    Parasitic Egg Lv.2
-&&SerDesc_egged_2  <font color="#FF729F">【Incubation taking >70% of MP】</font>\nArousal Rate will rise more rapidly.\nMP gauge cracks easily.\nTime required to lay the eggs is doubled.\nThe eggs will come out on their own.
+&&SerTitle_egged_2    Trứng Ký Sinh Cấp 2
+&&SerDesc_egged_2  <font color="#FF729F">【Ấp Trứng tiêu tốn hơn 70% MP】</font>\nMức Hưng Phấn sẽ tăng nhanh hơn.\nThanh MP dễ bị cạn kiệt hơn.\nThời gian cần để đẻ trứng tăng gấp đôi.\nTrứng sẽ tự trượt ra.
 
-&&SerTitle_laying_egg    Birth
+&&SerTitle_laying_egg    Sinh Nở
 /* ___ SerDesc_laying_egg  ___ */
-The eggs have hatched and the monsters
-are being pushed out of your womb.
-All you can do now is wait.
+Trứng đã nở và lũ quái vật
+đang được đẩy ra khỏi tử cung của bạn.
+Giờ bạn chỉ có thể chờ đợi.
 
-&&SerTitle_do_not_lay_egg    <font letterspacing="0.88">Can't Give Birth</font>
-&&SerDesc_do_not_lay_egg    <font letterspacing="1">Something is blocking your birth canal.</font>
+&&SerTitle_do_not_lay_egg    <font letterspacing="0.88">Không Thể Sinh Nở</font>
+&&SerDesc_do_not_lay_egg    <font letterspacing="1">Có thứ gì đó đang chặn đường sinh.</font>
 
 // Boss Lv.5 be like:　:D
-&&SerTitle_eaten   Swallowed Whole
-&&SerDesc_eaten   You've been eaten alive. Struggle to escape or wait until they spit you out.
+&&SerTitle_eaten   Bị Nuốt Chửng
+&&SerDesc_eaten   Bạn đã bị nuốt sống. Hãy vùng vẫy để thoát ra hoặc chờ đến khi nó nhả bạn ra.
 
 // Climax -> Absentminded (Can't move) -> Post-orgasm (Can't run)
-&&SerTitle_orgasm    Absentminded
+&&SerTitle_orgasm    Thẫn Thờ
 /* ___ SerDesc_orgasm ___ */   
-You've just finished climaxing.
-You take 50% more damage.
-MP gauge is more resistant to cracking. 
-Arousal Rate will rise more rapidly.
+Bạn vừa trải qua cực khoái.
+Bạn nhận thêm 50% sát thương nhận vào.
+Thanh MP khó bị cạn kiệt hơn.
+Mức Hưng Phấn sẽ tăng nhanh hơn.
 
 
-&&SerTitle_shield_break    Shield Break
-&&SerDesc_shield_break    Your shield has been broken.\nYou'll take 50% more damage until you recover.
+&&SerTitle_shield_break    Vỡ Khiên
+&&SerDesc_shield_break    Khiên của bạn đã bị phá vỡ.\nBạn sẽ nhận thêm 50% sát thương cho đến khi hồi phục.
 
 
 
 /* ___　PopUp_bench  ___ */
 <key menu />- Menu
 
-&&Log_supply_juice  I'm squirting out mana...
-&&Alert_item_holdover My inventory is full...
-&&Alert_event_item_holdover My inventory is full right now...
-&&Alert_pee I'm wetting my pants...
-&&Alert_orgasm_splash My love juices squirted out... 
+&&Log_supply_juice  Mana trong người minh đang rỉ ra ngoài...
+&&Alert_item_holdover Kho đồ của mình đầy rồi...
+&&Alert_event_item_holdover Kho đồ của mình hiện tại đã đầy rồi...
+&&Alert_pee Mình làm ướt quần mất rồi...
+&&Alert_orgasm_splash Dịch ngọt tình yêu của mình đang rỉ ra ngoài... 
 
-&&Alert_nearly_laying I feel something weird in my stomach...
+&&Alert_nearly_laying Mình cảm thấy gì đó kì lạ trong bụng mình...
 
-&&Alert_worm_eggplant The worm planted something inside me...
-&&Alert_slime_eggplant The slime planted something inside me...
-&&Alert_laying_egg_worm The eggs in my tummy hatched and the worms slithered out...
-&&Alert_laying_egg_slime The eggs in my tummy hatched and the slimes oozed out...
+&&Alert_worm_eggplant Con sâu đã thả thứ gì đó sâu bên trong mình...
+&&Alert_slime_eggplant Slime đã thả thứ gì đó sâu bên trong mình...
+&&Alert_laying_egg_worm Trứng trong bụng mình đã nở và lũ sâu đang bò ra...
+&&Alert_laying_egg_slime Trứng trong bụng mình đã nở và lũ slime đang trườn ra...
 
-&&Alert_ep_thresh0 My desire burns...  
-&&Alert_ep_thresh1 I can't hold back anymore...
+&&Alert_ep_thresh0 Ham muốn của mình đang bùng cháy...  
+&&Alert_ep_thresh1 Mình không thể kìm lại được nữa...
 
-&&Alert_ep_orgasm I came...
-&&Alert_ep_orgasm_cli  I came from having my clit stroked...
-&&Alert_ep_orgasm_vagina I came from having my vagina stimulated...
-&&Alert_ep_orgasm_anal I came from having my butt played with...
-&&Alert_ep_orgasm_breast I came from having my nipples sucked...
-&&Alert_ep_orgasm_mouth I came just from the aphrodisiac I swallowed...
-&&Alert_ep_orgasm_ear I came from having my ears licked...
+&&Alert_ep_orgasm Mình ra rồi...
+&&Alert_ep_orgasm_cli  Mình ra vì bị kích thích âm vật...
+&&Alert_ep_orgasm_vagina Mình ra vì bị kích thích âm đạo...
+&&Alert_ep_orgasm_anal Mình ra vì bị quấy rối vùng hậu môn...
+&&Alert_ep_orgasm_breast Mình ra vì núm vú đang bị mút...
+&&Alert_ep_orgasm_mouth Mình ra vì thuốc kích dục mình lỡ nuốt vào...
+&&Alert_ep_orgasm_ear Mình ra vì đôi tai mình đang bị liếm...
 
-&&Alert_ep_orgasm_masturbation I came from touching myself... 
-&&Alert_ep_orgasm_slime I came from having my whole body toyed with by a slime...
-&&Alert_ep_orgasm_worm I came from worms squirming inside all my holes...
-&&Alert_ep_orgasm_laying_egg I came from laying an egg...
-
-
-&&Alert_gameover I lost...
-
-&&Alert_autosave Autosave complete.
-
-&&Alert_summoner_defeated All clear 
+&&Alert_ep_orgasm_masturbation Mình ra vì mình đang thủ dâm... 
+&&Alert_ep_orgasm_slime Mình ra vì toàn bộ cơ thể mình đang bị trêu đùa bởi slime...
+&&Alert_ep_orgasm_worm Mình ra vì bầy sâu bọ đang lúc nhúc trong mọi lỗ trên người mình...
+&&Alert_ep_orgasm_laying_egg Mình ra vì đẻ trứng...
 
 
-&&ep_category_cli Clitoris
-&&ep_category_vagina Vagina
-&&ep_category_anal Anal
-&&ep_category_breast Nipples
-&&ep_category_mouth Mouth
-&&ep_category_ear Ear
-&&ep_category_masturbation Masturbation
+&&Alert_gameover Mình thua rồi...
+
+&&Alert_autosave Tự động lưu hoàn tất.
+
+&&Alert_summoner_defeated Đã dọn sạch tất cả
+
+
+&&ep_category_cli Âm vật
+&&ep_category_vagina Âm đạo
+&&ep_category_anal Hậu môn
+&&ep_category_breast Núm vú
+&&ep_category_mouth Miệng
+&&ep_category_ear Tai
+&&ep_category_masturbation Thủ dâm
 &&ep_category_slime Slime
-&&ep_category_worm Worm
-&&ep_category_laying_egg Egg-laying
+&&ep_category_worm sâu
+&&ep_category_laying_egg đẻ trứng
 
-&&Alert_cure_crack The satisfaction recovered a bit of my energy...
+&&Alert_cure_crack Sự thỏa mãn giúp mình hồi phục một chút năng lượng...
 
-&&GM_ep_debug Arousal rate(AR): &1 \nOrgasm count: &2
+&&GM_ep_debug Hưng phấn(AR): &1 \nSố lần lên đỉnh: &2
 // experience = 性的な経験 (Sexual experiences)
-&&GM_ep_experience (&1) Sensitivity ... &2
+&&GM_ep_experience (&1) Độ nhạy cảm ... &2
 // &&GM_ep_experience 開発度(&1) ... &2
-&&GM_ep_level_after_orgasm  <font color="#D3006D">I can't stand up because I just came...</font>
-&&GM_ep_level_0 　No desire.
-&&GM_ep_level_1 　No desire.
-&&GM_ep_level_2 　No desire.
-&&GM_ep_level_3 　<font color="#72486D">I feel a tingling. </font>( AR: &1 )
-&&GM_ep_level_4 　<font color="#72486D">I feel a tingling. </font>( AR: &1 )
+&&GM_ep_level_after_orgasm  <font color="#D3006D">Mình không thể đứng dạy vì vừa lên đỉnh...</font>
+&&GM_ep_level_0 　Không có ham muốn.
+&&GM_ep_level_1 　Không có ham muốn.
+&&GM_ep_level_2 　Không có ham muốn.
+&&GM_ep_level_3 　<font color="#72486D">Mình thấy hơi nóng ran. </font>( AR: &1 )
+&&GM_ep_level_4 　<font color="#72486D">Mình thấy hơi nóng ran. </font>( AR: &1 )
 // おなかの奥がうず(疼)いている...
 //
-&&GM_ep_level_5 　<font color="#7C2A73">My desire burns. </font>( AR: &1 )
-&&GM_ep_level_6 　<font color="#7C2A73">My desire burns. </font>( AR: &1 )
-&&GM_ep_level_7 　<font color="#C92D97">It's throbbing. </font>( AR: &1 )
-&&GM_ep_level_8 　<font color="#C92D97">It's throbbing. </font>( AR: &1 )
+&&GM_ep_level_5 　<font color="#7C2A73">Ham muốn của mình đang bùng cháy. </font>( AR: &1 )
+&&GM_ep_level_6 　<font color="#7C2A73">Ham muốn của mình đang bùng cháy. </font>( AR: &1 )
+&&GM_ep_level_7 　<font color="#C92D97">Cảm giác ấy nó đang dồn dập. </font>( AR: &1 )
+&&GM_ep_level_8 　<font color="#C92D97">Cảm giác ấy nó đang dồn dập. </font>( AR: &1 )
 // からだの奥から何かが登ってくる...
-&&GM_ep_level_9 　<font color="#F51AB0">I can't hold back anymore...</font> ( AR: &1 )
+&&GM_ep_level_9 　<font color="#F51AB0">Mình không thể kìm nén thêm chút nào nữa...</font> ( AR: &1 )
 
-&&EV_access_collect   Collect
-&&EV_access_getitem   View
-&&EV_access_open_box   Open
-&&EV_access_default_check   Check
-&&EV_access_default_talk   Talk
-&&EV_access_sitdown   Sit
-&&EV_access_into   Enter
+&&EV_access_collect   Thu thập
+&&EV_access_getitem   Xem
+&&EV_access_open_box   Mở
+&&EV_access_default_check   Kiểm tra
+&&EV_access_default_talk   Nói Chuyện
+&&EV_access_sitdown   Ngồi
+&&EV_access_into   Đi vào
 
-&&Item_get   <key check/>Collect
-&&Item_has   <font size="12">(In possession: &1)</font>
+&&Item_get   <key check/>Thu thập
+&&Item_has   <font size="12">(Đang có: &1)</font>
 &&Item_get_count   x&1
 &&Money_adding   <font size="12">+ &1</font>
 &&Money_reducing   <font size="12">- &1</font>
 
-&&MoneyBox_adding   Obtained <img mesh="money_icon" /><b>&1</b>!
+&&MoneyBox_adding   Đã nhận <img mesh="money_icon" /><b>&1</b>!
 
 // Item Description
-&&Item_detail_cure_hp Restores &1 HP
-&&Item_detail_cure_mp Restores &1 MP
-&&Item_detail_cure_ep -&1 Arousal
-&&Item_detail_dmg_ep <font color="#864788">+&1 Arousal</font>
-&&Item_detail_cure_ser Cures &1 status
-&&Item_detail_dmg_ser <font color="#864788">Applies &1 status</font>
-&&Item_detail_cure_mp_crack Repairs &1 MP gauge
-&&Item_detail_cannot_nest_multiple Not stackable
-&&Item_detail_filled_bottle Leaves behind an empty bottle
+&&Item_detail_cure_hp Hồi &1 HP
+&&Item_detail_cure_mp Hồi &1 MP
+&&Item_detail_cure_ep -&1 Hưng phấn
+&&Item_detail_dmg_ep <font color="#864788">+&1 Hưng phấn</font>
+&&Item_detail_cure_ser Cures &1 Trạng thái
+&&Item_detail_dmg_ser <font color="#864788">Gây trạng thái &1 status</font>
+&&Item_detail_cure_mp_crack Hồi phục &1 thanh MP
+&&Item_detail_cannot_nest_multiple Không thể cộng dồn
+&&Item_detail_filled_bottle Để lại một bình rỗng
 
 
-&&Item_cmd_use Use
-&&Item_cmd_useless (Use)
-&&Item_cmd_discard_water Empty
-&&Item_cmd_drop Drop
+&&Item_cmd_use Sử dụng
+&&Item_cmd_useless (Sử dụng)
+&&Item_cmd_discard_water Đổ đi
+&&Item_cmd_drop Vứt
 
-&&Item_desc_cannot_use It doesn't seem to\nbe useful right now ...
-&&Item_desc_decline_holding_magic I can't use any items\nbecause I'm casting a spell...
-&&Item_desc_decline_dmg I can't use it\nbecause I'm being attacked right now...
-&&Item_desc_decline_dead Help me...
+&&Item_desc_cannot_use Có vẻ như nó không\ncó tác dụng gì thời điểm hiện tại ...
+&&Item_desc_decline_holding_magic Mình không thể dùng bất kì vật phẩm\nbecause vì mình đang niệm phép...
+&&Item_desc_decline_dmg Mình không thể dùng nó\nvì mình đang bị tấn công ngay bây giờ...
+&&Item_desc_decline_dead Cứu tôi với...
 
 
-&&Item_dbox_water_to_bottle Can be poured &1\ninto an empty bottle
-&&Item_dbox_water_to_bottle_none Only &1 can be stored\nwithout using a bottle
+&&Item_dbox_water_to_bottle Có thể rót &1\nvào một bình rỗng
+&&Item_dbox_water_to_bottle_none Chỉ &1 có thể chứa\nmà không cần dùng bình
 
-&&Item_dbox_stock &1 Stackable
+&&Item_dbox_stock &1 Có thể cộng dồn
 
 
 &&Enemy_SLIME Slime
-&&Summoner__enemy_id_overdrived_suffix (Contaminated)
+&&Summoner__enemy_id_overdrived_suffix (Ô nhiễm)
 
 
-&&Summoner__initialize Hold <key check/> or\npluck a mana plant\nto start battle
+&&Summoner__initialize Giữ <key check/> hoặc\nnhổ một cây mana\nđể bắt đầu trận chiến
 
 /* ___ Summoner__descryption ___ */
-Dangerousness: &1
+Mức độ nguy hiểm: &1
 &2
 &3
-Contaminated: Max &4
+Ô nhiễm: Tối đa &4
 
-&&Summoner_descryption_enemies Type of enemies:
+&&Summoner_descryption_enemies Loại kẻ địch:
 
-&&Summoner_forest_tutorial Beaming Plains
-&&Summoner_forest_coroseum The Outcast
-&&Summoner_forest_mushpot Should've been a mushroom enemy here
-&&Summoner_forest_darkpot Evening Shower
-&&Summoner_forest_thorn_cage Bird's Cage
-
-
-&&Item_desc_suffix_water    You can use a bottle to collect this.
-&&Item_desc_suffix_bottled_water    You can reuse the empty bottle.
+&&Summoner_forest_tutorial Đồng bằng rực sáng
+&&Summoner_forest_coroseum Kẻ bị ruồng bỏ
+&&Summoner_forest_mushpot Đáng lẽ chỗ này phải có một con quái nấm
+&&Summoner_forest_darkpot Mưa chiều
+&&Summoner_forest_thorn_cage Lồng chim
 
 
-&&GM_KD_map_current_pos     <key sort/>Your position　
-&&GM_KD_map_0_no_marker     <key_s submit/>Place marker
-&&GM_KD_map_0     <key submit/>Place marker
+&&Item_desc_suffix_water    Bạn có thể dùng bình để thu thập thứ này.
+&&Item_desc_suffix_bottled_water    Bạn có thể tái sử dụng bình rỗng.
 
 
-&&Category_under_construction    WIP
+&&GM_KD_map_current_pos     <key sort/>Vị trí của bạn　
+&&GM_KD_map_0_no_marker     <key_s submit/>Đặt đánh dấu
+&&GM_KD_map_0     <key submit/>Đặt đánh dấu
+
+
+&&Category_under_construction    Đang phát triển

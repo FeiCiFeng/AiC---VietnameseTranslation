@@ -388,7 +388,7 @@ Thay đổi lượng sát thương thêm mà Noel phải nhận và thời gian 
 /* ___ Config_desc_spconfig_milk ___ */
 Đặt xác suất nhận được Sữa Noel khi cô ấy đi tiểu.
 
-&&Config_spconfig_juice Tỷ lệ nhận Nước ép
+&&Config_spconfig_juice Tỷ lệ nhận dịch ngọt
 /* ___ Config_desc_spconfig_juice ___ */
 Đặt xác suất nhận được dịch ngọt của Noel khi cô ấy đi tiểu.
 
