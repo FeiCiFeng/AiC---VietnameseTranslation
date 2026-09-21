@@ -1,102 +1,102 @@
 %FAMILY vi
 
-&&MAP_house_road Garden
+&&MAP_house_road Khu Vườn
 
-&&MAP_house_center    Temptress' Hill
-&&MAP_house_barn    Backyard
-&&MAP_house_cliff    Cornehl Family Cemetery
-&&MAP_house_cliff_cave    Hideout
-&&MAP_house_shop    General Store
-&&MAP_house_theroom    The Break Room
-&&MAP_house_noelroom    Noel's room
-&&MAP_house_atelier    Atelier
+&&MAP_house_center    Đồi Yêu Nữ
+&&MAP_house_barn    Sân Sau
+&&MAP_house_cliff    Nghĩa Trang Gia Tộc Cornehl
+&&MAP_house_cliff_cave    Nơi Trú Ẩn
+&&MAP_house_shop    Tiệm Tạp Hóa
+&&MAP_house_theroom    Phòng Nghỉ Ngơi
+&&MAP_house_noelroom    Phòng của Noel
+&&MAP_house_atelier    Xưởng Chế Tác
 
-&&MAP_house_lake    Lake
-
-// ========================
-&&MAP_forest_clocktower     Crumbling Clocktower
-&&MAP_forest_ruin_station     Stele Road - Western Station
-&&MAP_forest_ruin_road     Stele Road - Ancient Ruins
-&&MAP_forest_ruin_hall     Stele Road - Thorny Overpass
-&&MAP_forest_ruin_station_r     Stele Road - Eastern Station
-&&MAP_forest_hiroba     City Overlook
-&&MAP_forest_hiroba_u     Hidden Path to the Acid Tree
-&&MAP_forest_cliff_portal     Giant Acid Tree - Obsidian Gate
-&&MAP_forest_coroseum_frog     Pitch Black Frogswamp
-&&MAP_forest_frog_left    Pitch Black Frogswamp - Obsidian Gate
-
-&&MAP_forest_coroseum  Straggler's Nest
-
-&&MAP_forest_athletic_ladder    Ladder Athletics
-&&MAP_forest_lava_secret    Rising Acid Path Secret
-&&MAP_forest_wood_extender_puzzle  Crossed Doors Puzzle
-&&MAP_forest_senzyort  Jailbreak Switch Puzzle
-&&MAP_forest_tc  Curved Shots
+&&MAP_house_lake    Hồ
 
 // ========================
-&&MAP_city_entrance_left    Forestside Barrier
+&&MAP_forest_clocktower     Tháp Đồng Hồ Đổ Nát
+&&MAP_forest_ruin_station     Lộ Bia Cổ - Trạm Phía Tây 
+&&MAP_forest_ruin_road     Lộ Bia Cổ - Phế Tích Cổ Đại
+&&MAP_forest_ruin_hall     Lộ Bia Cổ - Cầu Vượt Gai Góc
+&&MAP_forest_ruin_station_r     Lộ Bia Cổ - Trạm Phía Đông
+&&MAP_forest_hiroba     Đài Vọng Cảnh
+&&MAP_forest_hiroba_u     Lối Đi Bí Mật tới Cây Acid
+&&MAP_forest_cliff_portal     Cự Mộc Acid - Cổng Hắc Diện Thạch
+&&MAP_forest_coroseum_frog     Đầm Ếch Hắc Ám
+&&MAP_forest_frog_left    Đầm Ếch Hắc Ám - Cổng Hắc Diện Thạch
 
-&&MAP_city_market_left    Forest Garrison
-&&MAP_city_center    Midtown/Heavenly Facility
-&&MAP_city_market_BL    Downtown
-&&MAP_city_slam    Slums
-&&MAP_city_farm    Farm
-&&MAP_city_park    Park
-&&MAP_city_entrance_right    Museum District
-&&MAP_city_entrance_rightcave    Mountain Garrison
-&&MAP_city_scl_ground    Bermit School Grounds
-&&MAP_city_scl_center    Bermit School Gates
-&&MAP_city_scl_dorm    Bermit Dormitories
-&&MAP_city_mine    Megalithic Eye
+&&MAP_forest_coroseum  Sào Huyệt của kẻ Lang Thang
 
-&&MAP_city_in_dojo    Fiolet Dojo
-&&MAP_city_in_guild    Adventurer's Guild
-&&MAP_city_in_bar    The March Hare
-&&MAP_city_in_museum    Museum
-&&MAP_city_in_museum_backyard    Backroom
+&&MAP_forest_athletic_ladder    Thử Thách Leo Thang
+&&MAP_forest_lava_secret    Mật Đạo Acid Dâng Trào
+&&MAP_forest_wood_extender_puzzle  Câu Đố Cửa Giao Nhau
+&&MAP_forest_senzyort  Câu Đố Cơ Quan Vượt Ngục
+&&MAP_forest_tc  Đường Bắn Vòng Cung
 
-&&MAP_school_entrance    1F - Entrance
-&&MAP_school_in_hall_left　1F - West Wing
-&&MAP_school_in_hall_right　1F - East Wing
-&&MAP_school_in_hall_center　1F - Administration
-&&MAP_school_in_health Infirmary
+// ========================
+&&MAP_city_entrance_left    Chốt Chặn Ven Rừng
+
+&&MAP_city_market_left    Đồn trú trong rừng
+&&MAP_city_center    Trung Tâm Thành Phố / Cơ Sở Thiên Giới
+&&MAP_city_market_BL    Khu Phố Hạ Thành
+&&MAP_city_slam    Khu Ổ Chuột
+&&MAP_city_farm    Khu Nông Nghiệp
+&&MAP_city_park    Khu Công Viên
+&&MAP_city_entrance_right    Khu Bảo Tàng
+&&MAP_city_entrance_rightcave    Đồn trú trên núi
+&&MAP_city_scl_ground    Khuôn Viên Học Viên Bermit
+&&MAP_city_scl_center    Cổng Học Viện Bermit
+&&MAP_city_scl_dorm    Ký Túc Xá Bermit
+&&MAP_city_mine    Cự Thạch Nhãn
+
+&&MAP_city_in_dojo    Võ Đường Fiolet
+&&MAP_city_in_guild    Hiệp Hội Mạo Hiểm Giả
+&&MAP_city_in_bar    Quán Rượu Thỏ Tháng Ba
+&&MAP_city_in_museum    Bảo Tàng
+&&MAP_city_in_museum_backyard    Mật Phòng
+
+&&MAP_school_entrance    Tầng 1 - Sảnh Vào
+&&MAP_school_in_hall_left　Tầng 1 - Cánh Tây
+&&MAP_school_in_hall_right　Tầng 1 - Cánh Đông
+&&MAP_school_in_hall_center　Tầng 1 - Khu Hành Chính
+&&MAP_school_in_health Phòng Y Tế
 
 &&map_prefix_bermit Bermit &1
 
-&&MAP_city_in_baru Bar Storeroom
+&&MAP_city_in_baru Kho Quán Rượu
 
 // ========================================================
 // MARK : ver0.26
 // ========================================================
 
-&&MAP_school_in_hall_left_2 2F - West Wing
-&&MAP_school_in_hall_right_2 2F - East Wing
-&&MAP_school_in_homeec Home Ec
+&&MAP_school_in_hall_left_2 Tầng 2 - Cánh Tây
+&&MAP_school_in_hall_right_2 Tầng 2 - Cánh Đông
+&&MAP_school_in_homeec Phòng Kinh Tế Gia Đình
 
 // ========================================================
 // MARK : ver0.27
 // ========================================================
-&&MAP_city_in_forge Forge
-&&MAP_school_in_cafeteria Cafeteria
-&&MAP_school_in_garage Rustic Shed
-&&MAP_school_in_hall_right_b1 B1 - East Wing
-&&MAP_school_in_armory Armory
-&&MAP_school_in_armory_mtgroom Meeting Room
+&&MAP_city_in_forge Lò Rèn
+&&MAP_school_in_cafeteria Nhà Ăn
+&&MAP_school_in_garage Nhà Kho Cũ
+&&MAP_school_in_hall_right_b1 Tầng Hầm 1 - Cánh Đông
+&&MAP_school_in_armory Kho Vũ Khí
+&&MAP_school_in_armory_mtgroom Phòng Họp
 
 
-&&MAP_school_in_hall_left_b1 B1 - West Wing (Store)
+&&MAP_school_in_hall_left_b1 Tầng Hầm 1 - Cánh Tây (Cửa Hàng)
 
-&&MAP_city_in_guild_t Adventurer's Guild Kitchen
+&&MAP_city_in_guild_t Bếp Hội Mạo Hiểm Giả
 
 
 // ========================================================
 // MARK : ver0.28
 // ========================================================
-&&MAP_city_in_forge_testfire Range
+&&MAP_city_in_forge_testfire Trường Bắn
 
-&&MAP_city_in_hvn_center Heavenly Facility - Entrance
-&&MAP_city_in_hvn_left2 Heavenly Facility - Library
-&&MAP_city_in_hvn_right Heavenly Facility - Shop
+&&MAP_city_in_hvn_center Cơ Sở Thiên Giới - Cổng Vào
+&&MAP_city_in_hvn_left2 Cơ Sở Thiên Giới - Thư Viện
+&&MAP_city_in_hvn_right Cơ Sở Thiên Giới - Cửa Hàng
 
 
 // ========================================================
@@ -104,17 +104,17 @@
 // ========================================================
 
 
-&&MAP_mount_caravan Inn Street
-&&MAP_mount_caravan_farm Farm
-&&MAP_mount_caravan_church Orphanage
+&&MAP_mount_caravan Phố Quán Trọ
+&&MAP_mount_caravan_farm Nông Trại
+&&MAP_mount_caravan_church Cô Nhi Viện
 
-&&MAP_mount_house Abandoned Hideout
-&&MAP_mount_caravan_left Market
+&&MAP_mount_house Nơi Ẩn Náu Bỏ Hoang
+&&MAP_mount_caravan_left Khu Chợ
 
-&&MAP_mount_caravan_in_labo Archaeologist's Lab
+&&MAP_mount_caravan_in_labo Phòng Thí Nghiệm Khảo Cổ
 
 // ========================================================
 // MARK : ver0.29c
 // ========================================================
 
-&&MAP_mount_caravan_in_bar Bar
+&&MAP_mount_caravan_in_bar Quán Rượu
