@@ -1,40 +1,40 @@
 %FAMILY vi
-&&Btn_move Travel
-&&EV_access_goout Exit
-&&Confirm Confirm
-&&Eat Eat
+&&Btn_move Dịch chuyển
+&&EV_access_goout Thoát
+&&Confirm Đồng ý
+&&Eat Ăn
 
-&&KD_change_info <key add/>Change Info
+&&KD_change_info <key add/>Đổi thông tin
 
-&&GameMenu_Category_Title_stat     Status
-&&GameMenu_Category_Title_item     Items
-&&GameMenu_Category_Title_magic     Spells
-&&GameMenu_Category_Title_skill     Skills
-&&GameMenu_Category_Title_enhancer     Enhancer
-&&GameMenu_Category_Title_map     Map
-&&GameMenu_Category_Title_bench     Bench
-&&GameMenu_Category_Title_scenario     Quest Log
-&&GameMenu_Category_Title_svd_select     Save/Load
-&&GameMenu_Category_Title_config     Settings
+&&GameMenu_Category_Title_stat     Trạng Thái
+&&GameMenu_Category_Title_item     Vật Phẩm
+&&GameMenu_Category_Title_magic     Phép Thuật
+&&GameMenu_Category_Title_skill     Kỹ Năng
+&&GameMenu_Category_Title_enhancer     Cường Hóa
+&&GameMenu_Category_Title_map     Bản Đồ
+&&GameMenu_Category_Title_bench     Ghế Băng
+&&GameMenu_Category_Title_scenario     Nhật Ký
+&&GameMenu_Category_Title_svd_select     Lưu/Tải
+&&GameMenu_Category_Title_config     Cài Đặt
 
-&&GameMenu_Bench_Front When Noel is sitting on the bench,\nyou can use the following commands: \n&1
+&&GameMenu_Bench_Front Khi Noel ngồi trên ghế nghỉ,\nbạn có thể thực hiện các thao tác sau: \n&1
 
-&&GM_desc_map_1_no_marker <key rem/> Travel Mode \n<key_s submit/> Set Marker
-&&GM_desc_map_1 <key rem/> Travel Mode \n<key_s submit/> Set Marker
+&&GM_desc_map_1_no_marker <key rem/> Chế độ dịch chuyển \n<key_s submit/> Đặt đánh dấu
+&&GM_desc_map_1 <key rem/> Chế độ dịch chuyển \n<key_s submit/> Đặt đánh dấu
 
-&&GM_desc_map_2_no_marker <key rem/> Marker Mode \n<key_s submit/> Fast travel
-&&GM_desc_map_2 <key rem/> Marker Mode \n<key_s submit/> Fast travel
+&&GM_desc_map_2_no_marker <key rem/> Chế độ đánh dấu \n<key_s submit/> Dịch chuyển nhanh
+&&GM_desc_map_2 <key rem/> Chế độ đánh dấu \n<key_s submit/> Dịch chuyển nhanh
 &&EV_desc_msg     <key cancel/>/<key submit/> <shape right_arrow/>
 &&EV_desc_msg_last     <key cancel/>/<key submit/> <shape check/>
 
-&&Mstb_KeyHelp Press and hold <key cancel/>/<key menu/> to abort
+&&Mstb_KeyHelp Nhấn và giữ <key cancel/>/<key menu/> để hủy
 
-&&GM_desc_fasttravel_here Noel is currently in this position.
+&&GM_desc_fasttravel_here Noel hiện đang ở vị trí này.
 
-&&GameMenu_map_fasttravel <img mesh="wmap_bench"/><i> You can travel to a bench you have sat on previously. </i>
+&&GameMenu_map_fasttravel <img mesh="wmap_bench"/><i> Bạn có thể dịch chuyển tới ghế băng từng ngồi nghỉ trước đó. </i>
 
-&&SerTitle_burned Burning
-&&SerDesc_burned YOU'RE ON FIRE!  Wait for it to go out or get in a body of water to extinguish it.
+&&SerTitle_burned Thiêu đốt
+&&SerDesc_burned BẠN ĐANG BỊ BỎNG LỬA! Hãy chờ ngọn lửa tự tàn hoặc nhảy xuống nước để dập tắt.
 
 
 // ========================================================

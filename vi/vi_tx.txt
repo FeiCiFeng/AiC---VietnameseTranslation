@@ -32,7 +32,7 @@ có thể gây khó chịu cho một số người chơi. Người chơi nên c�
 &&Stat_no_status_error Bình Thường
 
 
-&&GameMenu_Category_Title_0     Thông Số
+&&GameMenu_Category_Title_0     Trạng Thái
 &&GameMenu_Category_Title_1     Vật Phẩm
 &&GameMenu_Category_Title_2     Phép Thuật
 &&GameMenu_Category_Title_3     Đột Biến

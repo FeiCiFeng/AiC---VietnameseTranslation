@@ -300,7 +300,7 @@ Mình khá ghét thứ này từ hồi còn bé.
 
 %ITEM mtr_paprika Ớt Chuông
 Cùng hội với ớt xanh đấy.
-Đừng hòng đánh lừa tôi bằng mấy màu sắc bắt mắt đó.
+Đừng hòng đánh lừa mình bằng mấy màu sắc bắt mắt đó.
 &&recipe_effect_arrest_escape Hiệu quả giãy giụa
 
 %ITEM mtr_celery Cần tây
@@ -321,7 +321,7 @@ Trông nó giống nguyên liệu làm thuốc hơn là một loại rau.
 
 
 %ITEM mtr_carrot Cà rốt
-Ăn cái này khiến tôi cảm thấy mình như gia súc.
+Ăn cái này khiến mình cảm thấy mình như gia súc.
 &&recipe_effect_sink_reduce Giảm sự vụng về
 
 %ITEM mtr_beets Củ dền
@@ -379,7 +379,7 @@ Làm thịt ngon hơn hẳn và khiến rau củ ít nhất cũng ăn được.
 
 %ITEM mtr_pepper Hạt tiêu
 Đã từng có thời hạt tiêu được quý như vàng bạc, có giá trị chẳng kém gì chúng.
-May mà tôi sinh ra vào thời đại mà hạt tiêu đã rẻ hơn nhiều.
+May mà mình sinh ra vào thời đại mà hạt tiêu đã rẻ hơn nhiều.
 %RECIPE_REPLACE mtr_pepper Ướp tiêu
 
 %ITEM rotten_food Đồ ăn ôi thiu
@@ -455,14 +455,14 @@ Xét cho cùng, nó cũng giống như thuốc và chất độc vậy.
 
 &&Recipe_title_stew Món Hầm
 /* ___ Recipe_desc_stew  ___ */
-Ngoài tương cà ra, đây là món duy nhất mà tôi chấp nhận cho cà chua vào.
+Ngoài tương cà ra, đây là món duy nhất mà mình chấp nhận cho cà chua vào.
 
 
 &&Recipe_title_fried_vegi Rau Xào
 &&Recipe_desc_fried_vegi Elf và thú nhân có thể hiểu nhau theo cách này sao?
 
 &&Recipe_title_steak Bít Tết
-&&Recipe_desc_steak Hương vị khiến tôi cảm thấy mình đang sống.
+&&Recipe_desc_steak Hương vị khiến mình cảm thấy tuyệt vời.
 
 &&Recipe_title_burger Hamburger
 
@@ -801,7 +801,7 @@ Một loại nước thơm ngon.
 có thể sử dụng trong trận chiến; nếu không dùng thì sẽ bị ôi thiu sau đó.
 
 %ITEM mtr_darjeeling Trà Darjeeling
-Chỉ cần ngửi thoang thoảng mùi này thôi cũng khiến tôi muốn “<i>Ồ hô hô hô!</i>” giống Ixia.
+Chỉ cần ngửi thoang thoảng mùi này thôi cũng khiến mình muốn “<i>Ồ hô hô hô!</i>” giống Ixia.
 
 
 &&Recipe_titleR_herbtea Trà
@@ -870,13 +870,13 @@ Loại quả có màu xanh và đỏ sặc sỡ.
 Chua hơn nhiều so với vẻ ngoài.
 
 %ITEM fruit_lemon Chanh
-Có vị chua gắt mà hầu hết mọi người đều không thích. Cái kiểu chua đến tận giọt cuối cùng này khiến tôi liên tưởng đến Ixia.
+Có vị chua gắt mà hầu hết mọi người đều không thích. Cái kiểu chua đến tận giọt cuối cùng này khiến mình liên tưởng đến Ixia.
 
 %ITEM fruit_peach Đào
 Ăn lúc còn xanh giòn hay khi đã chín mềm nhũn đều ngon.
 
 %ITEM mtr_honey Mật Ong Quái Vật
-Ngọt đến mức không thể cưỡng lại. Nhưng tôi không muốn nghĩ đến việc lũ bọ đã làm ra nó.
+Ngọt đến mức không thể cưỡng lại. Nhưng mình không muốn nghĩ đến việc lũ bọ đã làm ra nó.
 %RECIPE_REPLACE mtr_honey Mật Ong
 
 %ITEM mtr_cacao Hạt Ca Cao
@@ -906,7 +906,7 @@ Nếu đun nóng, nó sẽ làm món ăn dậy thêm hương vị đậm đà. C
 
 &&Recipe_title_tortilla Bánh Tortilla
 /* ___ Recipe_desc_tortilla ___ */
-Tôi thích loại mềm, nhưng loại cứng lại mang đến cảm giác “đúng chất” hơn.
+Mình thích loại mềm, nhưng loại cứng lại mang đến cảm giác “đúng chất” hơn.
 
 &&Recipe_title_taco Taco
 /* ___ Recipe_desc_taco ___ */
@@ -936,7 +936,7 @@ Khoai được chiên trong dầu.
 
 &&Recipe_title_fried_chicken Gà Rán
 /* ___ Recipe_desc_fried_chicken ___ */
-Một chiếc đùi gà. Mỗi lần tôi ăn sạch cả phần sụn là bố và Tilde lại nổi giận đùng đùng.
+Một chiếc đùi gà. Mỗi lần mình ăn sạch cả phần sụn là bố và Tilde lại nổi giận đùng đùng.
 
 
 &&Recipe_title_fried_demon Quái Vật Chiên
@@ -1044,7 +1044,7 @@ Hồi sinh với &1% HP / &2% MP,
 Vì toàn bộ dữ liệu của hội đều được xử lý bởi viên pha lê trong trượng của mình, nên tấm thẻ này chỉ để làm màu thôi.
 
 %ITEM precious_memorychip Chip Nhớ
-Tigrina nhờ tôi lấy thứ này.
+Tigrina nhờ mình lấy thứ này.
 Bên trong chứa cả đống thông tin.
 
 
@@ -1058,7 +1058,7 @@ Bên trong chứa cả đống thông tin.
 
 %ITEM mtr_essence_pentapod Cổ Pentapod
 Phần cổ dẻo dai của một con quái vật thuộc loài Pentapod.
-Cảm giác như tôi có thể kéo giãn nó đến vô tận vậy. Giá mà tay mình dài hơn một chút nhỉ...
+Cảm giác như mình có thể kéo giãn nó đến vô tận vậy. Giá mà tay mình dài hơn một chút nhỉ...
 
 %ITEM mtr_essence_pig Nanh Lợn Rừng
 Chiếc nanh khổng lồ của quái vật loài Lợn Rừng.
@@ -1066,7 +1066,7 @@ Giống hệt chiếc mà Nightingale luôn mang theo.
 
 %ITEM mtr_essence_roaper Xúc Tu Roper
 Chiếc xúc tu uốn éo của quái vật Xúc Tu.
-Trơn trượt, hoàn toàn kháng ma thuật, và dường như nó sẽ tự cử động dù tôi chỉ mới chạm nhẹ vào...
+Trơn trượt, hoàn toàn kháng ma thuật, và dường như nó sẽ tự cử động dù mình chỉ mới chạm nhẹ vào...
 
 
 // 自爆アイテム
@@ -1255,11 +1255,11 @@ Di sản để lại, nguyện thề giữ nghiêm!"
 ...nghe nói là vậy.
 
 %ITEM precious_ooparts_cc_sporner Kẻ Mộng Mơ Akashic
-Một cỗ máy ảnh ảo được tạo ra từ sự kết hợp giữa các cổ vật vô giá, nghiên cứu về tộc thú nhân và những màn hí hoáy của Tigrina. Thiết bị này giúp triệu hồi các đồng minh khi ở bên trong Holoshed. Mình cũng chẳng rõ việc đó có tác dụng gì, nhưng công nghệ mới lúc nào cũng làm tôi bối rối khi mới tiếp xúc.
+Một cỗ máy ảnh ảo được tạo ra từ sự kết hợp giữa các cổ vật vô giá, nghiên cứu về tộc thú nhân và những màn hí hoáy của Tigrina. Thiết bị này giúp triệu hồi các đồng minh khi ở bên trong Holoshed. Mình cũng chẳng rõ việc đó có tác dụng gì, nhưng công nghệ mới lúc nào cũng làm mình bối rối khi mới tiếp xúc.
 
 
 %ITEM anc_cure_paralysis Thuốc Kích Thích Cơ Bắp
-Một loại thuốc mỡ dùng được cho cả thú nhân lẫn Elf. Chữa chứng tê liệt. Có vị bạc hà the mát, nhưng vào mùa đông thì tôi không khoái dùng nó lắm.
+Một loại thuốc mỡ dùng được cho cả thú nhân lẫn Elf. Chữa chứng tê liệt. Có vị bạc hà the mát, nhưng vào mùa đông thì mình không khoái dùng nó lắm.
 
 
 %ITEM mtr_tarot_empress Lá Bài Tarot: Nữ Hoàng
