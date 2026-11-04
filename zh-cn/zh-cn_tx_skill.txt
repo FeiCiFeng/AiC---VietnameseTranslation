@@ -303,3 +303,4 @@
 最大MP增加15点。
 
 &&Skill_manipulate_evade_jump__1 闪避过程中按下<key run/>
+&&Skill_manipulate_evade_jump__2 闪避过程中按下<key c/>

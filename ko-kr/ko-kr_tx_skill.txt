@@ -302,4 +302,5 @@ HP,MP 최대치를 크게 증가시키지만, 보물상자를 얻을 확률이 �
 최대 MP가 15 증가한다.
 
 &&Skill_manipulate_evade_jump__1 회피중 <key run/>
+&&Skill_manipulate_evade_jump__2 회피중 <key c/>
  

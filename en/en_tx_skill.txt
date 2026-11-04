@@ -246,3 +246,4 @@ Max MP increased by 15.
 
 
 &&Skill_manipulate_evade_jump__1 Tap <key run/> mid-dodge
+&&Skill_manipulate_evade_jump__2 <key c/> mid-dodge

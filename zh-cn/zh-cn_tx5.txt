@@ -253,3 +253,12 @@ HP因沾染毒物而缓慢减少，但不会直接导致阵亡。
 &&GO_Select_return_to_title_skipping_fatal （跳过战败事件）
 
 &&Fatal_quit_to_title 落幕（返回标题画面）
+
+
+// 26/09/13 :  030g オートセーブデータ履歴のための実装
+
+&&SVD_History 自动保存纪录
+&&SVD_manual_save 手动保存
+
+
+&&Fatal_beto_level 汚し

@@ -297,3 +297,4 @@
 最大MP増加15。
 
 &&Skill_manipulate_evade_jump__1 迴避中按下<key run/>
+&&Skill_manipulate_evade_jump__2 迴避中按下<key c/>

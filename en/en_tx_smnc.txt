@@ -459,3 +459,5 @@ Guests will start from the indicated position. If multiple positions are indicat
 // ========================================================
 
 &&Smnc_td_play_fatal Replay Fatal Scene upon failing
+
+&&Smnc_td_cleard_max Highest score (level): &1

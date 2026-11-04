@@ -238,3 +238,13 @@ Redownloading the game may resolve this issue.
 &&GO_Select_return_to_title_skipping_fatal (Skip fatal scene)
 
 &&Fatal_quit_to_title The End (To Title)
+
+
+
+// 26/09/13 :  030g オートセーブデータ履歴のための実装
+// 261002 ひなゆあ仮置き
+&&SVD_History History of Auto Save
+&&SVD_manual_save Manual Save
+
+
+&&Fatal_beto_level Wet
