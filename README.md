@@ -33,7 +33,7 @@ This is a small personal project aimed at bringing a Vietnamese translation of A
 
 - ID discord (contact) of the two translator: <br>
 Feng: _phongwibu <br>
-Nian: niansprout163
+Nian: niansprout163 (hiện tại chưa liên quan gì đến dự án này do bận việc)
 
 - This is a small personal project, so we do not have a dedicated support email. For convenience, we prefer to communicate directly through DMs. <br>
 *Đây là một dự án cá nhân nhỏ, vì vậy chúng tôi không có địa chỉ email hỗ trợ riêng. Để thuận tiện, chúng tôi ưu tiên nhắn tin trực tiếp qua tin nhắn riêng (DM).*
