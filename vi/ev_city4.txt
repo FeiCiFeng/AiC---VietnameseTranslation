@@ -10,130 +10,130 @@
 
 // バーでの会話集。
 // ========================================================
-// MARK : ギルド
+// MARK : Hội
 // ========================================================
 
 *___city_guild/t00 mb_00
-Welcome to the Adventurer’s Guild! Where Grazia’s boldest elves take on the requests of citizens in need!
+Chào mừng đến với Hội Mạo Hiểm Giả! Nơi những con người Elf dũng cảm nhất Grazia nhận nhiệm vụ giúp đỡ những người dân đang gặp khó khăn!
 
 *mb_01
-Right now we’re waiving all membership fees to help the city recover from the recent attacks!
+Hiện tại, chúng tôi đang miễn toàn bộ phí thành viên để giúp thành phố khôi phục sau những cuộc tấn công gần đây!
 
 *mb_02
-You look like someone who could really help her fellow elf! How about it? Care to sign up?
+Trông cô có vẻ là người rất sẵn lòng giúp đỡ đồng bào Elf của mình đấy! Thế nào? Cô có muốn đăng ký không?
 
 *mb_03
-I see.
+Tôi hiểu rồi.
 
 *mb_04
-Well, if you ever change your mind, we’ll be right here waiting!
+Nếu sau này cô đổi ý, chúng tôi sẽ luôn ở đây chờ cô!
 
 *mb_05
-Thank you for the ID!
+Cảm ơn cô đã đưa ID!
 
 *mb_06
-Bermit Cadet, Noel Cornehl. Is that right?
-We look forward to working with you!
+Học viên Bermit, Noel Cornehl. Đúng chứ?
+Chúng tôi rất mong được hợp tác với cô!
 
 *mb_07
-Here’s your membership card!
+Đây là thẻ thành viên của cô!
 
 *mb_08
-Here's a quick rundown on how things work here.
+Tôi sẽ giới thiệu sơ qua về cách hoạt động ở đây nhé.
 
 // 解説
 
 *___city_guild/descryption mb_00
-We’ll have several requests available for you to choose from at our reception desk.
+Tại quầy tiếp tân, cô sẽ thấy nhiều nhiệm vụ khác nhau để lựa chọn.
 
 *mb_01
-You can take multiple requests at the same time, but not more than your guild level allows.
+Cô có thể nhận nhiều nhiệm vụ cùng lúc, nhưng số lượng không được vượt quá giới hạn cấp hội của mình.
 
 *mb_02
-Once you accept a request, you will need to go out to the designated area to complete it.
+Sau khi nhận nhiệm vụ, cô cần đến khu vực được chỉ định để hoàn thành nó.
 
 *mb_03
-However, once you leave the city or any other safe area, all quests must be completed before returning.
+Tuy nhiên, một khi đã rời khỏi thành phố hoặc bất kỳ khu vực an toàn nào khác, cô phải hoàn thành tất cả nhiệm vụ trước khi quay về.
 
 *mb_04
-If you do not complete a quest before returning, it will be counted as a failure.
+Nếu quay về mà chưa hoàn thành nhiệm vụ, nhiệm vụ đó sẽ bị tính là thất bại.
 
 *mb_05
-Quests will reward you with money, guild points <c5>(GP)<c0>, and…
+Phần thưởng nhiệm vụ bao gồm tiền, điểm hội <c5>(GP)<c0>, và...
 
 *mb_06
-<m joy>Our super special <c5>Guild Treasure Chest Reel</c5><m0>!
+<m joy>Cuộn Rương Siêu Đặc Biệt <c5>của Hội Mạo Hiểm<c5><m0>!
 
 *mb_07
-But it’s not guaranteed. Sometimes you will receive a standard chest reel.
+Tuy nhiên, không phải lúc nào cô cũng có thể nhận được nó. Đôi khi phần thưởng sẽ chỉ là một cuộn rương thông thường.
 
 *mb_08
-We can hold up to 5 chests for you at a time. If you fail a request, any held chests will be opened immediately.
+Chúng tôi có thể giữ tối đa 5 chiếc rương cho cô cùng lúc. Nếu cô thất bại trong một nhiệm vụ, tất cả những chiếc rương đang được giữ sẽ lập tức được mở.
 
 *mb_09
-Failing quests by returning without completing them or being defeated will result in a loss of guild points.
+Nếu nhiệm vụ thất bại do cô quay về mà chưa hoàn thành hoặc bị đánh bại, điểm hội của cô sẽ bị trừ.
 
 *mb_10
-We have a reputation to uphold, after all.
+Dù sao thì chúng tôi cũng phải giữ gìn danh tiếng của hội chứ.
 
 *mb_11
-Requests change on a daily basis, so check back often!
+Các nhiệm vụ sẽ thay đổi mỗi ngày, vì vậy hãy thường xuyên quay lại kiểm tra nhé!
 
 
 *___city_guild/_portal mb_50
-With that out of the way, would you like to take a look at our requests?
+Vậy là xong phần giới thiệu. Cô có muốn xem qua các nhiệm vụ hiện có không?
 
 *___city_guild/_portal mb_51
-Good day, Miss Cornehl! Here to look at some requests?
+Chào cô Cornehl! Cô đến xem các nhiệm vụ sao?
 
 *___city_guild/_portal mb_100
-We look forward to seeing you again!
+Chúng tôi rất mong được gặp lại cô!
 
 *___city_guild/_portal mb_101
-Thank you! Hope to see you again soon!
+Cảm ơn cô! Hy vọng sớm được gặp lại!
 
 
 *___city_guild/_progress mb_00
-Welcome back, Miss Cornehl! How is everything?
+Mừng cô trở về, cô Cornehl! Mọi chuyện thế nào rồi?
 
 // すべてクリアした
 *mb_10
-Wonderful! I’ll inform our client right away!
+Tuyệt vời! Tôi sẽ lập tức thông báo cho khách hàng!
 *
-We look forward to working with you again.
+Rất mong được tiếp tục hợp tác với cô.
 
 
 // すべて失敗した
 *mb_20
-...That's unfortunate. In accordance with our guidelines, your guild points will be penalized.
+...Thật đáng tiếc. Theo quy định của hội, điểm hội của cô sẽ bị trừ.
 
 // 
 *
-If taking on multiple requests is too stressful, we recommend sticking to one at a time.
+Nếu cảm thấy quá áp lực khi nhận nhiều nhiệm vụ cùng lúc, chúng tôi khuyên cô nên chỉ nhận từng nhiệm vụ một.
 *
-A small success is infinitely better than a great failure.
+Thành công nhỏ còn tốt hơn thất bại lớn gấp nhiều lần.
 
 // 一部失敗した
 *mb_30
-Well done! Oh...but it looks like not everything got taken care of.
+Làm tốt lắm! À...nhưng có vẻ cô vẫn chưa giải quyết được tất cả nhiệm vụ.
 *
-While we do incentivize taking on multiple requests at a time...
+Mặc dù chúng tôi luôn khuyến khích mọi người nhận nhiều nhiệm vụ cùng lúc...
 *
-Please don’t take on more than you can handle. We want out clients to feel like they're in safe hands.
+Nhưng xin đừng nhận quá nhiều so với khả năng của mình. Chúng tôi muốn khách hàng cảm thấy rằng họ có thể hoàn toàn yên tâm khi giao việc cho hội.
 
 *mb_40
-Now then, care to look at some more requests?
+Vậy thì, cô có muốn xem thêm một vài nhiệm vụ không?
 
 *mb_50
-We’ve got some requests for you, but...
+Chúng tôi có vài nhiệm vụ dành cho cô, nhưng...
 
 *mb_60
-We need you to finish the ones you’ve already accepted first.
+Trước tiên, cô cần hoàn thành những nhiệm vụ đã nhận đã.
 *
-You can also cancel them if you don’t mind the penalty.
+Nếu không ngại bị phạt, cô cũng có thể hủy chúng.
 
 *mb_70
-Good luck! We look forward to your safe return!
+Chúc cô may mắn! Chúng tôi mong cô sẽ trở về an toàn!
 
 
 // ========================================================
@@ -141,37 +141,37 @@ Good luck! We look forward to your safe return!
 // ========================================================
 
 *___city_guild/t_rankup mb_00
-Congratulations!
+Xin chúc mừng!
 
 *mb_01
-Since this is the first time you’ve reached this rank, you’ve earned a reward!
+Vì đây là lần đầu tiên cô đạt đến cấp bậc này, nên cô sẽ nhận được một phần thưởng!
 
 *mb_02
-We look forward to your continued efforts!
+Mong cô sẽ tiếp tục nỗ lực trong thời gian tới!
 
 //最大ランク
 *mb_03
-Oh my! What a grand achievement! I almost can’t believe it!
+Ôi trời! Một thành tựu thật đáng kinh ngạc! Tôi gần như không thể tin nổi!
 *
-Thank you so much for joining our guild, Noel. We hope you’ll continue to assist those in need with us!
+Cảm ơn cô rất nhiều vì đã gia nhập hội của chúng tôi, Noel. Hy vọng cô sẽ tiếp tục đồng hành cùng chúng tôi để giúp đỡ những người gặp khó khăn!
 
 
 // ギルドのキッチンで錬金術図鑑を持っていない場合
 *___city_guild/_portal_alchemy_guild n_00
-It's an alchemy cauldron. My sister has one just like it in her atelier.
+Đây là một chiếc vạc giả kim. Chị mình cũng có một cái giống hệt trong xưởng của chị ấy.
 
 *n_01
-I don't have a license to use one myself.
+Mình không có giấy phép để tự sử dụng nó.
 
 *n_02
-Maybe I should ask my sister about getting one...
+Có lẽ mình nên hỏi chị hai xem làm thế nào để có được một chiếc...
 
 
 // ========================================================
 // MARK : 防衛戦を終わらせるまで街から山に行けない
 // ========================================================
 *107/_stop_goto_mount_before_pvv115 n_00
-I have class and other responsibilities. Now’s not the time to go exploring.
+Mình còn phải đi học và lo những việc khác nữa. Bây giờ không phải lúc để đi khám phá.
 
 
 // ========================================================
@@ -179,59 +179,59 @@ I have class and other responsibilities. Now’s not the time to go exploring.
 // ========================================================
 
 *105/health_primula_t_after_td p_01
-Thank you for everything you did to defend Bermit.
+Cảm ơn em vì tất cả những gì em đã làm để bảo vệ Bermit.
 
 *p_02
-How are you feeling?
+Em cảm thấy thế nào rồi?
 
 *n_03
-Pretty good, actually! Everyone gave it their all.
+Thật ra em thấy khá ổn ạ! Mọi người đều đã cố gắng hết sức.
 
 *n_04
-I'm proud that we were able to save the town and the school.
+Em rất tự hào vì chúng ta đã bảo vệ được thị trấn và học viện.
 
 *n_05
-I'm glad that I was able to apply everything you taught me.
+Em rất vui vì có thể vận dụng tất cả những điều cô đã dạy.
 
 *n_06
-I can fight! I can protect the people I care about! It's all thanks to you, Primula!
+Em có thể chiến đấu! Em có thể bảo vệ những người mình yêu quý! Tất cả đều là nhờ cô đấy, cô Primula!
 
 *p_07
-I see...
+Cô hiểu rồi...
 
 *p_08
-You know...that was the first battle I've seen up close.
+Em biết không...đó là trận chiến đầu tiên mà cô được tận mắt chứng kiến ở cự ly gần.
 
 *p_09
-My duties as a medic were always far away from the combat zone.
+Nhiệm vụ của một nhân viên y tế như cô vốn luôn ở cách xa chiến trường.
 
 *p_11
-Hearing live ammunition being fired, -
+Tiếng nổ thật vang lên, -
 *
-- monsters roaring, my dear students screaming in pain...
+- tiếng quái vật gầm rú, tiếng những học viên thân yêu của cô la hét vì đau đớn...
 *
-...I was frightened.
+...cô đã rất sợ hãi.
 
 *p_12
-Weren't you?
+Còn em thì sao?
 
 *n_13
 ......
 
 *n_14
-Yes...
-I was.
+Vâng...
+Em cũng vậy.
 
 *n_15
-But next time...next time I'll do better. I'll be prepared. I won't -
+Nhưng lần sau...lần sau em sẽ làm tốt hơn. Em sẽ chuẩn bị thật kỹ. Em sẽ không-
 
 
 // 防衛戦前に二週間前の回想を見ていない場合、ここで回想を挟む*
 *n_20
-<s3>I'll protect everyone. I won't let this happen again.
+<s3>Em sẽ bảo vệ tất cả mọi người. Em sẽ không để chuyện này xảy ra lần nữa.
 
 *n_20_2
-<s4>Never again.
+<s4>Không bao giờ nữa.
 
 
 // （回想。
@@ -239,236 +239,239 @@ But next time...next time I'll do better. I'll be prepared. I won't -
 <m scary>Ah, <W3>hah...
 
 *p_21
-Is everything alright?
+Em không sao chứ?
 
 *n_22
 <m scary><s3>...hah...<W6>
 <m fadein><s2>hoo...<W2>uuu...
 
 *n_23
-<m fadein>...it feels like an eternity since then.
+<m fadein>...cảm giác như đã cả một đời người trôi qua kể từ ngày hôm đó.
 *
-<m fadein>But my wounds are still open and bleeding.
+<m fadein>Nhưng những vết thương trong lòng em vẫn chưa lành, vẫn còn rỉ máu.
 
 // 見ている場合 
 
 *n_30
 <W3><s3>Ah...<m scary>
-<m0>I can't stop shaking.
+<m0>EM không thể ngừng run rẩy.
 
 // 合流
 
 *p_40
-Take my paw.
+Nắm lấy tay cô đi.
 
 *n_41
-<s3>Sensei...
+<s3>Cô giáo...
 
 *n_42
-<W2><s3>Your paws are so warm.
+<W2><s3>Tay cô ấm quá.
 
 *p_43
-<W2><s2>Listen to me.
+<W2><s2>Nghe cô nói này.
 
 *p_43_2
-<W2><s2>This fear is part of you.
+<W2><s2>Nỗi sợ này là một phần trong em.
 
 *p_44
-<s2>But it does not define you.
+<s2>Nhưng nó không thể định nghĩa con người em.
 
 *p_45
-<s2>What you did in the face of your fears is who you are.
+<s2>Chính cách em đối mặt với nỗi sợ mới là điều tạo nên con người em.
 
 *p_46
-<s2>When your classmates reached out to you for help, you answered.
+<s2>Khi các bạn cùng lớp tìm đến nhờ em giúp đỡ, em đã đáp lại.
 
 *p_47
-<s2>And in turn, they helped you.
+<s2>Và rồi, các bạn cũng đã giúp đỡ em.
 
 *p_48
-<s2>You accomplished as a group what no individual could.
+<s2>Các em đã cùng nhau làm được điều mà không một cá nhân nào có thể làm được.
 
 *p_49
-<s2>So the next time your fear strikes, just remember...
+<s2>Vì vậy, lần tới khi nỗi sợ ập đến, hãy nhớ rằng...
 
 *p_50
-<s2>You are not alone.
+<s2>Em không hề đơn độc đâu.
 
 *n_51
-<W4><s3><m scary>...<m0><W2>thank you, sensei.
+<W4><s3><m scary>...<m0><W2>cảm ơn cô, cô giáo.
 
 
 // 二週間前の回想を既に見ている場合
 
 *n_60
-Um...<W2>could I ask you for...one more favor?
+Ừm...<W2>em có thể hỏi cô...thêm một việc nữa được không?
 
 *p_61
-What is it?
+Hửm, chuyện gì vậy?
 
 *n_62
-M-...May I<m joy>floof<m0> your tail?
+E-...Em có thể<m joy>vuốt ve<m0> đuôi cô được không?
 
 *p_63
-Oh my, when was the last time you asked for that? When you were little, you always -
+Ôi chà, lần cuối em xin chuyện đó là khi nào nhỉ? Hồi còn bé, lúc nào em cũng-
 
 *n_64
-<m ple>I didn't "<b>always</b>"!
+<m ple>Em đâu có "<b>lúc nào cũng</b>" như vậy!
 
 // もふもふ
 
 // 二週間前回想を再生していた場合
 *n_65
-<think>I need to be more independent so I don't worry Primula so much.
+<think>Mình cần tự lập hơn để không khiến cô Primula phải lo lắng cho mình nhiều như vậy.
 
 
 // ========================================================
-// MARK : 0.30 ギルド追加ニュース
+// MARK : 0.30 Tin tức mới tại hội
 // ========================================================
 
 *___city/guild_news p105_lost
-【MISSING】
+【MẤT TÍCH】
 
-Short, female elf with light-green hair.
-Answers to Aura.
-Last seen near the forest floor.
-If anyone has any information, please contact
-the Heavenly Facilities or the Adventurer's Guild.
-Help me find my little sister.
+Một nữ Elf thấp bé, tóc màu xanh lá nhạt.
+Tên cô bé là Aura.
+Lần cuối được nhìn thấy ở gần khu vực chân rừng.
+Nếu có bất kỳ thông tin nào, xin hãy liên hệ
+với Cơ Sở Thiên Giới hoặc Hội Mạo Hiểm GIả.
+Làm ơn hãy giúp tôi tìm em gái mình.
 
 
 *___city/guild_news p107_td
-【EMERGENCY】
+【KHẨN CẤP】
 
-The Adventurer's Guild and the Heavenly Facilities
-have declared a state of emergency for the town of Grazia.
+Hội Mạo Hiểm và Cơ Sở Thiên Giới
+đã ban bố tình trạng khẩn cấp tại thị trấn Grazia.
 
-A horde of monsters has been sighted approaching from the
-mountains. Follow the evacuation routes to the nearest
-designated safehouse for your region.
+Một đàn quái vật đã được phát hiện đang tiến đến từ phía
+núi. Hãy đi theo các tuyến đường sơ tán đến nơi trú ẩn an toàn
+được chỉ định gần nhất trong khu vực của bạn.
 
-Those who are elderly, infirm, or in need of assistance
-should contact the nearest police station for help.
+Những người cao tuổi, người ốm yếu hoặc cần được hỗ trợ
+hãy liên hệ với đồn cảnh sát gần nhất để được giúp đỡ.
 
-Guild members are to remain on standby and await further
-instructions.
+Các thành viên hội cần duy trì trạng thái sẵn sàng và chờ
+chỉ thị tiếp theo.
 
-Should the barrier be breached, guild members are to
-engage the horde and protect civilian life.
+Nếu kết giới bị phá vỡ, các thành viên hội phải
+giao chiến với đàn quái vật và bảo vệ tính mạng dân thường.
 
-Do not engage in combat until the signal is given.
+Không được tham chiến cho đến khi có hiệu lệnh.
 
 
 *___city/guild_news p200_lost
-【Special report】 What lies below?
+【Bản tin đặc biệt】 Điều gì ẩn giấu bên dưới?
 
-We've seen a steady stream of mysterious disappearances
-near the lower realms over the past month. Nine missing people
-have been confirmed so far, all of them elves.
+Trong suốt tháng qua, chúng tôi liên tục nhận được báo cáo về
+những vụ mất tích bí ẩn gần các khu vực hạ giới. Cho đến nay,
+đã xác nhận có chín người mất tích, tất cả đều là người Elf.
 
-An expert from the Grazian historial society has put forth
-a startling theory, claiming that the Dwarves, a race thought
-only to exist in legend, are behind the disappearances.
+Một chuyên gia thuộc Hội Sử học Grazia đã đưa ra
+một giả thuyết gây chấn động, cho rằng tộc Dwarf,
+một chủng tộc vốn chỉ tồn tại trong truyền thuyết, chính là
+thủ phạm đứng sau những vụ mất tích này.
 
-Naturally, this raises the question that if Dwarves do exist,
-how have they avoided detection for so long? And if they are
-behind the disappearances, why has nobody they've abducted
-ever returned, nor have there been any demands or ransoms
-from the Dwarves?
+Đương nhiên, điều này đặt ra câu hỏi: nếu tộc Dwarf thực sự tồn tại,
+làm thế nào họ có thể tránh bị phát hiện trong suốt thời gian dài đến vậy?
+Và nếu họ là thủ phạm của những vụ mất tích, tại sao chưa từng có
+ai bị bắt cóc quay trở về, cũng như tộc Dwarf chưa từng đưa ra
+bất kỳ yêu cầu hay đòi tiền chuộc nào?
 
-Are the Dwarves devouring their victims? If you have any
-information on the subject, please contact the Guild.
+Phải chăng tộc Dwarf đang ăn thịt những nạn nhân của mình?
+Nếu có bất kỳ thông tin nào về vấn đề này, xin hãy liên hệ với Hội.
 
 
 *___city/guild_news p200_spider
-【Dangerous monsters sighted】
+【Phát hiện quái vật nguy hiểm】
 
-A Queen Leech and a Mountain Spider have been spotted
-within the Fallen Mountain range. Both are highly
-territorial and very dangerous.
+Một Nữ Hoàng Đỉa và một con Nhện Núi đã được phát hiện
+trong dãy Núi Fallen. Cả hai đều có tính chiếm hữu lãnh thổ
+rất cao và vô cùng nguy hiểm.
 
-Adventurers are not to go near their lairs without
-prior Guild approval.
+Các nhà mạo hiểm không được đến gần hang ổ của chúng
+nếu chưa được Hội cho phép.
 
 
-【Caution: Loose rocks】
+【Cảnh báo: Đá lở】
 
-Multiple reports of the ground giving way beneath
-the feet of travelers on the Fallen Mountain range
-have been made recently. Travelers are to exercise caution.
+Gần đây, đã có nhiều báo cáo về tình trạng mặt đất sụt lở
+dưới chân những người đi lại trong dãy Núi Fallen.
+Du khách cần hết sức thận trọng.
 
-The strata of the mountains was formed when magical forces
-eroded layers of rocks. The sediment settled and formed
-the mountains we know today.
+Các tầng địa chất của dãy núi được hình thành khi những
+nguồn năng lượng ma thuật bào mòn các lớp đá.
+Trầm tích sau đó lắng đọng và tạo nên những ngọn núi
+mà chúng ta biết ngày nay.
 
-Due to the nature of the sediment, the newly formed strata
-is unstable and can collapse with little to no warning.
+Do đặc tính của lớp trầm tích, các tầng địa chất mới hình thành
+không ổn định và có thể sụp đổ mà gần như không có
+bất kỳ dấu hiệu báo trước nào.
 
-Please report collapses to the Guild as soon as you see them.
+Vui lòng báo cáo cho Hội ngay khi phát hiện sạt lở.
 
 
 *___city/guild_news p200_claim
-I would like to thank those who contributed to the defense
-of our fair city of Grazia, with specific thanks to the
-elves on the front lines.
+Tôi xin gửi lời cảm ơn đến tất cả những người đã góp sức
+bảo vệ thành phố Grazia thân yêu của chúng ta, đặc biệt là
+những người Elf đã chiến đấu trên tiền tuyến.
 
-However, this victory only shows that our defenses are not
-impenetrable. The fact that the barrier was destroyed means
-that we need to tighten our security processes and learn
-from this near miss.
+Tuy nhiên, chiến thắng này chỉ cho thấy hệ thống phòng thủ
+của chúng ta không phải bất khả xâm phạm. Việc kết giới bị phá hủy
+chứng tỏ chúng ta cần siết chặt quy trình an ninh và rút kinh nghiệm
+từ sự cố suýt dẫn đến thảm họa này.
 
-We are not looking to blame any singular entity or persons.
-We simply wish for our city's governors to take these three
-points into consideration:
+Chúng tôi không có ý định đổ lỗi cho bất kỳ tổ chức hay cá nhân cụ thể nào.
+Chúng tôi chỉ mong những người đứng đầu thành phố
+xem xét ba vấn đề sau:
 
- - A public explanation behind the events which led to the
-   barrier's destruction.
- - Concrete, measurable ways that the military will improve
-   the way the barrier is maintained.
- - Establish a forum where citizens can voice their concerns
-   and participate in discussions and decisions on the future
-   of the defense of our city.
+ - Công khai lời giải thích về những sự kiện dẫn đến việc
+   kết giới bị phá hủy.
+ - Đưa ra những biện pháp cụ thể, có thể đo lường được để quân đội
+   cải thiện công tác duy trì kết giới.
+ - Thành lập một diễn đàn để người dân có thể bày tỏ mối quan ngại
+   và tham gia thảo luận, quyết định về tương lai của công tác
+   phòng thủ thành phố.
 
-Please sign if you support our cause.
+Xin hãy ký tên nếu bạn ủng hộ mục tiêu của chúng tôi.
 
-- The Concerned Citizens Association of Bermit   
+- Hiệp hội Công dân Quan Tâm Bermit   
 
 *n_200
-<think>This one doesn't have the Guild's official seal stamped on it. I don't think it was posted with permission...
+<think>Tờ này không có dấu niêm phong chính thức của Hội. Mình không nghĩ nó được đăng lên khi chưa có sự cho phép...
 
 *___city/guild_news ad_p104
-【Ad】
+【Quảng cáo】
 
-"Super Magical: How your guardian spirit is the key to your magic abilities"
-Unlock your true potential!!
+"Phép Thuật Siêu Phàm: Linh hồn hộ mệnh là chìa khóa cho năng lực ma thuật của bạn như thế nào"
+Khai phá tiềm năng thực sự của bản thân!!
 
-A book that tells all on how to increase your magical potency!
-A must-have for elves!
+Cuốn sách tiết lộ tất cả bí quyết giúp gia tăng sức mạnh ma thuật!
+Một món đồ không thể thiếu đối với mọi người Elf!
 
-Pick up your copy today!
+Hãy mua ngay hôm nay!
 
-(Written by John Beastman, published by Elven Lit)
+(Tác giả: John Beastman, Nhà xuất bản: Elven Lit)
 
 
 *___city/guild_news ad_p107
-【Ad】
+【Quảng cáo】
 
-Tired of dealing with clogged toilets and leaky pipes?
-Call our beastman plumbing agency!
+Bạn đã chán cảnh bồn cầu tắc nghẽn và đường ống rò rỉ?
+Hãy gọi cho công ty sửa ống nước thú nhân của chúng tôi!
 
-We'll handle any workload, even elven ones!
+Chúng tôi xử lý mọi khối lượng công việc, kể cả của người Elf!
 MS714-HT0829
-Grazia Infrastructure
+Cơ Sở Hạ Tầng Grazia
 
 
 *___city/guild_news ad_p205
-【Ad】
+【Quảng cáo】
 
-Fallen Church Community Book Club
-Book of the month: "Our Father in Heaven"
+Câu lạc bộ Sách Cộng đồng Fallen Church
+Sách của tháng: "Cha Chúng Ta Trên Thiên Đường"
 
-Meetings are held the first of every month
-at the church in the Fallen Mountains.
+Các buổi họp được tổ chức vào ngày đầu tiên mỗi tháng
+tại nhà thờ ở dãy Núi Fallen.
 
-Tea and cookies will be served.
-Newcomers, family, and children are welcome.
+Sẽ có trà và bánh quy được phục vụ.
+Người mới, gia đình và trẻ em đều được chào đón.

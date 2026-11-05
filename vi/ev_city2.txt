@@ -20,51 +20,51 @@
 // NPCイベント 斥候帰りの兵長
 
 *___city/entrance_mob_01 mb_00
-Are you a student at the academy?
+Nhóc là học viên của học viện à?
 *
-Everyone's still on edge from the attack. You should get goin' before you get yelled at.
+Mọi người vẫn còn căng thẳng sau vụ tấn công. nhóc mau đi đi, kẻo lại bị mắng đấy.
 
 *n_01
-Um, excuse me, do you know where they took the elf that got injured?
+À, xin lỗi, anh có biết họ đưa cô Elf bị thương đi đâu không?
 
 *mb_02
-Hmm, can't say that I do. I only just got back.
+Hmm, tôi không rõ nữa. Tôi vừa mới trở về thôi.
 *
-I'd heard about an elf that got rescued, but I don't know anything beyond that.
+Tôi có nghe nói có một Elf được giải cứu, nhưng ngoài chuyện đó ra thì chẳng biết gì cả.
 
 *n_03
-I see...
+Vậy à...
 
 *mb_04
-The guards closer to the center of town might know something. Check with them.
+Mấy người lính ở gần trung tâm thành phố có thể biết đấy. Thử hỏi họ xem.
 
 
- // 2回目
+// 2回目
 
 *mb_05
-The forest is under the jurisdiction of the elf city, but the battle took place closer to here.
+Khu rừng thuộc quyền quản lý của thành phố Elf, nhưng trận chiến lại diễn ra ở gần đây hơn.
 *
-If something is a threat to the barrier, we're supposed to take action.
+Nếu có thứ gì đe dọa đến kết giới, chúng tôi có trách nhiệm phải hành động.
 *
-But if we screw up, it shows up on their records, not ours. They'd tear us a new one for tarnishing their reputation.
+Nhưng nếu làm hỏng việc, lỗi lầm sẽ bị ghi vào hồ sơ của họ chứ không phải chúng tôi. Họ sẽ xử chúng tôi ra trò nếu làm hoen ố danh tiếng của họ đấy.
 *
-We were mostly trying to figure out if we should even make a move.
+Phần lớn thời gian, chúng tôi chỉ cố xác định xem liệu mình có nên nhúng tay vào hay không.
 
 
- // 3回目
+// 3回目
 
 *mb_06
-The elf villagers refer to themselves as "weavers".
+Dân làng Elf tự gọi mình là "Thợ dệt".
 *
-Weavers. What are they weaving anyways? Tales of their own delusional grandeur?
+Những Thợ Dệt. Mà rốt cuộc họ đang dệt cái gì vậy? Những câu chuyện về sự vĩ đại hoang tưởng của chính họ à?
 *
-Oop...forget I said that.
+Ối...nhóc quên những gì tôi vừa nói đi nhé.
 
 
- // 4回目
+// 4回目
 
 *mb_07
-The guards in town might know something about your friend.
+Mấy người lính trong thành phố có thể biết chuyện bạn của cô bé đấy.
 
 
 // ========= ========= ========= ========= =========
@@ -75,47 +75,47 @@ The guards in town might know something about your friend.
 // NPCイベント タバコをせびる兵士
 
 *___city/entrance_mob_00  mb1_0
-Aw, man...
+Ôi trời...
 
 *mb2_1
-What is it?
+Sao thế?
 
 *mb1_2
-I'm outta smokes, can I bum one off ya?
+Tao hết thuốc rồi, cho tao xin một điếu được không?
 
 *mb2_3
-Regular, or mana-infused?
+Loại thường hay loại tẩm mana?
 *
-Y'know, you ask me for freebies a lot, but I don't recall you ever paying me back.
+Mày hay xin đồ miễn phí của tao lắm, nhưng tao chẳng nhớ lần nào mày trả lại cả.
 
 *mb1_4
-Whaaat? That's not true, I pay you back.
+Cáiii gì? Đâu có, tao có trả mà.
 
 *mb2_5
-No you don't. The Heavenly Facility sells 'em, go buy from them.
+Không có đâu. Cơ sở Thiên Giới có bán đấy, đến đó mà mua.
 
 *mb1_6
-<m scary>No way! <m>I hate that place.
-Gives me the creeps.
+<m scary>Không đời nào! <m>Tao ghét cái chỗ đó.
+Nó làm tao thấy ớn lạnh sống lưng lắm.
 
 *mb2_7
-Then you'll have to live without, because I don't have any. Tryin' to quit.
+Vậy thì nhịn đi, tao cũng chẳng còn điếu nào đâu. Tao đang cố cai thuốc đây.
 
 *mb1_8
-<m scary>Whaaaat!?
-<m>C'mon man, I'm dyin' here! My mana's runnin' on empty!
+<m scary>CÁI GÌ CƠ!?
+<m>Thôi mà, tao sắp chết đến nơi rồi! Mana của tao cạn kiệt mất!
 
 *mb2_9
-You've never seen any action so your mana reserves are fine. Quit your whining.
+Mày có bao giờ ra trận đâu mà mana lại cạn được. Bớt than vãn đi.
 
 
-// 二回目以降//
+ // 二回目以降//
 
 *mb1_10
-My hands are shaking. This must be how a warrior feels before a battle with a big monster...
+Tay tao đang run lên đây. Chắc đây là cảm giác của một chiến binh trước khi bước vào trận chiến với quái vật khổng lồ...
 
 *mb2_11
-Yeah, that's definitely what you're going through...
+Ừ, chắc chắn mày đang trải qua cảm giác đó rồi...
 
 
 // ========= ========= ========= ========= =========
@@ -125,41 +125,41 @@ Yeah, that's definitely what you're going through...
 // NPCイベント エルフの新兵たち
 
 *___city/bar_t00 mb1_00
-<angry><m scary>Aaargh!<m>
-<m ple>That lady and her troops took down the big one!
+<angry><m scary>Aaaaa!<m>
+<m ple>Nữ tiểu thư đó cùng đội quân của cô ấy đã hạ gục con quái vật khổng lồ mất rồi!
 *
-<m ple>And here I was thinkin' I'd get to see my first real fight.
+<m ple>Trong khi tao cứ tưởng lần này mình sẽ được chứng kiến trận chiến thực sự đầu tiên chứ!
 
 *mb2_01
-Really? I'd prefer if the monsters never made it in here.
+Thật à? Tao thì chỉ mong quái vật đừng bao giờ lọt được vào trong đây thôi.
 
 *mb1_02
-<m ple>I wanna get my kill count up and be a renowned warrior!
-I hope <i>we get <b>another <m scary>big one <m ple>TOMORROW!
+<m ple>Tao muốn tăng số quái vật bị hạ gục để trở thành một chiến binh lừng danh!
+Tao hy vọng <i>NGÀY MAI SẼ CÓ <m scary>MỘT CON KHỔNG LỒ <m ple>KHÁC!
 
 *mb2_03
-Don't jinx it...
+Đừng có trù ẻo...
 *
-You'd probably be the first one to die, anyway.
+Dù sao thì có lẽ mày cũng sẽ là đứa chết đầu tiên thôi.
 
 *mb1_04
-<m ple>C'mon man, aren't you tired of livin' in the lower-class?
+<m ple>Thôi nào, mày không chán cảnh sống ở tầng lớp thấp kém này à?
 *
-Doesn't it piss you off havin' people look down on us all the time?
+Mày không tức điên lên khi lúc nào cũng bị người khác coi thường sao?
 
 *mb2_05
-I suppose, but...it's better than dying.
+Cũng có chứ, nhưng...sống sót vẫn tốt hơn là chết.
 
 
 //二回目以降
 
 *mb1_06
-Gonna get a big, shiny war medal and quit this job...
+Tao sẽ kiếm được một tấm huân chương chiến công thật to, thật sáng bóng rồi nghỉ việc...
 *
-Take my severance pay and invest in a store, become number one, and then, and then...
+Lấy tiền trợ cấp thôi việc đi đầu tư mở cửa hàng, trở thành số một, rồi sau đó, sau đó...
 
 *mb2_07
-You're startin' to scare me more than the monsters...
+Trí tưởng tượng phong phú của mày bắt đầu khiến tao sợ hơn cả đám quái vật rồi đấy...
 
 
 // ========= ========= ========= ========= =========
@@ -170,29 +170,29 @@ You're startin' to scare me more than the monsters...
 // NPCイベント 獣人のエンジニア
 
 *___city/entrance_mob_03 mb_00
-Could you hand me that tool there?
+Cô bé đưa giúp tôi dụng cụ kia được không?
 
 *n_01
-Sure, here you go.
+Được chứ, của anh đây.
 
 *mb_02
-Oops, didn't realize you were a student. It's hard for me to notice my surroundings when I'm in the zone.
+Ối, tôi không nhận ra nhóc là học viên. Khi đã tập trung làm việc, tôi thường chẳng để ý xung quanh.
 
 *mb_03
-So you just came back from the forest? That must've been a close call. Glad you're safe.
+Vậy cô bé vừa trở về từ khu rừng à? Chắc lúc đó nguy hiểm lắm. Mừng là cô bé vẫn an toàn.
 
 *n_04
-Thank you.
+Cảm ơn anh.
 
 *mb_05
-We've got some bloodthirsty soldiers here, but I'd prefer there not be any battles so close to the city where we'd need them.
+Ở đây có vài tên lính hiếu chiến lắm, nhưng tôi vẫn mong sẽ không có trận chiến nào diễn ra gần thành phố đến mức phải cần đến họ.
 *
-This barrier wouldn't stop a monster as big as the one we just had. Wish I could soup it up.
+Kết giới này không thể ngăn được con quái vật to như con vừa rồi đâu. Ước gì tôi có thể nâng cấp nó.
 
 *mb_06
-Still, we do rely on it to protect everyone.
+Dù vậy, chúng tôi vẫn phải dựa vào nó để bảo vệ mọi người.
 *
-People take it for granted until they really need it, hahaha.
+Người ta thường xem nó là điều hiển nhiên cho đến khi thực sự cần đến nó, hahaha.
 
 
 // ========= ========= ========= ========= =========
@@ -202,33 +202,33 @@ People take it for granted until they really need it, hahaha.
 // NPCイベント 傭兵エルフ
 
 *___city/entrance_mob_04 mb_00
-Move along, cadet.
+Đi chỗ khác đi, cô bé học viên.
 
 *n_01
-Um, I'm looking for the elf girl the army rescued...
+Um, em đang tìm cô Elf được quân đội giải cứu...
 
 *mb_02
-I don't know anything about that.
+Tôi không biết gì về chuyện đó cả.
 
 *n_03
-O-okay...thank you for your time.
+V-vậy sao...cảm ơn anh đã dành thời gian.
 
 *mb_04
-Tell the others I'm leaving to get a drink at the bar. I won't be back.
+Báo với những người khác là tôi ra quán rượu uống chút gì đó. Tôi sẽ không quay lại đâu.
 
 *n_05
-<think>That's not my responsibility...
+<think>Đó đâu phải trách nhiệm của mình...
 
 *mb_06
-If there's no fight, there's no food. So I'll just have to drink to get through.
+Không có trận chiến thì chẳng có cơm ăn. Vậy nên tôi đành uống chút gì đó để vượt qua thôi.
 
 
 //二回目以降
 *mb_07
-Stay out of the way, you little brat.
+Tránh đường ra, nhóc con.
 
 *n_08
-Yes, sir.
+Vâng, thưa anh.
 
 
 // ========= ========= ========= ========= =========
@@ -238,24 +238,24 @@ Yes, sir.
 
 // NPCイベント 知ってる衛兵
 *___city/entrance_mob_05 n_00
-Excuse me, sir? Do you know where they took the elf girl that got rescued?
+Xin lỗi anh? Anh có biết họ đưa cô Elf được giải cứu đi đâu không?
 
 *mb_03
-Oh, are you her friend? We were told to take her to Bermit Academy. We left her in the infirmary.
+Ồ, em là bạn của em ấy à? Tụi anh được lệnh đưa em ấy đến Học Viện Bermit. Tụi anh đã đưa em ấy tới phòng y tế rồi.
 
 *n_04
-O-OH! Thank you so much!
+Ồ-Ồ! Cảm ơn anh rất nhiều!
 
 *mb_05
-She's a fighter, so we're all pretty sure she'll pull through. Send her our best, will you?
+Em ấy là một chiến binh, nên tụi anh tin chắc em ấy sẽ vượt qua được thôi. Gửi lời chúc tốt đẹp nhất của bọn anh đến em ấy nhé?
 
 *n_06
-I SHALL!
+VÂNG, EM NHẤT ĐỊNH SẼ CHUYỂN LỜI!
 
 
 //二回目以降
 *mb_07
-The infirmary at the school was closest, so we took her there.
+Phòng y tế của học viện là nơi gần nhất, nên tụi anh đã đưa em ấy đến đó.
 
 
 // ========= ========= ========= ========= =========
@@ -266,26 +266,26 @@ The infirmary at the school was closest, so we took her there.
 // NPCイベント 噂好きのパン屋さん
 
 *___city/center_mob_00 mb_00
-Another big monster appeared out of nowhere. It scared me half to death.
+Lại có một con quái vật khổng lồ xuất hiện từ đâu không biết. Làm chị sợ chết khiếp.
 *
-That's been happening a lot lately, hasn't it? They even attacked the school two weeks ago.
+Dạo gần đây chuyện này xảy ra thường xuyên nhỉ? Hai tuần trước chúng còn tấn công cả học viện nữa.
 
 *n_01
-<m fadein>Yes, I was there...
+<m fadein>Vâng, lúc đó em cũng có mặt ở đó...
 //ノエルつらい顔
 
 *mb_02
-Oh, you're a student? That must've been a tough time for you.
+Ồ, em là học viên à? Chắc khoảng thời gian đó khó khăn với e, lắm.
 *
-Are you alright? Did the monsters do anything to you?
+Em ổn chứ? Lữ quái vật có làm gì em không?
 
 *n_03
 <m scary>...
 *
-<m fadein>I'm fine.
+<m fadein>Em ổn ạ.
 
 *mb_03
-Sorry for bringing that up. Please, take your time browsing.
+Xin lỗi vì đã nhắc đến chuyện đó. Em cứ thoải mái xem hàng nhé.
 
 // 240331時点でまだ店は未実装。
 
@@ -296,49 +296,49 @@ Sorry for bringing that up. Please, take your time browsing.
 // ========= ========= ========= ========= =========
 
 *___city/m00_slam_grandma mb1_00
-<angry><m scary>Something's out there! In the mountains! I saw it with my own eyes!
+<angry><m scary>Có thứ gì đó ngoài kia! Trên núi! Chính mắt ta đã nhìn thấy!
 
 *mb2_01
-What are you on about, lady? I don't have time for your ghost stories.
+Bà đang lảm nhảm cái gì vậy? Tôi không có thời gian nghe mấy chuyện ma quỷ của bà đâu.
 
 *mb1_02
-I went to the cave to pick mushrooms this morning and, <m scary>(whoof), my illuminator suddenly extinguished!
+Sáng nay ta vào hang hái nấm, rồi <m scary>(phù), đèn chiếu sáng của ta đột nhiên tắt ngúm đi mất!
 
 *mb1_03
-<m fadein>I was so scared. Then, I turned around and-
+<m fadein>Ta sợ đến chết khiếp. Sau đó, ta quay lại và-
 *
--saw bright red glowing eyes staring back at me!
-<m scary>Eeeeee!
+-thấy một đôi mắt đỏ rực đang nhìn chằm chằm vào mình!
+<m scary>Áaaaa!
 
 *mb1_04
-<angry><m ple>It must be a new kind of monster! When my husband was still alive, he-
+<angry><m ple>Chắc chắn đó là một loài quái vật mới! Hồi chồng ta còn sống, ông ấy đã-
 
 *mb2_05
-Shut up, ya old bat. If there really was such a thing, everyone woulda known about it by now.
+Im đi, bà già lẩm cẩm. Nếu thực sự có thứ như vậy thì mọi người đã biết từ lâu rồi.
 
 
 //二回目以降
 *mb1_06
-My husband said he'd never let a monster hurt me. Never ever.
+Chồng ta từng nói sẽ không bao giờ để quái vật làm hại ta. Không bao giờ cả.
 *
-That he'd always be by my side...
+Ông ấy nói sẽ luôn ở bên cạnh ta...
 
 
 // 街入り口 食堂の食いしん坊ガール
 
 *___city/entrance_mob_qisinbo mb_00
-Let's see, today's special is a meat and veggies stir-fry with bean salad.
+Để xem nào, món đặc biệt hôm nay là thịt xào rau củ ăn kèm salad đậu.
 *
-I really like the food here. It's nothing fancy, but the ingredients are fresh and portions are generous.
+Mình rất thích đồ ăn ở đây. Không có gì cầu kỳ, nhưng nguyên liệu thì tươi ngon mà khẩu phần lại nhiều nữa.
 *
-It's also nice to be able to watch the kids play while I eat.
+Vừa ăn vừa ngắm bọn trẻ chơi đùa cũng rất thú vị.
 *
-But, if the monsters keep showing up, I won't be able to eat here anymore...
+Nhưng nếu quái vật cứ tiếp tục xuất hiện, mình sẽ không thể tiếp tục ăn ở đây nữa...
 *
-Worse yet, if they get me...
-If I die, I won't get to eat delicious food ever again.
+Tệ hơn nữa, nếu chúng tóm được mình...
+Nếu mình chết, mình sẽ chẳng bao giờ được ăn món ngon nữa.
 *
-What a scary thought...
+Nghĩ đến thôi cũng thấy đáng sợ rồi...
 
 
 // ========================================================
@@ -346,21 +346,21 @@ What a scary thought...
 // ========================================================
 
 *___city/guild_board_105 board
-The Lord of the Forest is defeated! 
-A silver whirlwind has restored peace!
+Chúa Tể Rừng Sâu đã bị đánh bại!
+Cơn lốc bạc đã mang lại hòa bình!
 
-【Breaking News】
-Today, the legendary Lord of the Forest has been 
-brought down by a mighty warrior! This monster waged war with 
-Grazia for hundreds of years and showed no sign of stopping.
-Over the years, it has destroyed countless villages and dragged 
-unwary adventurers to their doom. But now, the nightmare is 
-finally over. In the throes of death, its roar shook the forest, 
-heralding the end. This feat by our hero in white is proof that 
-we can triumph over even the most violent forces of nature.
+【Tin nóng】
+Hôm nay, Chúa Tể Rừng Sâu huyền thoại đã bị
+một chiến binh dũng mãnh hạ gục! Con quái vật này đã gây chiến
+với Grazia suốt hàng trăm năm mà không hề có dấu hiệu dừng lại.
+Trong suốt những năm qua, nó đã phá hủy vô số ngôi làng
+và đẩy biết bao nhà thám hiểm bất cẩn vào chỗ chết. Nhưng giờ đây,
+cơn ác mộng cuối cùng cũng đã kết thúc. Trong cơn hấp hối,
+tiếng gầm của nó làm rung chuyển cả khu rừng, báo hiệu hồi kết đã đến.
+Chiến công của vị anh hùng áo trắng là minh chứng cho thấy chúng ta có thể chiến thắng ngay cả những thế lực thiên nhiên hung bạo nhất.
 
 *n_00 
-<think>I don't even know where to begin with this...
+<think>Mình thậm chí còn chẳng biết phải bắt đầu từ đâu nữa...
 
 
 // ========================================================
@@ -368,23 +368,23 @@ we can triumph over even the most violent forces of nature.
 // ========================================================
 
 *___city/bl_engineer_mob_00 mb_00
-We're fixing a water main here. It's not safe, so stay back.
+Chúng tôi đang sửa đường ống nước chính ở đây. Không an toàn đâu, lùi lại đi.
 
 *n_01
-Oh, sorry.
+À vâng, xin lỗi ạ.
 
 *mb_02
-One of the valves on the line above us blew out and started gushing water below.
+Một trong những van trên đường ống phía trên bị vỡ, khiến nước phun ào xuống bên dưới.
 *
-The beastman working there got hit and fell all the way down.
+Người thú nhân đang làm việc ở đó bị trúng nước và rơi thẳng xuống dưới.
 *
-At least it was only a beastman. If it had been an elf...
+May mà đó chỉ là một thú nhân. Nếu là Elf thì...
 *
-...not that our deaths are meaningless.
+...không phải mạng sống của chúng tôi là vô nghĩa đâu.
 *
-He ended up losing ten days of wages, and his wife really tore into him.
+Cuối cùng anh ta bị mất mười ngày tiền công, còn vợ thì mắng cho một trận ra trò.
 *
-They say if you play with fire, you'll get burned. But this time, it was water.
+Người ta thường nói đùa với lửa thì có ngày bỏ mạng. Nhưng lần này, thứ gây họa lại là nước.
 
 
 // --------------------------------
@@ -395,58 +395,58 @@ They say if you play with fire, you'll get burned. But this time, it was water.
 //若い獣人bに話しかけると、建物の奥から大声がする。
 
 *___city/center_engineer_mob_00 ma_00
-<angry><m ple>Yo! There's an extra wire plugged into the fuse box!
+<angry><m ple>Này! Có một sợi dây điện thừa đang cắm vào hộp cầu chì!
 
 *mb_01
-<angry><m ple>Who put it there!? And how long ago!?
+<angry><m ple>Hả, ai đã cắm nó vào!? Từ bao giờ vậy!?
 
 *ma_02
-<angry><m ple>Don't worry about that, just shut off the main power before it shorts!
+<angry><m ple>Đừng quan tâm chuyện đó nữa, ngắt nguồn điện chính trước khi nó gây chập mạch ngay!
 
 *mb_03
-<angry><m ple>Alright! Cutting the power!
+<angry><m ple>Được rồi! Ngắt điện đây!
 
 
-//短い暗転、別のモブc出てくる
+ //短い暗転、別のモブc出てくる
 //現場を確認して戻ってきた別のモブ獣人c
 
 *ma_04
-Judging by the amateur wiring, it was probably some punk trying to steal electricity.
+Nhìn cách đi dây nghiệp dư thế này thì chắc là tên nhóc nào đó định ăn cắp điện.
 *
-We can't do our job until we get rid of it.
+Chúng ta không thể làm việc cho đến khi xử lý xong việc này.
 
 *mb_05
-Seriously!? We've got a tight schedule to keep.
+Thật luôn!? Lịch trình của chúng ta đã kín lắm rồi.
 
 *ma_06
-Yeah, and there's no way the higher-ups will approve any schedule changes. We'll have to take care of it on our day off.
-    
+Ừ, mà cấp trên cũng chẳng đời nào duyệt thay đổi lịch trình đâu. Chúng ta sẽ phải xử lý chuyện này vào ngày nghỉ vậy.
+
 *mb_07
-Ugh.
+Chậc.
 
 
 *___city/slam_engineer_mob_00 ma_00
-(Cough) (cough)
+(Khụ) (khụ)
 
 *mb_01
-You okay?
+Cậu ổn chứ?
 
 *ma_02
-My filter's wearin' out faster than I expected. 
+Bộ lọc của tôi xuống cấp nhanh hơn dự tính rồi.
 
 *mb_03
-Yeah, the fog here is thick. It's still gonna be awhile before we get to the station. You good to go?
+Ừ, sương mù ở đây dày thật. Vẫn còn lâu mới đến được trạm. Cậu đi tiếp được không?
 
 *ma_04
-Yeah, I might not make it though...
+Ừ, nhưng có lẽ tôi không trụ nổi mất...
 
 *mb_05
-Same here. If one of us doesn't make it, you okay with the body just being dumped in a ditch?
+Tôi cũng vậy. Nếu một trong hai chúng ta không qua khỏi, cậu có đồng ý để thi thể bị vứt xuống mương không?
 
 *ma_06
-Sure, but can we contact the Heavenly Facilities beforehand?
+Được thôi, nhưng chúng ta có thể liên lạc với Cơ Sở Thiên Giới trước không?
 *
-I can't afford any holes in my shift, so I'll need my next body ready asap.
+Tôi không thể để trống bất kỳ ca làm nào, nên cần cơ thể tiếp theo sẵn sàng càng sớm càng tốt.
 
 
 // ========= ========= ========= ========= =========
@@ -460,59 +460,59 @@ I can't afford any holes in my shift, so I'll need my next body ready asap.
 // グラデ1（写真オタクの少女とその友人。
 
 *___city/106_scl_entrance_t00 ma_00
-Check this out.
+Xem cái này đi.
 
 *mb_01
-What is it?
+Cái gì thế?
 
 *ma_02
-It's a picture of a monster from when they attacked the school.
+Đây là ảnh chụp một con quái vật trong vụ chúng tấn công học viện.
 *
-I took it with my staff and finally got it to print out. Isn't it amazing?
+Tớ dùng cây trượng để chụp, cuối cùng cũng in ra ảnh được rồi. Tuyệt vời chứ?
 
 *mb_03
-Wow! That's a really good shot!
+Wow! Ảnh đẹp đấy!
 
 *ma_04
-Yeah, they're hard to photograph, since they're black and shiny.
+Ừ, chúng khó chụp lắm, vì có màu đen bóng loáng mà.
 
 *mb_05
-We were ordered to evacuate immediately...
-How did you have time to take this?
+Mà chúng ta đã được lệnh sơ tán ngay lập tức...
+Cậu lấy đâu ra thời gian để chụp ảnh vậy?
 
 *ma_06
-You don't know about my legendary luck when it comes to avoiding monsters?
+Cậu không biết đến vận may huyền thoại của tớ mỗi khi tìm cách tránh quái vật à?
 
 *mb_07
-No, can't say that I do...
+Không, chưa bao giờ cậu kể cả...
 
 
 // ---------------
 // グラデ2（校内のアイドル的な双子。廊下でやる突発花占いランキングが人気。
 
 *___city/scl_entrance_t02 ma_00
-<m joy>It's the super happy flower of fortune ranking!
+<m joy>Đây là bảng xếp hạng hoa may mắn siêu vui vẻ!
 
 *mb_01
-<m joy><W2>What's today's big winner!?
+<m joy><W2>Vậy hôm nay là loài hoa nào đứng đầu thế!?
 
 *ma_02
-<m joy>It's the Living Stone, Conophytum Calculus!
+<m joy>Đó là Sen Đá Sống, Conophytum Calculus!
 
 *mb_03
-<m joy><W2>The strong aura of its pretty yellow bloom keeps monsters and misfortune at bay! <m scary>Poof<m joy>.
+<m joy><W2>Khí chất mạnh mẽ tỏa ra từ những bông hoa vàng xinh đẹp của nó sẽ xua đuổi quái vật và vận rủi! <m scary>Phù<m joy>.
 
 *ma_04
-<m joy>Today's lucky item is a white arrow.
+<m joy>Vật phẩm may mắn hôm nay là một mũi Bạch Tiễn.
 
 *mb_05
-<m joy><W2>Today's lucky color is a ceiling stain.
+<m joy><W2>Màu sắc may mắn hôm nay là một vết ố trên trần nhà.
 
 *ma_06
-<m joy>Dangerous monsters and troublesome tasks will be dealt with faster than you can count them!
+<m joy>Quái vật nguy hiểm và những công việc phiền phức sẽ được xử lý nhanh hơn cả lúc cậu kịp đếm!
 
 *mb_07
-<m joy><W2>Have a wonderful day at school!
+<m joy><W2>Chúc các cậu có một ngày học tập tuyệt vời!
 
 *n_08
 <m joy><m fadein>...???
@@ -522,11 +522,11 @@ No, can't say that I do...
 // グラデ3 アルマとの授業後
 
 *___city/106_scl_hall_mob_t00 mb_00
-My mom told me I need to stop walking to school by myself.
+Mẹ bảo tớ phải ngừng tự đi bộ đến trường một mình.
 *
-I told her not to worry about me because I'm trained to fight, but...
+Tớ đã nói mẹ đừng lo, vì tớ được huấn luyện chiến đấu rồi, nhưng...
 *
-...maybe I should ask someone.
+...có lẽ tớ nên đi cùng ai đó thật.
 
 
 // --------------
@@ -534,12 +534,12 @@ I told her not to worry about me because I'm trained to fight, but...
 // グラデ4（心配性の男子生徒。
 
 *___city/105_scl_entrance_t03 mb_00
-<m fadein>Phew...made it to school today.
+<m fadein>Phù... hôm nay cũng đến trường an toàn rồi.
 *
-There's been so many incidents lately. I wonder if I'll be involved in one...
+Dạo gần đây xảy ra quá nhiều chuyện. Không biết liệu mình có vướng vào vụ nào không nữa...
 *
-<m scary>Eep...
-<m fadein>Maybe I should see if homeschooling is an option...
+<m scary>Híc...
+<m fadein>Có lẽ mình nên xem thử liệu có thể học tại nhà không...
 
 
 // -------------- グラデ5 意識高いギャル
@@ -547,26 +547,26 @@ There's been so many incidents lately. I wonder if I'll be involved in one...
 // ---------------
 
 *___city/105_scl_hall_mob_t01 ma_00
-Wanna go somewhere after school today?
+Hôm nay sau giờ học cậu muốn đi đâu đó không?
 
 *mb_01
-Sorry, I can't.
+Xin lỗi, hôm nay tớ không đi được.
 
 *ma_02
-That's okay. You busy?
+Không sao đâu. Mà cậu bận à?
 
 *mb_03
-Yeah, with all the monster sightings and the military being deployed now...
+Ừ, với tình hình quái vật liên tục xuất hiện và quân đội được triển khai như hiện nay...
 *
-I decided to sign up at the guild for patrol duty in the forest and mountains.
+Tớ đã quyết định đăng ký với hội mạo hiểm để tham gia tuần tra trong rừng và vùng núi.
 
 *ma_04
-Ohh, that's awesome! Want me to sign up too?
+Ồ, tuyệt quá! Cậu muốn tớ đăng ký cùng không?
 *
-I can help watch your back!
+Tớ có thể hỗ trợ trông chừng phía sau cho cậu!
 
 *mb_05
-Really? Thank you! I'll feel much better having a friend there with me!
+Thật sao? Cảm ơn cậu! Có bạn đồng hành thì còn gì tuyệt hơn cơ chứ!
 
 // ---------------
 
@@ -580,20 +580,20 @@ Really? Thank you! I'll feel much better having a friend there with me!
 // 1-A
 
 *___city/_omorashi n_00
-<m scary>I'm at my limit...
+<m scary>Mình hết chịu nổi rồi...
 *
-<m scary>i-it's happening...!
+<m scary>C-chuyện đó sắp xảy ra mất...!
 
 // => 1-B
 
 
 // 1-B 平常時 一枚絵表示
 *n_100
-<m fadein>Ah, no, stop...
+<m fadein>Á, không, dừng lại...
 
 *n_101
 <m fadein>Hah...ah...aaa...
-<m scary>Stop...stooop...
+<m scary>Dừng lại...đừừừng...
 
 // => 3-A
 
@@ -601,10 +601,10 @@ Really? Thank you! I'll feel much better having a friend there with me!
 // アクチール酩酊時水がぶのみスタート
 
 *n_10
-<m fadein>Uuu...I feel awful...
+<m fadein>Ưư... mình thấy khó chịu quá...
 
 *n_11
-<m fadein>Where's the restroom?
+<m fadein>Nhà vệ sinh ở đâu nhỉ?
 ...!
 
 // => 2-B
@@ -618,21 +618,21 @@ Really? Thank you! I'll feel much better having a friend there with me!
 <m fadein>Haa...
 
 *n_111
-<m fadein>Mm...so much already came out...
+<m fadein>Ư... đã trào ra nhiều quá rồi...
 *
-<m fadein>I can't...
+<m fadein>Mình không thể...
 *
-<m fadein>I can't hold it in...
+<m fadein>Mình không thể nhịn được nữa...
 
 
-// 冷静になる
+ // 冷静になる
 *n_112
-<m fadein>Ah...ew...
-I...I just peed myself...
+<m fadein>A...ew...
+M-mình vừa tè dầm à...
 
 *n_113
-<m scary>No, this isn't what it...
-<m fadein>Please...don't look...
+<m scary>Không, chuyện này không phải...
+<m fadein>Làm ơn... đừng nhìn...
 
 
 // => 3-A
@@ -642,196 +642,196 @@ I...I just peed myself...
 // 特に何もない場所
 
 *n_1000
-<m fadein>Uuu...I can't believe I peed myself here of all places...
+<m fadein>Ưư... không thể tin được là mình lại tè dầm ở đúng nơi này...
 
 *n_1001
-<m fadein>I need to hurry and find a place to wash my clothes.
+<m fadein>Mình phải mau tìm chỗ giặt quần áo thôi.
 
 
 // 中流層地区
 
 *mb2_151
-Whoa, did that girl just...
+Whoa, cô gái đó vừa...
 
 *mb3_152
-I feel kinda bad staring at her...
+Tôi thấy hơi áy náy khi cứ nhìn chằm chằm vào cô ấy...
 
 *mb1_150
-Ah! Are you alright? Don't worry, I'll get you a towel.
+Cô bé vẫn ổn chứ? Đừng lo, tôi sẽ đi lấy khăn cho cô.
 
 *n_153
-<m fadein>Uuu...
+<m fadein>Ưư...
 *
-<m fadein>Please...look away...
+<m fadein>Làm ơn... đừng nhìn...
 
 
 //～～暗転
 *n_1150
-<m fadein>Uuu...peeing myself in front of everyone like that...
+<m fadein>Ưư... mình lại tè dầm trước mặt mọi người như thế...
 
 *n_1151
-<m fadein>I'm so ashamed...
-Father, sister, teacher, brother...please forgive me...
+<m fadein>Mình xấu hổ quá...
+Cha, chị hai, cô giáo, anh trai... xin hãy tha thứ cho con...
 
 
 // 学園内
 *mb1_200
-I-is that girl peeing!?
+C-Cậu ấy đó đang tè sao!?
 
 *mb2_201
-Oh my...
+Ôi trời...
 
 *mb3_202
-Look away you guys!
+Các cậu quay đi chỗ khác đi!
 
 
 // 知らない先生
 
 *mb4_203
-Quite the ruckus you've caused.
+Em vừa gây ra một phen náo loạn đấy.
 *
-I'll get some towels from the janitor's closet. Go wash your clothes right away.
+Thầy sẽ lấy khăn từ phòng dụng cụ vệ sinh. Mau đi giặt quần áo đi.
 
 *n_204
-<m fadein>Uuu...I'm sorry,
-teacher...
+<m fadein>Ưư... em xin lỗi,
+thưa thầy...
 
 
 //～～暗転
 
 *n_1200
-<m fadein>I can't believe I peed myself at school...
-and in front of my classmates too...
+<m fadein>Không thể tin được mình lại tè dầm ngay trong học viện...
+mà còn trước mặt các bạn cùng lớp nữa...
 
 *n_1201
-<m fadein>...what's wrong with me...?
+<m fadein>...Mình bị làm sao vậy...?
 
 
 // 医務室
 
 *p_250
-<m ple>Oh my gosh! Are you alright, Noel?
+<m ple>Ôi trời! Em ổn chứ, Noel?
 
 *n_251
-<m scary>S-sorry...
-<m fadein>Aah, ah...
+<m scary>E-em xin lỗi...
+<m fadein>Á, á...
 
 *p_252
-Calm down, it's okay. I'll go get you a change of clothes.
+Bình tĩnh nào, không sao đâu. Cô sẽ đi lấy quần áo thay cho em.
 
 //～～
 
 *n_1250
-<m fadein>...I'm really sorry you had to see that.
+<m fadein>...Em thực sự xin lỗi vì khiến cô phải chứng kiến cảnh đó.
 
 *p_1251
-You gave me a bit of a scare there. Don't worry, I'll keep this to myself.
+Em làm cô hết hồn đấy. Đừng lo, cô sẽ giữ kín chuyện này.
 
 *p_1252
-We all make mistakes in life. Now go wash up.
+Ai trong đời cũng có lúc mắc sai lầm mà. Giờ thì đi tắm qua chút đi.
 
 *n_1253
-<m fadein>Okay.
+Dạ vâng ạ.
 
 
 // イクシャがいる
 
 *i_1254
-What was that all about? I thought something was seriously wrong for a second...
+Chuyện gì vừa xảy ra vậy? Tớ cứ tưởng đã có chuyện gì nghiêm trọng chứ...
 
 *n_1255
-Sorry, Ixia.
+Xin lỗi nhé, Ixia.
 
 *i_1256
-Hmph. Well, you saw me in an embarrassing position back in the forest.
+Hừm. Dù sao thì trước đó ở trong rừng, cậu cũng đã nhìn thấy tớ trong tình cảnh xấu hổ rồi còn gì.
 
 *i_1257
-So I guess now we're even, Noel Cornehl!
+Vậy coi như chúng ta huề nhau nhé, Noel Cornehl!
 
 
 // 道場
 // 門下生
 
 *mb1_300
-Whoa, are you alright!?
+Whoa, cậu ổn chứ!?
 
 
 // 師範
 
 *dj_301 
-Hey! What are you doing to our sacred training grounds!?
+Này! Nhóc đang làm gì trên võ đường thiêng liêng của chúng tôi vậy!?
 
 *n_1300
-I'm really sorry for making a mess in your dojo...
+Em thực sự xin lỗi vì đã làm bẩn võ đường của mọi người...
 
 
 // 師範
 
 *dj_1301 
-You're sloppy in all ways.
+Cô bé thật cẩu thả trong mọi việc.
 *
-We need to strengthen your core and work on your endurance.
+Chúng ta cần tăng cường sức mạnh vùng cơ trung tâm và cải thiện sức bền của cô.
 
 
 // 下層地区
 
 *mb1_350
-Mama, lookit that girl!
+Mẹ ơi, nhìn chị gái kia kìa!
 
 *mb2_351
-Whoa, what the heck!?
+Whoa, cái quái gì vậy!?
 
 *mb3_352
-She's pretty cute...
+Chị ấy cũng khá dễ thương đấy...
 
 *mb4_353
-Seriously?! Geez...
+Thật luôn sao?! Trời ạ...
 
 *mb5_354
-I didn't know adults peed themselves too...
+Con không biết người lớn cũng tè dầm nữa đấy...
 
 
 // 話しかけてくれた子供
 
 *mb6_355
-Are you okay, Miss?
+Chị ổn chứ ạ. chị gái?
 
 *n_356
-<m fadein>Yeah, sorry about that...
+<m fadein>Ừ, xin lỗi vì chuyện này nhé...
 
 
 // バー ====
 
 *mb1_400
-What is she doing...
+Cô ấy đang làm gì vậy...
 
 *mb2_401
-Hey, hey, over there...
+Này, này, nhìn bên kia kìa...
 
 *mb3_402
-Wow, I got to see something good today.
+Wow, hôm nay mình được chứng kiến một cảnh tượng hay ho rồi.
 
 // bt:バーテンダー
 *bt_403
-Are you alright, Miss? Here, take this towel and go to the back.
+Cô ổn chứ? Đây, cầm lấy khăn này rồi vào phía sau nhé.
 *
-Beastman guests, please stay back. There's a lot of mana in this liquid.
+Các vị khách thú nhân, xin hãy lùi lại. Chất lỏng này chứa rất nhiều mana.
 
 // 暗転 
-// 店主が汚れを吸う。 ずぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞ
+// 店主が汚れを吸う。 ずぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞぞ
 
 
 // @バックヤード
 // 
 *bt_406
-Excuse me for being blunt, but...
-Was it really that hard to find our restroom?
+Xin thứ lỗi nếu tôi có nói thẳng, nhưng...
+Cô thực sự không tìm được nhà vệ sinh của chúng tôi sao?
 
 *n_407
-<m fadein>Uuu...I'm really, really sorry...
+<m fadein>Ưư... tôi thực sự, thực sự xin lỗi...
 
 *bt_408
-Well, can't change what's been done now.
+Thôi, chuyện đã rồi thì cũng chẳng thay đổi được nữa.
 
 // → ev_city_bar の ___city_bar/_barten_t_omorashi に飛ぶ
 
@@ -841,89 +841,89 @@ Well, can't change what's been done now.
 // ========================================================
 
 *___House/_restroom_oshigama n_00
-<m fadein>A little bit already came out...
-<m scary>I gotta hurry!
+<m fadein>Đã trào ra một chút rồi...
+<m scary>Phải mau lên thôi!
 
 // 乱数で使用中イベント発生
 
 *n_01
-S-<m scary>someone else is using it!
+C-có người đang sử dụng!
 
 *n_02
-<m fadein>Okay, breathe...hold it...just a little longer...
+<m fadein>Được rồi, bình tĩnh... nhịn lại... chỉ thêm một chút nữa thôi...
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_03
-<think><m fadein>Come on...
+<think><m fadein>Mau lên...
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_04
-<m scary>Excuse me, but...are you almost done!?
+<m scary>Xin lỗi, nhưng... anh/chị sắp xong chưa!?
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_05
-I can't hold it anymore...!
+Mình không nhịn nổi nữa rồi...!
 
 //
 
 *n_06
-<m scary>Hee! Hoo! Uuu...
+<m scary>Hí! Hù! Ưư...
 
 
-// トイレに入れた
+ // トイレに入れた
 
 *n_100
-<m fadein>They're finally done!
-<m ple>E-excuse me!
+<m fadein>Cuối cùng cũng xong rồi!
+<m ple>X-xin phép ạ!
 
 
 // 入室
 
 *n_101
-<m scary>Hurry, hurry!
+<m scary>Mau lên, mau lên!
 
 
 // 出す
 
 *n_102
-Phew...
-Made it...
+Phù...
+May quá...
 
 *n_103
-<think>That was embarrassing having all those people see me waiting out there. But it was better than peeing myself...
+<think>Thật xấu hổ khi để mọi người nhìn thấy mình đứng chờ bên ngoài như thế. Nhưng dù sao vẫn tốt hơn là tè dầm...
 *
-<think>Uuu...what if one of them is still out there? Maybe I'll wait in here a little longer...
+<think>Ưư...lỡ một trong số họ vẫn còn ở ngoài đó thì sao? Có lẽ mình nên đợi trong này thêm một lúc nữa...
 
 
-// トイレの前に漏らしちゃった
+ // トイレの前に漏らしちゃった
 
 *n_
-<s2><m scary>It's...coming out...!
+<s2><m scary>Nó...sắp trào ra rồi...!
 
 *mb_
-Sorry I took so long...a-<m scary>AH<m>!
+Xin lỗi vì đã để cô chờ lâu...á-<m scary>Á<m>!
 
 *n_
-<m fadein>Please excuse me...!
+<m fadein>Xin thứ lỗi...!
 
 *mb_
-I'll get something for you to clean up with! Go inside!
+Tôi sẽ đi lấy thứ gì đó để cô lau dọn! Mau vào trong đi!
 
 
-// 暗転～～
-
-*n_
-I almost made it...
-And that stranger even saw me...
+ // 暗転～～
 
 *n_
-(sniffle) Uuu...
+Mình suýt nữa đã chịu được...
+Mà họ còn nhìn thấy mình như này nữa...
+
+*n_
+(Thút thít) Ưư...
 
 
 // ========================================================
@@ -931,72 +931,72 @@ And that stranger even saw me...
 // ========================================================
 
 *___House/_restroom_oshigama n_00
-<m fadein>A little bit already came out...
-I gotta hurry!
+<m fadein>Đã rỉ ra một chút rồi...
+Mình phải mau lên thôi!
 
 
 // 乱数で使用中イベント発生
 
 *n_01
-<m fadein>S-someone else is using it!
+<m fadein>C-có người đang sử dụng rồi!
 
 *n_10
-<m fadein>Okay, breathe...hold it...just a little <m scary>longer...!
+<m fadein>Được rồi, bình tĩnh... nhịn lại... thêm một chút <m scary>nữa thôi...!
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_11
-<think>Come on...
+<think>Mau lên...
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_12
-<think>Uuu...I look pretty shameful with my hand like this...
+<think>Ưư...tư thế giữ tay thế này trông thật đáng xấu hổ...
 *
-<think>But if I move it, it'll all come out...
+<think>Nhưng nếu mình bỏ tay ra thì mọi thứ sẽ trào hết mất...
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_13
-<think>Hee...hoo...
-hee...hoo...
+<think>Hí...hù...
+Hí...hù...
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_20
-<m ple>Excuse me, but...
+<m ple>Xin lỗi, nhưng...
 *
-are you almost done!?
+anh/chị sắp xong chưa!?
 
 
-// なかなか出てこない
+ // なかなか出てこない
 
 *n_21
-<m scary>I can't hold it anymore...!
+<m scary>Mình không nhịn nổi nữa rồi...!
 
 *n_22
-<m ple>Hee! Hoo!
-<m scary>Uuu...
+<m ple>Hí! Hù!
+<m scary>Ưư...
 
 *n_23
-<m scary>...please...
+<m scary>...làm ơn...
 
 
-// トイレに入れた
+ // トイレに入れた
 
 *n_30
-<m fadein>They're finally done!
-<m ple>E-excuse me!
+<m fadein>Cuối cùng cũng xong rồi!
+<m ple>X-xin phép ạ!
 
 
 // 入室
 
 *___House/_restroom_oshigama_in_success nb_01
-<m scary>Hurry, hurry!
+<m scary>Mau lên, mau lên!
 
 
 // 出す
@@ -1004,18 +1004,18 @@ are you almost done!?
 *nb_02
 <m scary>Ha...haa...
 *
-<m fadein>Phew...made it...
+<m fadein>Phù... may quá...
 
 *nb_03
-<think>That was embarrassing having all those people see me waiting out there.
+<think>Thật xấu hổ khi để mọi người nhìn thấy mình đứng chờ bên ngoài.
 *
-But it was better than peeing myself...
+Nhưng dù sao vẫn tốt hơn là tè dầm...
 
 *nb_04
-<think>Uuu...what if one of them is still out there? Maybe I'll wait in here a little longer...
+<think>Ưư...lỡ một trong số họ vẫn còn ở ngoài đó thì sao? Có lẽ mình nên đợi trong này thêm một lúc nữa...
 
 
-// トイレの前に漏らしちゃった
+ // トイレの前に漏らしちゃった
 //MSG	n_400 
 
 //MSG	mb_401 
@@ -1024,28 +1024,28 @@ But it was better than peeing myself...
 // トイレの前に漏らしちゃった
 
 *___city/_omorashi n_400
-<m scary>It's...coming out...!
-<m fadein>ah...
+<m scary>Nó...sắp trào ra rồi...!
+<m fadein>Ah...
 
 *mb_401
-Sorry I took so long...a-<m scary>AH<m>!
+Xin lỗi vì đã để cô chờ lâu...á-<m scary>Á<m>!
 
 *n_402
-<m fadein>Please excuse me...!
+<m fadein>Xin thứ lỗi...!
 
 *mb_403
-I'll get something for you to clean up with! Go inside!
+Tôi sẽ đi lấy thứ gì đó để cô lau dọn! Mau vào trong đi!
 
 
 // 暗転～～
 
 *___House/_restroom_oshigama_in_failure nb_00
-I almost made it...
+Mình suýt nữa đã chịu được...
 *
-And that stranger even saw me...
+Mà họ còn nhìn thấy mình như này nữa...
 
 *nb_01
-(sniffle) Uuu...
+(Thút thít) Ưư...
 
 
 // ======================== 
@@ -1053,18 +1053,18 @@ And that stranger even saw me...
 // ========================
 
 *___city/entrance_mob_06 mb_00
-I got summoned down here from the mountains to help with the state of emergency.
+Tôi được triệu tập từ vùng núi xuống đây để hỗ trợ trong tình trạng khẩn cấp.
 *
-Grazia is big, so it's a bit of a pain hauling my equipment everywhere.
+Grazia rộng lớn nên việc mang theo thiết bị đi khắp nơi khá phiền phức.
 *
-Ah! But then I remembered I can <c5>fast-travel anywhere with<key PR_BURST/>while I'm in Grazia<c0>.
+À! Nhưng rồi tôi nhớ ra rằng mình có thể <c5>di chuyển nhanh đến bất cứ đâu bằng<key PR_BURST/>khi ở trong Grazia<c0>.
 *
-As long as I remember that, traveling around Grazia is a breeze!
+Chỉ cần nhớ điều đó thì việc đi lại khắp Grazia sẽ dễ như trở bàn tay!
 
 *mb_01
-Of course, you can only travel to places you've already visited once before with<key PR_BURST/>.
+Tất nhiên, cô chỉ có thể di chuyển đến những nơi mình đã từng ghé qua bằng<key PR_BURST/>.
 *
-So if you aren't familiar with the city's layout, you might want to look around a bit first.
+Vậy nên nếu chưa quen thuộc với bố cục thành phố, cô nên đi khám phá một chút trước.
 
 
 // ======================== 
@@ -1073,68 +1073,68 @@ So if you aren't familiar with the city's layout, you might want to look around 
 //Can I Offer You a Nice Egg In This Trying Time?
 
 *___city/slam_egg_seller mb_00
-Hello, Miss...
-Care for a nice egg?
+Xin chào co gái...
+Cô có muốn mua một quả trứng ngon không?
 *
-I gathered up all the best ones I could find.
+Tôi đã thu thập tất cả những quả tốt nhất mà mình tìm được.
 *
-Oh, no, they're not mine.
-They came from animals
-up in the mountains.
-...mostly.
+À, không phải trứng của tôi đâu.
+Chúng đến từ những con vật
+trên núi.
+...phần lớn là vậy.
 
 
-// 買わなかった
+ // 買わなかった
 
 *mb_01
 Ehehe...
-Come back soon!
+Lần sau lại ghé nhé!
 
 
-// 買った
+ // 買った
 
 *mb_02
 Ehehe...
-Thank you very much!
+Cảm ơn cô rất nhiều!
 
 
-// 全て買った
+ // 全て買った
 
 *mb_03
-Ah! All sold out!
-Diaz is gonna eat well tonight.
+A! Bán hết rồi!
+Tối nay Diaz sẽ được ăn no nê đây.
 *
-Hehe...Ehehe...
-Hope to see you again real soon!
+Hehe... Ehehe...
+Mong sớm được gặp lại cô!
 
 
-// 完売後、再度話す
+ // 完売後、再度話す
 
 *mb_04
 Ehehe...
-Thank you so much, Miss!
+Cảm ơn cô rất nhiều!
 *
-I'll do my best to produce even more eggs for next time.
-I mean, gather even more eggs...
+Lần tới tôi sẽ cố gắng tạo ra nhiều trứng hơn nữa.
+Ý tôi là, thu thập thêm nhiều trứng hơn nữa...
 
 
-// 妹に話す
+ // 妹に話す
 
 *___city/slam_egg_seller_sister mb_00
-I admire how hard my sister always works.
+Em rất ngưỡng mộ chị gái vì lúc nào chị ấy cũng chăm chỉ làm việc.
 *
-I wanna help collect eggs too! But, she never takes me with her...
+Em cũng muốn giúp thu thập trứng! Nhưng chị ấy chẳng bao giờ cho em đi cùng...
 *
-The roads are full of monsters and other dangers, so I understand.
+Đường đi đầy quái vật và những mối nguy hiểm khác, nên em hiểu mà.
 *
-I've even heard rumors of ghosts appearing.
+Em thậm chí còn nghe đồn có ma xuất hiện nữa.
 
 *mb_01
-Sister says the best way to get good eggs and juice is by spreading "<i>that stuff</i>" outside to raise the danger level and luring in monsters.
+Chị gái nói cách tốt nhất để kiếm được trứng ngon và dịch thể là rải "<i>thứ đó</i>" bên ngoài để tăng cấp độ nguy hiểm rồi dụ quái vật đến.
 *
-I understand what the danger level is on the mana-meter...but what's "<i>that stuff</i>"?
+Em hiểu cấp độ nguy hiểm hiển thị trên máy đo mana là gì...nhưng "<i>thứ đó</i>" là gì vậy?
 *
-She also told me I'm too young to know about Diaz...
+Chị ấy còn bảo em vẫn quá nhỏ để biết về Diaz...
 
 
 // ==============
@@ -1142,14 +1142,14 @@ She also told me I'm too young to know about Diaz...
 // ==============
 
 *___city/market_left_army_mob_00 mb_00
-Do you know about the "Orbital Shield" skill?
+Cô có biết kỹ năng "Khiên Quỹ Đạo" không?
 *
-I heard there was some kind of <c5>update<c0> that made it much stronger.
+Tôi nghe nói có một <c5>bản cập nhật<c0> khiến nó mạnh hơn rất nhiều.
 *
-You can use magic alongside it, making it super versitile.
+Cô có thể sử dụng ma thuật cùng lúc với kỹ năng này, khiến nó trở nên cực kỳ linh hoạt.
 *
-But it's pretty tricky...
-I used it at the wrong time once and gave the monsters the only opportunity they needed...
+Nhưng cũng khá khó dùng...
+Có lần tôi đã sử dụng sai thời điểm và trao cho lũ quái vật cơ hội duy nhất mà chúng cần...
 
 
 // ==============
@@ -1157,11 +1157,11 @@ I used it at the wrong time once and gave the monsters the only opportunity they
 // ==============
 
 *___city/center_elf_mob_01 mb_00
-If you want to take on a horde of monsters, you should eat some meat.
+Nếu muốn đối đầu với một bầy quái vật, cô nên ăn một chút thịt.
 *
-Meat and fish will increase your offensive power, both magical and physical.
+Thịt và cá sẽ tăng sức mạnh tấn công của cô, cả về ma thuật lẫn thể chất.
 *
-And your shotgun ability benefits from both of those increases!
+Và phép Shotgun của cô cũng được hưởng lợi từ cả hai mức tăng đó!
 
 
 // ==============
@@ -1169,9 +1169,9 @@ And your shotgun ability benefits from both of those increases!
 // ==============
 
 *___city_guild/front_v025 mb_00
-Thank you for visiting, but we're not open yet.
+Cảm ơn cô đã ghé thăm, nhưng hiện tại chúng tôi vẫn chưa mở cửa.
 *
-We'll see you <m joy><c5>next update<m0><c0>!
+Hẹn gặp lại cô vào <m joy><c5>bản cập nhật tiếp theo<m0><c0> nhé!
 
 
 // ==============
@@ -1180,24 +1180,24 @@ We'll see you <m joy><c5>next update<m0><c0>!
 // 公園にいる少女
 
 *___city/park_mob_00 mb_00
-Can I share something with you? Only...you have to promise not to tell anyone, especially my mom!
+Em có thể kể cho cậu nghe một chuyện không? Nhưng...chị phải hứa là không được kể với ai, đặc biệt là mẹ em đấy nhé!
 *
-I was exploring outside of town when I...had to go potty...
+Em đang khám phá bên ngoài thành phố thì...đột nhiên mắc tiểu...
 *
-There weren't any bathrooms nearby so I went in the grass...
+Gần đó lại chẳng có nhà vệ sinh nào nên em đã đi vào bãi cỏ...
 *
-And suddenly my mana-meter started going off!
+Và đột nhiên máy đo mana của em bắt đầu báo động!
 *
-It scared me and I accidentally got some on my underpants...
+Em sợ quá nên vô tình làm dính một ít vào quần lót...
 
 *mb_01
-My mom told me not to go potty outside because it attracts monsters.
+Mẹ đã dặn em không được đi vệ sinh bên ngoài vì như thế sẽ thu hút quái vật.
 *
-What if...there were monsters here in Grazia disguised as beastmen?
+Lỡ như... có quái vật ở Grazia giả dạng thành thú nhân thì sao?
 *
-If we went in front of them, would they be able to resist showing themselves?
+Nếu chúng ta đi vệ sinh ngay trước mặt chúng, liệu chúng có nhịn được mà không lộ diện không?
 *
-Ahh, what am I saying? I just really don't want to go home...
+Aah, em đang lảm nhảm gì vậy chứ? Chỉ là em thực sự không muốn về nhà thôi...
 
 
 // ==============
@@ -1205,45 +1205,45 @@ Ahh, what am I saying? I just really don't want to go home...
 // ==============
 
 *___city/market_BL_mob01 mb_00
-Hey, wanna see a cool photo?
+Này, chị có muốn xem một bức ảnh thú vị không?
 
 *n_01
-Where was this taken?
+Bức ảnh này được chụp ở đâu thế?
 
 *mb_02
-I'm not sure...I just found it on the ground up in the mountains.
+Em không chắc...em chỉ tìm thấy nó trên mặt đất ở vùng núi thôi.
 *
-The colors are prettier than ones taken with a staff...
+Màu sắc của nó đẹp hơn những bức ảnh chụp bằng cây trượng...
 
 *n_03
-You're right...it almost feels like it's more than just a picture...
+Em nói đúng...cảm giác như nó không chỉ đơn thuần là một bức ảnh vậy...
 
 *mb_04
-I wanna see if I can find it, but my mom said the forest is too dangerous right now.
+Em muốn thử tìm xem, nhưng mẹ bảo khu rừng hiện giờ quá nguy hiểm.
 *
-I know! Why don't I give it to you?
+À, em biết rồi! Hay là em tặng nó cho chị nhé?
 
 // 2度目話す
 
 *mb_10_1
-My tutor told me about a shrine near the drawbridge that looked like this.
+Gia sư từng kể với em về một ngôi đền gần cầu kéo có hình dáng giống thế này.
 *
-Do you think that might be it?
+Chị nghĩ đó có thể là nơi này không?
 
 
-*__treasurehunt/000_1 n_00
-A tiny chest? What's inside?
-
-*n_01
-Some money and...another picture?
-
-*n_02
-Why do I feel like someone is making me play "fetch"...?
-
-*__treasurehunt/000_5 n_00
-This picture isn't from the forest.
+ *__treasurehunt/000_1 n_00
+Một chiếc rương nhỏ à? Bên trong có gì nhỉ?
 
 *n_01
-But then, where...?
+Một ít tiền và... một bức ảnh khác?
+
 *n_02
-Maybe it's <c5>someplace I can't get to yet</c5>...
+Sao mình lại có cảm giác như ai đó đang bắt mình chơi trò "nhặt đồ về" vậy...?
+
+ *__treasurehunt/000_5 n_00
+Bức ảnh này không phải được chụp trong rừng.
+
+*n_01
+Nhưng vậy thì, nó ở đâu...?
+*n_02
+Có lẽ là <c5>một nơi mà mình vẫn chưa thể đến được<c5>...

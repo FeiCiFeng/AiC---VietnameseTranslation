@@ -16,71 +16,71 @@
 
 
 *___Laevi/v_talk_homeroad v_00
-Other than the monster encounter, how was your walk back home yesterday? See anything interesting?
+Ngoài vụ chạm trán với quái vật ra thì... trên đường về nhà hôm qua của em thế nào? Có thấy gì thú vị không?
 
 *n_01
-Part of the bridge by the front gate is starting to sink into the thorns. I don't think it's dangerous yet though...
+Một phần cây cầu gần cổng trước đang bắt đầu bị dây gai nuốt chửng. Nhưng em nghĩ hiện tại vẫn chưa nguy hiểm lắm đâu...
 
 *v_02
-Y'know, I planted those thorns because I thought they'd create a fitting vibe for a witch's shop.
+Em biết đấy, chị trồng đám cây dây gai đó vì nghĩ chúng sẽ tạo nên bầu không khí phù hợp cho một cửa tiệm phù thủy.
 *
-Now that they've grown wild and thick, I can see that wasn't the best idea. 
+Giờ chúng đã mọc um tùm thế này, chị mới nhận ra đó chẳng phải ý tưởng hay ho gì.
 *
-I wonder if we could use magic to get them under control~
+Không biết chúng ta có thể dùng phép thuật để kiểm soát chúng không nhỉ~
 
 *n_03
-Magenta thorns have something in them that disperses mana. The few basic spells we know probably wouldn't work at all.
+Gai màu đỏ tươi có chứa một thứ làm phân tán mana. Những phép thuật cơ bản ít ỏi mà chúng ta biết có lẽ chẳng có tác dụng gì đâu chị.
 
 *v_04
-Yeah, I suppose not.
-Wait, a minute...
+Ừ nhỉ, chị cũng nghĩ vậy.
+Khoan đã...
 *v_05
-...does that mean there's an extra layer of pain when I use my thorn whip on my customers~!?
+...Vậy có nghĩa là mỗi lần chị dùng roi gai quất khách hàng, họ sẽ phải chịu thêm một tầng đau đớn nữa sao~!?
 
 *n_05
-It doesn't affect the mana in our blood, from what I learned.
-...do you actually do things like that?
+Theo những gì em được học thì nó không ảnh hưởng đến mana trong máu chúng ta.
+...Nhưng mà...Chị thực sự làm những chuyện như vậy à?
 
 *v_06
-Oh, are you interested? Would you rather give the whippings or receive them~?
+Ồ, em có hứng thú sao? Muốn là người quất roi hay là người bị quất đây~?
 
 *n_07
-Neither!!
+Không cái nào hết!!
 
 
 
 
 *___Laevi/v_talk_forestroad v_00
-I'd like to make the path between our shop and the elf village a little safer to traverse.
+Chị muốn làm cho con đường nối giữa cửa tiệm và Làng Elf trở nên an toàn hơn một chút.
 
 *n_01
-Don't you already spray it with herbicides to keep mana plants from growing?
+Chẳng phải chị đã phun thuốc diệt cỏ để ngăn Cây Mana mọc lên rồi sao?
 
 // ※レヴィが撒いている
 *v_02
-Yes, with some help from the guards. It doesn't seem to be enough to keep the monsters away though...
+Đúng vậy, còn có mấy anh lính gác giúp chị nữa. Nhưng có vẻ vẫn chưa đủ để ngăn lũ quái vật...
 *
-Which reminds me, have they done anything about that big one yet?
+Nhắc mới nhớ, họ đã xử lý con quái vật to lớn đó chưa nhỉ?
 
 
 // ※シナリオの進み（s10 で衛兵のイベントを見ているかどうか）で2パターンの回答～～
 *n_03
-No, I don't think it's been dealt with.
+Chưa đâu, em không nghĩ họ đã xử lý nó đâu.
 
 *n_04
-No, it's still lurking around somewhere.
+Chưa đâu, nó vẫn đang lẩn trốn đâu đó ngoài kia ạ.
 
 
 // ～～ここまで
 
 *v_05
-Hmm, I see~
-Our store has the thrills and the monster provides the chills! Sounds kinda cool, but... 
+Ừm, ra vậy~
+Cửa tiệm của chúng ta có cảm giác hồi hộp, còn quái vật thì mang đến cảm giác ớn lạnh! Nghe cũng ngầu đấy, nhưng...
 *
-It's not fun if the danger is life-threatening. I'd like to keep it at a moderate level, like with choke play.
+Sẽ chẳng vui chút nào nếu nguy hiểm đến tính mạng. Chị muốn mọi thứ chỉ ở mức vừa phải thôi, giống như trò siết cổ chẳng hạn.
 
 *n_06
-Isn't that still pretty dangerous...?
+Như thế vẫn nguy hiểm lắm mà...?
 
 
 
@@ -89,38 +89,38 @@ Isn't that still pretty dangerous...?
 
 
 *___Laevi/v_talk_village v_00
-Just once, I'd like to be able to visit the elf village.
+Chị chỉ muốn được đến thăm Làng Elf một lần thôi.
 
 *n_01
-You can see it from here when the fog is thin.
+Khi sương mù tan bớt, chị có thể nhìn thấy ngôi làng từ đây mà.
 
 *v_02
-Ah, yes~ and what a sight it is to behold. A floating city above the forest!
+À, đúng rồi~ Quả là một cảnh tượng tuyệt đẹp. Một thành phố lơ lửng phía trên khu rừng!
 
 *v_03
-Unfortunately, we are the exiled Cornehl family...boo-hoo~
+Tiếc là gia đình Cornehl chúng ta đã bị trục xuất...hức hức~
 
 *n_03
-Yeah, only our father and big brother Zeth are allowed in...
+Vâng, chỉ có cha và anh hai Zeth được phép vào thôi...
 
 *v_04
-I wish I were as smart as Zeth. He had the top score for his entrance exam!
+Ước gì chị thông minh được như Zeth. Em ấy đạt điểm cao nhất trong kỳ thi đầu vào đấy!
 *
-With a title and aura like his, I could waltz right past the gatekeeper.
+Nếu có được danh phận và khí chất như em ấy, chị cũng có thể ung dung đi thẳng qua cổng mà chẳng cần lo lính gác cổng.
 
 
 *n_05
-I-I think you're great as you are! The village people may not approve of you, but...
+E-em nghĩ chị tuyệt vời theo cách của chị mà! Người dân trong làng có thể không chấp nhận chị, nhưng...
 
 *v_06
-I know that! I'm cute and awesome~!
+Chị biết chứ! Chị vừa dễ thương vừa tuyệt vời mà~!
 *
-I'll play to my strengths and get into the village my own way.
+Chị sẽ tận dụng thế mạnh của mình và tự tìm cách vào làng.
 *
-Maybe I could find a distinguished elven gentlemen to be my sugar daddy or something?
+Biết đâu chị lại tìm được một quý ông Elf danh giá để bao nuôi mình thì sao?
 
 *n_07
-Is being promiscuous really enough to get by on...?
+Chị chỉ dựa vào sự lăng nhăng thôi thì có sống nổi không...?
 
 
 
@@ -128,130 +128,130 @@ Is being promiscuous really enough to get by on...?
 
 
 *___Laevi/v_talk_mtr_quality n_00
-Do you have any tips on gathering materials?
+Chị có bí quyết nào để thu thập nguyên liệu không?
 
 
 *v_01
-Oho~, are you going to gather materials for me again? <m joy>You're such a good girl, Noel!<m> *pat* *pat*
+Ồ hố~, em lại định thu thập nguyên liệu cho chị nữa à? <m joy>Noel của chị ngoan quá đi mất!<m> *xoa đầu* *xoa đầu*
 
 // 撫でられる
 *n_02
-Wah, there are customers here...
+Á, có khách ở đây kìa chị...
 
 
 // これから実装するシステムの話
 *v_03
-By now you probably know that most spots where you can get materials will be replenished after you return home.
+Chắc giờ em cũng biết là hầu hết những nơi có thể thu thập nguyên liệu sẽ được hồi lại sau khi em về nhà rồi nhỉ.
 *
-But, did you know you're more likely to find <c red>higher quality materials<c> when the <c blue>danger level<c> is also high~?
+Nhưng em có biết rằng khi <c blue>cấp độ nguy hiểm<c> càng cao, em càng có khả năng cao tìm được <c red>nguyên liệu chất lượng cao<c> không~?
 
 *n_04
-Danger...
+Nguy hiểm...
 
 
 *v_05
-Yep. As you defeat individual monsters, their scattered mana will start to build up...
+Đúng vậy. Khi em đánh bại từng con quái vật, lượng mana chúng để lại sẽ bắt đầu tích tụ...
 *
-...and once you finally finish the whole group... 
+...và đến khi em tiêu diệt cả đàn...
 
 *v_06
-<m joy>SPLURT~<m> their pent up mana will gush forth, increasing the danger level and improving the quality of nearby materials~!
+<m joy>PHỤT~<m> lượng mana tích tụ sẽ tuôn trào, làm tăng cấp độ nguy hiểm và cải thiện chất lượng nguyên liệu ở khu vực lân cận~!
 
-*n_06 
-Y-You don't need to use such an obscene analogy every time...
+*n_06
+C-Chị không cần phải dùng phép so sánh tục tĩu như vậy mỗi lần đâu...
 
 *v_07
-You're so naive~
+Em ngây thơ quá đấy~
 
 
 
 
 *___Laevi/v_talk_dangerousness v_00
-As I said, the danger level of an area will increase as you defeat groups of monsters. 
+Như chị đã nói, cấp độ nguy hiểm của một khu vực sẽ tăng lên khi em đánh bại các đàn quái vật.
 *
-You can re-fight groups as much as you like, but the rewards will only drop once.
+Em có thể tái đấu với các đàn quái bao nhiêu lần tùy thích, nhưng phần thưởng chỉ rơi ra một lần thôi.
 
 
 
 
 *v_01
-Monsters will be stronger and attack in greater numbers at high danger levels. 
+Ở cấp độ nguy hiểm cao, quái vật sẽ mạnh hơn và tấn công với số lượng đông hơn.
 *
-They'll also be much more aggressive and might ambush you even if you haven't touched a mana plant.
+Chúng cũng sẽ hung hăng hơn nhiều, thậm chí có thể phục kích em ngay cả khi em chưa động đến Cây Mana nào.
 
 *v_02
-So don't stay out too late. But, for the satisfaction of our customers, try edging as close to nightfall as possible~!
+Vậy nên đừng ở ngoài quá khuya nhé. Nhưng để chiều lòng khách hàng, hãy cố gắng nán lại càng gần lúc trời tối càng tốt~!
 
 *n_03
-Edging...I'm not sure that's such a good idea. Anyway, you're saying I should come back at a reasonable hour?
+Nán lại...em không nghĩ đó là ý hay đâu. Tóm lại là chị muốn em trở về vào một giờ hợp lý đúng không?
 
 *v_04
-That's right~ Just promise me you'll be extra careful if you do decide to stay out after dark.
+Chính xác~ Nhưng hãy hứa với chị rằng em sẽ đặc biệt cẩn thận nếu có quyết định ở ngoài sau khi trời tối nhé.
 
 *v_05
-Oh, one more thing! When the danger level is low, you can warp between benches you've already sat down on!
+À, còn một chuyện nữa! Khi cấp độ nguy hiểm thấp, em có thể dịch chuyển giữa những Ghế Băng mà em đã từng ngồi nghỉ!
 
 *v_06
-If the danger level rises, you'll have to walk. However, <c blue>you can always return home from any bench<c>~
+Nếu cấp độ nguy hiểm tăng lên, em sẽ phải đi bộ. Tuy nhiên, <c blue>em luôn có thể trở về nhà từ bất kỳ chiếc Ghế Băng nào<c>~
 
 
 
 *___Laevi/v_talk_battle_reward v_00
-When you defeat a group of monsters, you'll be rewarded with a treasure chest of materials. You don't have to open it right away.
+Khi em đánh bại một đàn quái vật, em sẽ nhận được một rương báu chứa nguyên liệu, vật liệu. Em không cần mở nó ngay đâu.
 
 *n_01
-So...just hold on to it?
+Vậy...cứ giữ nó lại thôi ạ chị?
 
 *v_02
-Of course, they'll take up space in your inventory, so you can't have an unlimited number of them.
+Tất nhiên, chúng sẽ chiếm chỗ trong túi đồ, nên em không thể giữ số lượng vô hạn được.
 *
-Also, since you can't use the items inside until you open them, having too many will make exploring tricky~.
+Ngoài ra, vì em không thể sử dụng những vật phẩm bên trong trước khi mở rương, giữ quá nhiều sẽ khiến việc khám phá trở nên khó khăn đấy~.
 
 *v_03
-Also also, <c blue>the item quality is affected by the danger level when you open the chest<c>, not when you obtain it.
+Còn nữa, <c blue>chất lượng vật phẩm sẽ phụ thuộc vào cấp độ nguy hiểm tại thời điểm em mở rương<c>, chứ không phải lúc em nhận được nó.
 *
-Which means...fufufu~
+Điều đó có nghĩa là...fufufu~
 
 
 *v_04
-If you get some chests and knock out a few monsters first...
+Nếu em lấy được vài chiếc rương rồi đánh bại thêm một vài con quái vật trước khi mở chúng...
 
 *n_05
-I'll get higher quality items...?
+Em sẽ nhận được vật phẩm chất lượng cao hơn...?
 *v_06
-Correct! Delay your gratification and let it build up first. That always feels best~!
+Chính xác! Em hãy kiềm chế ham muốn mở rương ngay lập tức và tích lũy thêm trước đã. Như vậy lúc nào cũng tuyệt nhất~!
 
 *n_07
-Ooh, so I could store a lot of chests at home, then take them with me and increase the danger level...!
+Ồ, vậy em có thể cất thật nhiều rương ở nhà, sau đó mang chúng theo và tăng cấp độ nguy hiểm lên...!
 
 *v_08
-Ah~ afraid it doesn't work that way.
-When you return home all chests will automatically be opened.
+À~ tiếc là không được đâu.
+Khi em về nhà, tất cả rương sẽ tự động được mở.
 *
-The same happens if you faint, but <c red>the danger level resets to zero first<c>.
+Điều tương tự cũng xảy ra nếu em bất tỉnh, nhưng <c red>cấp độ nguy hiểm sẽ được đặt lại về mức 0 trước<c>.
 
 *v_09
-Other items in your bag won't be lost when you faint, so it might be wise to open the chests if you think you won't make it~.
+Những vật phẩm khác trong túi đồ sẽ không bị mất khi em bất tỉnh, nên nếu nghĩ mình không thể trụ nổi nữa, tốt nhất em nên mở rương trước nhé~.
 
 
 
 
 *___Laevi/v_talk_weather v_00
-I've heard interesting things can happen when the weather changes.
+Chị nghe nói thời tiết thay đổi có thể dẫn đến những chuyện thú vị.
 
 *v_01
-Like when it's <c blue>'Foggy'<c>, it is easier for both you and the monsters to accumulate mana.
+Chẳng hạn như khi trời <c blue>'Sương Mù'<c>, cả em lẫn quái vật đều dễ tích tụ mana hơn.
 
 *v_02
-And contaminated monsters can suddenly appear during <c blue>'Thunder'<c>~! Isn't that exciting~?
+Và quái vật bị nhiễm thể có thể đột nhiên xuất hiện khi trời <c blue>'Sấm Sét'<c>~! Không thú vị sao~?
 
 *n_03
-Uu...I've heard stories about them...they sound really scary...
+Ư...em từng nghe kể về chúng rồi...nghe đáng sợ lắm...
 
 *v_04
-<m joy>Scary and cool~!<m> Monsters need to absorb mana to survive, but if they gorge themselves on it they mutate or something... 
+<m joy>Đáng sợ mà cũng ngầu nữa~!<m> Quái vật cần hấp thụ mana để sống sót, nhưng nếu hấp thụ quá nhiều, chúng sẽ đột biến hay gì đó...
 *
-Too much of a good thing, I guess~
+Đúng là cái gì quá mức cũng không tốt nhỉ~
 
 // ========================================================
 // MARK : pvv102 関連
@@ -261,119 +261,119 @@ Too much of a good thing, I guess~
 
 
 *___Laevi/v_talk_pvv102_quake v_00
-Welcome back, Noel. Do you know what caused that loud noise a moment ago?
+Mừng em trở về, Noel. Em có biết tiếng động lớn vừa rồi là do đâu không?
 
 *n_01
-Some large monsters are rampaging through the forest. Sounds like they're really close by...
+Có vài con quái vật lớn đang hoành hành trong rừng. Em nghe có vẻ chúng ở rất gần đây...
 
 *v_02
-I see. Thankfully we've got protective barriers around the house. Maybe you should stay here where it's safe today.
+Ra vậy à. May mà quanh nhà có kết giới bảo vệ. Hôm nay em nên ở lại đây cho an toàn thì hơn.
 
 *n_03
-But, Ixia might be in danger! If she is...I have to help her!
+Nhưng Ixia có thể đang gặp nguy hiểm! Nếu đúng vậy...em phải đi giúp cậu ấy!
 
 
 *v_04
-Noel, I understand how you feel, but we're not trained to handle these situations. And you're still an just an apprentice cadet.
+Noel, chị hiểu cảm giác của em, nhưng chúng ta không được huấn luyện để đối phó với những tình huống như thế này. Hơn nữa, em vẫn chỉ là một học viên tập sự thôi.
 *
-The smartest choice would be to leave this to the adults.
+Lựa chọn sáng suốt nhất là giao việc này cho người lớn làm.
 
 *n_05
-...This is something I have to do. I want to be the kind of person who can help others when they need it most...
+...Đây là chuyện em phải làm. Em muốn trở thành người có thể giúp đỡ người khác vào lúc họ cần nhất...
 *
-Just like the time we were attacked while exploring the forest and you saved me...
+Giống như lần chúng ta bị tấn công khi khám phá khu rừng và chị đã cứu em...
 
 *v_06
-Hmm...I don't remember ever doing anything like that. Are you sure it was me~?
+Ừm...chị không nhớ mình từng làm chuyện như thế. Em chắc đó là chị chứ~?
 
 *n_07
-<I>It's my most treasured memory!
+<I>Đó là ký ức quý giá nhất của em mà!
 
 
 *v_08
-Oh well, no matter~ If that's how you feel, go right ahead!
+Thôi được rồi~ Dù sao thì, nếu em đã quyết tâm như vậy, cứ đi đi!
 
 *n_09
-That was a quick turnaround!
+Chị đổi ý nhanh thật đấy!
 
 *v_10
-Well, history has shown that once Noel makes up her mind about something, there's no stopping her. 
+Chà, lịch sử đã chứng minh rằng một khi Noel đã quyết định chuyện gì thì chẳng ai ngăn được con bé.
 *
-Considering what happened two weeks ago, I'm amazed you're so eager to jump into the fray~
+Nghĩ đến chuyện xảy ra hai tuần trước, chị thật ngạc nhiên khi thấy em vẫn háo hức lao vào nguy hiểm đến vậy~
 
 
 
 *n_11
-I-I'll do my best to not let that happen again...!
+E-em sẽ cố gắng không để chuyện đó xảy ra lần nữa...!
 
 *v_12
-In that case, make sure you come back before dark to avoid stronger packs of monsters.
+Vậy thì hãy nhớ trở về trước khi trời tối để tránh những đàn quái vật mạnh hơn nhé.
 
 
 
 *n_13 
-<think>I should check with her again to make sure I understand the dangers of staying out too late...
+<think>Mình nên hỏi chị ấy thêm lần nữa để chắc chắn rằng mình hiểu rõ những nguy hiểm khi ở ngoài quá muộn...
 
 
 
 *___Laevi/v_talk_pvv102_memory v_00
-Ah, it's hazy, but I'm starting to remember now~ I told you not to explore any deeper, but you didn't listen.
+À, chị nhớ ra rồi, dù vẫn còn hơi mơ hồ~ Hồi đó chị đã bảo em đừng khám phá sâu hơn nữa, nhưng em chẳng chịu nghe.
 
 *n_01
-Sorry for all the trouble I caused you back then...
+Em xin lỗi vì đã gây ra bao nhiêu rắc rối cho chị lúc đó...
 
 *v_02
-You've always been stubborn, Noel. You just couldn't deny your curiosity, could you?
+Em lúc nào cũng bướng bỉnh như vậy, Noel. Em chẳng thể cưỡng lại sự tò mò của mình, đúng không?
 
 
 
 *n_03
-Uu...so embarrassing. But, your protective spell helped me discover who I want to be.
+Ư...xấu hổ quá đi mất. Nhưng nhờ phép thuật bảo vệ của chị mà em đã khám phá ra con người mình muốn trở thành.
 
 *v_04
-Spell? I'm not licensed to cast magic, so that's probably not what I used.
+Phép thuật? Chị đâu có giấy phép sử dụng ma thuật, nên chắc thứ chị dùng khi đó không phải phép thuật đâu.
 
 
 *n_05
-Eh?
+Hả...?
 
 *v_06
-You see, back then I was very attractive. People just couldn't keep their hands off me~
+Em thấy, hồi đó chị rất quyến rũ. Chẳng ai có thể rời mắt khỏi chị~
 *
-Every so often, some brazen older gentlemen would try to do something inappropriate. 
+Thỉnh thoảng, vài quý ông lớn tuổi táo tợn còn định giở trò không đứng đắn với chị nữa.
 *v_07
-So to defend myself, I carried capsules that would explode when thrown. BOOM~!
-* 
-They contained a mana-damaging drug strong enough to daze an elf. It worked on monsters too, since they're basically made of mana.
+Vì thế để tự vệ, chị luôn mang theo những viên nang có thể phát nổ khi ném đi. BÙM~!
+*
+Bên trong chúng là một loại thuốc gây tổn hại mana đủ mạnh để khiến một Elf choáng váng. Nó cũng có tác dụng với quái vật, vì cơ thể chúng về cơ bản được cấu tạo từ mana.
 
 *n_07
-I had no idea... Alchemy and magic were indistinguishable to me back then. But, all that matters is that you saved me.
+Em không hề biết chuyện đó... Hồi ấy em không phân biệt được giả kim thuật với phép thuật. Nhưng dù sao thì điều quan trọng nhất vẫn là chị đã cứu em.
 
 *v_08
-I didn't have a permit for alchemy at the time either. 
+Khi đó chị cũng chưa có giấy phép hành nghề giả kim.
 *
-If I had been caught, I would've gotten in trouble for both illegal possession and synthesizing.
+Nếu bị phát hiện, chị sẽ gặp rắc rối vì cả tội tàng trữ trái phép lẫn điều chế trái phép.
 *
-Oops, keep that a secret from dad and the guards, will you~?
+Ối, em giữ bí mật này với cha và lính gác nhé~?
 
 *n_09
-O-okay...
+V-vâng...
 
 
 
 
 *___Laevi/v_talk_pvv102_sell v_00
-Before you head out to help Ixia, you should make sure you're prepared for battle~
+Trước khi ra ngoài giúp Ixia, em nên đảm bảo mình đã chuẩn bị đầy đủ cho trận chiến nhé~
 
 *v_01
-I'd be happy to sell you something as long as it's in stock, but unfortunately there is no family discount here at the Cornehl shop~
+Nếu có hàng trong kho, chị rất sẵn lòng bán cho em. Nhưng tiếc là cửa tiệm Cornehl không có ưu đãi giảm thêm cho người nhà đâu nhé~
 
 *n_02
-W-what if I said "please"?
+N-nếu em nói "làm ơn" thì sao ạ?
 
 
 *v_03
-No can do even for you, little sis~ Dad put me in charge of managing the family finances, and our budget is tight.
+Không được đâu, kể cả với em, cô em gái nhỏ~ Cha đã giao cho chị quản lý tài chính gia đình, mà ngân sách thì eo hẹp lắm.
 
 
 
@@ -381,15 +381,15 @@ No can do even for you, little sis~ Dad put me in charge of managing the family 
 
 
 *___House/_portal_alchemy n_00
-Big sister's alchemy pot.
-She always adds the ingredients in a rather haphazard way...
+Chiếc vạc giả kim của chị hai.
+Chị ấy luôn cho nguyên liệu vào một cách khá tùy tiện...
 *
-But, surprisingly, she always produces something wonderful.
+Nhưng thật bất ngờ, lần nào chị ấy cũng tạo ra được thứ gì đó tuyệt vời.
 *
-...I'm sure there's a recipe for beginners somewhere in this room that my sister used when she was little.
+...Chắc trong căn phòng này có sách hướng dẫn giả kim dành cho người mới bắt đầu mà chị hai từng dùng hồi nhỏ.
 
 *n_01
-I wonder if I'm ready to try alchemy... Perhaps I should practice by learning to cook in the kitchen first.
+Không biết mình đã sẵn sàng thử giả kim thuật chưa nhỉ... Có lẽ mình nên tập nấu ăn trong bếp trước đã.
 
 
 
@@ -403,155 +403,155 @@ I wonder if I'm ready to try alchemy... Perhaps I should practice by learning to
 
 // 地下の工房で本を探すノエル
 *___Laevi/get_alchemy_recipe n_00
-Hmm, it should be around here somewhere...
+Ừm, chắc nó phải ở đâu đó quanh đây...
 *n_01
-Ah, there it is! <c red>Level 4 Alchemy for Beginners:
-So simple, even a Slime can understand!<c>
+À, thấy rồi! <c red>Giả Kim Thuật Cấp 4 Dành Cho Người Mới Bắt Đầu:
+Đơn giản đến mức Slime cũng hiểu được!<c>
 
 *n_02
-It's so dusty...
-I'm sure sister won't mind if I borrow it. I'll tell her later...
+Bụi bám nhiều quá...
+Chắc chị ấy sẽ không phiền nếu mình mượn đâu. Để lát nữa mình nói với chị ấy...
 
 // 拾ったあとのイベント
 // 暗所からレヴィが驚かしてくる
 
 *___Laevi/get_alchemy_recipe_laevi_attack v_02
-<m fadein>Who's the little brat rummaging around my workshop?
+<m fadein>Đứa nhóc nào đang lục lọi trong xưởng của ta thế?
 
 *n_03
-<m ple>Yipe!?
+<m ple>Á!?
 
 
 *v_04
-<m joy>WHO, I ASK!?
+<m joy>TA ĐANG HỎI, AI ĐẤY!?
 
 *n_05
-<m scary>WAAH!
+<m scary>ÁÁÁ!
 
 *n_06
-<m ple>S...Sister!
-</m>Don't scare me like that!
+<m ple>C-chị hai!
+</m>Đừng làm em giật mình như thế chứ!
 
 *v_07
-<m joy>Oh?<m> Playing the victim after stealing my belongings?
-Perhaps a little scare wasn't enough of a punishment.
+<m joy>Ồ?<m> Ăn trộm đồ của chị rồi còn giả vờ làm nạn nhân à?
+Có vẻ dọa em một chút vẫn chưa đủ để trừng phạt nhỉ.
 
 *n_08
-W-well...you see...
+E-em...chuyện là...
 
 *n_09
-Sorry...I just wanted to learn more about alchemy.
+Em xin lỗi...em chỉ muốn tìm hiểu thêm về giả kim thuật thôi.
 
 *v_09
-Relax, I was joking.
+bình tĩnh đi, chị đùa thôi mà.
 
 *v_10
-Besides, I'm not surprised. It's only natural at your age to be curious about such things.
+Hơn nữa, chị cũng chẳng ngạc nhiên. Ở tuổi này, tò mò về những chuyện như vậy là điều tự nhiên thôi.
 
 *n_11
-...Please don't talk about it like it's something immoral.
+...Chị đừng nói như thể đó là chuyện gì đó trái đạo đức chứ.
 
 *v_12
-Oh, but alchemy is indeed immoral business.
+Ồ, nhưng giả kim thuật đúng là một ngành nghề trái đạo đức đấy.
 
 *v_13
-Some of the recipes in the book you took require a Level 4 license.
+Một số công thức trong cuốn sách em lấy yêu cầu giấy phép Cấp 4.
 *
-If you try to follow one without a license...
+Nếu em cố làm theo một công thức mà không có giấy phép...
 
 *v_14
-<I><m ple>You'll be arrested and whipped mercilessly as punishment!
+<I><m ple>Em sẽ bị bắt và bị đánh roi không thương tiếc để trừng phạt!
 
 *n_15
-<I><m scary>Y-<W3><m>You're just joking again, right?
+<I><m scary>C-chị lại đang đùa thôi, đúng không?
 
 *v_16
 <W2>...<W2>...<W2>.<W2>
 
 *n_17
-<I><m scary>I'm sorry-y-y-y-y!
-<m ple>I just wanted to look at it, I wasn't going to use i-i-it!!
+<I><m scary>Em xin lỗiiii!
+<m ple>Em chỉ muốn xem thôi, em không định sử dụng nó đââââu!!
 
 *v_18
-<m joy>Fufufu, so cute.
+<m joy>Fufufu, dễ thương quá đi mất.
 *v_19
-It really is illegal though...
-But, maybe there's a loophole we can use.
+Thật ra đúng là bất hợp pháp đấy...
+Nhưng có lẽ chúng ta vẫn có cách lách luật.
 
 *v_19_2
-...Ah, I know! Here, a gift from me to you.
+...À, chị biết rồi! Đây, quà của chị dành cho em.
 
 *n_20
-...<c blue>The Alchemist's Field Guide<c>?
+...<c blue>Sổ Tay Thực Địa Của Nhà Giả Kim<c>?
 
 *v_21
-Indeed.
-And with that...
+Chính xác.
+Và với nó...
 
 *v_22
-<m ple>Ta-dah!
-<m joy>I hereby appoint you as my apprentice. You are now an assistant to a Class-1 alchemist!
+<m ple>Ta-da!
+<m joy>Chị chính thức bổ nhiệm em làm học trò của chị. Từ giờ em sẽ là trợ lý của một nhà giả kim Cấp 1!
 
 *n_23
-Really?
+Thật ạ?
 
 *v_24
-That book functions as license to practice alchemy.
-It's registered under my name, but...
+Cuốn sách này có chức năng như giấy phép hành nghề giả kim.
+Nó được đăng ký dưới tên chị, nhưng...
 
 *v_25
-...if you're holding it, it'll allow you to freely use the alchemy pot.
-It works just like magic~.
+...chỉ cần em cầm nó, em sẽ được phép tự do sử dụng vạc giả kim.
+Cứ như thể có phép thuật vậy~.
 
 *n_26
-As an assistant, that means I'll only be using the alchemy pot under your supervision, right?
+Với tư cách trợ lý, có nghĩa là em chỉ được sử dụng vạc giả kim dưới sự giám sát của chị, đúng chứ ạ?
 
 *v_27
-<m ple>Right! That's what I meant~!
-<m>But, that's just to keep up appearances...
+<m ple>Đúng rồi! Ý chị chính là vậy đó~!
+<m>Nhưng đó chỉ là để giữ thể diện thôi...
 
 *v_28
-You can do as much alchemy as you want even if I'm not here.
+Em muốn làm bao nhiêu giả kim thuật cũng được, kể cả khi chị không có ở đây.
 
 *v_29
-Officers of the Alchemy Association don't do on-site inspections that often.
+Các thanh tra của Hiệp hội Giả Kim không thường xuyên đến kiểm tra trực tiếp đâu.
 
 *v_30
-As long as you're not synthesizing explosives and setting them off in the city, you won't get arrested.
+Miễn là em không điều chế chất nổ rồi kích nổ chúng trong thành phố, em sẽ không bị bắt đâu.
 
 *n_31
-W-well, I still don't feel comfortable with the questionable legality of all this.
+N-nhưng em vẫn thấy không thoải mái lắm khi chuyện này có vẻ không hoàn toàn hợp pháp.
 
 *v_32
-Ahh, that's my Noel! So pure and innocent~!
+Aah, đúng là Noel của chị! Thuần khiết và ngây thơ quá đi mất~!
 
 *n_33
-<I>Wa...
-<m ple>Where are you touching!?
+<I>Á...
+<m ple>Chị đang chạm vào đâu vậy!?
 
 *v_34
-One more thing-
+Còn một chuyện nữa-
 
 *v_35
-That book is more than just a field guide.
+Cuốn sách đó không chỉ đơn thuần là sổ tay thực địa đâu.
 
 *v_36
-It also records and catalogues your adventures.
+Nó còn ghi chép và phân loại những chuyến phiêu lưu của em nữa.
 
 *n_37
-Hmm...
+Ừm...
 
 *v_38
-Any items you find or enemies you meet will also be recorded, along with all their information. This book can do it all!
+Mọi vật phẩm em tìm thấy hay quái vật em gặp đều sẽ được ghi lại cùng toàn bộ thông tin về chúng. Cuốn sách này làm được tất cả đấy!
 
 *v_39
-Check the Important Items tab in the Item menu and select <c blue>Field Guide<c> to open it.
+Hãy mở mục Vật Phẩm Quan Trọng trong menu Vật Phẩm rồi chọn <c blue>Sổ Tay Thực Địa<c> để mở nó.
 
 *v_40
-You can also check Treasure Chest reels and items available in shops from it.
+Em cũng có thể xem các cuộn rương và những vật phẩm có bán trong cửa hàng từ nó đó.
 
 *v_41
-It's pretty useful. Give it a look whenever you can~.
+Khá hữu ích đấy. Khi nào có thời gian thì nhớ xem thử nhé~.
 
 
 // ========================================================
@@ -566,68 +566,69 @@ It's pretty useful. Give it a look whenever you can~.
 // 休憩室を開けようとしたノエル
 
 *___Laevi/trm_000 v_00
-<m joy>Ohh~?
-<m>Are you perhaps interested in using The Break Room?
+<m joy>Ồ~?
+<m>Em đang có ý định sử dụng Phòng Nghỉ Ngơi sao?
 
 *n_01
-<m ple>N-NO! I just thought I'd do a little cleaning.
+<m ple>K-KHÔNG! Em chỉ định dọn dẹp một chút thôi.
+
 
 // 分岐: 料理のチュートリアルを見たかどうかで分岐
 // A:見ていない
 
 *v_02
-Well, I'll be setting up for an early morning client soon.
+Chị sắp sửa chuẩn bị cho một vị khách vào sáng sớm rồi.
 *
-You might find it to be a little too...stimulating.
+Có lẽ em sẽ thấy nó hơi...kích thích quá mức đấy.
 
 
 *n_03
-<think>I can't even imagine what she's talking about...and I don't think I want to.
+<think>Mình thậm chí còn chẳng tưởng tượng nổi chị ấy đang nói về chuyện gì...mà mình cũng không muốn biết.
 
 
 *n_04
-I see. I'll come back later to clean up.
+Vậy ạ. Em sẽ quay lại dọn dẹp sau.
 
 
 *n_05
-<think>I'm hungry...
-I should go see if my brother needs help in the kitchen.
+<think>Mình đói quá...
+Mình nên sang xem anh trai có cần giúp gì trong bếp không.
 
 
 // 分岐: 料理のチュートリアルを見たかどうかで分岐
 // A:見ていない
 
-// A-2 
+// A-2
 
 *v_05
-Hmm...but it looks like you have <c blue>SFW Mode<c> turned on.
+Ừm...nhưng có vẻ em đang bật <c blue>Chế Độ An Toàn<c>.
 *v_05_2
-Come see me again after you <c blue>turn off SFW Mode<c>.
+Hãy quay lại gặp chị sau khi em đã <c blue>tắt Chế Độ An Toàn<c> nhé.
 
 
-// B:見た  
+// B:見た
 
 
 
 *v_06
-That would be a great help. But please don't touch or rearrange any of the toys.
+Như vậy thì tốt quá. Nhưng nhớ đừng chạm vào hay sắp xếp lại những món đồ chơi nhé.
 *v_06_2
-...Actually, maybe I could use this as an opportunity to teach you how to use them?
+...Mà nghĩ lại, biết đâu chị có thể nhân cơ hội này dạy em cách sử dụng chúng nhỉ?
 
 *n_07
-...What do you mean?
+...Ý chị là sao ạ?
 
 *v_08
 Fufu~
-You are an adult now...
-It might be a good idea to make your debut in The Break Room...　
+Em đã trưởng thành rồi...
+Có lẽ đã đến lúc em ra mắt ở Phòng Nghỉ Ngơi rồi đấy...
 
 *n_09
-You mean...do the things that you do...
-I'm not sure I can...
+Ý chị là...làm những chuyện mà chị vẫn làm...
+Em không chắc mình có thể...
 
 *v_10
-Would you like to try?
+Em muốn thử không?
 
 
 // 選択肢
@@ -636,105 +637,105 @@ Would you like to try?
 // A: 笑えない
 *v_11
 
-Aww, that's too bad.
+Ôi, tiếc thật đấy.
 
 *v_12
-But, if you change your mind, come back anytime~!
-The Break Room is looking for<m joy> new staff members right now!
+Nhưng nếu đổi ý thì cứ quay lại bất cứ lúc nào nhé~!
+Phòng Nghỉ Ngơi hiện đang <m joy>tuyển thêm nhân viên mới đấy!
 
 // B: 面白そう
 *v_13
-Yeah, I figured you'd say no.
-<W3>Wait...really?
+Ừ, chị cũng đoán em sẽ từ chối.
+<W3>Khoan...thật sao?
 
 *v_14
-<m joy>So you are a lady after all.<m>
-Interested in the secrets of adults~.
+<m joy>Vậy là em cũng ra dáng một quý cô rồi đấy.<m>
+Em muốn khám phá những bí mật của người lớn sao~.
 
 *n_15
-I don't actually know if I'm interested or not, but...
+Em cũng không biết mình có hứng thú hay không, nhưng...
 *
-Sister, you're always working so hard in there...
+Chị hai lúc nào cũng làm việc vất vả trong đó...
 *n_15_2
-...so if this will help reduce your burden, I'm more than happy to do it.
+...nên nếu việc này có thể giúp chị đỡ vất vả hơn, em rất sẵn lòng làm.
 
 
 *v_16
-<I><m joy>Then it's decided! Let's get started right away!
+<I><m joy>Vậy quyết định thế nhé! Bắt đầu ngay thôi!
 
 *n_16
-<m ple>R-right now!? Get started with what!?
+<m ple>N-ngay bây giờ sao!? Bắt đầu làm gì cơ!?
 
 // 暗転
 // 休憩室内 ベビードール姿のノエル
 
 *___Laevi/trm_001 n_19
-...<m scary>Uuu.
+...<m scary>Ưư.
 
 *v_20
-What's wrong, Noel~?
-They're just pajamas. You wear them every night.
+Sao thế, Noel~?
+Chỉ là đồ ngủ thôi mà. Tối nào em chẳng mặc chúng.
 
 *n_21
-<m fadein>B-but dressed like this in front of a man...
+<m fadein>N-nhưng ăn mặc thế này trước mặt một người đàn ông...
 
 *v_22
-It's cute and sexy.
-<m joy>Come on now, the customer is waiting~.
+Dễ thương mà cũng quyến rũ nữa.
+<m joy>Nào, khách đang đợi đấy~.
 
 *n_23
-<m fadein>Ah...huu...
+<m fadein>À...hư...
 *
-<think><m fadein>...uuu, it's no use.
-I'm too embarrassed.
+<think><m fadein>...Ưư, không được rồi.
+Mình xấu hổ quá.
 
 // レヴィお客さんのおじさんへ
 *v_24
-Sorry, this is her first time.
+Xin lỗi nhé, đây là lần đầu của em ấy.
 
 *x_25
-Oh it's alright. I find her innocence to be quite charming.
+Ồ, không sao đâu. Tôi thấy sự ngây thơ của cô bé khá đáng yêu đấy.
 
 *v_26
-<m joy>Fufu, you're so kind. Would you excuse me for a moment~?
+<m joy>Fufu, ông anh tốt bụng quá. Xin phép cho tôi rời đi một lát nhé~?
 
 
 *n_27
-<m scary>...uuu<m> I'm sorry.
+<m scary>...Ưư<m> Em xin lỗi.
 
 *v_28
-Relax, relax. I know this is difficult for you.
+Bình tĩnh nào, bình tĩnh. Chị biết chuyện này rất khó khăn với em mà.
 *v_28_2
-Let's change the <c blue>atmosphere<c> to help ease you in~!　
+Chúng ta hãy thử thay đổi <c blue>bầu không khí<c> một chút để em dễ làm quen hơn nhé~!
 
 *n_29
-A-atmosphere?
+B-bầu không khí ạ?
 
 
 *v_30
-See the diffuser there?
-Mix up a nice <c blue>aroma<c> that'll get us in the mood~!
+Em thấy máy khuếch tán hương ở đằng kia không?
+Hãy pha một loại <c blue>hương thơm<c> dễ chịu để tạo bầu không khí phù hợp nhé~!
 
 
 // 制作画面をキャンセルしてレヴィに直接話しかける
 *___Laevi/trm_002 v_34
-Noel, I can tell you're still nervous. It'll be difficult to please the customer with that frown on your face.
+Noel, chị thấy em vẫn còn lo lắng. Với vẻ mặt cau có đó, em sẽ khó lòng làm khách hài lòng được.
 *v_35
-Try to <c blue>create a nice atmosphere using materials with the diffuser<c>.　
+Hãy thử <c blue>tạo bầu không khí dễ chịu bằng cách sử dụng nguyên liệu pha chế với máy khuếch tán hương<c> nhé.
 
 
 // アロマ制作画面チュートリアル
 
 *v_31
-I've got just the thing for this~.
+Chị có thứ phù hợp cho việc này đây~.
 
 *v_32
-You can make a different aroma if you want, <c red>but it might not create the right mood</c>.
+Em có thể tạo ra một loại hương thơm khác nếu muốn, <c red>nhưng có thể nó sẽ không tạo được bầu không khí phù hợp<c>.
 
 *v_33
-By the way, <c red>you can't work in The Break Room without first creating an aroma</c>.
+Nhân tiện, <c red>em không thể làm việc trong Phòng Nghỉ Ngơi nếu chưa tạo ra hương thơm<c>.
 *
-If you don't have enough materials, you'll have to leave and come back later.
+Nếu không có đủ nguyên liệu, em sẽ phải rời đi và quay lại sau khi có nó.
 
 
 
@@ -742,115 +743,116 @@ If you don't have enough materials, you'll have to leave and come back later.
 
 // イベント終了
 *___Laevi/trm_009 v_35
-Great job, Noel~! That was wonderful~!
+Làm tốt lắm, Noel~! Tuyệt vời lắm~!
 *
-It was a new experience, but you gave it your best effort~!
-<m joy>I'm so proud of you~.
+Đây là một trải nghiệm mới, nhưng em đã cố gắng hết sức rồi~!
+<m joy>Chị tự hào về em lắm~.
 
 *n_36
-<m fadein>...uuu. I still have mixed feelings about this...
-but...thank you.
-　
+<m fadein>...Ưư. Em vẫn có cảm giác rất mâu thuẫn về chuyện này...
+nhưng...cảm ơn chị.
+
 
 // 分岐a : Aルート完遂（正しいアロマを作った）
-  
+
 *v_37
-Looks like the aroma really helped you relax. The client was very satisfied.
+Có vẻ hương thơm thực sự đã giúp em thư giãn. Khách hàng rất hài lòng.
 
 *n_38
-I'm glad.
+Vậy thì tốt quá rồi ạ.
 
 *v_39
-I'll put a heart tag on the door when there's an appointment you can take.
+Chị sẽ treo một thẻ hình trái tim lên cửa khi có lịch hẹn mà em có thể nhận.
 *
-I'll be glad if you accept it, but it's entirely up to you.
+Chị sẽ rất vui nếu em đồng ý, nhưng quyết định hoàn toàn tùy thuộc vào em.
 
 *n_40
-I'll do my best to help you out!
+Em sẽ cố gắng hết sức để giúp chị!
 
 *v_41
-Ah, I appreciate it. I look forward to seeing your best efforts.
+À, chị rất cảm kích. Chị mong chờ được thấy em cố gắng hết mình đấy.
 
 *v_42
-And so the legend of Noel, succubus of
-the Cornehl house, begins.
+Và thế là huyền thoại về Noel, nữ succubus
+của gia đình Cornehl, bắt đầu.
 *
-They say she can make 10 men cum with just a flick of her wrist.
- 
+Người ta đồn rằng chỉ cần khẽ phẩy cổ tay, cô ấy cũng có thể khiến 10 người đàn ông lên đỉnh.
+
 *n_42
-<I>There's no way that could be true!
+<I>Chuyện đó làm sao có thể là thật được chứ!
 
 // 分岐b : アロマ制作を間違えた
- 
+
 *v_43
-...but, the atmosphere was a bit off...
-The client's penis wasn't as hard as it could've been.
+...nhưng bầu không khí có vẻ chưa được phù hợp lắm...
+Dương vật của khách hàng không cương cứng hết mức có thể.
 *
-It's like it was saying "You can do better."
+Cứ như thể nó đang nói rằng "Em có thể làm tốt hơn mà."
 
 *n_44
-What's that...?
+Cái gì vậy...?
 
 *n_44_2
-<think><m fadein>Oh, it was his...
-When I looked at that place, I couldn't help but black out.
+<think><m fadein>À, đó là...của ông ấy...
+Khi nhìn vào chỗ đó, mình không thể nào không ngất đi.
 
 *
-<think><m fadein>Maybe I'm just not ready for this.
-But, could I have done it if I <c blue>made the aroma the way my sister suggested<c>?
+<think><m fadein>Có lẽ mình vẫn chưa sẵn sàng cho chuyện này.
+Nhưng liệu mình có làm được nếu <c blue>pha hương thơm theo đúng lời chị hai<c> không?
 
 *v_45
-<m joy>Anyway, thanks for your hard work!<m>
-Go take a shower and get some rest.
+<m joy>Dù sao thì, cảm ơn em đã vất vả nhé!<m>
+Đi tắm rồi nghỉ ngơi đi.
 
 *v_46
-You can enter The Break Room whenever you want, as long as it's not in use.
+Em có thể vào Phòng Nghỉ Ngơi bất cứ lúc nào nếu nơi đó không có người sử dụng.
 *
-Check the reservations and make one for yourself if you're ever frustrated, heehee~.
+Hãy kiểm tra lịch hẹn và tự đặt cho mình một buổi nếu em cảm thấy bức bối nhé, hihi~.
 
 *v_47
-Not that you need it. I'm sure you're fine just pleasing yourself.
+Mà có lẽ em cũng chẳng cần đâu. Chị chắc em vẫn ổn khi tự mình thỏa mãn mà.
 
 // 分岐b-2 自慰回数1以上
 *n_48
-<m fadein>Ehh, no...I don't...
- 
+<m fadein>Ể, không...em đâu có...
+
 *v_49
-Well, I'm heading back to the shop. I'm sure Tilde would like to start cooking dinner soon.
+Thôi, chị quay lại cửa tiệm đây. Chị chắc Tilde cũng muốn bắt đầu nấu bữa tối sớm rồi.
 
-// レヴィ去る 
- 
+// レヴィ去る
+
 *n_50
-<m fadein>...I wonder if sister could hear my voice when I was...
+<m fadein>...Không biết chị hai có nghe thấy tiếng mình lúc đó không nhỉ...
 
-// 分岐b-3  自慰回数0
- 
+
+// 分岐b-3 自慰回数0
+
 *n_51
-That's...I don't do that.
+Chuyện đó...em không làm đâu.
 
 *v_52
-Oh, really~. Want me to show you how~.
+Ồ, thật sao~. Muốn chị chỉ cho em cách làm không~?
 
 //チルダのノック
 *d_53
-Are you done in there?
-I'd like to stop minding the store so I can make breakfast.
+Hai người xong chưa thế?
+Em muốn thôi việc trông cửa tiệm để còn chuẩn bị bữa sáng đây.
 
 *v_54
-Ah! Sorry!
-You can go shower off, Noel.
+Á! xin lỗi em nhé!
+Noel, em đi tắm rửa đi nhé.
 
 *n_55
-...could Tilde hear me when I was...?
+...Không biết Tilde có nghe thấy tiếng mình rên rỉ lúc đó không nhỉ...?
 *
-Uuu. Let's leave quickly.
+Ưư. Mau rời khỏi đây thôi.
 
 
 
 // アロマを作らずに退出
 
 *___Laevi/trm_003 v_00
-You okay, Noel~?
+Em ổn chứ, Noel~?
 
 // 選択肢: 大丈夫
 
@@ -859,14 +861,14 @@ You okay, Noel~?
 
 
 *n_01
-I'm sorry. This doesn't seem possible with my current materials.
+Em xin lỗi. Với số nguyên liệu hiện tại thì có vẻ em không thể làm được.
 
 *v_02
-I see. We can stop for now. Come back later when you're ready~.
+Chị hiểu rồi. Tạm thời chúng ta dừng ở đây nhé. Khi nào sẵn sàng thì quay lại sau~.
 
 *v_04
-I'll be here to help you pull it off anytime~.
+Bất cứ lúc nào em muốn thử lại, chị đều sẽ ở đây giúp em~.
 
 *n_05
-T-that's...
-...thank you.
+C-chuyện đó...
+...cảm ơn chị.

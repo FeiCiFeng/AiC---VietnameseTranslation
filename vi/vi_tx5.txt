@@ -5,125 +5,125 @@
 // MARK : ver0.29
 // ========================================================
 
-&&SerTitle_poison Poison
+&&SerTitle_poison Độc
 /* ___ SerDesc_poison ___ */ 
-HP steadily decreases, but cannot reduce it to less than 1.
-HP regen and cooking effects are halved on Normal difficulty and lower.
+HP giảm dần theo thời gian, nhưng không thể giảm xuống dưới 1.
+khả năng hồi phục HP và hiệu quả nấu ăn giảm một nửa ở độ khó Bình thường trở xuống.
 
 
-&&SerTitle_poison_2 Deadly Poison
+&&SerTitle_poison_2 Kịch Độc
 /* ___ SerDesc_poison_2 ___ */ 
-Poison effects will no longer clear on their own or from sitting at a bench.
+Hiệu ứng độc sẽ không tự biến mất hoặc biến mất khi ngồi trên ghế nghỉ nữa.
 
 
-&&SerTitle_fainted Fainted
-&&SerDesc_fainted No actions can be taken.
+&&SerTitle_fainted Bất Tỉnh
+&&SerDesc_fainted Không thể thực hiện bất kỳ hành động nào.
 
 
 
-&&corrupt_fear I'm frozen in fear...
+&&corrupt_fear Mình tê liệt vì sợ hãi...
 
 
- 
-&&SerTitle_sexercise_fear Dread
-&&SerDesc_sexercise_fear Fear status builds up more rapidly.\nMP gauge is slightly resistant to cracking.
 
-&&SerTitle_shamed_ep_fear Trembling
-&&SerDesc_shamed_ep_fear <font color="#FF729F">【Fear at 50%+】</font>\nLess likely to fall on contact with monsters, but taking damage while holding a spell dissipates your magic more easily.
+&&SerTitle_sexercise_fear Khiếp Sợ
+&&SerDesc_sexercise_fear Trạng thái sợ hãi tích tụ nhanh hơn.\nThanh MP có khả năng chống nứt vỡ tốt hơn một chút.
+
+&&SerTitle_shamed_ep_fear Run Rẩy
+&&SerDesc_shamed_ep_fear <font color="#FF729F">【Sợ hãi từ 50% trở lên】</font>\nÍt có khả năng ngã khi tiếp xúc với quái vật hơn, nhưng nếu bị sát thương khi đang giữ phép, ma thuật của mình sẽ tan biến dễ dàng hơn.
 
 
-&&SerTitle_orgasm_after_fear Despondent
-&&SerDesc_orgasm_after_fear Cannot run; walk speed decreased. Mana gauge will not crack. MP recovery impaired.
+&&SerTitle_orgasm_after_fear Tuyệt Vọng
+&&SerDesc_orgasm_after_fear Không thể chạy; tốc độ đi bộ giảm. Thanh mana sẽ không bị nứt vỡ. Khả năng hồi phục MP suy giảm.
 
 
 // ========================================================
 // MARK : 恐怖処理
 // ========================================================
 
-&&Submit_cure_fear Cure fear
-&&Bench_Cmd_cure_fear_home Cure fear (home)
-&&Alert_cannot_cure_fear I should move on soon.
-&&Alert_cure_fear Fear cured slightly.
-&&Alert_cure_fear_little I couldn’t focus on recovery because I’m hungry...
+&&Submit_cure_fear Xua tan sợ hãi
+&&Bench_Cmd_cure_fear_home Xua tan sợ hãi (tại nhà)
+&&Alert_cannot_cure_fear Mình nên tiếp tục lên đường sớm thôi.
+&&Alert_cure_fear Nỗi sợ đã giảm đi đôi chút.
+&&Alert_cure_fear_little Mình không thể tập trung hồi phục vì đang đói...
 
 /* ___ WarpConfirm_cure_fear ___ */
-Instead of restoring reduced max MP, a small amount of consumed food will be digested.
+Thay vì khôi phục lượng MP tối đa đã mất, một phần nhỏ thức ăn đã tiêu thụ sẽ được tiêu hóa.
 
 /* ___ WarpConfirm_cure_fear_alert ___ */
-I’m too hungry to recover properly.
+Mình quá đói để có thể yên tâm mà hồi phục.
 
-&&Catalog_categ_sub_reduce_ep_fear Reduce fear
-&&Catalog_categ_sub_cure_ep_fear Cure fear
+&&Catalog_categ_sub_reduce_ep_fear Giảm sợ hãi
+&&Catalog_categ_sub_cure_ep_fear Xua tan sợ hãi
 
-&&Item_detail_cure_ep_fear Cure &1 fear
-&&Item_detail_dmg_ep_fear <font color="#864788">Induce &1 fear</font>
-
-
-&&Tuto_shotgun <key z/>with a held spell: Shotgun
+&&Item_detail_cure_ep_fear Xua tan &1 sợ hãi
+&&Item_detail_dmg_ep_fear <font color="#864788">Gây ra &1 sợ hãi</font>
 
 
-
-&&SkillItem_Map_Treasure_title &1 treasure map
-&&SkillItem_Map_Treasure_desc Randomly display one treasure chest from &1 on the map.
-
-&&SerTitle_atk_up Attack up
-&&SerDesc_atk_up Attack +&1%
-&&SerTitle_def_up Defense up
-&&SerDesc_def_up Defense +&1%
-&&SerTitle_atk_down Attack down
-&&SerDesc_atk_down Attack -&1%。
-&&SerTitle_def_down Defense down
-&&SerDesc_def_down Defense -&1%
+&&Tuto_shotgun <key z/>khi đang giữ phép: Shotgun
 
 
-&&Stat_ep_fear Fear &1 / &2
+
+&&SkillItem_Map_Treasure_title Bản đồ rương báu &1
+&&SkillItem_Map_Treasure_desc Hiển thị ngẫu nhiên một rương báu thuộc &1 trên bản đồ.
+
+&&SerTitle_atk_up Tăng tấn công
+&&SerDesc_atk_up Tấn công +&1%
+&&SerTitle_def_up Tăng phòng thủ
+&&SerDesc_def_up Phòng thủ +&1%
+&&SerTitle_atk_down Giảm tấn công
+&&SerDesc_atk_down Tấn công -&1%。
+&&SerTitle_def_down Giảm phòng thủ
+&&SerDesc_def_down Phòng thủ -&1%
+
+
+&&Stat_ep_fear Sợ hãi &1 / &2
 
 
 // ========================================================
 // MARK : ver029 宿屋
 // ========================================================
-&&EvTitle_inn_caravan Inn Due Time
+&&EvTitle_inn_caravan Lữ quán Thời Không
 // もちろん Chronos のもじりです。クロというNPCが登場するわけではないので、翻訳の際は Chronos 側に寄せて下さい。
-&&EvTitle_inn_city Hunter's Rest
-&&UiInn_nmenu_simple_tent Cot
-&&UiInn_nmenu_simple Simple room
-&&UiInn_nmenu_economy Economy
-&&UiInn_nmenu_sweet Suite
-&&UiInn_nmenu_royalsweet Royal suite
-&&Select_CheckIn_Tent Check-in
+&&EvTitle_inn_city Chốn Nghỉ Chân Của Thợ Săn
+&&UiInn_nmenu_simple_tent Giường Xếp
+&&UiInn_nmenu_simple Phòng Đơn Giản
+&&UiInn_nmenu_economy Phòng Tiết Kiệm
+&&UiInn_nmenu_sweet Phòng Suite
+&&UiInn_nmenu_royalsweet Phòng Suite Hoàng Gia
+&&Select_CheckIn_Tent Nhận Phòng
 
-&&UiInn_dangerousness_add Danger level +&1
-&&UiInn_dangerousness_rem Danger level -&1
-&&UiInn_dangerousness_reset Reset danger level, reels, and encounters
-&&UiInn_stomach_progress Lose <img mesh="recipe_cost_3" width="24"/>&1 fullness
-
-
-&&UiInn_content Details
-&&UiInn_content_hp HP fully restored
-&&UiInn_content_mp MP fully restored
-&&UiInn_content_ser Full status recovery
-&&UiInn_content_mp_fear Reset fear effects
-&&UiInn_content_mp_gauge_weak Improvised MP gauge repair
-&&UiInn_content_mp_gauge Full MP gauge repair
-
-&&UiInn_content_offprice_food &1％ discount on food (limit &2 item(s))
-&&UiInn_content_ticket_food &1 food menu item
-&&UiInn_check_foodmenu View food menu
+&&UiInn_dangerousness_add Cấp độ nguy hiểm +&1
+&&UiInn_dangerousness_rem Cấp độ nguy hiểm -&1
+&&UiInn_dangerousness_reset Đặt lại cấp độ nguy hiểm, cuộn rương và các cuộc chạm trán
+&&UiInn_stomach_progress Mất &1 độ no<img mesh="recipe_cost_3" width="24"/>
 
 
-&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">Only guests who have stayed overnight may order.</font>
+&&UiInn_content Chi Tiết
+&&UiInn_content_hp HP hồi phục hoàn toàn
+&&UiInn_content_mp MP hồi phục hoàn toàn
+&&UiInn_content_ser Hồi phục toàn bộ trạng thái
+&&UiInn_content_mp_fear Xóa hiệu ứng sợ hãi
+&&UiInn_content_mp_gauge_weak Sửa chữa tạm thời thanh MP
+&&UiInn_content_mp_gauge Sửa chữa hoàn toàn thanh MP
 
-&&UiInn_service_discount &1% discount x &2
+&&UiInn_content_offprice_food Giảm giá &1％ cho thức ăn (giới hạn &2 món)
+&&UiInn_content_ticket_food &1 món trong thực đơn
+&&UiInn_check_foodmenu Xem thực đơn
+
+
+&&lunch_confirm_for_hotel_customer <font color="ff:#A00B35">Chỉ khách đã nghỉ qua đêm mới được gọi món.</font>
+
+&&UiInn_service_discount Giảm giá &1% x &2
 
 
 // ========================================================
 // MARK : 特殊コンフィグ用
 // ========================================================
-&&catalog_suitable_for_vore_digest Can digest prey
-&&CatalogI_fishable_area Can be caught at:
+&&catalog_suitable_for_vore_digest Có thể tiêu hóa con mồi
+&&CatalogI_fishable_area Có thể câu được tại:
 
-&&GO_Select_return_to_bench Return to bench
-&&GO_Select_return_to_title Return to title
+&&GO_Select_return_to_bench Quay lại băng ghế
+&&GO_Select_return_to_title Quay lại màn hình tiêu đề
 
 &&GO_KeyHelp_top_show_menu Menu
 &&Telop_gameover GAME OVER...
@@ -133,108 +133,118 @@ I’m too hungry to recover properly.
 // ========================================================
 
 /* ___ Store_GRank_Help_Title ___ */
-Mysterious Stranger
+Kẻ Bí Ẩn
 
 /* ___ Store_GRank_Help_Contents ___ */
-You can exchange Guild Points from the Adventurer’s Guild for items.
+Bạn có thể đổi Điểm Hội từ Hội Mạo Hiểm Giả để lấy vật phẩm.
 
-If you exchange enough points to drop your rank, the available quests will be immediately downgraded.
+Nếu đổi đủ điểm khiến thứ hạng của bạn giảm xuống, các nhiệm vụ khả dụng sẽ lập tức bị hạ cấp.
 
 
 
-&&Store_no_enough_grank <b>Not enough GP</b>
+&&Store_no_enough_grank <b>Không đủ GP</b>
 
-&&ItemConfirm_term_need Quest required:
+&&ItemConfirm_term_need Yêu cầu nhiệm vụ:
 
-&&ItemConfirm_Dish_total_cost Cost &1 or higher
-&&ItemConfirm_Dish_total_grade Total rank &1 or higher
+&&ItemConfirm_Dish_total_cost Giá trị từ &1 trở lên
+&&ItemConfirm_Dish_total_grade Tổng phẩm cấp từ &1 trở lên
 
-&&Log_item_cannot_obtain I can’t carry any more...
+&&Log_item_cannot_obtain Mình không thể mang thêm nữa...
 
-&&Alert_cannot_change_temporary Cannot change.
+&&Alert_cannot_change_temporary Không thể thay đổi.
 
 
 
 /* ___ WarpConfirm_enable_night_warp ___ */
-Since you’ve explored more than &1% of the &2, you can now fast travel at night and during the rain!
+Vì bạn đã khám phá hơn &1% khu vực &2, giờ bạn có thể di chuyển nhanh vào ban đêm và khi trời mưa!
 
-&&GM_Mag_switch_tool_gz Special tool
-&&Item_cmd_edit_tool_gz Edit special tool functions
+&&GM_Mag_switch_tool_gz Công cụ đặc biệt
+&&Item_cmd_edit_tool_gz Chỉnh sửa chức năng công cụ đặc biệt
 
-&&SerTitle_cocoon Cocooned
-&&SerDesc_cocoon Trapped in sticky threads. MP recovery increased, but button mashing effectiveness decreased.
+&&SerTitle_cocoon Bị Kén Bọc
+&&SerDesc_cocoon Bị mắc kẹt trong những sợi tơ dính. Khả năng hồi phục MP tăng, nhưng hiệu quả thoát thân giảm.
 
 
 
 /* ___ GzToolSel_assign ___ */ 
-Press <key s/>+<key la/><key ba/><key ta/><key ra/> during combat to use assigned special tool functions.
+Nhấn <key s/>+<key la/><key ba/><key ta/><key ra/> trong khi chiến đấu để sử dụng các chức năng công cụ đặc biệt đã gán.
 
 
-&&KeyHelp_Hold_to_execute Hold to execute
-&&Item_cmd_gztool_use Execute immediately
+&&KeyHelp_Hold_to_execute Giữ để thực hiện
+&&Item_cmd_gztool_use Thực hiện ngay lập tức
 
-&&Alert_replaced_temporary_item Voucher exchanged.
+&&Alert_replaced_temporary_item Đã đổi phiếu lấy vật phẩm.
 
 // エッグリムーバー説明追加
-&&Mgm_eggremove_show_help Explanation
-&&Mgm_eggremove_help_1 1. Press and hold <key submit/>, then gently push the device all the way in.
-&&Mgm_eggremove_help_2 2. When the eggs have been removed, press <key submit/> and pull it out slowly.
+&&Mgm_eggremove_show_help Hướng dẫn
+&&Mgm_eggremove_help_1 1. Nhấn giữ <key submit/>, sau đó nhẹ nhàng đẩy thiết bị vào hết cỡ.
+&&Mgm_eggremove_help_2 2. Sau khi lấy trứng ra, nhấn <key submit/> rồi từ từ rút thiết bị ra.
 
 
 // ========================================================
 // MARK : ver0.29e
 // ========================================================
 
-&&GM_skill_edit_manip Edit operations
-&&GM_skill_switch_enabled Switch On/Off
+&&GM_skill_edit_manip Chỉnh sửa thao tác
+&&GM_skill_switch_enabled Bật/Tắt
 
 
 // ========================================================
 // MARK : ver0.30
 // ========================================================
 
-&&Item_cmd_equip_cane_in_battle Equip...<img mesh="alert" tx_color />
+&&Item_cmd_equip_cane_in_battle Trang bị...<img mesh="alert" tx_color />
 /* ___ Item_switch_cane_in_battle  ___ */
-Switching your staff mid-battle takes a second.
-Make sure you're in a safe spot before attempting.
+Đổi trượng giữa trận chiến sẽ mất một chút thời gian.
+Hãy đảm bảo mình đang ở nơi an toàn trước khi thực hiện.
 
 /* ___ Item_switch_cane_in_battle_alert  ___ */
-<img mesh=\"alert\" />If you get interrupted, you will drop
-your staff and will have to pick it up yourself after.
+<img mesh=\"alert\" />Nếu bị gián đoạn, mình sẽ đánh rơi
+trượng và phải tự nhặt lại sau đó.
 
 
-&&Error_not_enough_room Not enough space
-&&Error_no_cane No staff
-&&Error_cannot_attack_no_cane You need a staff to attack
-&&Error_cannot_magic_no_cane You need a staff to cast
-&&Error_cannot_swap_cane_no_anoother No other staves
-&&Error_cannot_init_swap_cane_dest No staff to swap with
-&&Error_cannot_init_swap_cane_src Missing previous staff
+&&Error_not_enough_room Không đủ chỗ trống
+&&Error_no_cane Không có trượng
+&&Error_cannot_attack_no_cane Cần có trượng để tấn công
+&&Error_cannot_magic_no_cane Cần có trượng để thi triển phép
+&&Error_cannot_swap_cane_no_anoother Không có trượng khác
+&&Error_cannot_init_swap_cane_dest Không có trượng để đổi sang
+&&Error_cannot_init_swap_cane_src Không tìm thấy trượng trước đó
 
-&&Cane_Swap_Restart Resuming swap
+&&Cane_Swap_Restart Tiếp tục đổi trượng
 
 
 
 // MOD使用者向け: 整合性エラーが出ている場合にDiscordに報告を促さない処理を行う
 
 /* ___ Title_error_announce_wrong_package ___ */
-<font color="ff:#BD1818">Corrupted program files.</font>
-Redownloading the game may resolve this issue.
-<font size="66%" alpha=0.5>Do not report this error to the dev team.</font>
+<font color="ff:#BD1818">Tệp chương trình bị hỏng.</font>
+Tải lại trò chơi có thể khắc phục được sự cố này.
+<font size="66%" alpha=0.5>Không cần báo cáo lỗi này cho đội ngũ phát triển.</font>
 
 
-&&SerTitle_cane_itemdrop Staff lost
-&&SerDesc_cane_itemdrop You've dropped your staff.\nYou are limited to a weak slap attack and cannot cast magic.\nOpen your map to check\bwhere you dropped it.
+&&SerTitle_cane_itemdrop Mất Trượng
+&&SerDesc_cane_itemdrop Mình đã đánh rơi trượng.\nMình chỉ có thể dùng đòn tát yếu và không thể thi triển phép.\nMở bản đồ để kiểm tra\b nơi mình đã đánh rơi nó.
 
 
 /* ___ Title_error_announce_console ___ */
-<font size="66%" alpha=0.5>Console is enabled.\bAny bugs that occur during console use\bdo not need to be reported to the dev team.</font>
+<font size="66%" alpha=0.5>Console đang được bật.\bKhông cần báo cáo cho đội ngũ phát triển\bnhững lỗi xảy ra khi sử dụng console.</font>
 
 
 // ========================================================
 // MARK : フェイタルシーンxゲームオーバーメニュー用処理
 // ========================================================
-&&GO_Select_go_to_fatal Submit... (View fatal scene)
-&&GO_Select_return_to_title_skipping_fatal (Skip fatal scene)
+&&GO_Select_go_to_fatal Xác nhận... (Xem cảnh thất bại)
+&&GO_Select_return_to_title_skipping_fatal (Bỏ qua cảnh thất bại)
 
-&&Fatal_quit_to_title The End (To Title)
+&&Fatal_quit_to_title Kết Thúc (Về Màn Hình Tiêu Đề)
+
+
+
+// 26/09/13 :  030g オートセーブデータ履歴のための実装
+// 261002 ひなゆあ仮置き
+&&SVD_History Lịch sử của tự động lưu
+&&SVD_manual_save Lưu Thủ Công
+
+
+&&Fatal_beto_level Ướt át

@@ -16,53 +16,53 @@
 
 
 *s12_1a i_00
-Good job! As expected from my rivah-ahchoo!
+Làm tốt lắm! Không hổ danh là đối thủ của-...hắt xìii!
 
 *n_01
-You alright? I think you should go back to the academy and take a nice, hot shower...
+Này, cậu ổn chứ? Tớ nghĩ cậu nên quay về học viện nghỉ ngơi, rồi tắm nước nóng cho khỏe...
 
 *i_02
-I was already planning to! You don't have to tell me!
+Tớ cũng đang định làm thế đây! Không cần cậu phải nhắc đâu!
 *
-Anyway, the <c blue>Energy Ball should be useful for fighting any fast enemies<c> you encounter in the giant trees ahead!
+Dù sao thì, <c blue>Cầu Năng Lượng sẽ rất hữu ích khi đối phó với những kẻ địch nhanh nhẹn<c> mà cậu gặp phải trong những cây đại thụ phía trước đấy!
 *
-Just be careful not to get your mana absorbed like mine was!
+Chỉ cần cẩn thận đừng để mana bị hấp thụ hết như tớ là được!
 
 *n_03
-Got it. Thank you for everything, Ixia.
+Tớ hiểu rồi. Cảm ơn cậu vì mọi thứ nhé, Ixia.
 *i_04
-Don't thank me just yet, Noel Cornehl! After all...
+Đừng vội cảm ơn tớ, Noel Cornehl! Dù sao thì...
 
 *i_05
-I still have one more spell to give you!
+Tớ vẫn còn một phép thuật nữa muốn chỉ dạy cho cậu đấy!
 
 *n_05
 !?
 
 *i_06
-It's one that's particularly good for self-defense; perfect for you!  
+Đây là phép thuật đặc biệt hữu ích để tự vệ, rất hợp với cậu đấy!
 *
-I'll try to deliver it to you before the big ones start running wild!
+Tớ sẽ cố gắng dạy nó cho cậu trước khi lũ quái vật khổng lồ bắt đầu hoành hành!
 
 
 *n_07
-Won't that be kind of...troublesome? You could just hold onto it until we meet agai─
+Như vậy có hơi...phiền phức không? Cậu cứ giữ nó đến khi chúng ta gặp lại cũng đượ─
 
 *i_08
-Aaanyway, you'll be climbing up the giant tree and trudging through the school route into town later, no?
+Dùuuu saooo thì, lát nữa cậu sẽ leo lên cây đại thụ rồi băng qua tuyến đường đến học viện để vào thành phố mà, đúng không?
 *
-We'll definitely meet up along the way!
+Chắc chắn chúng ta sẽ gặp lại nhau trên đường thôi!
 
 *i_09
-See you later, Noel Cornehl!
+Hẹn gặp lại sau nhé, Noel Cornehl!
 
 // 飛んでいく
 *n_09
-...And off she goes. 
-I hope she'll be alright.
+...Cậu ấy lại bay đi mất rồi.
+Hy vọng cậu ấy sẽ ổn.
 *n_10
-So... 
-I can <c blue>use the Energy Ball to counter the upcoming quick enemies<c>. I'll keep that in mind.
+Vậy là...
+Mình có thể <c blue>dùng Cầu Năng Lượng để khắc chế những kẻ địch nhanh nhẹn sắp tới<c>. Phải ghi nhớ điều này.
 
 
 
@@ -70,33 +70,33 @@ I can <c blue>use the Energy Ball to counter the upcoming quick enemies<c>. I'll
 // MARK : s12_mepha
 // ========================================================
 *s12_mepha x_00
-The drawbridge to the village is currently closed.
+Cầu kéo vào làng hiện đang bị kéo lên rồi.
 *
-There have been reports of big monster sightings at the mansion overlooking the lake.
+Có báo cáo về việc nhìn thấy quái vật lớn tại dinh thự nhìn ra hồ.
 *
-We'll open the drawbridge as soon we get the all clear signal.
+Chúng tôi sẽ mở cầu kéo ngay khi nhận được tín hiệu xác nhận khu vực đã an toàn.
 *
-There's a tunnel just down this cliff that leads to the <c blue>Giant Acid Tree<c>.
+Có một đường hầm ngay dưới vách đá này dẫn đến <c blue>Cây Acid Khổng Lồ<c>.
 *
-Go that way if you're in a hurry.
+Nếu đang vội thì em có thể đi lối đó.
 
 *x_01
-Are you a student in the village? Your uniform looks a bit out of date...
+Em là học viên trong làng à? Đồng phục của em trông hơi lỗi thời...
 *
-It's not safe here. You should take shelter at the hillside mansion.
+Ở đây không an toàn đâu. Em nên đến dinh thự trên sườn đồi để trú ẩn.
 *
-Although, personally I don't like that place. 
+Mặc dù cá nhân tôi không thích nơi đó lắm.
 *
-The employees' sleazy dresses and the gnarled vines everywhere make me uncomfortable...
+Những bộ váy hở hang của nhân viên cùng đám dây leo xoắn vặn khắp nơi khiến tôi thấy khó chịu...
 
 *x_02
-If you keep going ← this way, you'll eventually reach the hills.
+Nếu cứ tiếp tục đi theo hướng ← này, cuối cùng cô sẽ đến được sườn đồi.
 *
-But if you're in a hurry, <c blue>go down the cliff and find the tunnel that leads to the Giant Acid Tree<c>.  
+Nhưng nếu đang vội, <c blue>hãy xuống vách đá và tìm đường hầm dẫn đến Cây Acid Khổng Lồ<c>.
 *
-You can keep staring at me all you want, but I'm not lowering the drawbridge.
+Em có thể cứ nhìn tôi bao lâu tùy thích, nhưng tôi sẽ không hạ cầu kéo đâu.
 *
-Ever hear the saying 'a watched pot never boils'?
+Đã nghe câu "Nồi được canh chừng thì chẳng bao giờ sôi" chưa?
 
 
 // ========================================================
@@ -111,22 +111,22 @@ Ever hear the saying 'a watched pot never boils'?
 Cornehl?
 
 *n_01
-Oh, you're...Alma, right?
+Ồ, cậu là...Alma, đúng không?
 *
-<think>Alma, one of my classmates.
-She's a quiet girl. We haven't spoken to each other much...
+<think>Alma, một trong những bạn cùng lớp của mình.
+Cậu ấy khá trầm tính. Bọn mình cũng chưa nói chuyện với nhau nhiều lắm...
 
 // 2-B 隣に座る =================================
 *n_02
 ...
 
 *l_03
-Are you all better?
+Cậu cảm thấy khỏe hơn chưa?
 
 
 // 3-A daijoubu =================================
 *l_04
-That's good to hear...
+Vậy thì tốt quá rồi nhỉ...
 
 
 // => 4-A
@@ -135,12 +135,12 @@ That's good to hear...
 // 3-B Nope =================================
 // 1日目で敗けていない
 *n_05
-It still hurts a bit.
+Tớ vẫn còn thấy hơi đau chút thôi.
 *
-And sometimes, when I'm fighting, the memories of that day come screaming back...
+Và đôi khi, lúc chiến đấu, những ký ức về ngày hôm đó lại ùa về trong tâm trí mình...
 
 *l_06
-I see...that must be difficult.
+Ra vậy...chắc hẳn chuyện đó khó khăn lắm.
 
 
 // => 4-B
@@ -148,22 +148,22 @@ I see...that must be difficult.
 // 3-C Nope =================================
 // 1日目で敗けていた場合
 *n_07
-It still hurts a bit.
+Tớ vẫn còn thấy hơi đau chút thôi.
 *
-And...the other day...I was attacked again and got badly hurt.
+Và...hôm trước...tớ lại bị tấn công và bị thương khá nặng.
 *
-...I think I might not be cut out for fighting.
+...Tớ nghĩ có lẽ tớ không phù hợp với việc chiến đấu.
 
 // M 立ち上がる
 *l_08
-<angry><I>That's not true!
+<angry><I>Không phải vậy đâu!
 
 *n_09
-...!? Wha-what's the matter?
+...!? C-Có chuyện gì thế?
 
 // M 座りなおす
 *l_10
-Ah...I'm sorry, I didn't mean to yell.
+À...xin lỗi, mình không định lớn tiếng đâu.
 
 
 // => 4-B
@@ -172,7 +172,7 @@ Ah...I'm sorry, I didn't mean to yell.
 // 4-A =================================
 // しばらく沈黙
 *l_11
-...Is it okay if I talk about what happened that day at school?
+...Mình có thể nói về chuyện đã xảy ra hôm đó ở trường được không?
 
 
 // => 5-A
@@ -180,10 +180,10 @@ Ah...I'm sorry, I didn't mean to yell.
 // 4-B =================================
 // しばらく沈黙
 *l_12
-...So I shouldn't talk about what happened that day at school, should I?
+...Vậy là mình không nên nhắc lại chuyện đã xảy ra hôm đó ở trường, đúng không?
 
 *n_13
-...No no, it's okay. What did you want to say?
+...Không, không sao đâu. Cậu muốn nói điều gì vậy?
 
 
 // => 5-A
@@ -192,99 +192,99 @@ Ah...I'm sorry, I didn't mean to yell.
 // 5-A =================================
 
 *l_14
-When the monster horde attacked Grazia two weeks ago, many of them rushed towards the school...
+Hai tuần trước, khi đàn quái vật tấn công Grazia, rất nhiều con đã lao về phía học viện...
 *
-The guards fought the ones that forced their way into the building, but the field our class was in was completely unprotected.
+Các vệ binh đã chiến đấu với những con xông được vào tòa nhà, nhưng khu vực lớp chúng ta đang ở hoàn toàn không được bảo vệ.
 *l_15
-...Being the dunce that I am, I tripped and fell when I tried to run away... 
+...Vì tớ vốn hậu đậu nên đã vấp ngã khi cố gắng chạy trốn...
 *
-I thought for sure I was going to die.
+Lúc đó tớ cứ nghĩ chắc chắn tớ sẽ chết.
 *l_15_2
-But then, you cast a spell and knocked the monster down...do you remember?
+Nhưng sau đó, cậu đã thi triển phép thuật và đánh ngã con quái vật...cậu còn nhớ không?
 
 *n_15
-Of course...but I didn't knock it down. At most I made it flinch.
+Tất nhiên rồi...nhưng tớ đâu có đánh ngã nó. Cùng lắm chỉ khiến nó khựng lại chút thôi.
 *n_16
-Which just made them target me...and we both know how that ended.
+Chính điều đó lại khiến chúng chuyển hướng vào tớ...và cả hai chúng ta đều biết chuyện sau đó thế nào rồi.
 *n_16_2
-But I'm glad you got away safely. That might be the best news I've heard all day.
+Nhưng tớ mừng vì cậu đã thoát được an toàn. Có lẽ đó là tin tốt nhất tớ nghe được hôm nay.
 
 *l_16
-Yeah...it was all thanks to you. But...
+Ừm...tất cả đều là nhờ cậu. Nhưng...
 *l_16_2
-I wasn't able to help you in return. 
-I'm so sorry.
+Thế mà tớ đã không thể giúp lại cậu.
+Tớ thực sự xin lỗi rất nhiều.
 *l_16_3
-<m scary>All I did was watch as you were engulfed by that black mass....
+<m scary>Tất cả những gì tớ làm chỉ là đứng nhìn cậu bị khối đen đó nuốt chửng...
 *
-I was so scared...but...I should've done something!
+Tớ đã rất sợ...nhưng...đáng lẽ tớ đã phải làm gì đó chứ!
 
 *n_17
-You have nothing to apologize for, Alma. 
+Alma, cậu không cần phải xin lỗi đâu.
 *
-The teachers said there were a ton of monsters in that raid they'd never seen before. There was nothing you could have done.
+Các giáo viên nói rằng trong đợt tấn công đó có rất nhiều quái vật mà họ chưa từng thấy trước đây. Cậu chẳng thể làm gì được đâu.
 *n_17_2
-And, you see, the Cornehl family is a family of outcasts...I was an unwanted extra in the class.
+Với lại, gia tộc Cornehl là một gia tộc bị xa lánh...tớ chỉ là kẻ thừa thãi không được chào đón trong lớp thôi.
 *
-So if I needed to take the attack for everyone else to be spared...that's a burden I was willing to bear─
+Vì vậy, nếu việc tớ chịu đòn thay mọi người có thể giúp họ được an toàn...thì tớ sẵn lòng gánh lấy trách nhiệm đó─
 
 *l_18
-I-It doesn't matter what bloodline you're from! I don't know what those noble-born students think of you, but...
+K-Không quan trọng cậu xuất thân từ gia tộc nào cả! Tớ không biết những học viên quý tộc kia nghĩ gì về cậu, nhưng...
 *l_18_2
-To me you're a hero.
+Đối với tớ, cậu thực sự là một người hùng.
 *l_18_3
-What you did was inspiring...
+Những gì cậu làm thật sự rất đáng ngưỡng mộ...
 
 *n_19
 ...
 
 *l_20
-I felt so bad I wasn't able to protect you...
+Tớ đã rất buồn vì không thể bảo vệ được cậu...
 *
-I've never liked magic class, but since then I've been secretly training at home.
+Tớ vốn chẳng bao giờ thích những tiết học về phép thuật, nhưng kể từ hôm đó, tớ đã âm thầm luyện tập ở nhà.
 
 *n_21
-...I see. That means we're rivals from now on.
+...Ra vậy. Thế thì từ giờ chúng ta là đối thủ của nhau rồi, nhỉ?~
 
 *l_22
-<I><m ple>No, no, not at all!
-<m>There's no way I could compete with Cornehl or Polystachya!
+<I><m ple>Không, không phải như thế!
+<m>Chẳng đời nào tớ có thể cạnh tranh với Cornehl hay Polystachya được!
 *l_22_2
-...I may never get to be the person I aspire to be, but I can at least make the effort.
+...Có lẽ tớ sẽ chẳng bao giờ trở thành người mà bản thân ngưỡng mộ, nhưng ít nhất tớ cũng có thể cố gắng.
 *l_22_3
-...Ehehe, sorry for rambling on there.
+...Ehehe, xin lỗi vì lan man nhé.
 
 *n_23
-It's alright, it was nice talking to you.　Also, you can just call me 'Noel'.
+Không sao đâu, nói chuyện với cậu vui lắm. À mà, cứ gọi tớ là 'Noel' thôi nhé.
 
 *l_24
-<m fadein>R-Really?
-<m>Okay then, Noel.
+<m fadein>T-Thật ư?
+<m>Vậy thì, Noel.
 
 *l_24_2
-Calling each other by our first name makes it feel like we're friends now.
+Gọi nhau bằng tên riêng khiến tớ có cảm giác chúng ta đã trở thành bạn bè rồi.
 
 *n_25
-We've always been friends, heehee. Well, I'll see you at school.
+Chúng ta vốn đã là bạn bè rồi mà, hehe. Thôi, hẹn gặp cậu ở trong trường nhé.
 
 *l_26
-<m ple>See you!
+<m ple>Hẹn gặp lại!
 
 
 
 
 // 6-A === もう1度話す
 *s12_6a l_00
-Looks like nobody is getting through with the road collapsed.
-I'll keep waiting, but...I'm getting a little sleepy.
+Có vẻ như con đường bị sập nên chẳng ai qua lại được cả.
+Tớ sẽ tiếp tục chờ vậy, nhưng...tớ cũng bắt đầu hơi buồn ngủ rồi.
 *
-I heard they're making progress on removing debris from the other side of the road. Think they can handle a job this big?
+Nghe nói họ đang tiến triển khá tốt trong việc dọn dẹp đống đổ nát ở phía bên kia đường. Không biết họ có xử lý nổi công việc lớn thế này không nhỉ?
 
 
 // 服が破れてる状態でアルマと話す
 *l_01
-...Noel, please take it easy. 
-Also, you should fix your clothes as soon as possible...there are leering eyes everywhere.
+...Noel à, cậu hãy nghỉ ngơi và cẩn thận nhé.
+À mà, cậu nên sửa lại quần áo càng sớm càng tốt...ở đây có nhiều ánh mắt đang nhìn chằm chằm lắm đấy.
 
 
 
@@ -297,147 +297,147 @@ Also, you should fix your clothes as soon as possible...there are leering eyes e
 
 // 同所 他のモブ2 (青年)
 *s12_mobo x_00
-The giant trees here have hollow cavities large enough for us elves to walk through. We cleared them out to use as passageways, but...
+Những cây đại thụ ở đây có những hốc rỗng đủ lớn để Elf chúng ta đi xuyên qua. Chúng tôi đã dọn dẹp bên trong để sử dụng làm lối đi, nhưng...
 
 *
-The 'Giant Acid Tree' lives up to its name. Its acidic sap drips down and pools into lakes.
+Cái tên 'Cây Acid Khổng Lồ' đúng là không sai chút nào. Nhựa cây có tính acid nhỏ xuống rồi đọng lại thành những hồ acid lớn.
 *
-You won't be able to avoid them if you try to get to the village by any route other than this central road.
+Nếu muốn đến làng bằng bất kỳ con đường nào khác ngoài tuyến đường trung tâm này, cô bé sẽ không thể tránh được chúng đâu.
 
 
 *x_01
-These are my only good clothes and I need them for job hunting, so I can't risk burning them.
+Đây là bộ quần áo tử tế duy nhất của tôi, và tôi cần nó để đi xin việc, nên không thể mạo hiểm để chúng bị acid làm cháy được.
 *
-That's why I don't want to go through that road with all the acid. 
+Đó là lý do tôi không muốn đi qua con đường đầy Acid kia.
 *
-The central road collapsing is a disaster on top of a disaster... 
+Việc tuyến đường trung tâm bị sụp đổ đúng là họa vô đơn chí...
 *
-Being late to my interview because of this is probably a valid excuse, r-right?
+Nếu vì chuyện này mà tôi đến muộn buổi phỏng vấn thì chắc đó cũng là một lý do chính đáng, đ-đúng không?
 
 
 
 // ノエルの服が破れてる状態で青年と(何度も)話す
 *x_02
-Whoa, you look awful.　Did you fall into the acid pools or something?
+Whoa, trông cô bé đây thảm hại quá. Cô rơi xuống hồ Acid hay gì vậy?
 
 
 
 *x_03
-...Uh, you don't really want me to see you like that, do you?
+...Ờm, cô bé đâu có muốn tôi nhìn thấy chính mình trong bộ dạng đó, đúng không?
 
 
 *x_04
-I have an interview in town later today. I don't know if I'll make it in time...
+Hôm nay tôi có buổi phỏng vấn ở thành phố. Không biết có đến kịp giờ không nữa...
 *
-What I really want to say is, uh...can I actually say it?
+Thật ra điều tôi muốn nói là, ờ...tôi có thể nói ra không?
 
 
 *x_05
-<angry><m scary>I...your...your breasts and underwear are showing!
+<angry><m scary>T-Tôi...ngực...ngực và đồ lót của cô bé đang lộ ra kìa!
 *
-Stop putting dirty thoughts in my mind!
+Đừng có khiến đầu óc tôi nghĩ đến những thứ bậy bạ vậy chứ!
 
 
 *x_06
-<m scary>Hey! Why do you keep trying to talk to me!? Are you an exhibitionist or something!?
+<m scary>Này! Sao cô bé cứ cố nói chuyện với tôi thế!? Cô bé là kẻ thích khoe cơ thể ra à!?
 *
-Sigh...I'm trying really hard not to get all riled up. I'm just going to stare at you. Okay?
+Haiz...tôi đang cố hết sức để không bị kích thích đây. Tôi sẽ chỉ trừng mắt lên nhìn cô bé thôi đấy. Được chứ?
 
 
 *x_07
-...Hmm. Monster bite marks. Those look painful. I'm not into pain.
+...Hmm. Vết cắn của quái vật. Trông đau đấy. Tôi không thích những thứ trông đau đớn đâu.
 *
-There's a bench over there. You should go patch yourself up.
+Có một chiếc ghế băng ở đằng kia. Cô bé nên đến đó xử lý vết thương đi.
 
 *x_08
-You're aware that you're showing me something indecent, aren't you? Alright then, I'm going to talk about something indecent.
+Cô bé biết thừa rằng mình đang để lộ những thứ đầy khiếm nhã cho tôi xem, đúng không? Được thôi, vậy tôi sẽ nói chuyện về một chuyện khiếm nhã.
 *
-My friend has been chanting something like 
-<m joy><c blue><rb c="Pitiable">KAWAISOU</rb> IS <rb c="Adorable">KAWAII</rb><c><m>. 
+Bạn tôi dạo này cứ lẩm bẩm câu gì đó như là
+<m joy><c blue><rb c="Pitiable">KAWAISOU</rb> IS <rb c="Adorable">KAWAII</rb><c><m>.
 *
-He's been collecting girls' fiction where the heroine fights something and gets in a bind.
+Hắn ta đang sưu tầm nhiều truyện hư cấu về các cô gái trẻ là nhân vật chính chiến đấu với thứ gì đó rồi rơi vào tình thế khó khăn.
 *
-That pervert gets all excited over those. What do you think? 
+Tên biến thái đó cứ thấy mấy thứ ấy là phấn khích. Cô bé nghĩ sao?
 
 
 // 問題ない ～～
 *x_09
-You think so? I mean, I'm not going to tell him what he can and can't do. I think any hobby is fine as long as it doesn't bother other people.
+Cô bé nghĩ vậy à? Ý tôi là, tôi cũng đâu có quyền quyết định hắn được làm gì hay không. Tôi nghĩ sở thích nào cũng được, miễn là không làm phiền người khác.
 
 // おかしい ～～
 *x_10
-I knew you'd think so. ...Wait, after how many times you've spoken to me dressed like that, is that really what you think?
+Tôi biết cô bé sẽ nghĩ vậy mà. ...Khoan đã, sau bao nhiêu lần cô bé nói chuyện với tôi trong bộ dạng đó, cô bé thật sự nghĩ như thế sao?
 
 // 選択肢ここまで ～～
 
 *x_11
-Sigh...the road is still impassible. Even if I do make it into town, it won't be in time for the interview...
+Haiz...con đường vẫn chưa thể đi qua được. Ngay cả khi vào được thành phố thì tôi cũng không kịp giờ phỏng vấn mất...
 *
-I should just go back to the village, bust a nut, and go back to sleep. What would I jack off to, you ask? You, I guess.
+Chắc tôi nên quay về làng, tự xử một trận rồi đi ngủ tiếp. Cô bé hỏi tôi sẽ nghĩ đến ai khi thủ dâm à? Chắc là cô bé rồi đấy.
 *
-...Just kidding. I'll go to the book store and buy some new erotica before I head home.
+...Đùa thôi. Tôi sẽ ghé hiệu sách mua vài cuốn truyện khiêu dâm mới trước khi về nhà.
 *
-I don't normally talk about stuff like this, even with my closest friends.　Maybe you and I are soul mates.
+Tôi bình thường chẳng nói những chuyện như thế này, ngay cả với bạn thân nhất. Có lẽ cô bé và tôi có thể là tri kỷ đấy.
 *
 ...
 *
-...No, I'm not hitting on you.
-Y'know what, forget I said anything...
+...Không, tôi không tán tỉnh cô bé đâu.
+Thôi nào, cứ quên những gì tôi vừa nói đi...
 *
-Let's start again from the top. Ahem.
+Bắt đầu lại từ đầu nhé. E hèm.
 
 
 // ここで会話がループする……ように見せかけて、
 // もう一度会話を繰り返し選択肢のフェーズまで話しかけ続ける
 
 *x_15
-...You kept talking to me over and over again just for the fun of seeing how I would react when you chose a different option to my question.
+...Cô bé cứ liên tục nói chuyện với tôi chỉ để xem tôi sẽ phản ứng thế nào khi cô bé chọn một đáp án khác với câu hỏi của tôi hả.
 *
-When I go out into the world, I'm sure I'll come across many more situations like this. Situations where my worth is tested over and over again.
+Khi bước ra thế giới bên ngoài, chắc chắn tôi sẽ còn gặp nhiều tình huống như thế này. Những tình huống mà giá trị của bản thân bị thử thách hết lần này đến lần khác.
 *
-Perhaps you spoke to me many times as a way of encouraging me, a person who can't be bothered to go to his interview.
+Có lẽ cô bé đã nói chuyện với tôi nhiều lần để động viên tôi, một kẻ thậm chí còn chẳng buồn đi phỏng vấn nữa.
 *
-...When I think about it, maybe meeting you here wasn't so bad after all.
+...Nghĩ lại thì, có lẽ gặp cô bé ở đây cũng không tệ chút nào.
 *
-From now on, when I'm going through hard times in my life, I'll remember the encouragement you gave me with your exposed chest and panties...
+Từ giờ trở đi, mỗi khi gặp khó khăn trong cuộc sống, tôi sẽ nhớ đến lời động viên mà cô bé đã dành cho tôi bằng bộ ngực và quần lót đang phơi bày...
 *
-Maybe.
+Có lẽ vậy.
 
 
 *x_16
-Even if the situation feels like a dead end, there's a solution for it hidden somewhere.
+Dù tình hình có vẻ như đang đi vào ngõ cụt, nhưng ở đâu đó vẫn luôn có một lối thoát dành cho bạn.
 *
-Just like when you flip the clothes up and reveal the breasts and panties...
-*
-...
-No, just no. That's an awful summary.
-*
-I know I said this earlier, but I should just go home and jerk off.
-*
-...I hope we can meet again somewhere. Although next time, I'd be happy if you were dressed a little nicer.
+Cũng giống như khi cô bé đang kéo quần áo lên để lộ ngực và quần lót vậy...
 *
 ...
+Không, không, thôi đi. Tóm tắt kiểu đó thật kinh khủng.
 *
-I'm still definitely not hitting on you. Seriously.
+Tôi biết mình đã nói điều này lúc nãy, nhưng có lẽ tôi nên về nhà rồi tự xử một trận.
+*
+...Hy vọng chúng ta sẽ gặp lại nhau ở đâu đó. Mặc dù lần tới, tôi sẽ vui hơn nếu cô bé đây ăn mặc chỉnh tề một chút.
+*
+...
+*
+Tôi chắc chắn không tán tỉnh cô bé đâu. Thật đấy.
 
 
 
 
 
 *s12_oneesan x_00
-The central road is the safest route between the elf village and the city. There is a situation right now, though.
+Tuyến đường trung tâm là con đường an toàn nhất nối giữa làng Elf và thành phố. Tuy nhiên, hiện tại đang có chút vấn đề.
 *
-Some quick-witted folks are taking a detour to the other side of the road. Is that what you're planning to do?
+Một số người nhanh trí đang tìm đường vòng sang phía bên kia. Em cũng định làm vậy sao?
 *
-There are some hazardous spots along the way where acid sprays out. Be careful not to get burnt to a crisp.
+Dọc đường có một số khu vực khá nguy hiểm, nơi Acid phun trào. Hãy cẩn thận, kẻo bị thiêu cháy thành tro đấy.
 
 
 *x_01
-This road is regularly sprayed with herbicides to prevent mana plants from growing on it.
+Con đường này thường xuyên được phun thuốc diệt cỏ để ngăn Cây Mana mọc lên.
 *
-I once volunteered to help with the decontamination process...it is very tedious and tiresome work.
+Chị từng tình nguyện tham gia công việc khử nhiễm...đó là một công việc vô cùng nhàm chán và mệt mỏi.
 *
-Once you experience something like that, you really appreciate the hard work and effort put in by the people that do it regularly!
+Chỉ khi tự mình trải nghiệm những việc như thế, em mới có thể thật sự trân trọng công sức và sự vất vả của những người thường xuyên làm công việc đó!
 
 
 
@@ -445,44 +445,44 @@ Once you experience something like that, you really appreciate the hard work and
 
 
 *s12_girl x_00
-Nighttime is scary, isn't it?
+Ban đêm đáng sợ thật nhỉ?
 *
-Sometimes monsters will suddenly attack you even when you aren't messing with the mana plants. You have to be prepared for battle anytime.
+Đôi khi quái vật đột nhiên tấn công ngay cả khi cậu chẳng làm gì Cây Mana cả. Lúc nào cũng phải chuẩn bị để sẵn sàng chiến đấu.
 
 *x_01
-Since the attack 2 weeks ago, there has been an increase in the number of monsters that use lightning spells.
+Kể từ đợt tấn công hai tuần trước, số lượng quái vật sử dụng phép thuật hệ sét đã tăng lên kha khá.
 *
-Some were wandering around nearby earlier. I got scared and ran away... 
+Lúc nãy có vài con quái đi lang thang gần đây. Tớ sợ quá nên đã bỏ chạy thật nhanh...
 *
-If you get hit by lightning magic, you need to stay calm and use your Shield or Shield Bash to block it.
+Nếu bị ma thuật hệ sét đánh trúng, cậu cần giữ bình tĩnh và tạo Khiên hoặc Khiên Phản Kích để đỡ đòn.
 *
-They'll warp away if you aim a magic attack at them.
+Nếu ccậu nhắm phép thuật vào chúng, chúng sẽ lập tức dịch chuyển đi chỗ khác.
 *
-<c blue>They'll stop warping if they run out of mana<c>. That's the best time to hit them with a strong attack!
+<c blue>Chúng sẽ ngừng dịch chuyển khi cạn mana<c>. Đó là thời điểm tốt nhất để tung ra một đòn trọng kích để xử đẹp chúng!
 *
-...You may be wondering why I don't go defeat them since I know so much about them. I-It's because I'm also out of mana today!
+...Có lẽ cậu đang thắc mắc tại sao tớ biết rõ về chúng như vậy mà không đi tiêu diệt chúng. L-Là vì hôm nay tớ cũng đã cạn mana rồi!
 
 
 
 
 *s12_megane x_00
-The road collapsed and we can't get to Grazia.
+Con đường phía trước đã bị sụp đổ nên chúng ta không thể đến Grazia.
 *
-I overslept this morning, so I grabbed my breakfast and ran all the way downhill from the village. 
+Sáng nay tôi ngủ quên, nên đã cầm bữa sáng rồi chạy một mạch xuống dốc từ trong làng.
 *
-I was in such a rush that I barely nibbled on my toast, but it was still all for nothing!
+Vì quá vội nên tôi chỉ kịp cắn vài miếng bánh mì nướng, vậy mà tất cả vẫn thành công cốc!
 *
-I suppose I could climb up the stairs and go along the tree to reach the other side, but...I'm a bit too tired to head back to the village right now~
+Tôi nghĩ mình có thể leo cầu thang rồi đi dọc theo thân cây để sang phía bên kia, nhưng...hiện giờ tôi cảm thấy hơi mệt, chẳng muốn quay lại làng chút nào cả~
 
 *x_01
-I heard they called in some kind of...beastmen workers? to help clear the debris. I wonder if they'll be able to clear it all overnight?
+Nghe nói họ đã gọi một nhóm...công nhân thú nhân gì đó đến để giúp dọn dẹp đống đổ nát. Không biết họ có thể dọn sạch hết trong một đêm không nhỉ?
 *
-Might as well say that I can't make it today and just skip class. 
-Should I?
+Thôi thì cứ viện cớ hôm nay tôi không đến được rồi nghỉ học vậy.
+Có nên không nhỉ?
 
 
 
 *s12_morus n_00
-Looks like an ancient device of some kind. I can't read what's written on it.
+Trông giống một loại thiết bị cổ đại nào đó. Mình không đọc được những ký tự được khắc trên đó.
 *
-There's a black jewel-like object stuck on top of the flickering lights.
+Có một vật thể giống viên ngọc đen mắc trên đỉnh những ngọn đèn đang chớp nháy.

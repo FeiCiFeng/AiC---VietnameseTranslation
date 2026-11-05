@@ -14,34 +14,34 @@
 // ========================================================
 
 *___city/bar_w_t_first_battle mb1_00
-<angry><m scary>You have no idea what we've been through!
+<angry><m scary>Nguoiw chẳng biết bọn ta đã phải trải qua những gì đâu!
 *
-<angry><m ple>Our battles with the monsters are a matter of life and death!
-<m>I don't expect you to understand, but-
+<angry><m ple>Những trận chiến với quái vật là chuyện sống còn!
+<m>Ta không mong ngươi hiểu được, nhưng-
 
 *w_00
-Doesn't matter, yer outta line insulting my friend like that.
+Chuyện đó chẳng quan trọng, ngươi đã quá đáng khi xúc phạm bạn ta như vậy rồi.
 *w_01
-And you, boy, risking your life? You look like the type who'd call chasing the girlies around with yer water pistol a 'plan'!
+Còn ngươi, nhóc con? Mạo hiểm mạng sống của mình á? Trông mày giống kiểu người sẽ gọi chuyện chạy theo mấy cô nàng với khẩu súng nước là một 'kế hoạch' đấy!
 
 *w_02
-During the last incident, you guys didn't even leave the safety of the town barrier!
+Trong vụ việc lần trước, bọn mày còn chẳng dám rời khỏi nơi an toàn bên trong kết giới của thành phố!
 <m scary>Gahaha!
 *mb1_03
-<m fadein>Shut up, beastie...
+<m fadein>Câm miệng đi, đồ súc sinh...
 
 *mb1_04
-<angry><m scary>...before I make you!
+<angry><m scary>...trước khi tao khiến mày phải câm miệng!
 
 *mb2_04
-<m ple>Hey, knock it off!
+<m ple>Này, thôi ngay đi!
 
-<W1><m>Forgive my subordinate's rudeness, Mr. Beastman.
+<W1><m>Xin hãy thứ lỗi cho sự thô lỗ của cấp dưới tôi, thưa ngài thú nhân.
 *mb2_05
-Charlie, using your magic here is a serious violation. I'll have to report this.
+Charlie, sử dụng ma thuật ở đây là vi phạm nghiêm trọng. Tôi buộc phải báo cáo chuyện này.
 
 *mb1_06
-<angry><m scary>...dammit!
+<angry><m scary>...Chết tiệt!
 
 
 // ========================================================
@@ -49,77 +49,77 @@ Charlie, using your magic here is a serious violation. I'll have to report this.
 // ========================================================
 
 *___city/bar_w_t00 w_00 
-Ohh, hey there l'il lady! Fancy meeting you in a place like this!
+Ồ, chào cô bé! Thật tình cờ khi gặp nhóc ở một nơi như thế này!
 *w_01
-Y'know, this prob'ly ain't the right place for someone like you. <m joy>You might get attacked by a drunken wolf in elf's clothing.
+Biết không, nơi này có lẽ không thích hợp với người như nhóc đâu. <m joy>Coi chừng bị một con sói say xỉn đội lốt Elf tấn công đấy.
 
 *n_02
-I have a feeling you're right...
+Em có cảm giác anh nói đúng...
 *
-Were you fighting with someone just now?
+Vừa nãy anh đang cãi nhau với ai đó à?
 
 *w_03
-Ah, y'heard that?
-Yeah, I get a bit rowdy when I'm drinkin'...
+Ồ, em nghe thấy à?
+Ừ, cứ uống rượu vào là tôi lại hơi mất kiểm soát...
 
 // 酒場　========================
 
 
 *___city/bar_w_t_bar w_00 
-I always stop by this place when I come down from the mountain. They've got a damn fine selection of drinks.
+Mỗi lần xuống núi, tôi đều ghé qua chỗ này. Ở đây có đủ loại đồ uống ngon tuyệt.
 *w_00_2
-Especially "Heat Shot 197", I can't get enough of it.
+Đặc biệt là "Heat Shot 197", tôi mê nó lắm.
 
 *w_01
-Grazia's not a city I'm comfortable in, t'be honest...
+Nói thật thì tôi không thoải mái lắm khi ở Grazia...
 *w_02
-But, the bartender here is a beastman, so that helps put me at ease.
+Nhưng người pha chế ở đây là một thú nhân, nên tôi cũng thấy yên tâm hơn.
 
 *n_03
-<think>The bartender is a...beastman?
+<think>Người pha chế là...thú nhân sao?
 
 
 // ケンカについて
 
 *___city/bar_w_t_fight w_00 
-That elf soldier guy was picking a fight with my friend.
+Gã lính Elf đó đã gây sự với bạn tôi.
 *
-'Said his dad died in the line of duty.
+Hắn nói cha hắn đã chết khi đang làm nhiệm vụ.
 *
-He claimed a beastman would never understand such loss because we can reincarnate.
+Hắn cho rằng Thú nhân sẽ chẳng bao giờ hiểu được nỗi mất mát ấy, vì chúng tôi có thể tái sinh.
 *
-Made it seem like we've never lived or done an honest day's work in our lives.
+Hắn nói cứ như thể chúng tôi chưa từng sống hay làm việc một cách lương thiện vậy.
 
 *n_01
-The beastmen are doing so much for this city and our people...
-I've seen it with my own eyes.
+Các Thú nhân đã làm rất nhiều điều cho thành phố này và người dân nơi đây...
+Em đã tận mắt chứng kiến điều đó.
 *n_02
-My father is also very prejudiced against beastmen...
-It makes me feel ashamed...
+Cha em cũng có thành kiến rất lớn với Thú nhân...
+Điều đó khiến em cảm thấy thật xấu hổ...
 
 *w_03
-That's pretty normal these days. Don't let it get to ya.
+Dạo này chuyện đó cũng bình thường thôi. Đừng để tâm làm gì cho khổ.
 
 
 // 昔話 ========================
 *___city/bar_w_t_forklore w_00
-This was a long time ago, but...
+Chuyện này xảy ra lâu lắm rồi, nhưng...
 *w_01
-We were working up in the mountains, and one of our guys pulled the pin on some explosives, but his foot got caught on something.
+Hồi đó chúng tôi đang làm việc trên núi, có một người trong nhóm rút chốt thuốc nổ, nhưng chân anh ta lại bị mắc vào thứ gì đó.
 *
-I was just a kid, so seein' him get blown up was so horrifying I couldn't sleep fer days.
+Lúc ấy tôi còn nhỏ, nên cảnh anh ta bị nổ tung khiến tôi kinh hãi đến mức mất ngủ suốt mấy ngày.
 *
-But then next week, he showed up to work fine and dandy.
+Thế mà tuần sau, anh ta lại xuất hiện ở chỗ làm như chẳng có chuyện gì xảy ra.
 *
-Funny how lighthearted our lives can be, ain't it?
+Cuộc sống của tụi anh đấy. đôi khi nhẹ nhàng đến kỳ lạ, phải không?
 
 *n_01
 ...
 
 *w_02
-That's the part where yer s'posta laugh, lass.
+Đến đoạn đó thì em đã phải cười rồi chứ, cô bé.
 *w_03
-Sorry fer puttin' such a bad image in that pretty l'il head a' yers.
+Xin lỗi vì đã khiến cái đầu xinh xắn của nhóc phải hình dung ra chuyện kinh khủng như vậy.
 <m scary>Gahaha!
 
 
@@ -127,44 +127,44 @@ Sorry fer puttin' such a bad image in that pretty l'il head a' yers.
 
 
 *___city/bar_w_t_replacable w_00
-<i><c0>Beastmen shall serve elves and labor under them eternally with their immortal lives.
+<i><c0>Thú nhân sẽ mãi mãi phục vụ Elf và lao động dưới quyền họ bằng cuộc sống bất tử của mình.
 *
-Sigh, being ordered around all the time pisses me off. Still, I do love this life.
+Haiz, lúc nào cũng bị sai khiến thật bực mình. Dù vậy, anh vẫn thích cuộc sống này.
 
 *n_01
-I know that when a beastman reaches the end of their life, they go to a facility for reincarnation.
+Em biết rằng khi Thú nhân đi đến cuối cuộc đời, họ sẽ đến một cơ sở để tái sinh.
 
 *w_02
-Right you are. There's a ridiculously white one here in town. I always go to the one in the mountains, but...
+Đúng vậy. Ở trong thành phố có một cơ sở trắng đến mức kỳ lạ. Anh thường đến cơ sở trên núi hơn, nhưng...
 
 *w_03
-Say, lass, do you think beastmen are despicable?
+Này, cô bé có nghĩ Thú nhân là những kẻ đáng khinh không?
 
 *n_04
-Of course not...
+Tất nhiên là không rồi...
 
 *n_05
-I mean, other elves...
-Some of their opinions are...
+Ý em là, những Elf khác...
+Một số quan điểm của họ...
 
 *w_06
-Ahh, I wasn't tryin' t'complain about elves. Fergit I said anything.
+À, tôi không có ý phàn nàn về Elf đâu. Cứ quên những gì tôi vừa nói đi.
 *w_07
-I've been told that when I was a little brat, I used to go on rants about how we were nothing more than replaceable tools.
+Nghe kể hồi còn bé tí, tôi thường xuyên nổi giận và nói rằng chúng tôi chẳng khác gì những công cụ có thể thay thế.
 *w_08
-I don't even remember that. It's just a dusty memory buried deep in my ID Data.
+Tôi cũng chẳng nhớ chuyện đó nữa. Nó chỉ là một ký ức cũ kỹ bị chôn sâu trong Dữ Liệu ID của tôi thôi.
 
 *n_09
-I thought beastmen remembered everything clearly starting from birth.
+Em tưởng Thú nhân có thể nhớ rõ mọi thứ kể từ khi sinh ra chứ.
 
 *w_10
-No way that's true, since I can't even remember the face of the guy I got in a fight with moments ago.
+Làm gì có chuyện đó, ngay cả khuôn mặt của người anh vừa đánh nhau lúc nãy mà anh còn chẳng nhớ nổi.
 <m scary>Gahaha!
 
 *w_11
-I mostly just remember my family, friends, th' stuff I need for work, and where to get a good drink.
+Anh chủ yếu chỉ nhớ gia đình, bạn bè, những thứ cần thiết cho công việc và chỗ nào có đồ uống ngon thôi.
 *
-I'm grateful to have a youthful body that can handle everyday demands.
+Anh rất biết ơn vì có một cơ thể trẻ trung đủ sức đáp ứng những nhu cầu thường ngày.
 
 
 // ========================================================
@@ -172,64 +172,64 @@ I'm grateful to have a youthful body that can handle everyday demands.
 // ========================================================
 
 *___city/bar_s_t00 s_00
-Oh, hey there. Thanks again for your help earlier.
+Ồ, chào cô bé. Cảm ơn cô bé một lần nữa vì đã giúp đỡ tôi lúc trước.
 *n_01
-You're welcome. Do you know what that fight was about with Walross?
+Không có gì đâu. Anh có biết chuyện gì đã xảy ra trong cuộc cãi vã của Walross không?
 *s_02
-Ah yeah, I got into an argument with an elf soldier and it kinda got out of hand...
+À, ừ. Anh đã tranh cãi với một người lính Elf, rồi mọi chuyện hơi vượt quá tầm kiểm soát...
 *s_03
-Don't worry about it too much. Happens all the time.
+Đừng bận tâm quá. Chuyện này xảy ra thường xuyên lắm.
 
 
 // 酒場
 *___city/bar_s_t_bar s_00
-I never expected to see you in a place like this. Are you a regular here?
+Anh không ngờ lại gặp cô bé ở một nơi như thế này. Cô bé thường xuyên đến đây à?
 *n_01
-No, not really...
-I just stepped in without thinking while I was wandering around town.
+Không hẳn...
+Em chỉ vô tình bước vào đây trong lúc đi dạo quanh thành phố thôi.
 *s_02
-That's good.
+Vậy thì tốt.
 *s_02_2
-<m scary>N-not that this is a bad place to be or anything...<m>
+<m scary>K-Không phải anh nói nơi này không tốt hay gì đâu...<m>
 *
-It's just that you seem like such a nice girl, but if you were actually the type to hang out at bars with roughnecks...
+Chỉ là cô trông có vẻ là một cô gái rất ngoan, nhưng nếu cô thực sự thuộc kiểu người thường xuyên lui tới quán rượu với đám người thô lỗ...
 *
-<m fadein>My mental image of elves would get even more weird and I wouldn't know what to think...
+<m fadein>Thì hình tượng của anh về Elf sẽ càng trở nên kỳ quặc hơn, đến mức chẳng biết phải nghĩ sao nữa...
 *s_03
-Ahh, but then I'd be projecting things onto you.
+À, nhưng nói vậy thì anh lại đang áp đặt suy nghĩ của mình lên cô bé rồi.
 
 *n_04
-Ehe, you might be overthinking it a bit.
+Ehe, có lẽ anh nghĩ nhiều quá rồi đấy.
 
 
 // 4ascend
 *___city/bar_s_t_4ascend s_00
-I noticed you checking out the 4-Ascend table. Are you interested?
+Anh thấy em đang nhìn bàn chơi 4-Ascend. Cô bé có hứng thú à?
 *n_01
-Oh, um...yes, but...
+À, ừm... đúng vậy, nhưng...
 *
-I usually play with my friends and teachers. Playing here with someone I barely know feels weird...
+Em thường chơi cùng bạn bè và giáo viên. Chơi ở đây với một người gần như xa lạ khiến em thấy hơi kỳ...
 *n_02
-Is 4-Ascend played up in the mountains?
+Trên vùng núi cũng chơi 4-Ascend sao?
 *s_03
-Yes, but mostly by children.
+Có, nhưng chủ yếu là trẻ con chơi thôi.
 *s_04
-The one here seems to be an older version with different rules than what I'm used to. I'm not sure how good I'd be.
+Có vẻ ở đây có vẻ là phiên bản cũ hơn, với luật chơi khác với những gì anh đã quen thuộc. Anh không chắc mình sẽ chơi tốt đến đâu.
 *s_05
-But, I could use a break from drinking with Walross. You up for a game?
+Nhưng anh cũng muốn nghỉ ngơi một chút sau khi uống rượu với Walross. Em có muốn chơi một ván không?
 
 // ノエルが勝った
 *s_10
-Wow, you're good. Thanks for the match.
+Ồ, cô bé chơi giỏi thật đấy. Cảm ơn vì ván đấu nhé.
 
 // オストレアが勝った
 *s_20
-Looks like I won. Wanna play again?
+Có vẻ như anh thắng rồi. Chơi tiếp không?
 
 
 // 4ascendのテーブルに一人で座る
 *___city/bar_4ascend_table n_00
-It's a table for the game "4-Ascend". Do bar patrons play this a lot?
+Đây là bàn chơi "4-Ascend". Khách ở quán rượu thường chơi trò này lắm sao?
 
 
 // ========================================================
@@ -238,33 +238,33 @@ It's a table for the game "4-Ascend". Do bar patrons play this a lot?
 
 // s12_10a (ev_s12_v22) の内容に近い内容。
 *___city/bar_w_s12_10a w_00
-Well, if it ain't the little elf lady from the woods!
+Ồ, chẳng phải cô bé Elf ở khu rừng đây sao!
 *
-Heard you bailed my partner out of quite the jam back there.
+Nghe nói em đã cứu cộng sự của tôi khỏi một tình huống khá nguy hiểm nhỉ.
 
 *n_01
-H-hello. Thanks for all your hard work cleaning up the debris.
+C-Chào anh. Cảm ơn anh đã vất vả dọn dẹp đống đổ nát đó ạ.
 
 *s_02
-Well, it wouldn't have been possible without you.
+À, chuyện đó sẽ không thể làm được nếu không có em đâu.
 *
-Glad to see you. I was hoping for a chance to thank you properly.
+Rất vui được gặp lại cô bé. Tôi đã mong có dịp cảm ơn nhóc một cách đàng hoàng.
 
 *n_03
-Yes, but, I wouldn't have even been able to get here without all your hard work, so...
+Vâng, nhưng nếu không có mọi người vất vả như vậy thì em cũng chẳng thể đến được đây...
 
 *w_04
 <m scary>Gahaha!</m>
-Let's just say we're all square and leave it at that.
+Cứ coi như chúng ta đã huề nhau rồi nhé.
 *w_05
-Now then, I don't believe we've introduced ourselves yet.
+À phải rồi, hình như chúng ta vẫn chưa giới thiệu bản thân nhỉ.
 *
-I'm Walross, and this short guy is Ostrea.
+Tôi là Walross, còn anh chàng thấp bé này là Ostrea.
 
 // *w_05b 普段は山でひたすら..
 
 *w_06
-Fancy meeting you in a place like this.
+Thật tình cờ khi gặp nhóc ở một nơi như thế này.
 
 //*bar_w_t00 w_01 に続く
 
@@ -272,10 +272,10 @@ Fancy meeting you in a place like this.
 // MARK : スラム下の大穴に降りると霧が濃くなる。
 // ========================================================
 *___city/walross_hall_t00 n_00
-<m scary><i>Cough <W1>cough</i>...
+<m scary><i>Khụ <W1>khụ</i>...
 
 *n_01
-<think><m fadein>The mana fog is thick down here so close to the sanctuary. It's hard to breathe...
+<think><m fadein>Sương mù mana ở dưới này dày đặc quá, nhất là khi ở gần khu thánh địa. Khó thở thật...
 
 
 // ========================================================
@@ -288,74 +288,74 @@ Fancy meeting you in a place like this.
 <think>Walross?
 // 酒場で既に話している場合
 *n_01
-<think>...Walross? I thought he was at the bar? How is he down here?
+<think>...Walross? Mình tưởng anh ấy đang ở quán rượu chứ? Sao lại ở dưới này?
 *w_02
 <s3>...
 *n_03
-<think><m fadein>This is weird. How many of them are there?
+<think><m fadein>Lạ thật. Sao nhiều người giống anh ấy vậy?
 *w_04
 <s3><W2>...
 *n_05
-<think><m fadein>I don't think that's him. I wouldn't be surprised if some beastmen looked similar to each other.
+<think><m fadein>Mình không nghĩ đó là anh ấy đâu. Cũng chẳng lạ nếu có vài Thú nhân trông giống nhau.
 *n_10
-<think>He's focusing on his work.
+<think>Anh ấy đang tập trung làm việc.
 // 話しかける
 *n_11
-Excuse me, Walro-
+Xin lỗi, Walro-
 
 *n_12
-<m scary>Cough
-<W3>Cough <W1>COUGH!!
+<m scary>Khụ
+<W3>Khụ <W1>KHỤ!!
 *n_13
-<think><m fadein>Ugh. I can barely breathe down here, let alone talk...
+<think><m fadein>Khó chịu quá. Mình gần như không thể thở ở dưới này, nói chuyện lại càng không...
 
 
 // ヌシ戦前に岩を爆破したあと、ヴァーロスと一度も会話していない場合
 *n_20
-<think>Is he...the beastman I met in the forest?
+<think>Đó là...Thú nhân mà mình đã gặp trong rừng sao?
 
 
 // ヴァーロスと一度も会話せず、n_20を見たあとにヴァーロスと酒場で話し、もう一度穴の底で複製ヴァーロスと話す。
 *n_03_2
-<think>That's Walross, any way I look at it.
+<think>Nhìn kiểu gì thì đó cũng là Walross.
 
 
 // ========================================================
 // MARK : 酒場に戻り、ヴァーロスにそっくりさんについて話題を出す
 // ========================================================
 *___city/bar_w_t_similar_person n_00
-I saw someone who looked just like you working at the base of the tree...
+Em đã thấy một người trông giống hệt anh đang làm việc dưới gốc cây...
 
 *w_01
-<angry><m scary>WHAT!?
-<m fadein>You got a death wish, li'l lady!?
+<angry><m scary>CÁI GÌ!?
+<m fadein>Nhóc muốn chết à, cô bé!?
 *
-Don't they teach elves not to get close to the source of magic anymore?
+Elf không còn được dạy là phải tránh xa nguồn ma thuật nữa sao?
 
 *n_02
-<m joy>N-<m>No, they...
-I mean, they do. Being down there was terrifying.
+<m joy>K-Không, em...
+Ý em là, đúng là có được dạy. Ở dưới đó đáng sợ lắm.
 
 *w_03
-Geez...
-You look innocent enough, but yer actually quite the troublemaker, y'know that?
+Trời đất...
+Trông nhóc có vẻ ngây thơ, nhưng hóa ra lại là một cô bé thích gây rắc rối đấy nhỉ?
 
 *n_04
-Anyway, do you have any siblings?
+À mà, anh có anh chị em nào không?
 
 *w_05
-<W2><s3>Beastmen are nothing more than pawns of society.
+<W2><s3>Thú nhân chẳng qua chỉ là những con tốt của xã hội.
 *
-<W2><s3>That's all you need to know, lass.
+<W2><s3>Nhóc chỉ cần biết có vậy thôi.
 
 *n_06
-Huh? Oh...
+Hả? À...
 *n_07
-S-sorry for prying...
+E-Em xin lỗi vì đã tò mò...
 
 *w_07
 ...<m scary>Gahaha!<m>
-Don't worry about it! We've all got our secrets, after all!
+Đừng lo! Ai cũng có bí mật của riêng mình mà!
 
 
 // ========================================================
@@ -363,39 +363,39 @@ Don't worry about it! We've all got our secrets, after all!
 // ========================================================
 
 *___city/bar_w_t_4ascend w_00
-Nah, not while I'm drinking.
+Không đâu, lúc đang uống rượu thì thôi.
 *w_01
-I'd prob'ly end up flippin' the table.
+Có khi tôi lại lật tung cả cái bàn mất.
 <m scary>Gahaha!
 *w_02
-Ask Ostrea. He plays all the time up in the mountains.
+Hỏi Ostrea đi. Anh ta chơi trò đó suốt khi ở trên núi.
 
 
 // ========================================================
 // ヴァーロスの隠し事についてオストレアに聞く
 // ========================================================
 *___city/bar_s_t_secret_talk n_00
-I'm not sure if I should ask, but...
+Em không biết có nên hỏi chuyện này không, nhưng...
 *
-I tried to talk to Walross about his family and he brushed me off. Do you know anything about them?
+Em đã thử hỏi Walross về gia đình anh ấy, nhưng anh ấy lảng tránh. Anh có biết gì về họ không?
 
 *s_01
-Huh? I've heard he and his wife get along fine at home, but...
+Hửm? Anh nghe nói anh ấy và vợ sống khá hòa thuận ở nhà, nhưng...
 *s_02
-<m fadein>Maybe you've heard about...
+<m fadein>Có lẽ em đã nghe nói về...
 
 *n_02
-About what?
+Về chuyện gì?
 
 *s_03
-Um...ahh...sorry, it's not my place to say.
+Ừm... à.. xin lỗi, anh không tiện nói ra.
 *
-And it's nothing you need to know about anyway.
+Với lại, đó cũng chẳng phải chuyện nhóc cần biết.
 *
-I hope you're not offended.
+Mong em đừng phật lòng.
 
 *n_04
-It's okay.
+Không sao đâu mà.
 
 
 // ========================================================
@@ -404,7 +404,7 @@ It's okay.
 
 // 来店時
 *___city_bar/_barten_portal bt_00 
-Welcome. What'll it be?
+Chào mừng. Cho hỏi tiểu thư đây muốn dùng gì?
 
 
 // 魔族ですよね？
@@ -413,106 +413,106 @@ Welcome. What'll it be?
 ...
 
 *n_01
-Um...forgive me, but...
+Ừm...xin thứ lỗi, nhưng...
 *n_02
-Has anyone ever told you you look like a monster?
+Đã từng có ai nói rằng ngươi trông giống quái vật chưa?
 
 *bt_03
-I do?
+Tôi sao?
 *bt_04
-Haha, that's a funny joke, Miss.
+Haha, cô nói đùa vui thật đấy.
 *bt_05
-Anyone can see that I'm a beastman.
+Ai nhìn cũng biết tôi là Thú nhân mà.
 
 *n_06
-...are you sure?
+...Ngươi chắc chứ?
 
 // 本当に獣人？
 
 *___city_bar/_barten_t01 bt_01
-Yes. Some customers mistake me for something else sometimes.
+Đúng vậy. Đôi khi cũng có khách nhầm tôi với thứ khác.
 *bt_02
-But, monsters cannot penetrate the city's barrier.
+Nhưng quái vật không thể xuyên qua kết giới của thành phố, cô hiểu mà.
 *
-So the fact that I'm standing here proves that I'm a beastman.
+Vậy nên việc tôi đứng ở đây đã chứng minh tôi là Thú nhân rồi.
 
 *n_03
-<think>But...he's clearly...
-Am I going crazy?
+<think>Nhưng... rõ ràng anh ta...
+Mình phát điên rồi sao?
 
 *___city_bar/_barten_t02 n_00
 <m fadein>...
 
 *bt_02
-The March Hare is a place of rest and relaxation for elves and beastmen alike.
+March Hare là nơi nghỉ ngơi và thư giãn dành cho cả Elf lẫn Thú nhân.
 *
-A place for anyone from any walk of life to get together.
+Một nơi để mọi người, bất kể xuất thân hay địa vị, có thể tụ họp cùng nhau.
 *
-Let all who come join one another in an intoxicating actiholic drink.
+Hãy để tất cả những ai ghé thăm cùng nâng ly trong một thức uống Actihol đầy say đắm.
 *
-That's our philosophy.
+Đó chính là triết lý của chúng tôi.
 *bt_03
-My affairs are but a trifling matter amongst all others here.
+Chuyện riêng của tôi chỉ là một vấn đề nhỏ nhặt giữa vô vàn chuyện khác ở nơi này.
 *n_04
-Huh?
+Hả?
 
 *bt_05
-For visiting us on this fine day in Grazia-
+Vì đã ghé thăm chúng tôi vào một ngày đẹp trời tại Grazia-
 *
--let me fix you a drink on the house.
+-để tôi mời cô một ly nhé.
 
 
 // サービスを飲んだ
 *n_06
-Uuu...I feel dizzy...
+Ư... đầu mình hơi choáng...
 
 *bt_07
-Ohh, good job finishing the whole thing.
+Ồ, cô uống hết cả ly rồi à.
 *bt_08
-We look forward to your continued patronage.
+Mong cô sẽ tiếp tục ủng hộ chúng tôi.
 
 // サービスを飲まなかった
 *n_10
-No thanks, I think I'll pass.
+Thôi, cảm ơn. Ta xin phép không uống.
 
 *bt_11
-I see. That's a shame.
+Ra vậy. Tiếc thật.
 
 
 // 4回目以降、お酒も飲んでいない
 *___city_bar/_barten_t03 n_00
-<think>He said he's a beastman, but...I just don't believe him.
+<think>Anh ta nói mình là Thú nhân, nhưng...mình vẫn không thể tin được.
 
 *bt_00
-Let me know when you're ready to order.
+Khi nào sẵn sàng gọi món dùng thì cứ cho tôi biết nhé.
 
 
 // お酒を飲んだ状態で話しかける
 *___city_bar/_barten_t_drunk n_00
-<m joy>Whoa...the room isssspinning...
+<m joy>Chao ôi... căn phòng cứ quay cuồồồng...
 
 *bt_01
-Your head looks like it's about to float away.
+Trông đầu cô như sắp bay đi mất rồi.
 *
-I can offer you some water if you'd like.
+Nếu muốn, tôi có thể mang cho cô chút nước.
 
 // サービスを飲んでいない
 *n_01
-<think><m fadein>Uuu...there was...something I wanted to ask...
-What was it?
+<think><m fadein>Ư... hình như mình có...chuyện gì đó muốn hỏi...
+Là chuyện gì nhỉ?
 
 // サービスを飲んでいる
 *n_10
-<m joy>You can't fool me, Mr. Bartender...you're a...
+<m joy>Ngươi không lừa được ta đâu, anh pha chế...anh là...
 
 *bt_11
-...beastman. Like I told you before.
+...Thú nhân. Như tôi đã nói với cô trước đó.
 
 *n_12
-<m joy>Yeah, that's right...a beastman...
+<m joy>Đúng rồi...Thú nhân...
 *
 <m fadein><s4>......
-<s1>Wait...
+<s1>Khoan đã...
 
 
 // ========================================================
@@ -520,58 +520,58 @@ What was it?
 // ========================================================
 
 *___city_bar/_barten_juice_explode bt_00
-<m scary>WHAT WAS THAT!?
+<m scary>CHUYỆN GÌ VỪA XẢY RA VẬY!?
 
 *n_01
-<m fadein>Um...uh...!
+<m fadein>Ừm...ơ...!
 
 
 // がやがや
 *mb1_00
-What is that smell?
+Mùi gì thế này?
 
 *mb2_00
-Feels like elven magic...
+Có cảm giác như ma thuật của Elf...
 
 *mb3_00
-Did that girl really...?
+Cô gái đó thật sự đã...?
 
 *bt_02
-Don't worry everyone, I'll clean it up.
+Mọi người đừng lo, tôi sẽ dọn dẹp.
 *
-Please relax and continue to enjoy yourselves.
+Xin hãy thư giãn và tiếp tục tận hưởng buổi tối.
 
 
 // 暗転
 *bt_03
-<evil><m scary><big><s2>(SLURP)
-(SCHLORP)
-(SIIIIIIIIIP)
+<evil><m scary><big><s2>(ỰC)
+(ỰC ỰC)
+(HÚPPPPPPPPPP)
 
 
 // @バックヤード
 
 *bt_100
-Are you completely out of your mind? Carrying around a bottle of your fluids...
+Cô mất trí rồi sao? Mang theo cả một chai dịch thể của mình bên người...
 
 *n_101
-I'm sorry...
-It slipped out of my hands.
+Tôi xin lỗi...
+Nó tuột khỏi tay tôi.
 
 *bt_102
-I'm willing to believe it was an accident this time.
+Lần này tôi sẵn lòng tin rằng đó chỉ là tai nạn.
 
 
 // 4-C
 // ※2
 *___city_bar/_barten_t_omorashi bt_100
-I can't believe I have to say this, but...
+Tôi không nghĩ mình lại phải nói điều này, nhưng...
 *
-This is a restaurant. A place where cleanliness is required.
+Đây là nhà hàng. Một nơi đòi hỏi sự sạch sẽ.
 *bt_100_2
-Furthermore, we have beastmen as part of our customer base. The magic in your bodily fluids is toxic to them.
+Hơn nữa, khách hàng của chúng tôi còn có cả Thú nhân. Ma thuật trong dịch thể cơ thể cô có độc với họ.
 *
-Please be more careful.
+Xin hãy cẩn thận hơn.
 
 
 // 5-A ================
@@ -581,14 +581,14 @@ Please be more careful.
 // 5-B ================
 // => ごめんなさい
 *n_101
-I'm really sorry. You're a beastman and I made you clean up something so dangerous to you...
+Tôi thật sự xin lỗi. Ngài là Thú nhân mà tôi lại khiến ngài phải dọn dẹp thứ nguy hiểm như vậy...
 
 
 // ※3
 *bt_102
-Hm? Oh...right.
+Hửm? À... phải rồi.
 *
-Well, don't worry about it too much. I've dealt with things like this before.
+Thôi, đừng bận tâm quá. Tôi cũng từng xử lý những chuyện thế này rồi.
 
 *n_102
 ...?
@@ -598,61 +598,61 @@ Well, don't worry about it too much. I've dealt with things like this before.
 // 5-C ================
 // => 吸いました?
 *n_103
-Sorry for asking, but...
+Xin lỗi vì đã hỏi, nhưng...
 
 *n_104
-Was that you making the <m scary>slurping<m> sound earlier?
- 
+Lúc nãy có phải ngài đã phát ra âm thanh <m scary>húp<m> đó không?
+
 // ※4
 *bt_105
-I have no idea what you're talking about. You must've been imagining things.
+Tôi không hiểu cô đang nói gì cả. Chắc cô nghe nhầm thôi.
 *
-And unless you <c black><b>have the power to look into the past</b><c>, you can't prove anything.
+Và trừ khi cô <c black><b>có khả năng nhìn thấy quá khứ</b><c>, cô không thể chứng minh được gì đâu.
 
 // => 5-D
 
 // 5-D ================ 
 
 *bt_106
-Anyway, please listen carefully to what I'm about to say.
+Dù sao thì, hãy lắng nghe thật kỹ những điều tôi sắp nói.
 // ※5
 *bt_107
-Sometimes it's best to take a moment and reflect on what you've done.
+Đôi khi, điều tốt nhất là dành chút thời gian để nhìn lại những việc mình đã làm.
 *n_108
-<think>This is the last guy I want to get a lecture from. But, it is good advice...
+<think>Đúng là người cuối cùng mình muốn nghe giảng đạo lại là anh ta. Nhưng lời khuyên này cũng có lý...
 *bt_109
-Do you remember how?
+Cô còn nhớ cách làm chứ?
 
 *bt_110
-Use<key add/>to open the history log. You can also access it from the <i>Scenario</i> tab.
+Dùng<key add/>để mở Nhật Ký Đối Thoại. Cô cũng có thể truy cập nó từ tab <i>Kịch Bản</i>.
 
 *n_111
-<m fadein>Ah, r-right...
+<m fadein>À, v-vâng...
 
 
 // バックログを見返すと、店主は実際とは違う発言をしている。
 // ※1
 *___city_bar/_barten_juice_explode bt_03_b
 <font color="ff:#000000">
-Yum Yum Yum Yum Yum
-Yum Yum Yum Yum Yum
-Yum Yum Yum Yum Yum
+Ngon ngon ngon ngon ngon
+Ngon ngon ngon ngon ngon
+Ngon ngon ngon ngon ngon
 
 // ※2
 *___city_bar/_barten_t_omorashi bt_100_b
-<font color="ff:#000000">I'm so glad I was able to taste fresh elf fluids. Being a bartender does have its perks.
+<font color="ff:#000000">Tôi rất vui vì đã được nếm thử dịch thể Elf tươi mới. Đúng là làm pha chế cũng có những đặc quyền riêng.
 
 // ※3
 *bt_102_b
-<font color="ff:#000000">Yes, it is dangerous to beastmen. But, to us monsters, it is the greatest source of nourishment. Thanks for the meal.
+<font color="ff:#000000">Đúng vậy, nó nguy hiểm với Thú nhân. Nhưng đối với chúng tôi, những con quái vật, đó lại là nguồn dinh dưỡng tuyệt vời nhất. Cảm ơn vì bữa ăn nhé.
 
 // ※4
 *bt_105_b
-<font color="ff:#000000">Yes, I slurped up every last drop. It was delicious. I've got something important to tell you, so open the history log again when I tell you to.
+<font color="ff:#000000">Đúng vậy, tôi đã uống sạch từng giọt cuối cùng. Ngon lắm. Tôi có chuyện quan trọng muốn nói với cô, nên hãy mở lại Nhật Ký Đối Thoại khi tôi bảo nhé.
 
 // ※5
 *bt_107_b
-<font color="ff:#000000">I have a proposition for you. The lock combo for the storeroom below the bar is 378. Enter and ring the bell 3 times to call me if you're interested.
+<font color="ff:#000000">Tôi có một đề nghị dành cho cô. Mật mã của kho chứa bên dưới quầy bar là 378. Nếu quan tâm, hãy vào đó và rung chuông ba lần để gọi tôi. Cảm ơn vì đã vất vả.
 
 
 // ========================================================
@@ -660,78 +660,78 @@ Yum Yum Yum Yum Yum
 // ========================================================
 
 *___city_bar/_barten_portal bt_50
-Nothing much to talk about. I'm just your average hardworking beastman.
+Chẳng có gì nhiều để nói cả. Tôi chỉ là một Thú nhân chăm chỉ bình thường thôi.
 
 *___city_bar/_barten_portal n_51
-I don't think I'm gonna get anything out of him right now. Maybe I need to <c5>wait for the right moment</c5>.
+Có vẻ lúc này mình chẳng moi được thông tin gì từ hắn ta. Có lẽ mình cần <c5>đợi đúng thời điểm</c5>.
 
 
-*___city_bar/_arbeit_portal n_00
-May I ask you something?
+//*___city_bar/_arbeit_portal n_00
+Tôi có thể hỏi ngài một chuyện được không?
 
 *bt_01
-Certainly. What can I do for you?
+Tất nhiên. Tôi có thể giúp gì cho cô?
 
 *n_02
-A beastman named Walross asked me to fetch his favorite drink.
+Một Thú nhân tên Walross nhờ ta lấy giúp loại đồ uống yêu thích của anh ấy.
 *
-Could you make it for him?
+Ngài có thể pha cho anh ấy được không?
 
 
 *bt_03
-Ah.
+À.
 *
-I imagine by "favorite", he's asking for his usual.
+Tôi đoán đồ uống "yêu thích" ở đây có nghĩa là món quen thuộc mà anh ta thường gọi.
 
 
 *n_04
-Oh, good, you know what it is. How much do I owe you?
+Ồ, tốt quá, ngài biết đó là món gì. Vậy tổng số tiền tôi phải trả là?
 
 *bt_05
-Slow down a there. This establishment doesn't do takeout.
+Khoan đã nào tiểu thư. Quán này không phục vụ đồ uống mang đi.
 
 *n_05
-Oh, um...
-Could you make an exception for me?
+À, ừm...
+Ngài có thể phá lệ cho tôi lần này được không?
 
 
 *bt_06
-<m fadein><s3>Hmm...
-<s1><m0><W3>Ahh.
+<m fadein><s3>Ừm...
+<s1><m0><W3>À...
 *
-I just can't say no to such a cute face.
+Tôi thật sự không thể từ chối một gương mặt dễ thương như vậy.
 *
-And Walross <i>is</i> one of my best customers.
+Mà Walross <i>đúng là</i> một trong những khách hàng thân thiết nhất của tôi.
 
 
 *bt_07
-Alright, how about this? I'll let you do a takeout order -
+Được rồi, thế này nhé. Tôi sẽ cho cô gọi món mang đi -
 *
-- <i>if</i> <c5>you work here part-time<c0>.
+- <i>nếu</i> cô <c5>làm việc bán thời gian ở đây<c0>.
 
 
 
 *n_08
-<I>A...a part-time job!?
-<m ple>Here!?
+<I>V-Việc làm bán thời gian!?
+<m ple>Ở đây sao!?
 *
-Buh-but I don't have any customer service experience! I wouldn't know what to say to them!
+N-Nhưng tôi chưa từng có kinh nghiệm phục vụ khách hàng! tôi không biết phải nói gì với họ cả!
 
 
 *bt_09
-I'm not asking you to entertain customers.
+Tôi không yêu cầu cô phải tiếp chuyện khách hàng.
 *
-Just take the drinks and food orders to the correct tables.
+Chỉ cần mang đồ uống và thức ăn đến đúng bàn là được.
 
 
 *n_10
-Oh. (<i>phew</i>)
-I can do that.
+Ồ. (<i>phù</i>)
+Việc đó thì tôi làm được.
 
 *bt_11
-Good. Go change into your work uniform when you're ready to start.
+Tốt. Khi nào sẵn sàng bắt đầu thì đi thay đồng phục làm việc nhé.
 *
-Can't have you serving customers if you don't look like you work here.
+Không thể để cô phục vụ khách hàng trong khi trông chẳng giống nhân viên ở đây được.
 
 
 
@@ -741,190 +741,190 @@ Can't have you serving customers if you don't look like you work here.
 
 
 *___city_bar/_arbeit_pretalk_0 bt_00
-Back for another shift already?
+Lại quay lại làm ca nữa rồi à?
 
 *n_01
-I...didn't get the right drink for Walross.
-                            
+Tôi...đã lấy nhầm đồ uống cho Walross.
+
 *bt_02
-I see. Well I'm happy for the extra help.
+Ra vậy. Thế thì tôi cũng vui vì có thêm người phụ giúp.
 
 *bt_03
-This place gets so busy sometimes, I'd even take help from a monster.
-    
+Đôi khi quán này đông khách đến mức tôi thậm chí còn nhận cả sự giúp đỡ từ quái vật.
+
 *n_04
-<think>...Is he self-aware or not?
+<think>...Hắn ta có tự nhận thức được bản thân không vậy?
 
 
 
 
 // 完了後
 *___city_bar/_arbeit_pretalk_1 bt_00
-Did Walross enjoy his drink?
+Walross có tận hưởng đồ uống đó không?
 
 *n_01
-Yes. Thank you so much for helping me.
+Tất nhiên rồi. Cảm ơn ngài rất nhiều vì đã giúp tôi.
 
 *bt_02
-Would you still be interested in working here part-time?
+Cô vẫn muốn làm việc bán thời gian ở đây chứ?
 
 *n_03
-Um...I guess so. I think the responsibility would be good for me.
+Ừm... chắc là có đó. Tôi nghĩ gánh vác trách nhiệm cũng sẽ tốt cho bản thân.
 
 *bt_04
-Hah. That's a great way to look at it.
+Hah. Suy nghĩ vậy là tốt đấy.
 
 *bt_05
-Alright, I'll mix ‘em, you serve ‘em. Let's do our best.
+Được rồi, tôi pha chế, cô phục vụ. Cùng cố gắng nhé.
 
 
 // 最初にバニー服を着る
 
 *___city_bar/_arbeit_first_cloth n_00
-Th-this is a bold uniform.
-But...I kinda like it. The ears make me look like a cute beastman.
+B-Bộ đồng phục này táo bạo thật đấy.
+Nhưng... tôi cũng khá thích nó hơn rồi. Đôi tai này khiến tôi trông giống một Thú nhân dễ thương.
 
 *bt_01
-It's called a “Bunny Suit”. Apparently it was worn in establishments like this one in ancient times.
+Bộ này được gọi là “Bộ Đồ Thỏ”. Nghe nói vào thời cổ đại, nó từng được mặc ở những cơ sở giống như nơi này.
 *
-The one you're wearing is a replica tailored by enthusiasts of such culture.
+Bộ cô đang mặc là bản sao được những người đam mê nền văn hóa ấy may lại.
 
 *n_02
-Oh? Then why do <i>you</i> have it?
+Ồ? Vậy tại sao <i>ngài</i> lại có nó?
 
 *bt_03
-All sorts of customers pass through here.
+Đủ loại khách hàng đều ghé qua đây.
 *
-Every now and then one of them can't pay and we have to...(<i>ahem</i>) barter.
+Thỉnh thoảng có người không trả nổi tiền, và chúng tôi phải... (<i>khụ</i>) trao đổi bằng cách khác.
 
 
 // 最初に逆バニー服を着る
 *n_50
-<angry>Wha-<m scary>wha-what <m ple>kind of uniform is this!?
-<m0>It doesn't cover anything!!
+<angry>C-Cái...<m scary>cái <m ple>đồng phục kiểu gì thế này!?
+<m0>Chẳng che được gì cả!!
 
 *bt_51
-There's a research group in town dedicated to recreating fashion designs found in old textbooks.
+Trong thành phố có một nhóm nghiên cứu chuyên tái tạo các thiết kế thời trang được tìm thấy trong những cuốn sách cổ.
 *
-They rushed that one over here as a gift one day.
+Một ngày nọ, họ đột nhiên mang bộ đó đến đây làm quà.
 
 
 *n_52
-<I><angry><m ple>I don't care <i>why</i> you have it! How does something like this qualify as clothing!?
+<I><angry><m ple>Tôi không quan tâm <i>tại sao</i> ngài lại có nó! Sao thứ như thế này lại được xem là quần áo chứ!?
 
 *bt_53
-I don't think that information was in the textbooks.
+Tôi không nghĩ thông tin đó có trong sách đâu.
 
 *bt_54
-It's possible they were working from an incomplete description. Such is the nature of archaeology.
+Có thể họ đã dựa trên một mô tả không đầy đủ. Đó là bản chất của khảo cổ học mà.
 
 *n_55
-They could have at least <b><i>tried</i></b> to fill in the blanks...
+Ít nhất họ cũng phải <b><i>cố gắng</i></b> lấp đầy những chỗ thiếu vải chứ...
 
 
 
 // バイトルール
 
 *___city_bar/_arbeit_rule bt_200
-Serve the customers the drink they ordered. Simple.
+Phục vụ cho khách đúng loại đồ uống họ đã gọi. Đơn giản thôi.
 *
-You can carry up to two drinks at a time. Pick them up with <key check/>, serve them with <key x/>.
+Cô có thể mang tối đa hai ly cùng lúc. Dùng <key check/> để lấy đồ uống, và <key x/> để phục vụ.
 *
-<c5>A bubble will appear above each customer's head with their order<c0>, so don't worry about having to memorize faces.
+<c5>Một bong bóng sẽ xuất hiện phía trên đầu mỗi khách hàng, hiển thị món họ đã gọi<c0>, nên cô không cần phải nhớ mặt từng người đâu.
 
 *bt_201
-Ideally, you should <c5>serve drinks in the order they were placed<c0>.
+Tốt nhất là cô nên <c5>phục vụ đồ uống theo đúng thứ tự khách gọi<c0>.
 *
-If a drink takes too long to arrive, the customer <c1>will get upset<c0>.
+Nếu đồ uống được mang đến quá muộn, khách hàng <c1>sẽ không vui đâu<c0>.
 *
-Serving them in the correct sequence will also <c5>earn us more tips<c0>.
+Phục vụ đúng thứ tự cũng sẽ giúp chúng ta <c5>nhận được nhiều tiền boa hơn<c0>.
 
 *bt_202
-I say “us”, but all tips will remain with the bar.
+Tôi nói "chúng ta" vậy thôi, nhưng toàn bộ tiền boa sẽ thuộc về quán rượu.
 *
-They'll factor into how well you're doing, though. Do well enough and I'll let you make a takeout order.
+Dù vậy, chúng vẫn được tính vào đánh giá hiệu quả làm việc của cô. Nếu làm đủ tốt, tôi sẽ cho cô gọi món mang đi.
 
 *bt_203
-The order sequence will be written on the slip next to the counter. Check it if you get confused.
+Thứ tự gọi món sẽ được ghi trên tờ giấy cạnh quầy. Nếu thấy bối rối thì cứ kiểm tra nhé.
 
 
 // お触りについて
 *bt_250
-Customers can get a little...handsy when they're drunk.
+Khách hàng đôi khi trở nên hơi...thích động chạm khi say sỉn.
 *
-Some of the sleazy ones might try to touch you.
+Một vài kẻ biến thái có thể sẽ cố chạm vào người cô đấy.
 
 *n_251
-<m scary>EWWWWWW, NO!!
+<m scary>EWWWWWW, KHÔNG ĐỜI NÀO!!
 
 *bt_252
-Yes, well...
+Ừ thì...
 *
-If you can put up with it, it might <c5>increase your tips<c0>.
+Nếu cô chịu đựng được, việc đó có thể <c5>giúp tăng tiền boa<c0>.
 
 *bt_253
-Just stand close to them for a bit and see what happens.
+Cứ đứng gần họ một lúc rồi xem chuyện gì xảy ra.
 *
-But don't push yourself.
+Nhưng đừng ép bản thân quá nhé.
 
 
 // 休憩について
 
 *bt_300
-You will have a stamina bar that will gradually decrease while you're working part-time.
+Cô sẽ có một thanh thể lực giảm dần trong lúc làm việc bán thời gian.
 *
-Getting orders wrong, getting harassed, and other such things will cause it to significantly decrease.
+Gọi nhầm món, bị quấy rối và những chuyện tương tự sẽ khiến thanh thể lực giảm đáng kể.
 *
-When your stamina gets low, you'll move much more slowly and have trouble remembering orders.
+Khi thể lực xuống thấp, cô sẽ di chuyển chậm hơn nhiều và khó nhớ được các đơn gọi món.
 
 *bt_301
-To help keep your stamina up, I've prepared some biscuits for you. <c5>Eat them by holding <key d/> whenever you need one<c0>.
+Để giúp cô duy trì thể lực, tôi đã chuẩn bị một ít bánh quy. <c5>Khi cần, hãy giữ <key d/> để ăn chúng<c0>.
 *
-Just make sure nothing else is happening at the same time or you might drop them.
+Chỉ cần đảm bảo không có chuyện gì khác đang diễn ra cùng lúc, nếu không cô có thể làm rơi bánh đấy.
 
 *n_302
-How many am I allowed to have?
+Tôi được ăn bao nhiêu cái?
 
 *bt_303
-As much as you like. But, if you eat too many...
+Bao nhiêu tùy thích. Nhưng nếu ăn quá nhiều...
 *
-Well, we'll cross that bridge when we come to it.
+Thôi, đến lúc đó rồi tính.
 
 
 //ログ上書き
 *bt_303_b
-<font color="ff:#000000"><b>Eating two biscuits will reduce the damage you take from harassment, but the Actihol in them will make you need to use the restroom more often. You can use the bar's restroom if you're wearing the Reverse Bunny Suit while you're working.
+<font color="ff:#000000"><b>Ăn hai chiếc bánh quy sẽ giảm hư hại cô phải chịu khi bị quấy rối, nhưng Actihol trong bánh sẽ khiến cô cần đi vệ sinh thường xuyên hơn. Nếu đang làm việc và mặc Bộ Đồ Thỏ Nghịch Đảo, cô có thể sử dụng nhà vệ sinh của quán bar.
 
 *n_304
 ...?
 
 
 *___city_bar/_arbeit_end_game bt_00
-Thanks for your help. You can take a break now.
+Cảm ơn cô đã giúp đỡ. Giờ cô có thể nghỉ ngơi rồi.
 
 // おもらししそう
 *bt_10
-Thanks for your help. Please go take a bre-
+Cảm ơn cô đã giúp đỡ. Giờ cô đi nghỉ-
 
 *n_11
-<I><m scary>S-<m ple>Sor-excuse me!
+<I><m scary>X-<m ple>Xin-xin lỗi!
 
 
 //粗相をしてしまう
 *___city_bar/_arbeit_omorashi n_00
-<think><s3><m fadein>Ahhh...why do I feel so hot? M-My stomach's all tingly...
+<think><s3><m fadein>Ááá... sao mình lại thấy nóng thế này? B-Bụng mình cứ râm ran...
 
 *n_01
-<think><s2><m fadein>Oh no! <s5><m scary>A-Aaaahh…
-<W5>I can't hold it in!
-<s3>S-Stop! Noooo!
+<think><s2><m fadein>Không ổn rồi! <s5><m scary>A-Aáá...
+<W5>Mình không nhịn được nữa!
+<s3>D-Dừng lại! Khônggg!
 
 
 // おもらしイベント途中のお客様、大丈夫ですか？ (ev_city2 bt_403) の代わりに使用。
 *___city/_omorashi bt_404
-Oh dear, it seems you've pushed yourself too hard. Here, take this towel and go to the back.
+Ôi trời, có vẻ cô đã cố quá sức rồi. Đây, cầm lấy chiếc khăn này rồi vào phía sau đi.
 *
-Stand back, beastmen patrons. This liquid contains high concentrations of magic.
+Các vị khách Thú nhân, xin hãy lùi lại. Chất lỏng này chứa nồng độ ma thuật rất cao.
 
 
 // ========================================================
@@ -933,20 +933,20 @@ Stand back, beastmen patrons. This liquid contains high concentrations of magic.
 
 //粗相をして
 *___city_bar/_arbeit_result bt_00
-...(sigh)
-While I do appreciate your hard work, I wish you wouldn't make a mess of my bar.
+...(thở dài)
+Tôi rất trân trọng sự chăm chỉ của cô, nhưng tôi mong cô đừng làm bẩn quán bar của tôi như vậy.
 
 *n_01
-I'm so sorry...
+Tôi thật sự xin lỗi...
 
 *bt_02
-I'll have to send the suit to the cleaners. That'll be coming out of your pay.
+Tôi sẽ phải gửi bộ đồ này đến tiệm giặt. Chi phí sẽ được trừ vào tiền công của cô.
 
 // ログには別の文章が出力される
 // ログ上書き
 
 *bt_02_b
-<font color="ff:#000000"><b>It had a wonderful, rich aroma. Extremely delicious. But, for appearances' sake, I'll still have to deduct the cost of cleaning the suit.</b></font>
+<font color="ff:#000000"><b>Hương thơm thật tuyệt vời, đậm đà và vô cùng ngon miệng. Nhưng để giữ thể diện, tôi vẫn phải trừ chi phí giặt bộ đồ này.</b></font>
 
 
 // リザルト表示 〜〜〜〜
@@ -955,21 +955,21 @@ I'll have to send the suit to the cleaners. That'll be coming out of your pay.
 //カクテル分が溜まってない
 
 *bt_10
-We're still pretty busy. Can you work another shift?
+Quán vẫn còn khá đông. Cô có thể làm thêm một ca nữa không?
 
 //溜まっている
 
 *bt_20
-You've earned your takeout order. What would you like?
+Cô đã kiếm đủ để gọi món mang đi rồi. Cô muốn gọi món gì?
 
 
 // 十分な額を稼いだ
 
 *bt_25
-Place seems livelier than usual. And our reputation is soaring.
+Hôm nay quán có vẻ nhộn nhịp hơn thường lệ. Danh tiếng của chúng ta cũng đang tăng vọt.
 
 *bt_26
-Since you're doing such a good job, I'll <c5>let you take multiple drink orders with you at a time from now on<c0>.
+Vì cô làm việc rất tốt, từ giờ tôi sẽ <c5>cho phép cô mang theo nhiều đơn đồ uống cùng lúc hơn<c0>.
 
 
 //テイクアウト
@@ -977,156 +977,156 @@ Since you're doing such a good job, I'll <c5>let you take multiple drink orders 
 //テイクアウトしない場合
 
 *bt_30
-Are you sure? Hmm...
-That would mean I'm indebted to you.
+Cô chắc chứ? Hừm...
+Như vậy thì tôi lại mắc nợ cô mất.
 
 
 *bt_31
-Tell you what, if you have any questions for me, I'll answer them. It's not really fair compensation, but it's the best I can do.
+Thế này đi, nếu cô có câu hỏi nào dành cho tôi, tôi sẽ trả lời. Không hẳn là khoản đền đáp công bằng, nhưng đó là điều tốt nhất tôi có thể làm.
 
 *announce_end_result_00
-※You may ask the bartender one question per break.
+※Mỗi lần nghỉ giải lao, bạn có thể hỏi người pha chế một câu hỏi.
 
 
 // 終了
 
 *bt_200
-I think it's about time I got back to tending the bar. You comin'?
+Tôi nghĩ đã đến lúc quay lại trông coi quầy rượu rồi. Cô đi chứ?
 
 
 // やっぱり魔族ですよね？
 
 *___city_bar/_barten_tm_you_are_monster bt_00
-You already know about the storeroom.
+Cô đã biết về kho chứa rồi.
 
 *bt_01
-All I'll say is that I'm the one doing our off-the-books transactions.
+Tôi chỉ có thể nói rằng chính tôi là người thực hiện các giao dịch không chính thức của chúng ta.
 
 
 // 何故テイクアウトできない？
 
 *___city_bar/_barten_tm_not_takeout bt_00
-Because I like seeing the customer's face light up when they drink one of my cocktails.
+Bởi vì tôi thích nhìn thấy vẻ mặt rạng rỡ của khách hàng khi họ uống một trong những ly cocktail do tôi pha.
 *
-It makes me feel alive. If I let people do takeout orders, I wouldn't get to see their expressions.
+Điều đó khiến tôi cảm thấy mình đang sống. Nếu cho phép khách mua mang đi, tôi sẽ không thể nhìn thấy biểu cảm của họ nữa.
 
 *bt_01
-It's times like that I'm glad I moved here from my gloomy old hometown.
+Những lúc như vậy, tôi lại thấy vui vì mình đã chuyển đến đây từ vùng quê nhà u ám của mình.
 
 
 // 山に知り合いはいる？
 
 *___city_bar/_barten_tm_mount_friend bt_00
-Ah, the fisherman. I wouldn't really say we're friends.
+À, người đánh cá đó sao. Tôi không nghĩ có thể gọi chúng tôi là bạn bè.
 *
-We occasionally do business and chat casually, as any beastmen do.
+Thỉnh thoảng chúng tôi làm ăn với nhau và trò chuyện đôi chút, như những Thú nhân bình thường vẫn làm.
 
 *bt_01
-I'm not going to divulge all of his personal info.
+Tôi sẽ không tiết lộ toàn bộ thông tin cá nhân của anh ta.
 *
-He chose a life of quietude, away from the rest of the world. I respect it.
+Anh ta đã chọn sống một cuộc đời yên tĩnh, tránh xa phần còn lại của thế giới. Tôi tôn trọng điều đó.
 
 
 // 襲撃の時、大丈夫だった？
 *___city_bar/_barten_tm_about_td bt_00
-I was here, heedless of the evacuation orders.
+Tôi đã ở đây, phớt lờ lệnh sơ tán.
 *
-As were many other residents.
+Cũng như rất nhiều cư dân khác.
 *
-They have so little. I understand their decision to not abandon their home.
+Họ chẳng có bao nhiêu thứ trong tay. Tôi hiểu vì sao họ không muốn bỏ lại nhà cửa của mình.
 
 *bt_01
-I'd like to put down roots here with them.
+Tôi muốn bén rễ ở nơi này cùng với họ.
 *
-Offering respite at my bar during their time of need was in service of that.
+Việc mở cửa quán rượu để mọi người có chỗ nghỉ ngơi trong lúc khó khăn cũng là một phần trong mong muốn ấy.
 
 *n_02
-<think>I was hoping he'd give me a lead on the reason behind the attack.
-Does he really not know anything?
+<think>Mình cứ tưởng hắn ta sẽ cho mình manh mối về nguyên nhân vụ tấn công.
+Hắn ta thật sự không biết gì sao?
 
 
 // 貯蔵庫のパスワードは？
 *___city_bar/_barten_tm_password bt_00
-Curiosity getting the better of you? What are you hoping to find down there?
+Sự tò mò đang lấn át cô sao? Cô hy vọng sẽ tìm thấy gì ở dưới đó?
 *
-For security reasons, I can't tell you the password outright.
+Vì lý do an ninh, tôi không thể nói thẳng mật mã cho cô.
 
 *bt_01
-But, there's a chance I <m joy>may have let it slip<m0> during one of our conversations.
+Nhưng có khả năng tôi <m joy>đã vô tình để lộ nó<m0> trong một cuộc trò chuyện trước đây.
 *
-<c5><s3>Think back on what I said<c0>.
-<s1><W3>Better yet, <c1>look back at what I said<c0>. I think you can figure it out.
+<c5><s3>Hãy nhớ lại những gì tôi đã nói<c0>.
+<s1><W3>Tốt hơn hết là <c1>xem lại những gì tôi đã nói<c0>. Tôi nghĩ cô có thể tự tìm ra đấy.
 
 
 // 別ワードがログに出力
 *bt_01_b
-<font color="ff:#000000"><b>The code for the Storage Room is 378. Head in and ring the bell three times to call me. Thanks for all your hard work.</b></font>
+<font color="ff:#000000"><b>Mật mã của Kho Chứa là 378. Hãy vào trong và rung chuông ba lần để gọi tôi. Cảm ơn vì đã vất vả.</b></font>
 
 
 // 襲撃はなぜ起きたと思う？
 *___city_bar/_barten_tm_about_td2 bt_00
-The regulars at the bar seem to think it was an orchestrated attack.
+Các khách quen ở quán rượu dường như cho rằng vụ tấn công đã được dàn dựng.
 *
-That someone lured the horde into the city.
+Có kẻ đã dụ cả đàn quái vật vào thành phố.
 
 *n_01
-Do you think so too?
+Ngài cũng nghĩ vậy sao?
 
 *bt_02
-I think everyone is overthinking the whole situation.
+Tôi nghĩ mọi người đang suy diễn quá nhiều về chuyện này.
 *
-The horde gets hungry, horde needs a lot of food, the tree here in town is aglow with mana, horde makes its way here.
+Đàn quái vật đói, đàn quái vật cần rất nhiều thức ăn, cái cây trong thành phố này lại phát sáng vì mana, thế là chúng kéo đến đây.
 
 *n_03
 ......
 
 *bt_04
-Let's just say, hypothetically, there was a mastermind behind the attack.
+Cứ giả sử rằng có một kẻ chủ mưu đứng sau vụ tấn công đi.
 *
-Someone that cunning and ambitious wouldn't be working themselves to the bone in a seedy bar every day.
+Một kẻ vừa xảo quyệt vừa tham vọng như vậy sẽ không ngày ngày làm việc đến kiệt sức trong một quán rượu tồi tàn đâu.
 
 *n_05
-But what if they were an assistant to the mastermind? Someone who could sabotage the barrier from inside?
+N-Nhưng nếu kẻ đó chỉ là trợ thủ của tên chủ mưu thì sao? Một người có thể phá hoại kết giới từ bên trong?
 
 *bt_06
-And why would they do that?
+Vậy họ làm thế để làm gì cơ chứ?
 *
-What do they have to gain from their customers dying and watching as their own bar gets reduced to rubble?
+Họ được lợi gì khi khách hàng của mình chết hết, còn chính quán rượu của họ thì bị biến thành đống đổ nát?
 
 *n_07
-I-It was just a hypothetical, remember? Forget I said anything.
+T-Ta chỉ giả sử thôi mà, ngài còn nhớ chứ? Cứ quên chuyện tôi vừa nói đi.
 
 
 // ヴァーロスは複数いる
 
 *___city_bar/_barten_tm_about_walross bt_00
-Clones? He must've sold his identity. Guess that means his financial troubles finally caught up to him.
+Bản sao sao? Chắc hắn đã bán danh tính của mình rồi. Có vẻ cuối cùng những rắc rối tài chính cũng bắt kịp hắn.
 
 *bt_01
-We beastmen <i>can</i> create duplicates of ourselves.
+Thú nhân chúng tôi <i>có thể</i> tạo ra bản sao của chính mình.
 *
-But they have none of our memories. They are empty husks to be discarded once they're used up.
+Nhưng chúng không có ký ức của chúng tôi. Chúng chỉ là những cái xác rỗng sẽ bị vứt bỏ sau khi sử dụng xong.
 
 *bt_02
-But do they not feel pain? Do they have wants and desires?
+Nhưng liệu chúng có cảm nhận được đau đớn không? Có mong muốn và khát vọng không?
 *
-Whether they do or not is of no importance to those concerned. The clone doesn't reincarnate. All troubles are erased when they die.
+Dù có hay không cũng chẳng quan trọng với những kẻ liên quan. Bản sao không tái sinh. Mọi rắc rối đều bị xóa sạch khi chúng chết.
 
 *bt_03
-It's a terrifying concept to think on.
+Đó là một khái niệm đáng sợ để suy ngẫm.
 
 *n_04
-...Do you pass on your memories?
+...Ký ức của ngài có được truyền lại không?
 
 *bt_05
-Of course.
-I am a beastman, after all.
+Tất nhiên rồi.
+Dù sao tôi cũng là một Thú nhân mà.
 
 
 // ログ上書き
 
 *bt_05_b
-<font color="ff:#000000"><b>Of course. Ever since I learned how to.</b></font>
+<font color="ff:#000000"><b>Tất nhiên rồi. Kể từ khi tôi học được cách làm điều đó.</b></font>
 
 *n_07
 ......
@@ -1134,9 +1134,9 @@ I am a beastman, after all.
 
 // まかないには何が入ってる？
 *___city_bar/_barten_tm_about_food bt_00
-Chocolate chips, pastry dough, -
+Chocolate chip, bột làm bánh, -
 *
-- and some Actihol, to help take the edge off.
+- và một ít Actihol để giúp cô thư giãn.
 
 *n_01
-<think>It takes off a little too much...
+<think>Có vẻ nó khiến mình thư giãn hơi quá mức rồi thì phải...

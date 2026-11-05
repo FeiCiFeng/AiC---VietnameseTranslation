@@ -14,76 +14,76 @@
 // ========================================================
 
 *___dojo/t01 dj_00
-<I><angry/><m scary><big>HERETIC!!!!
+<I><angry/><m scary><big>ĐỒ DỊ GIÁO!!!!
 
 *n_01
 !?
 
 *dj_02
-Ahem, excuse me.
-Welcome to Fiolet Dojo, a place to train your body, hone your skills, and refine your tactics.
+Khụ, xin lỗi.
+Chào mừng đến với Võ Đường Fiolet, nơi rèn luyện cơ thể, trau dồi kỹ năng và hoàn thiện kỹ thuật.
 *
-No need to explain why you're here. I can see it in your eyes...
+Không cần phải giải thích lý do ngươi đến đây đâu. Ta có thể nhìn thấy điều đó trong mắt ngươi...
 
 *dj_03
-<I><m scary>You're a dojo stormer, aren't you!?
+<I><m scary>Ngươi là kẻ chuyên đi thách đấu các võ đường, đúng không!?
 
 *n_04
-Eh, no. I was just curious about the statues outside...
+Ơ dạ, không ạ. Đệ tử chỉ tò mò về những bức tượng bên ngoài thôi...
 
 *dj_05
-Don't be so modest.
+Đừng khiêm tốn như thế chứ.
 *
-Your glorious thighs alone could take us all on. They're like the border between life and death.
+Chỉ riêng cặp đùi tuyệt mỹ của cô bé thôi cũng đủ sức đối đầu với tất cả chúng tôi rồi. Chúng chẳng khác nào ranh giới giữa sự sống và cái chết.
 
 *dj_06
-And just beyond that border lies the White Triangle, protector of the holy land.
+Và ngay bên kia ranh giới ấy là Tam Giác Trắng, người bảo hộ vùng đất thánh.
 *
-Ah, it's as if the angel Fiolet has returned to us.
+Aah, cứ như thiên thần Fiolet đã trở về với chúng con vậy.
 
 *n_07
-<I><angry>H-Hey, stop that!!
+<I><angry>N-Này, dừng lại đi!!
 
 *dj_08
-Sorry. I am the assistant instructor of this dojo.
+Xin lỗi. Tôi là trợ giảng của võ đường này.
 *
-Have you been learning new "skills" properly?
+Ngươi đã chăm chỉ học những "kỹ năng" mới chưa?
 
 *n_09
-Um...I've learned new skills from the talismans I've been given. Some of them I found myse-
+À...đệ tử đã học được một số kỹ năng mới từ những lá bùa được phát cho. Một vài cái thì đệ tử tự tìm đượ-
 
 *dj_10
-<I><angry/><m scary><big>HERETIIIIIIC!!!!
+<I><angry/><m scary><big>ĐỒ DỊ GIÁOOOO!!!!
 
 *n_11
 <m ple>WAH!
 
 *dj_12
-<angry/><m scary>Skills are supposed to be passed down from master to apprentice, father to son, generation after generation!
+<angry/><m scary>Kỹ năng phải được truyền từ sư phụ sang đệ tử, từ cha sang con, qua hết thế hệ này đến thế hệ khác!
 *
-These days everyone talks about how easy it is to just attach an extension to their staff.
+Thời buổi này ai cũng nói về chuyện chỉ cần gắn thêm một thiết bị vào trượng là có thể học kỹ năng dễ dàng.
 
 *dj_14
-<I><angry/><m scary><big>They're all heretics!!!
+<I><angry/><m scary><big>Tất cả bọn họ đều là dị giáo đồ!!!
 
 *n_15
 ...
 
 *dj_16
-Ahem, excuse me.
+Khụ, cho ta thứ lỗi.
 *
-This dojo is a place for you to acquire skills available to you the proper way.
+Võ đường này là nơi giúp ngươi lĩnh hội những kỹ năng mà mình có thể học được theo đúng phương pháp.
 *
-There is a fee for training with us. We're not a charity, you know.
+Tập luyện ở đây có thu phí. Bọn ta đâu phải tổ chức từ thiện, ngươi biết đấy.
 
 *st_18
-In other words, if you've missed some skills in your adventures, you can buy them here.
+Nói cách khác, nếu ngươi bỏ lỡ một số kỹ năng trong chuyến phiêu lưu của mình, ngươi có thể mua chúng ở đây.
 
 *dj_19
-Well, in layman's terms, yes, that's how it works. If you want to train for reasons other than learning skills, we welcome that as well.
+Ừm, nói đơn giản thì đúng là như vậy. Nếu ngươi muốn tập luyện vì những lý do khác ngoài học kỹ năng, bọn ta cũng rất hoan nghênh.
 
 *dj_20
-Come on, you youngsters!! Improve your skills with us and rise to new heights!!
+Nào, hỡi tinh thần tuổi trẻ!! Hãy cùng chúng ta nâng cao kỹ năng và vươn tới những đỉnh cao mới!!
 
 // ========================================================
 // MARK : ___dojo/v_talk_statue
@@ -92,97 +92,97 @@ Come on, you youngsters!! Improve your skills with us and rise to new heights!!
 
 
 *___dojo/v_talk_statue dj_00
-That is Fiolet, angel of war. We designed our uniforms to be similar to hers.
+Đó là Fiolet, thiên thần chiến tranh. Đồng phục của chúng tôi được thiết kế dựa theo trang phục của ngài ấy.
 *
-<c black><i>"Born from the sacred tree, of mixed blood between an angel and a human; she overcame many hardships and guides us all."
+<c black><i>"Sinh ra từ Mẫu Thụ, mang dòng máu lai giữa thiên thần và con người; vượt qua vô vàn gian khó, ngài đã dẫn dắt tất cả chúng ta."
 *
-...so the legend goes.
+...truyền thuyết kể lại như vậy.
 
 *n_01
-<think>Rather generic sounding legend...
+<think>Nghe cứ chung chung thế nào ấy ạ...
 
 *dj_02
-<c black><i>"When the White Triangle peeks out from beneath her robes, those who gaze upon it are blessed with good fortune."</c></i>
+<c black><i>"Khi Tam Giác Trắng ló ra bên dưới lớp y phục của ngài, những ai chiêm ngưỡng nó sẽ được ban phước lành và vận may."</c></i>
 *
-That's a very well-known passage.
+Đây là một đoạn trích rất nổi tiếng.
 *n_03
-<think>This guy just likes to stare at panties...
+<think>Ông già này chỉ thích nhìn quần lót thôi...
 
 *dj_04
-I polish it every day so the White Triangle will shine more brightly on this dojo.
+Ngày nào tôi cũng đánh bóng bức tượng để Tam Giác Trắng tỏa sáng rực rỡ hơn, mang phước lành đến võ đường này.
 *
-You are welcome to touch it and receive its blessings.
+Ngươi cứ thoải mái chạm vào nó để nhận lấy phước lành nhé.
 *n_05
-<think>Gross...
+<think>Tởm quá...
 
 // ======
 
 *___dojo/v_talk_cap n_00
-Um, about what's on your head...
+À, còn thứ trên đầu Sư Phụ là...
 
 *dj_01
-It is the symbol of our dojo. Modeled after the White Triangle that protects Fiolet's buttocks.
+Đó là biểu tượng của võ đường chúng tôi. Nó được mô phỏng theo Tam Giác Trắng bảo vệ vòng mông của Fiolet.
 *
-It is also proof of our belief that training one's mind, body, and skills is the true way forward.
+Đồng thời, nó cũng là minh chứng cho niềm tin của bọn ta rằng rèn luyện tinh thần, thể chất và kỹ năng mới là con đường đúng đắn để tiến về phía trước.
 
 *n_02
-...but they're pan-...they're ladies underwear.
+...nhưng đó là quần lót phụ nữ mà.
 
 *dj_03
-Well, yeah, if you look at it as nothing more than a piece of cloth...
+Ừ thì, nếu em chỉ xem nó như một mảnh vải thông thường...
 
 *n_04
-<I><m ple>That's exactly what it is!
+<I><m ple>Thì nó chính xác là như vậy còn gì!
 
 
 
 
 *___dojo/mob1 st_00
-Sorry about all the tension. We spent most of our budget on those three stone statues, and we're barely scraping by.
+Xin lỗi vì bầu không khí căng thẳng nhé. Bọn ta đã tiêu gần hết ngân sách vào ba bức tượng đá kia, giờ gần như chẳng còn đồng nào.
 *
-Is she really a famous angel? I don't read many books, so I have no idea.
+Cô ấy thật sự là một thiên thần nổi tiếng sao? Tôi ít đọc sách lắm nên chẳng biết gì cả.
 
 *st_01
-Oh, by the way...
+À, nhân tiện...
 *
-I know our master said <m scary>"Using a staff to attach and remove skills is outrageous!"</m>,
-or something like that.
+Tôi biết sư phụ bọn tôi từng nói <m scary>"Dùng trượng để gắn và tháo kỹ năng là chuyện không thể chấp nhận được!"</m>,
+hay đại loại thế.
 *
-But, any skill you learn here will be registered to your staff...
+Nhưng kỹ năng em học được ở đây vẫn sẽ được đăng ký vào trượng của em...
 *
-You can just remove it later, like any other skill.
+Sau này em cứ tháo chúng ra như những kỹ năng bình thường khác là được.
 
 
 *___dojo/mob2 st_00
-It's popular for people these days to set up elaborate puzzles with magic and treasure chests in hidden spots out in the forest.
+Dạo gần đây, nhiều người thích dựng những câu đố phức tạp bằng ma thuật, rồi giấu chúng ở những nơi khuất trong rừng cùng với các rương kho báu.
 *
-But, I can't figure out how to solve them no matter how hard I try.
+Nhưng dù cố gắng đến đâu, tôi vẫn chẳng thể tìm ra cách giải.
 *
-Plus my timing sucks...
+Hơn nữa, khả năng canh thời gian của tôi cũng tệ lắm...
 *
-I almost got crushed by a closing gate the other day...
+Hôm trước tôi suýt bị nghiền nát vì cây cổng đóng lại...
 *
-I'm really grateful I can learn skills here instead.
+Thật may vì ở đây tôi có thể học kỹ năng thay vì phải khổ sở với mấy thứ đó.
 
 
 *st_01
-Having trouble winning against our master?
+Em đang gặp khó khăn khi đấu với sư phụ của chúng tôi à?
 *
-He's a pretty straightforward guy. You should be able to read which of his moves is coming next.
+Ông ấy là người khá thẳng thắn. Em có thể đoán được đòn tiếp theo của ông ấy.
 *
-Of course, if you try to move first, you'll always lose...
+Tất nhiên, nếu em ra tay trước thì lúc nào em cũng sẽ thua thôi...
 *
-Listen carefully to his shouts and memorize the timing.
+Hãy lắng nghe thật kỹ tiếng hô của ông ấy và ghi nhớ thời điểm ra đòn.
 
 // ========================================================
 // MARK : ___dojo/v_talk_study_error_bgm
 // ========================================================
 *___dojo/v_talk_study_error_bgm dj_00
-Hmm...you have your BGM volume set to 0.
+Ừm...ngươi đang đặt âm lượng BGM ở mức 0.
 *
-There's a rhythm involved in <i>Fiolet-fist</i> training, and listening to a beat helps with that.
+Việc luyện tập <i>Fiolet-fist</i> có liên quan đến nhịp điệu, nên nghe nhịp nhạc sẽ giúp ích rất nhiều.
 *
-We can proceed as-is, but you'll be making things more difficult for yourself. Are you okay with that?
+Chúng ta vẫn có thể tiếp tục như vậy, nhưng ngươi sẽ tự làm khó mình hơn đấy. Ngươi có chắc không?
 
 
 // ========================================================
@@ -193,83 +193,83 @@ We can proceed as-is, but you'll be making things more difficult for yourself. A
 
 
 *___dojo/v_talk_study_first dj_00
-Before we begin, you'll need to change into your training clothes.
+Trước khi bắt đầu, ngươi cần thay sang trang phục tập luyện.
 *
-Spare uniforms are back in the changing room. Find one that fits you and come back when you're ready.
+Đồng phục dự phòng nằm ở phòng thay đồ phía sau. Hãy tìm một bộ vừa với ngươi rồi quay lại khi đã sẵn sàng.
 
 *n_00
-Hmm...I suppose this one will do.
+Ừm...chắc bộ này cũng được.
 *
-What should I do with the underwear?
+Còn đồ lót thì sao ạ?
 
 *dj_01
-? Those are for you to wear.
+? Đó là thứ ngươi phải mặc vào.
 *
-Don't worry, we clean and inspect them every day. They're as pure and white as Fiolet's.
+Đừng lo, chúng tôi giặt giũ và kiểm tra chúng mỗi ngày. Chúng trắng tinh và thuần khiết như Fiolet vậy.
 
 *n_01
-Huh? These are part of the uniform!?
+Hả? Đây cũng là một phần của đồng phục á!?
 
 *dj_02
-Yes. Please respect the sacred rules of our dojo and train in the uniform we have provided for you.
+Đúng vậy. Xin hãy tôn trọng những quy tắc thiêng liêng của võ đường và tập luyện trong bộ đồng phục mà bọn ta đã chuẩn bị.
 
 *n_02
-O-okay.
+V-Vâng ạ.
 
 
 *n_03
-I'm not so sure about this...
+Đệ tử không chắc lắm về chuyện này lắm ạ...
 *
-<I><m ple>Why is it so short!? It won't cover anything once I start moving around...
+<I><m ple>Sao nó lại ngắn thế này!? Lúc vận động thì chẳng che được gì mất...
 
 *dj_04
-That is the proper attire of our dojo. If you look at the statue of Fiolet, you'll see that it's the same as her's.
+Đó là trang phục chuẩn của võ đường bọn ta. Nếu nhìn bức tượng Fiolet, ngươi sẽ thấy ngài ấy cũng mặc giống hệt.
 
 *n_05
-But, I...
-Uuu...alright...
+Nhưng mà, đệ tử...
+Uuu...được rồi...
 
 *
-<think>There's no clasps or anything to keep the front closed. This isn't suitable for martial arts training at all.
+<think>Phía trước chẳng có khóa hay thứ gì để giữ cho nó kín cả. Bộ này hoàn toàn không phù hợp để tập võ chút nào.
 *
-<think>It's okay, just push those thoughts out of your head. This is a legitimate place of training, after all...
+<think>Không sao, cứ gạt những suy nghĩ đó sang một bên đi. Dù sao đây cũng là một nơi tập luyện đàng hoàng mà...
 *
-<think>Sigh, this is so embarrassing.
+<think>Haiz, xấu hổ quá đi mất.
 
 // 二回目以降
 
 
 
 *dj_20
-Change into your training clothes and let's begin.
+Thay đồ tập luyện rồi chúng ta bắt đầu thôi.
 
 // 着てくる
 *n_21
 Uuu...
 
 *dj_22
-What's wrong? Not feeling well?
+Sao thế? Ngươi thấy không khỏe à?
 
 *n_23
-Umm...no. It's just...
+Ừm...không ạ. Xin thưa...
 *
-C-could I wear some shorts underneath my robe?
+Đệ tử có thể mặc quần đùi bên trong áo choàng được không?
 
 *dj_24
-...why?
+...tại sao vậy?
 
 *n_25
-W-well, if I train like this, people will be able to see my <W2><m fadein>pa...underwear...
+T-Thì, nếu tập luyện trong bộ đồ này, mọi người sẽ nhìn thấy <W2><m fadein>quầ...quần lót của con mất...
 *
-<m fadein>So, I thought it might be better to have-
+<m fadein>Nên đệ tử nghĩ mặc thêm một chiếc quần sẽ tốt hơ-
 
 *dj_26
-<m scary>You got a problem with our sacred uniform!?
+<m scary>Ngươi có ý kiến gì với bộ đồng phục thiêng liêng của bọn ta sao!?
 *n_27
-<I><m ple>Ahh, no! It was just a thought!
+<I><m ple>Ahh, không ạ! đệ tử chỉ nghĩ vậy thôi thưa sư phụ!
 
 *dj_28
-Ahem, alright then. Let's begin.
+Khụ, được rồi. Bắt đầu thôi.
 
 *n_29
 <think><m fadein>Uuuuuu...
@@ -279,109 +279,109 @@ Ahem, alright then. Let's begin.
 // ========================================================
 
 *___dojo/mg__portal dj_01
-Let's get warmed up first!
+Trước tiên, chúng ta khởi động nào!
 
 
 *___dojo/mg_tuto dj_01
-<c1>Fiolet-fist<c0> is a martial arts style that uses three different techniques to subdue opponents.
+<c1>Fiolet-fist<c0> là một môn võ sử dụng ba kỹ thuật khác nhau để khuất phục đối thủ.
 
 *
-We shall practice each technique until you know them like the back of your hand.
+Chúng ta sẽ luyện tập từng kỹ thuật cho đến khi ngươi thuộc nằm lòng.
 *
-No matter which technique you use, your timing is the most important thing of all!
+Dù sử dụng kỹ thuật nào, điều quan trọng nhất vẫn là canh đúng thời điểm!
 *
-The first technique.
-<c1>Unbreakable Boulder<c0>! Let the enemy's sword shatter upon you!
+Kỹ thuật đầu tiên.
+<c1>Tảng Đá Bất Hoại<c0>! Hãy để thanh kiếm của kẻ địch vỡ tan khi chém vào ngươi!
 
 
 *djt_tuto_good
-<I>Good!
+<I>Tốt lắm!
 
 
 *djt_tuto_bad_wrong
-<I>Wrong!
+<I>Sai rồi!
 
 *djt_tuto_bad_fast
-<I>Too soon!
+<I>Quá sớm!
 *djt_tuto_bad_slow
-<I>Too slow!
+<I>Quá muộn!
 
 
 *dj_02
-Come on, you can do better!
-Channel your fighting spirit into your fist!
+Nào, ta biết ngưi có thể làm tốt hơn nữa!
+Hãy dồn ý chí chiến đấu vào nắm đấm!
 *
-The second technique.
-<c4>Impaling Bident<c0>! Pierce through your enemy's defenses!
+Kỹ thuật thứ hai.
+<c4>Đinh Ba Xuyên Thấu<c0>! Xuyên thủng hàng phòng ngự của kẻ địch!
 
 
 *dj_03
-Keep it up!
-See things through to the end!
+Tiếp tục nào!
+Hãy theo đuổi mục tiêu đến cùng!
 *
-The third technique.
-<c5>Crushing Wave<c0>! Surround your enemy and crush them with overwhelming force!
+Kỹ thuật thứ ba.
+<c5>Sóng Nghiền Nát<c0>! Bao vây kẻ địch rồi nghiền nát chúng bằng sức mạnh áp đảo!
 
 
 *dj_04
-Alright! Looks like you've got the technique and the timing down.
+Được rồi! Có vẻ ngươi đã nắm vững các kỹ thuật và cách canh thời điểm rồi đấy.
 *
-Each technique has a weakness
-<rb c="Rock"><c1>Boulder<c0></rb> beats <rb c="Scissors"><c4>Bident<c0></rb>.
-<rb c="Scissors"><c4>Bident<c0></rb> beats <rb c="Paper"><c5>Wave<c0></rb>.
-<rb c="Paper"><c5>Wave<c0></rb> beats <rb c="Rock"><c1>Boulder<c0></rb>.
+Mỗi kỹ thuật đều có điểm yếu riêng.
+<rb c="Rock"><c1>Tảng Đá<c0></rb> thắng <rb c="Scissors"><c4>Đinh Ba<c0></rb>.
+<rb c="Scissors"><c4>Đinh Ba<c0></rb> thắng <rb c="Paper"><c5>Sóng<c0></rb>.
+<rb c="Paper"><c5>Sóng<c0></rb> thắng <rb c="Rock"><c1>Tảng Đá<c0></rb>.
 *
-Now, I'm going to perform the <rb c="Scissors"><c4>Bident<c0></rb> technique.
-Perform the technique that will defeat me.
+Bây giờ, ta sẽ sử dụng kỹ thuật <rb c="Scissors"><c4>Đinh Ba<c0></rb>.
+Hãy sử dụng kỹ thuật có thể đánh bại ta đi.
 
 *dj_05
-Of course, in reality, knowing your opponent's next move won't be so easy.
+Tất nhiên, trên thực tế, việc biết trước đòn tiếp theo của đối thủ sẽ không dễ dàng như vậy.
 *
-Pay attention and choose the right technique with good timing. This is the key to mastering Fiolet-fist!
+Hãy chú ý quan sát và chọn đúng kỹ thuật vào đúng thời điểm. Đây chính là chìa khóa để thành thạo nắm đấm của Fiolet!
 *
-Now, let's practice a bit in a manner closer to actual training. Don't let your guard down!
+Giờ chúng ta sẽ luyện tập thêm một chút theo cách gần giống với thực chiến hơn. Đừng lơ là cảnh giác nhé!
 
 
 *dj_10
-Well done!
+Làm tốt lắm!
 *
-You're quite skilled! I look forward to seeing you in actual training.
+Ngươi khá có năng khiếu đấy! Tôi rất mong chờ được thấy ngươi trong buổi tập thực chiến.
 *
-If you choose the same technique as your opponent 3 times, or the wrong technique, you will lose one hitpoint.
+Nếu ngươi chọn cùng một kỹ thuật với đối thủ 3 lần, hoặc chọn sai kỹ thuật, ngươi sẽ mất một điểm sinh lực.
 *
-Training will end prematurely if your health reaches 0. Don't get careless.
+Buổi tập sẽ kết thúc sớm nếu sinh lực của ngươi giảm xuống 0. Đừng bất cẩn nhé.
 
 
 *___dojo/mg_loseb dj_00
-<I><m ple>BAAAAAAAD!!!
+<I><m ple>TỆ QUÁAAAA!!!
 
 *n_00
 <I><m ple>Waah!?
 
 
 *dj_01_fast
-<I><m ple>Don't be so hasty! If you move first, your opponent will know exactly how to counter!
+<I><m ple>Đừng vội vàng như thế! Nếu ngươi ra tay trước, đối thủ sẽ biết chính xác cách để khắc chế ngươi!
 
 *dj_01_slow
-<I><m ple>Too slow! Your opponent already made a move before you even considered a countermeasure!
+<I><m ple>Quá chậm! Đối thủ đã ra đòn trước cả khi ngươi kịp nghĩ cách đối phó rồi!
 
 
 *dj_01
-<I><m ple>You're wide open!
+<I><m ple>Ngươi nhiều sơ hở quá!
 
 // ================================================
 // チュートリアルでの進行
 *dj_tuto00 
-<I><m ple>If this were a real session, you'd have taken a hit.
+<I><m ple>Nếu đây là một buổi tập thực sự, ngươi đã bị đánh trúng rồi đấy.
 
 *dj_tuto01
-Pay attention to your opponent's technique, and choose the right counterattack with good timing.
+Hãy chú ý đến kỹ thuật của đối thủ, rồi chọn đòn phản công phù hợp vào đúng thời điểm.
 *
-If you act too quickly or too slowly, your opponent will get in easily and you'll lose a hitpoint.
+Nếu ngươi hành động quá nhanh hoặc quá chậm, đối thủ sẽ dễ dàng áp sát và ngươi sẽ mất một điểm sinh lực.
 *
-Choosing the same technique as your opponent 3 times, or the wrong technique, will also result in a loss of a hitpoint.
+Nếu chọn cùng một kỹ thuật với đối thủ 3 lần, hoặc chọn sai kỹ thuật, ngươi cũng sẽ mất một điểm sinh lực.
 *
-Training will end prematurely if your health reaches 0. Don't get careless.
+Buổi tập sẽ kết thúc sớm nếu sinh lực của ngươi giảm xuống 0. Đừng bất cẩn nhé.
 
 // ================================================
 // 通常モードでの進行
@@ -389,152 +389,152 @@ Training will end prematurely if your health reaches 0. Don't get careless.
 // グーに負けた 1回目
 
 *mg_loseb_rk0 dj_00
-Since this is just a training session, I'll only subject you to the gusts created by my iron fist.
+Vì đây chỉ là một buổi tập luyện, ta sẽ chỉ dùng luồng gió tạo ra từ thiết quyền của mình để tấn công em thôi.
 
 *n_00
-<think>Uwah! My uniform...!
+<think>Uwah! Đồng phục của mình...!
 *
-I'm sorry, Master!
-Please, let's continue our training.
+Đệ tử xin lỗi, sư phụ!
+Xin hãy cho đệ tử tiếp tục buổi tập.
 *
-I just need to fix my uniform fir-
+Đệ tử chỉ cần chỉnh lại đồng phục mộ-
 
 *dj_01
-<I><m scary>You're sloppy!</m>
+<I><m scary>Ngươi thật cẩu thả!</m>
 *
-<I>Your disorderly uniform is a reflection of your mind! No wonder your technique is so weak!
+<I>Đồng phục luộm thuộm phản ánh tâm trí của ngươi! Chẳng trách kỹ thuật lại yếu kém đến vậy!
 
 *n_02
-<think>Uuu...it's not my fault the uniform is too short...
+<think>Uuu...đâu phải lỗi của mình khi bộ đồng phục quá ngắn đâuu...
 
 // =======
 // グーに負けた 2回目
 *mg_loseb_rk1 dj_01
-The White Triangle that protects you is not just for show.
+Tam Giác Trắng bảo vệ ngươi không phải chỉ để làm cảnh đâu.
 *
-It is a sacred garment, mimicking the one of Lady Fiolet.
+Đó là một y phục thiêng liêng, mô phỏng theo bộ đồ của quý tiểu thư Fiolet.
 *
-But, yours are in disarray. Tighten the belt on your fighting spirit! Take this seriously!
+Nhưng của ngươi thì lại xộc xệch thế kia. Hãy siết chặt dây đai của ý chí chiến đấu lại! Nghiêm túc vào!
 
 *n_01 
-Please stop staring at my panti-...my underwear!
+Xin đừng nhìn chằm chằm vào quầ...quần lót của đệ tử nữa!
 
 // ================================================
 // チョキに負けた 1回目
 *mg_loseb_sc0 dj_00
-Be thankful these didn't pierce your innards. Always observe your opponent carefully.
+Hãy biết ơn vì những thứ này không đâm xuyên nội tạng của ngươi đi. Luôn phải quan sát đối thủ thật cẩn thận.
 
 *n_00
-S-stop pinching me...!
+Đ-Đừng véo nữa...!
 
 *dj_01
-The only thing I want to hear from you is "Let's continue our training".
+Điều duy nhất ta muốn nghe từ ngươi là "Hãy tiếp tục buổi tập".
 
 *n_02
 Uu...
-L-let's...continue training...
+H-Hãy...tiếp tục buổi tập...ạ...
 
 *dj_03
-<I><m scary>Say it with conviction! Where's your fighting spirit?!
+<I><m scary>Nói với sự quyết tâm vào! Ý chí chiến đấu của ngươi đâu rồi?!
 
 *n_04
-I want to continue training!
-T-take your hand off...
+Đệ tử muốn tiếp tục buổi tập ạ!
+L-Làm ơn bỏ tay ra...
 
 *dj_05
-Alright. Don't let your guard down!
+Được rồi. Đừng lơ là cảnh giác!
 
 // ================================================
 // チョキに負けた 2回目
 *mg_loseb_sc1 n_01
-<think>Hyah...! My nipple...
+<think>Hyah...! Núm vú của mình...
 
 *dj_06
-Is this really your best effort?! Steel yourself and let's try again!
+Đây thật sự là tất cả những gì ngươi có thể làm sao?! Hãy lấy lại tinh thần rồi thử lại nào!
 
 *n_07
 <think>Guh...
-He's doing this on purpose...
+Ông ta cố tình làm vậy...
 
 
 // ================================================
 // パーに負けた 1回目
 *mg_loseb_pa0 dj_00
-The Unbreakable Boulder technique is powerful, but it is not without weakness.
+Kỹ thuật Tảng Đá Bất Hoại rất mạnh, nhưng không phải là không có điểm yếu.
 *
-You need to watch out for for attacks from behind.
+Ngươi cần đề phòng những đòn tấn công từ phía sau.
 
 *n_00
-S-stop groping me!
+Đ-Đừng sờ mó đệ tử!
 
 *dj_01
-No back talk! This is training to focus your mind and technique!
+Không được cãi lại! Đây là bài tập rèn luyện tinh thần và kỹ thuật của ngươi!
 *
-If you understand, you know what you need to say for us to resume training.
+Nếu đã hiểu, ngươi biết mình cần nói gì để chúng ta tiếp tục buổi tập rồi đấy.
 *n_02
 Uuu...
-Let's continue our training.
+Hãy tiếp tục buổi tập ạ.
 
 *dj_03 
-Good!
-Back into position!
+Tốt!
+Vào tư thế lại nào!
 
 // ================================================
 
 // パーに負けた 2回目
 *mg_loseb_pa1 dj_01
-If you're always on the offensive, it'll be easier for your opponent to catch you by surprise!
+Nếu lúc nào ngươi cũng chỉ biết tấn công, đối thủ sẽ càng dễ khiến ngươi mất cảnh giác!
 
 *n_03
-U-understood!
+Đ-Đệ tử hiểu rồi!
 *
-But...what's the point of groping here?!
+Nhưng...sờ mó đệ tử ở đây thì có ích gì chứ?!
 
 *dj_04
-This mimics an attack used by monsters. If you don't want your mana drained, you need to train with a stronger fighting spirit!
+Đây là mô phỏng một đòn tấn công của quái vật. Nếu không muốn bị hút cạn mana, ngươi cần rèn luyện ý chí chiến đấu mạnh mẽ hơn!
 
 *n_05
-<think>Pervert!
+<think>Đồ biến tháiii!
 
 // ================================================
 // 後出しまたは早出し 1回目
 *mg_loseb_slowfast0 n_00
 ...!?
-M-my underwear...!?
+Q-Quần lót của mình...!?
 
 *dj_00
-For acting so recklessly, I've confiscated your <rb c="bra">White Garment</rb>.
+Vì hành động quá liều lĩnh, ta sẽ tịch thu <rb c="bra">Y Phục Trắng</rb> của em.
 *
-Don't worry. It will be returned to you after we're done training.
+Đừng lo. Sau khi buổi tập kết thúc, ta trả lại.
 *
-Pupil.
-Put this aside for now.
+Đồ đệ.
+Cất thứ này sang một bên đi.
 
 // 生徒
 *st_01
-Yes.
+Vâng.
 
 *n_02
-N-no way...
+K-Không thể nào...
 
 
 // ================================================
 // 後出しまたは早出し 2回目
 *mg_loseb_slowfast1 n_00
-Wa-wa-wa-waiiit!! You can't take those!!
+Đ-Đ-Đ-Đợi đã!! Không được lấy chúng đi mà!!
 
 *dj_00
-Have you forgotten? This is the second time you've acted without thinking!
+Ngươi quên rồi sao? Đây là lần thứ hai ngươi hành động thiếu suy nghĩ!
 *
-You've disrespected this training session, this dojo, and the angel Fiolet!
+Ngươi đã thể hiện sự thiếu tôn trọng đối với buổi tập, võ đường này và cả thiên thần Fiolet!
 *
-The White Triangle weeps at your shameful act!
+Tam Giác Trắng đang rơi lệ trước hành động đáng xấu hổ của ngươi!
 *n_01
-I'm sorryyyyy! I'll do it right next time! So please, give them back-
+Đệ tử xin lỗiiii! Lần sau đệ tử sẽ làm đúng mà! Nên làm ơn trả lại cho-
 
 *dj_02
-This is your last warning!
-On your guard!
+Đây là lời cảnh cáo cuối cùng!
+Cẩn thận đấy!
 
 // ================================================
 // 3回負けた
@@ -542,20 +542,20 @@ On your guard!
 <m scary>Uuu<W2>...!
 <m fadein>Ah...
 *
-<m ple>No...<m fadein><W2>please...!
-<m fadein><W2>No more...!
+<m ple>Không...<m fadein><W2>làm ơn...!
+<m fadein><W2>Đừng nữa...!
 
 *dj_00
-That's enough!
+Đủ rồi!
 *
-My fighting spirit has decimated your uniform. I thank Lady Fiolet for her blessings today.
+Ý chí chiến đấu của ta đã nghiền nát bộ đồng phục của em. Hôm nay, ta xin cảm tạ quý tiểu thư Fiolet vì những phước lành ngài đã ban xuống.
 *
-Let us rest for a time. Go to the changing room and find another uniform.
+Hãy nghỉ ngơi một đi. Đến phòng thay đồ và tìm một bộ đồng phục khác đi.
 *
-When you come back, we'll see if we can work your technique into something sturdier.
+Khi ngươi quay lại, chúng ta sẽ xem liệu có thể rèn luyện kỹ thuật của ngươi trở nên vững chắc hơn không.
 
 *n_01
-<think>Couldn't I just have some sturdier clothes?!
+<think>Chẳng lẽ không thể cho mình mặc một bộ đồ hẳn hoi hơn sao?!
 
 
 // ================================================
@@ -563,7 +563,7 @@ When you come back, we'll see if we can work your technique into something sturd
 // ================================================
 // 1回目
 *___dojo/mg_main dj_1_00 
-<m ple>I'm going to pick up the pace a bit. Come at me with all your heart!
+<m ple>Ta sẽ tăng tốc độ lên một chút. Hãy dốc toàn lực mà tiến lên!
 
 *dj_2_00 
-<m ple>This is where the real fight begins! Show me the true spirit of your technique!
+<m ple>Đây mới là lúc trận chiến thực sự bắt đầu! Hãy cho ta thấy tinh thần chân chính trong kỹ thuật của ngươi đi!

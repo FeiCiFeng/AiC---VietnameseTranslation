@@ -13,31 +13,31 @@
 
 
 *s00_0a n_01
-One bottle of water, a Moonlight Muguet's bulb, and the thorny stalk of a black-striped herb...
+Một chai nước, một Củ Muguet ánh trăng và thân cây gai của thảo dược sọc đen...
 *
-All right, that should be everything.
+Được rồi, vậy là đủ hết rồi.
 *
-Wasn't there something else sister wanted?
+Chị còn dặn mình làm gì nữa nhỉ?
 
 *n_02
-"Dig up some gemstones if you have time."
+"Nếu còn thời gian thì đào thêm ít đá quý nhé."
 
 
 
 *n_03
-If I recall correctly, there's another cave just beyond...huh?
+Nếu mình nhớ không nhầm thì có một hang động khác ngay phía trước...Ơ?
 
 *n_04
-Looks like there was a collapse...
+Có vẻ như chỗ này vừa bị sạt lở...
 *
-The guards said there have been large monster sightings around here recently. I wonder if that has anything to do with it.
+Lính gác bảo rằng gần đây có nhiều quái vật lớn xuất hiện quanh đây. Không biết chuyện này có liên quan tới nó gì không nữa.
 
 
 
 //崩れた壁を調べる
 
 *n_06
-...I don't sense any monsters on the other side, and it should be easy enough to break through.
+...Mình không cảm nhận được quái vật nào ở phía bên kia, mà phá xuyên qua đây cũng khá dễ.
 
 // ========================================================
 // MARK : s00_1a
@@ -45,22 +45,22 @@ The guards said there have been large monster sightings around here recently. I 
 
 
 *s00_1a n_00
-Phew... 
-The mana fog is thick here.
-The air feels great.
+Phù...
+Sương mù mana ở đây dày thật.
+Không khí dễ chịu quá.
 
 
 // 遠くに街(グラティア)を見る
 *n_01
-The sky is clearer than usual today. I can see the upper part of the town well.
+Hôm nay bầu trời trong hơn thường lệ. Mình có thể nhìn rõ phần trên của thị trấn.
 
 
 *n_02
-It's already been two weeks...I wonder if everyone at school is still worried.
+Đã hai tuần trôi qua rồi... Không biết mọi người ở trường còn lo lắng cho mình không.
 
 
 *n_03
-I should finish my errand and hurry home. There's a cave a little ways down the cliff that might have some mineral deposits.
+Mình nên làm xong việc rồi mau chóng về nhà. Có một hang động phía dưới vách đá, có lẽ bên trong có mỏ khoáng sản.
 
 // ========================================================
 // MARK : s00_1b
@@ -68,18 +68,18 @@ I should finish my errand and hurry home. There's a cave a little ways down the 
 
 // 1-B : 帰る
 *s00_1b n_00
-My sister and father would be furious if I took any detours. Still, I was planning to go pick
-some fruit...
+Chị và bố mình sẽ nổi giận lắm nếu mình đi đường vòng. Dù vậy, mình vẫn định đi hái
+một ít trái cây vậy...
 
 
 
 *n_02
-Home is straight ahead...if I don't stray, I shouldn't run into any monsters.
+Nhà ở ngay phía trước... Nếu mình không đi lạc đường thì chắc sẽ không gặp phải quái vật nào.
 
 
 
 *s00_1a_trauma n_01
-<m scary>...It's okay,</m> I'm safe.
+<m scary>...Không sao đâu,</m> mình an toàn rồi mà.
 
 // ========================================================
 // MARK : s00_1a_2
@@ -89,13 +89,13 @@ Home is straight ahead...if I don't stray, I shouldn't run into any monsters.
 
 // 鉱床前で魔術のチュートリアル
 *s00_1a_2 n_00
-This is the first time I'll be casting a spell with this new staff.  Will I still be able to chant it properly?
+Đây là lần đầu tiên mình thi triển phép thuật bằng cây trượng mới này. Không biết mình còn có thể niệm chú mượt mà được không nữa..
 
 
 *n_01
-I-It's okay. They teach this spell to beginners in elementary school.
+C-Chắc không sao đâu. Phép thuật này được dạy cho học sinh từ cấp tiểu học mà.
 *
-Close your eyes, and link yourself to the staff's magical reactor...
+Nhắm mắt lại, rồi kết nối bản thân với lõi ma thuật của cây trượng...
 
 // 採掘成功
 
@@ -103,21 +103,21 @@ Close your eyes, and link yourself to the staff's magical reactor...
 // MARK : s00_1a_3
 // ========================================================
 *s00_1a_3 n_00
-That went well. 
-Sister, I hope
-you'll be pleased.
+Mọi chuyện suôn sẻ rồi.
+Chị à, mong là
+chị sẽ hài lòng.
 
 
 
 
 *n_01
-I need to get home before nightfall. If I take any detours now, my sister and father will be furious.
+Mình phải về nhà trước khi trời tối. Nếu bây giờ còn la cà đi đường vòng, chị với bố sẽ nổi trận lôi đình mất.
 *
-Even worse, I might get attacked by a monster...
+Tệ hơn nữa là mình có thể bị quái vật tấn công...
 
 
 *n_03
-...There's still some space in my bag. I could pick some fruit to help keep up my energy.
+...Trong túi vẫn còn chút chỗ trống. Mình có thể hái thêm ít trái cây để nạp lại năng lượng.
 
 
 
@@ -127,32 +127,32 @@ Even worse, I might get attacked by a monster...
 
 
 *s00_4a n_00
-This road leads into town. I'm supposed to be home before it gets dark...
+Con đường này dẫn vào thị trấn. Mình phải về nhà trước khi trời tối...
 
 *n_01
-But, if I can get some 
-extra materials...
+Nhưng nếu có thể kiếm thêm
+một ít nguyên liệu...
 
 // ========================================================
 // MARK : s00_5a
 // ========================================================
 
 *s00_5a n_00
-<m ple>...A monster!
-But why...?</m> I thought mana plants weren't native to this area.
+<m ple>...Quái vật!
+Nhưng tại sao...?</m> Mình tưởng cây mana không sinh trưởng tự nhiên ở khu vực này chứ.
 
 
 *n_01
-...It absorbed the mana and got bigger! But, if it's alone...
+...Nó hấp thụ mana rồi lớn lên! Nhưng nếu chỉ có một con...
 
 *n_02
-I've...got the 'White Arrow' spell set up.
-At this distance, I should be able to hit the monster before it gets too close.
+Mình đã chuẩn bị sẵn 'Bạch Tiễn' rồi.
+Ở khoảng cách này, mình có thể đánh trúng con quái vật trước khi nó đến quá gần.
 
 
 *n_03
-O-One more time...!
-Maintain your distance and then...!
+M-Một lần nữa...!
+Giữ khoảng cách rồi...!
 
 
 
@@ -163,34 +163,34 @@ Maintain your distance and then...!
 // MARK : s00_5b
 // ========================================================
 *s00_5b n_00
-<m scary>Haa, haa...
-I did it...
+<m scary>Hà, hà...
+Mình làm được rồi...
 
 
 
 *n_01
-Why am I so afraid of a basic slime?
+Tại sao mình lại sợ một con slime yếu đuối đến vậy?
 
 
 *n_02
-This was my first battle since that day...
-I might be in shock.
-It's okay. I know I can overcome this...
+Đây là trận chiến đầu tiên của mình kể từ ngày định mệnh hôm ấy...
+Có lẽ mình vẫn còn bị sốc.
+Không sao cả. Mình biết mình có thể vượt qua chuyện này...
 
 
 *n_03
-...Uu, 
-my heart is beating so fast...
-I need to get home quickly.
+...Ư...
+Tim mình đập nhanh quá...
+Mình phải mau chóng về nhà.
 
 // ========================================================
 // MARK : s00_5d
 // ========================================================
 
 *s00_5d n_04
-<c red>If you pluck a mana plant, monsters will see you as a trespasser and attack.</c>
+<c red>Nếu hái cây mana, lũ quái vật sẽ xem bạn là kẻ xâm phạm và tấn công.</c>
 *
-If I go straight home from here, I can avoid roads with mana plants. I'll be okay...I just need to stay calm...
+Nếu từ đây đi thẳng về nhà, mình có thể tránh những con đường có cây mana. Mình sẽ ổn thôi... Chỉ cần bình tĩnh lại...
 
 
 
@@ -201,31 +201,31 @@ If I go straight home from here, I can avoid roads with mana plants. I'll be oka
 
 
 *s00_5c n_00
-...Uu...cough, cough...
+...Ư... khụ, khụ...
 
 *n_01
-Looks like that slime finally went away.
-...are the materials all right?
+Có vẻ cuối cùng con slime đó cũng biến mất rồi.
+...Nguyên liệu chắc vẫn ổn chữ?
 
 *n_01b
-...are the materials all right?
+...Nguyên liệu chắc vẫn ổn chứ?
 
 *n_02
 1, 2, 3...
-Thank goodness, they're all still here.
+May quá, chúng vẫn còn đủ cả.
 
 *n_03
-It's so dark out, but I still managed to gather...
+Trời tối thế này rồi, vậy mà mình vẫn đi thu thập được...
 
 *n_04
-I...still...managed... 
+Mình... vẫn... làm được...
 
 *n_05
-...Uu...hic...
+...Ư... hic...
 
 
 // 泣き始める
 
 // 5-C 後寄り道しようとする
 *n_06
-I have to get home...
+Mình phải về nhà ngay thôi...

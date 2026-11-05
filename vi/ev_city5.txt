@@ -14,17 +14,17 @@
 // ========================================================
 
 *___city/bar_200_engineer_t00 mb1_1
-<m scary>(Cough, cough)
+<m scary>(Khụ, khụ)
 *
-The air around here is pretty bad.
+Không khí quanh đây tệ thật đấy.
 *
-I know we're close to the hole, but still...
+Tôi biết chúng ta đang ở gần cái hố, nhưng dù sao thì...
 
 *mb1_10
-My current work schedule has me posted in Grazia for a while.
+Theo lịch công tác hiện tại, tôi sẽ phải đóng quân ở Grazia một thời gian.
 *
-Maybe I should take some time off...
-I miss the clean mountain air.
+Có lẽ tôi nên xin nghỉ vài hôm...
+Tôi nhớ bầu không khí trong lành trên núi quá.
 
 
 // ========================================================
@@ -34,140 +34,140 @@ I miss the clean mountain air.
 // ギルドで余ったポイントについて聞く
 
 *___city_guild/enough_point n_00
-What happens when my Guild Points max out?
+Điểm Hội của tôi đạt mức tối đa thì sẽ thế nào?
 
 *mb_01
-Guild Points are tied to your license.
+Điểm Hội gắn liền với giấy phép của cô.
 *
-Every time you go up a rank, you'll earn rewards.
+Mỗi khi tăng hạng, cô sẽ nhận được phần thưởng.
 *
-They're a symbol of trust between the guild, our adventurers, and our clients.
+Chúng là biểu tượng cho sự tin tưởng giữa hội, các nhà mạo hiểm và khách hàng của chúng ta.
 
 *n_02
-Y-Yes, I know that...
-What I meant was -
+V-Vâng, tôi biết điều đó...
+Ý tôi là -
 *
-- what good are excess Guild Points once I've reached level 5?
+- số Điểm Hội dư ra sẽ có ích gì khi tôi đã đạt cấp 5?
 
 *mb_03
-<m joy>Oh?
+<m joy>Ồ?
 *
-<m cry>Oho.
-<m0>Okay, I see what you're getting at.
+<m cry>Ồ hô.
+<m0>Được rồi, tôi hiểu cô đang muốn hỏi gì rồi.
 
 *n_04
-...Are you...going to tell me?
+...Ông...định nói cho tôi biết chứ?
 
 *mb_05
-What would be the point?
+Nói ra thì còn gì thú vị nữa?
 
 *n_06
-Points are the point.
+Lợi ích chính là cái đích mà.
 
 *mb_07
-Mmm<s6>......
-<m fadein><W4><s2>Tee hee.
+Ừm<s6>......
+<m fadein><W4><s2>Hí hí.
 
 *n_08
-<think>This is pointless.
+<think>Đúng là phí công vô ích.
 
 //再び話しかける
 
 *n_21
-So, is there a way to make use of excess points?
+Vậy, có cách nào sử dụng số điểm dư ra không?
 
 *mb_22
-...Can you close your eyes for a second?
+...Cô nhắm mắt lại một lát được không?
 
 *n_23
-Um, okay.
+Ừm, được thôi.
 
 *mb_24
-Hey, Barry, you hear anything about that guild member that <c5>sells things in the park in exchange for Guild Points<c0>?
+Này, Barry, ông có nghe tin gì về thành viên hội <c5>bán đồ trong công viên để đổi lấy Điểm Hội<c0> không?
 
 // 同一人物
 *mb_25
-<m cry>Nah, I don't know a-a-anything about 'em!
+<m cry>Không, tôi chẳng biết gì h-hết!
 
 *mb_26
-Sorry,  Miss Cornehl, looks like there's nothing we can do with your excess points here at the guild.
+Xin lỗi nhé, cô Cornehl. Có vẻ hội chúng tôi không thể giúp cô sử dụng số điểm dư ra rồi.
 
 *n_28
-Oh, okay...
-Thanks anyway.
+À, vậy sao...
+Dù sao cũng cảm ơn anh.
 
 
 //エセ関西弁の公園のじじい
 // ___city/park_guild_zizi_t00
 
 *___city/park_guild_zizi_t00 mb_00
-What'r you lookin' at?
+Nhìn cái gì đấy?
 
 // ↑の話を聞いていない場合
 *n_01
-Oh, um, nothing. Sorry, sir.
+À, dạ, không có gì đâu. Xin lỗi ông.
 
 
 // そもそもギルドの会員ではない場合
 *mb_02
-<font color="ff:#A49C9C"><m fadein><s2><small>She ain't no guild member.
+<font color="ff:#A49C9C"><m fadein><s2><small>Cô bé này có phải thành viên hội đâu.
 *
-<font color="ff:#A49C9C"><m fadein><s2><small>Could take 'er round back, show 'er a good time...
-Ah, I gotta open up shop soon.
+<font color="ff:#A49C9C"><m fadein><s2><small>Dẫn ra phía sau rồi cho cô ấy một thời gian vui vẻ cũng được đấy...
+À, sắp đến giờ mở cửa hàng rồi.
 
 *n_03
-Excuse me?
+Ông nói gì cơ?
 
 *mb_04
-Just talkin' business wit' myself. Git lost now.
+Ta đang tự bàn chuyện làm ăn thôi. Biến đi chỗ khác.
 
 
 // ギルドの会員だが、↑の話を聞かず自力で見つけた場合
 *mb_05
-Hol' up...you a guild member?
+Khoan đã...cô bé là thành viên hội à?
 *
-Wanna do some tradin'?
+Muốn trao đổi chút gì không?
 
 
 // ↑の話を聞いていた場合
 *n_06
-I heard there was someone here that trades for Guild Points.
+Tôi nghe nói ở đây có người trao đổi hàng hóa bằng Điểm Hội.
 
 *mb_06
-Yeh, that's me. Show me your license.
+Ừ, là ta đấy. Đưa giấy phép đây xem nào.
 
 *n_06_2
-What kind of stuff do you have?
+Ông có những món đồ gì?
 
 *mb_07
-Useful stuff.
+Đồ hữu dụng.
 
 *mb_08
-Nothin' illegal.
+Không có gì phạm pháp đâu.
 
 *n_09
-<think><m fadein>This is super sketchy. But it couldn't hurt to look.
+<think><m fadein>Trông đáng ngờ thật đấy. Nhưng xem thử một chút chắc cũng chẳng sao.
 
 
 // この時点で掘り出し物がある場合
 *mb_10
-Yer in luck, I got somethin' special in today.
+Cô bé may mắn đấy, hôm nay ta có món hàng đặc biệt.
 
 
 // 2度目の来訪
 *___city/park_guild_zizi_t01 mb_11
-Oh, you again.
+Ồ, lại là nhóc à.
 
 *mb_12
-I got the good stuff, as usual.
+Hàng tốt như mọi khi đây.
 
 // 2度目の来訪以降、掘り出し物がある場合
 
 *mb_13
-Yer in luck, I dug up somethin' special.
+Cô bé may mắn đấy, ta vừa đào lấy được một món đặc biệt.
 
 *n_14
-What is it?
+Món gì vậy ạ?
 
 
 // ========================================================
@@ -177,45 +177,45 @@ What is it?
 // 購入前
 
 *___city/park_guild_zizi_t_ooparts mb_00
-I dug it up from the depths of the big hole under the city.
+Ta đào được nó từ sâu bên trong cái hố lớn dưới thành phố.
 *
-I'm not sure what it is exactly, but there's somethin' magical about it.
+Ta cũng không rõ chính xác nó là thứ gì, nhưng chắc chắn nó có gì đó kỳ diệu.
 
 *n_01
-<think>It looks like junk to me.
+<think>Với mình thì trông nó chẳng khác gì đồ bỏ đi.
 
 *n_02
-If it's really that special, why are you selling it?
- 
+Nếu nó thực sự đặc biệt đến vậy, sao ông lại đem đi bán vậy ạ?
+
 *mb_04
-Hah! Direct. I like that.
+Ha! Thẳng thắn đấy. Ta thích kiểu người như nhóc đấy.
 
 *mb_05
-But my business is my own. Nothin' fer you to worry about.
+Nhưng chuyện làm ăn của ta thì cô bé không cần bận tâm đâu.
 
 *n_06
-...alright.
+...Được rồi.
 
 
 // 購入後
 
 *mb_10
-Heh, thanks. Be careful with it.
+Hê hê, cảm ơn nhé. Cẩn thận khi sử dụng nó đấy.
 
 
 // 購入した後に再度オーパーツについて質問
 
 *mb_20
-No refunds on that.
+Không hoàn tiền đâu nhé.
 
 *mb_21
-<font color="ff:#A49C9C"><m fadein><s2><small>Can't believe she bought it.
-Call somethin' an OOPArt and the morons can't help themselves.
+<font color="ff:#A49C9C"><m fadein><s2><small>Không thể tin nổi là nhóc này mua thật.
+Chỉ cần gọi thứ gì đó là di vật cổ đại là lũ ngốc lại đâm đầu vào mua.
 
 *mb_22
-<font color="ff:#A49C9C"><m fadein><s2><small>Even beastmen are suckers for 'em.
-Heard there's one up in the mountains doin' research on 'em.
-Suckers.
+<font color="ff:#A49C9C"><m fadein><s2><small>Đến cả thú nhân cũng dễ bị lừa như thường.
+Nghe nói có một tên trên núi đang nghiên cứu mấy thứ này.
+Đúng là lũ ngốc.
 
 
 // ========================================================
@@ -226,19 +226,19 @@ Suckers.
 // 1d: 山の獣人に聞く前にティグリナにオーパーツを渡した場合
 
 *___Tigrina/t_ooparts02 so_00
-Hey, Noel! Here to join the Engineering and Monster Rapport Club!?
+Này, Noel! Cậu đến tham gia Câu lạc bộ Kỹ thuật và Quan hệ với Quái Vật à!?
 
 *n_01
-No thanks. I have something I want to show you. Apparently it's an OOPArt from under the city.
+Thôi, cảm ơn. Tớ có thứ này muốn cho cậu xem. Nghe nói nó là một di vật cổ đại được tìm thấy bên dưới thành phố.
 
 *so_02
-Oh, really? Lemme see.
+Ồ, thật ư? Để tớ xem nào.
 
 *so_03
-<s1>Hmm, interesting.
+<s1>Hmm, thú vị đấy.
 *
-<s2>This goes here, this goes to this wire...
-And this is...a mana intake valve? Maybe.
+<s2>Cái này nối vào đây, cái này nối với sợi dây kia...
+Còn đây là...van tiếp nhận mana à? Có lẽ vậy.
 
 *so_03_2
 <angry><W2><m scary>Aha!!!!
@@ -248,66 +248,66 @@ And this is...a mana intake valve? Maybe.
 <s5><m fadein>......
 
 *so_04_2
-<s1>Soooo...
-This is not an OOPArt per se.
+<s1>Vậyyy...
+Thứ này không hẳn là một di vật cổ đại.
 *
-<s1>You know about the ancient underground civilization, right? We're still digging stuff up from them all the time.
+<s1>Cậu biết về nền văn minh cổ đại dưới lòng đất rồi nhỉ? Chúng ta vẫn thường xuyên đào được những món đồ từ thời đó mà.
 
 *so_05
-There's still so many tools from that time that we don't know what their purpose is.
+Vẫn còn rất nhiều công cụ từ thời ấy mà chúng ta chưa biết công dụng.
 *
-It all has something to do with mana and the invisible forces of attraction between it and the user.
+Tất cả đều có liên quan đến mana và lực hút vô hình giữa mana với người sử dụng.
 *
-Modern engineering research is geared towards this to, but it's nothing like what the ancients were doing.
+Nghiên cứu kỹ thuật hiện đại cũng đang hướng đến lĩnh vực này, nhưng chẳng thể nào sánh được với những gì người xưa từng làm.
 *
-Their stuff is just on a <MT l="2"><m joy>whole 'nother level<m0>!
+Đồ của họ đúng là ở một <MT l="2"><m joy>đẳng cấp hoàn toàn khác<m0>!
 *
-<MT l="2">Why can't I do stuff like that? Compared to them, I'm just a child with a set of building blocks.
+<MT l="2">Tại sao tớ không thể làm được những thứ như thế chứ? So với họ, tớ chẳng khác nào một đứa trẻ đang chơi xếp hình.
 *
-I know my way around beastman tech; I've broken more staves than I can count with my experiments, but -
+Tớ rất am hiểu công nghệ của thú nhân; số trượng bị tớ làm hỏng trong lúc thí nghiệm nhiều đến mức không đếm xuể, nhưng -
 *
-- if I were to break an engineering marvel such as this, I'd never forgive myself. It's just a <s5><m joy>bi-i-it<S2> beyond my skills.
+- nếu lỡ tay phá hỏng một kỳ quan kỹ thuật như thế này, chắc tớ sẽ chẳng bao giờ tha thứ cho bản thân mất. Nó thực sự <s5><m joy>hơi quá sức<S2> đối với tớ.
 
 *n_05
-So, you can't do anything with it?
+Vậy là cậu không định làm gì với nó sao?
 
 *so_06
-It's more like I <m joy>don't want<m0> to do anything with it.
+Nói đúng hơn là tớ <m joy>không muốn<m0> làm gì với nó.
 
 *so_07
-You'll have to find someone who's more familiar with this kind of tech.
+Cậu phải tìm một người am hiểu hơn về loại công nghệ này.
 *
-Like an <c5>archaeologist<c0> or somethin'. I bet they dig these things up all the time.
+Chẳng hạn như một <c5>nhà khảo cổ học<c0> hay gì đó. Tớ cá là họ đào được mấy thứ này suốt.
 
 *n_08
-An archaeologist...
-I'll see if I can find one!
+Nhà khảo cổ học...
+Tôi sẽ thử tìm xem!
 
 *so_09
-Sorry I can't help you any more than that. Let me know what you discover!
+Xin lỗi vì không giúp cậu được nhiều hơn. Có phát hiện gì thì nhớ kể cho tớ nhé!
 
 
 // プリムラに渡す
 
 *105/health_primula_t_ooparts2 n_01
-Ms. Primula, do you know what this is? I was told it's an OOPArt from under the city.
+Cô Primula ơi, cô có biết đây là thứ gì không ạ? Người ta bảo nó là một di vật cổ đại được tìm thấy bên dưới thành phố.
 
 *p_02
-Hmm, well...it's definitely not beastman tech.
+Hmm, chuyện này thì...chắc chắn không phải công nghệ của thú nhân.
 *
-I might not be able to help you with this. My specialty is medicine and biology.
+Có lẽ cô không giúp được em chuyện này rồi. Chuyên môn của cô là y học và sinh học.
 
 *n_03
-Oh, right. Sorry for bothering you with this.
+À, phải rồi. Em xin lỗi vì đã làm phiền cô chuyện này.
 
 *p_04
-I know, why don't you ask around the settlement in the <c5>Fallen Mountains<c0>?
+Cô có ý này, sao em không thử hỏi thăm khu định cư ở <c5>dãy Núi Fallen<c0> xem?
 
 *p_04_2
-The picture book I read to you was dug up around there. There might still be an archaeologist who can help you.
+Cuốn sách tranh cô từng đọc cho em nghe được khai quật ở khu vực đó. Có thể vẫn còn nhà khảo cổ học nào đó có thể giúp em.
 
 *n_04
-I'll give it a look.
+Em sẽ thử đến đó xem sao ạ.
 
 // ========================================================
 // MARK : 山岳の考古学者にオーパーツを渡す
@@ -315,90 +315,90 @@ I'll give it a look.
 
 // （考古学者の通常の会話のあと。
 *___mountain/_caravan_labo_t_ooparts2 n_00
-<think>They might know something about the OOPArt.
+<think>Có lẽ họ biết điều gì đó về di vật cổ đại này.
 
 // yes/no
 
 *n_01
-May I show you something?
+Cháu có thể cho bác xem một thứ được không?
 
 *mb_02
-What is it?
+Gì vậy cô bé?
 
 *mb_03
-Where did you find this?
+Nhóc tìm thấy nó ở đâu vậy?
 
 *n_04
-I bought it from a strange old man in the park.
+Cháu mua nó từ một ông lão kỳ lạ trong công viên.
 
 *mb_05
-That's...worrisome.
+Chuyện đó... đáng lo ngại đấy.
 *
-There's no way he dug this up legally. Hope he didn't mess with it.
+Không đời nào ông ta có thể khai quật thứ này một cách hợp pháp. Hy vọng lão ta chưa làm gì ảnh hưởng đến nó.
 
 *mb_06
-Either way, thank you for bringing this to me.
+Dù sao thì, cảm ơn cô bé đã mang thứ này đến cho ta nhé.
 
 *mb_07
-It's a mana data amplifier. I knew these existed from ancient records discussing them, but I've never seen one before.
+Đây là một thiết bị khuếch đại dữ liệu mana. Ta từng biết đến sự tồn tại của chúng qua những ghi chép cổ đại, nhưng đây là lần đầu tiên tôi được tận mắt nhìn thấy một chiếc.
 
 *n_08
-It amplifies mana?
+Nó có thể khuếch đại mana sao?
 
 *mb_09
-Not quite. It amplifies the information that can be extracted from mana.
+Không hẳn. Nó khuếch đại thông tin có thể trích xuất từ mana.
 
 *n_10
-What does that mean?
+Ý bác là sao?
 
 *mb_11
-I'll give you some detailed notes on it.
+Ta sẽ viết cho cô bé một bản ghi chú chi tiết về nó.
 *
-This'll take a while. Mind doing me a favor while you wait?
+Việc này sẽ mất một khoảng thời gian. Trong lúc chờ, nhóc có thể giúp ta một việc được không?
 
 *n_12
-Not at all!
+Không thành vấn đề ạ!
 
 *mb_13
-I'll need some brain food to help get me through this. <c5>And right now I'm craving some <m joy>Fish Tacos!<c0>
+Ta cần chút thức ăn bổ não để có thể tập trung làm việc. <c5>Mà hiện giờ ta đang thèm <m joy>Bánh Taco Cá!<c0>
 
 *n_14
-Tacos?
+Taco?
 
 *mb_15
-<m ple>Yes! The ones they have at the bar are too greasy.
+<m ple>Đúng vậy! Loại bán ở quán rượu nhiều dầu mỡ quá.
 *
-<m ple>I want some fresh ones. With eel meat!
+<m ple>Ta muốn ăn loại tươi ngon hơn. Với thịt lươn!
 *
-It's been forever since I last had one.
+Đã lâu lắm rồi ta chưa được ăn món đó.
 *
-Make me a <m joy><c5>Fish Taco<c0> with high quality eel meat<img mesh="nel_item_grade.3" tx_color/>and Oil<img mesh="nel_item_grade.3" tx_color/>!
+Hãy làm cho ta một chiếc <m joy><c5>Taco Cá<c0> với thịt lươn chất lượng cao<img mesh="nel_item_grade.3" tx_color/>và Dầu<img mesh="nel_item_grade.3" tx_color/> nhé!
 
 *n_16
-<think>I should've asked what the favor was before agreeing...
+<think>Lẽ ra mình nên hỏi bác ấy muốn nhờ việc gì trước khi đồng ý...
 
 
 // 2回目
 *mb_30
-Bring me a <c5>Fish Taco<c0> so I can get started on my research!
+Mang cho ta một chiếc <c5>Taco Cá<c0> để ta bắt đầu nghiên cứu nhé!
 *
-The <c5>eel meat<img mesh="nel_item_grade.3" tx_color/><c0>,
-<c5>and the oil<img mesh="nel_item_grade.3" tx_color/> have to be high quality<c0>!
+<c5>Thịt lươn<img mesh="nel_item_grade.3" tx_color/><c0>,
+<c5>và dầu<img mesh="nel_item_grade.3" tx_color/> đều phải có chất lượng cao<c0>!
 
 
 //第一の人に会ってない場合
 
 *n_31
-Where can I even find eels? I've never gone fishing before.
+Cháu có thể tìm lươn ở đâu đây? Cháu chưa từng câu cá bao giờ.
 
 *mb_32
-Psh, what do elves even do all day?
+Chậc, cả ngày Elf các cô làm gì vậy?
 *
-There's a <c5>stream far below<c0> with high mana concentration.
+Có một <c5>con suối nằm sâu bên dưới<c0>, nơi có nồng độ mana cao.
 *
-'Course I did hear rumors of a ghost sighting down there...
+Tất nhiên, ta cũng từng nghe tin đồn rằng có ma xuất hiện ở đó...
 *
-Ah, that can't be real. And if it is, maybe he can teach you how to fish.
+À, chắc không thể là thật được. Mà nếu có thật, biết đâu hắn ta còn có thể dạy cô bé câu cá đấy.
 
 
 // ========================================================
@@ -408,105 +408,105 @@ Ah, that can't be real. And if it is, maybe he can teach you how to fish.
 // タコス納品後
 
 *___mountain/_caravan_labo_t_ooparts4 n_60
-Here's your taco!
+Taco của bác đây!
 
 *mb_61
-Awesome! Let's get fired up!
+Tuyệt vời! Bắt đầu thôi nào!
 
 *mb_62
-<m fadein><s4>Nom, nom...　
-<s1><W4><MT l="-1"><m scary><big>Ooh YEAH!
+<m fadein><s4>Ngon, ngon...　
+<s1><W4><MT l="-1"><m scary><big>Ồ YEAH!
 
 *mb_63
-<m cry><W2><s5>It's...it's beautiful!
+<m cry><W2><s5>Thật...thật tuyệt vời!
 
 *mb_64
-<I><angry><s3><m ple>The rich, fatty oils! The fluffy white flesh!
+<I><angry><s3><m ple>Mùi dầu béo ngậy! Thớ thịt trắng mềm mại!
 
 *mb_65
-<s3><m ple>It spreads across the palate, leaving a tingling spiciness in its wake!
-<m ple>Like a noble's attendant scattering roses in the footsteps of their master!
+<s3><m ple>Hương vị lan tỏa khắp khoang miệng, để lại dư vị cay nồng!
+<m ple>Chẳng khác nào người hầu của quý tộc rải hoa hồng trên từng bước chân của chủ nhân!
 
 *mb_66
-<s4>Ohh, and the tortilla!
-<s2><m ple>Such a simple thing...but perhaps the most important part!
+<s4>Ồ, còn cả lớp bánh tortilla nữa!
+<s2><m ple>Thứ đơn giản như vậy...nhưng có lẽ lại là phần quan trọng nhất của chiếc bánh!
 
 *mb_67
-<m joy>That gentle waft of grains alone is enough to whet my appetite!
+<m joy>Chỉ cần hương thơm dịu nhẹ của bột ngũ cốc thôi cũng đủ khiến ta thèm ăn rồi!
 
 
 // 生地の中にノエルジュースまたは毒水を使っている場合
 
 *mb_68
-Although, that spiciness is burning me more than it should...
+Mặc dù vậy, vị cay này khiến ta thấy nóng hơn bình thường...
 *
-You didn't use any <c1>mana-contaminated water<c0> with the dough, did you?
+Cô bé không dùng <c1>nước nhiễm bẩn mana<c0> để nhào bột đấy chứ?
 
 *n_69
-N-No, of course not...
+K-Không, tất nhiên là không rồi ạ...
 
 *mb_70
-Ah, whatever, it was worth the future gut pain!
+À, thôi kệ đi. Dù sao thì cũng đáng để đổi lấy cơn đau bụng sau này!
 
 
 // 使ってない場合
 
 *n_71
-Well I'm...glad you liked it.
+Vậy thì...cháu rất vui vì bác thích nó.
 
 *mb_72
-Haha, sorry. I got a little carried away there.
+Haha, xin lỗi nhé. Ta hơi phấn khích quá rồi.
 *
-But thanks to you...
+Nhưng nhờ có nhóc...
 
 
 *mb_73
-<m joy><s3>I can feel my brain kicking into overdrive!
+<m joy><s3>Ta cảm thấy não mình đang hoạt động hết công suất!
 *
-Here comes the taco's magic!
+Phép màu của chiếc taco bắt đầu tác dụng rồi đây!
 
 // 合流
 
 *mb_10
-<angry><I><m joy><big><s4>BRAIN POWERRRRR!!
+<angry><I><m joy><big><s4>SỨC MẠNH TRÍ TUỆEEEE!!
 
 
 *mb_11_2
-<m fadein><s4>Phew...
-That should do it.
+<m fadein><s4>Phù...
+Thế là xong.
 
 *mb_11
-Like I said, this is a tool that extracts info from mana and amplifies it.
+Như ta đã nói, đây là một thiết bị có thể trích xuất thông tin từ mana rồi khuếch đại chúng.
 *
-Mana that passes through an elf's bloodstream changes its fluctuation.
+Mana khi đi qua dòng máu của một Elf sẽ làm thay đổi dao động của nó.
 *
-This device can isolate the unique fluctuations of any elf and extrapolate it.
+Thiết bị này có thể tách riêng những dao động đặc trưng của từng Elf rồi ngoại suy chúng.
 *
-There's a lot we could do with this, but...
+Chúng ta có thể làm được rất nhiều thứ với thiết bị này, nhưng...
 
 *n_12
-But what?
+Nhưng sao ạ?
 
 *mb_13
-We don't have any real research facilities up here.
+Ở trên này không có cơ sở nghiên cứu thực sự nào cả.
 
 *mb_14
-And since I'm stuck up here, -
+Mà vì tôi bị mắc kẹt ở đây, -
 *
-- would you do me another favor?
+- nhóc có thể giúp ta thêm một việc nữa được không?
 
 *mb_14_2
-Take the device and my notes to someone with the means to test it.
+Hãy mang thiết bị này cùng ghi chú của ta đến cho một người có đủ phương tiện để kiểm tra nó.
 
 *n_15
-Will do!
+Được ạ!
 
 
 *n_16
-<think>And I know just the person in Grazia to take it to.
+<think>Mình biết rõ nên mang nó đến cho ai ở Grazia rồi.
 
 *mb_30
-I truly hope your findings help further the advancement of science.
+Ta thực sự hy vọng những phát hiện này sẽ góp phần thúc đẩy sự phát triển của khoa học.
 
 
 // ========================================================
@@ -517,79 +517,79 @@ I truly hope your findings help further the advancement of science.
 // すでに一度話しかけている場合
 
 *___Tigrina/t_ooparts04 n_00
-I've got some research notes on OOPArts!
+Tớ có vài ghi chú nghiên cứu về di vật cổ đại này đây!
 
 *so_01
-Ooh, lemme see, lemme see!
+Ồ, cho tớ xem, cho tớ xem nào!
 
 
 // ##はじめて話しかける場合 〜〜〜〜〜〜〜
 
 *n_10
-Can I talk to you for a moment, Tigrina?
+Tigrina, tớ có thể nói chuyện với cậu một lát không?
 
 *so_11
-Aha! So you're finally joining my club, eh~?
+A ha! Cuối cùng cậu cũng chịu tham gia câu lạc bộ của tớ rồi nhỉ~?
 
 *n_12
-Uh, n-no, not right now...
+À, k-không, hiện tại thì chưa...
 
 *n_13
-I'd like you to take a look at this. Apparently it's an OOPArt from under the city.
+Tớ muốn nhờ cậu xem thứ này. Nghe nói nó là một di vật cổ đại được tìm thấy bên dưới thành phố.
 
 *so_15
-<m joy>Oh, really!?
-<m0>Lemme see!
+<m joy>Ồ, thật sao!?
+<m0>Để tớ xem nào!
 
 
 // ～暗転～
 // 合流
 
 *so_16
-This is amazing! I've never seen anything like it before!
+Thứ này tuyệt thật! Tớ chưa từng thấy thứ gì như này trước đây!
 *
-It's kinda like an oscilloscope for mana. But it looks like it can do so much more!
+Nó đại loại giống như một cái máy hiện sóng dành cho mana vậy. Nhưng có vẻ như nó còn có thể làm được nhiều hơn thế nữa!
 
 *n_17
-The archaeologist asked me to find someone who could figure out what this thing can do.
+Nhà khảo cổ học nhờ tớ tìm một người có thể khám phá công dụng của thiết bị này.
 *
-You were the first person I thought of.
+Cậu là người đầu tiên tớ nghĩ đến.
 
 
 *so_18
-Heck yea I was! All right, let's see here...
+Tất nhiên rồi! Được rồi, để tớ xem nào...
 
 // 〜〜〜〜
 
 *so_30
-I think I get it now. It interprets and generates new data based on what it extracts from mana.
+Tớ nghĩ mình hiểu rồi. Nó phân tích và tạo ra dữ liệu mới dựa trên những gì trích xuất được từ mana.
 
 *so_31
-Which means if I do this...
+Điều đó có nghĩa là nếu tớ làm thế này...
 
 
 // #ガラクタの山の中から何かを取り出す
 
 *so_32
-<s4><m fadein>Ah...
+<s4><m fadein>À...
 
 *so_33
-Noel, I hate to ask you this, but...
+Noel, tớ rất ngại phải nhờ cậu chuyện này, nhưng...
 
 *n_33
 ?
 
 *so_34
-I'm a bit short on materials to finish this thing.
+Tớ đang thiếu một ít nguyên liệu để hoàn thành thứ này.
 *
-Could you do me a small favor?
+Cậu có thể giúp tớ được không?
 
 
 // 3b: ノエルがクラフトして大装置を作成。召喚システム、ついに完成！ぱちぱち〜 ========================
 
 *___Tigrina/t_ooparts05 so_01
-<m joy>Woo~! Perfect!
-<m0>I'll get started right away!
+<m joy>Woa~! Hoàn hảo!
+<m0>Tớ sẽ bắt tay vào làm ngay!
 
 
 // ～暗転～
@@ -597,50 +597,50 @@ Could you do me a small favor?
 // テテーン（SE）（イェー!でも可。
 
 *so_02
-<s2><angry>It's done! The Elf Creating Hyper Hologram In- no, that's stupid...
+<s2><angry>Xong rồi! Máy Chiếu Siêu Hình Tạo Elf- không, nghe ngớ ngẩn quá...
 
 *so_02_2
-The...<I><s1><c5><m joy><big>"Akashic Dreamer"<c0><m0>!
+Vậy thì...<I><s1><c5><m joy><big>"Kẻ Mộng Mơ Akashic"<c0><m0>!
 
 *n_03
-<angry><s4><m scary>A-<W2><s2><m cry>Akashic Dreamer<m joy>~~~~!!!???
+<angry><s4><m scary>A-<W2><s2><m cry>Kẻ Mộng Mơ Akashic<m joy>~~~~!!!???
 
 *so_04
-And I couldn't have done it without you.
+Và tớ sẽ không thể làm được điều này nếu thiếu cậu.
 
 *so_05
-You see, mana fluctuates uniquely in the bloodstream of any given elf.
+Cậu thấy đấy, mana trong dòng máu của mỗi Elf đều có dao động đặc trưng riêng.
 *
-We don't know how it works; we only know that it's extremely minute
+Chúng ta không biết cơ chế hoạt động của nó; chỉ biết rằng những dao động ấy cực kỳ nhỏ bé.
 *
-<MT l="1">But with this, we can take this fluctuations and extrapolate it to paint a full picture of who they are.
+<MT l="1">Nhưng với thiết bị này, chúng ta có thể lấy những dao động đó để ngoại suy và dựng nên một bức tranh hoàn chỉnh về từng cá thể.
 *
-<MT l="1">So, with just a small sample of their mana, we can project a facsimile of them from this device!
+<MT l="1">Nói cách khác, chỉ cần một mẫu mana nhỏ, chúng ta đã có thể tạo ra hình ảnh mô phỏng của người đó bằng thiết bị này!
 *
-<MT l="-1">Do you know what this means?
+<MT l="-1">Cậu biết điều này có nghĩa là gì không?
 
 
 *n_06
-N-No, what does it mean?
+K-Không, có nghĩa là gì?
 
 
 *so_07
-It means <c5>you can summon other cadets<c0> within the simulation!
+Có nghĩa là <c5>cậu có thể triệu hồi những học viên khác<c0> vào bên trong mô phỏng!
 
 
 *n_08
-<s6>...<s2>so then...
+<s6>...<s2>Vậy thì...
 
 *n_08_2
-Does that mean I can summon you too?
+Có nghĩa là tôi cũng có thể triệu hồi cậu sao?
 
 *so_09
 <s4>......
 <m joy><s2>Hehe...
 *
-<s2>Curious to see how I'd look at the mercy of a monster's tentacles, eh?
+<s2>Cậu tò mò muốn xem tớ trông thế nào khi bị xúc tu quái vật khống chế sao, eh?
 *
-<s2>I didn't know you had it in you, Noel.
+<s2>Không ngờ cậu lại có sở thích đó đấy, Noel.
 
 *so_10
-<s9><m fadein>...<s6><m0>Y-Y-Y-<s1>You...<MT l="-1"><S2><m scary>little perv!!
+<s9><m fadein>...<s6><m0>C-C-C-<s1>Cậu...<MT l="-1"><S2><m scary>đúng là đồ biến thái!!

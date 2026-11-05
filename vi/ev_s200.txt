@@ -18,11 +18,11 @@
 // =====================
 
 *200/01_notice_mana n_00
-This is...monster mana residue.
+Đây hẳn là...tàn dư mana của quái vật.
 
 *n_01
-That girl must’ve ran this way.
-I should mark their trail on my map.
+Chắc cô gái đó đã chạy theo hướng này.
+Mình nên đánh dấu dấu vết của cô ấy lên bản đồ.
 
 
 // ========================================================
@@ -33,7 +33,7 @@ I should mark their trail on my map.
 <dwarf><m scary>え来了!
 
 *n_01
-There you are!
+Thấy ngươi rồi nhé!
 
 // アリスが魔力植物を壊す
 *n_02
@@ -41,38 +41,38 @@ There you are!
 
 *n_03
 <m scary>Ahh!
-<m ple>W-wait! I didn’t pluck any - !
+<m ple>Đ-Đợi đã! Mình đâu có hái cây mana đâu - !
 
 *200/06_escape04 n_00
-That’s weird...
-Why didn’t they target her for plucking the mana plant?
+Lạ thật...
+Sao bọn chúng không nhắm vào cô ấy khi cô ấy hái Cây Mana nhỉ?
 *
-Could it be because of the monster that’s following her?
+Chẳng lẽ là vì con quái vật đang đi theo cô ấy?
 
 // 05_escape03の戦闘で負けた場合
 *n_50
-<m fadein>...uuu.
-Ow...
+<m fadein>...Ưu.
+Đau quá...
 *
-<m fadein>...I have to keep following her. I can’t give up now.
+<m fadein>Mình phải tiếp tục đuổi theo cô ấy. Không thể bỏ cuộc lúc này được.
 
 
 // 251027 ここから追記＆ラベルが変わってます
 // 01_notice_mana のマップを見てない場合
 *n_01
-I should mark their trail on my map.
+Mình nên đánh dấu dấu vết của cô ấy lên bản đồ.
 
 *200/10_escape06 n_00
-<angry><m ple>Hey, wait!
-<m scary>I just wanna talk!
+<angry><m ple>Này, đợi đã!
+<m scary>Tớ chỉ muốn nói chuyện thôi!
 
 
 //ノエルが迫って近寄るも、脇道となる横穴へ素早く飛び去って消えてしまう。
 //横穴まで近づいて悔しがるノエル。
 
 *n_01 
-How did she even fit through there?
-I’ll have to find a way around.
+Sao cô ấy chui lọt qua đó được nhỉ?
+Mình phải tìm đường vòng thôi.
 
 
 // ひっ……　や……来ないで!
@@ -82,41 +82,41 @@ I’ll have to find a way around.
 
 // また魔力植物を破壊する
 *n_01
-<angry>Ah! Not again!
+<angry>Á! Lại nữa rồi!
 
 // ===== ===== ===== ===== ===== =====
 
 // =>n_04へ
 *200/12_escape08aft n_02
-<W2>Sigh, lost her again.
-<W3>She’s so fast...
+<W2>Haiz, lại để cô ấy chạy mất rồi.
+<W3>Cô ấy nhanh thật...
 
 *i_03
 Noel Cornehl!
-Did you hear? The Bermit Attacker is on the run!
+Cậu nghe tin chưa? Kẻ Tấn Công Bermit đang bỏ trốn đấy!
 
 *n_04
-Yes, but we don’t know for sure if she’s the reason for the attack.
+Ừ, nhưng chúng ta vẫn chưa thể chắc chắn cô ấy là thủ phạm vụ tấn công.
 *
-Although, there is something different about her. The monsters didn’t attack her after she plucked a mana plant.
+Dù vậy, cô ấy quả thực có gì đó rất khác thường. Quái vật không tấn công cô ấy sau khi cô ấy hái Cây Mana.
 
 *i_04
-<I><m ple>Th-then she must’ve masterminded the attack! <m0>She’s controlling the monsters!
+<I><m ple>V-Vậy thì chắc chắn cô ta là kẻ chủ mưu vụ tấn công rồi! <m0>Cô ta đang điều khiển lũ quái vật!
 *
-I’m calling for backup! We’re gonna <m joy>beat the tar outta her<m0>!
+Tớ sẽ gọi viện binh! Chúng ta sẽ <m joy>đánh cho cô ta một trận<m0>!
 
 *n_05
-C-Calm down, Ixia...
-Let’s just take her in for questioning.
+B-Bình tĩnh lại đi, Ixia...
+Cứ bắt cô ấy về thẩm vấn trước đã.
 
 *i_06
-Whatever! As long as she pays for her crimes!
-I’m going this way. Watch yourself!
+Sao cũng được! Miễn là cô ta phải trả giá cho những gì đã làm!
+Tớ đi hướng này. Cậu cẩn thận đấy!
 
 *n_07
-Ixia, wait! It’s dangerous! We should stick to...geh...<m fadein><small>ther...
+Ixia, đợi đã! Nguy hiểm lắm! Chúng ta nên đi cùng...khụ...<m fadein><small>nhau...
 *
-Sigh, she’s gone. Should I follow after her?
+Haiz, cậu ấy đi mất rồi. Mình có nên đuổi theo không?
 
 
 // 11_escape08に負けた時
@@ -125,20 +125,20 @@ Sigh, she’s gone. Should I follow after her?
 Noel Cornehl!
 
 *n_51
-<m fadein>Uuu...
-<W3>Ixia? Are you here to rescue me?
+<m fadein>Ư...
+<W3>Ixia? Cậu đến cứu tớ à?
 
 *i_52
-Not specifically, but...
-...what happened? How’d you get beat up by a bunch of pipsqueaks?
+Không hẳn, nhưng...
+...chuyện gì xảy ra vậy? Sao cậu lại bị một đám lon ton này đánh bại thế?
 
 *n_53
-<m scary>Cough, cough.
-<m0>I don’t know.
+<m scary>Khụ, khụ.
+<m0>Tớ không biết.
 
 *i_54
-<m ple>Anyway...
-<m0>Did you hear? The Bermit Attacker is on the run!
+<m ple>Dù sao thì...
+<m0>Cậu nghe tin chưa? Kẻ Tấn Công Bermit đang bỏ trốn đấy!
 
 // =>n_04へ
 
@@ -146,52 +146,52 @@ Not specifically, but...
 // ===== ===== ===== ===== ===== =====
 // ここで下にいくとイクシャの救助
 *200/20_ixia_rescue_00 n_00
-No...don’t tell me -
+Không... đừng nói là -
 
 *200/21_ixia_rescue_01 i_00
 <m scary><s3>Ooh, <W3><m cry>ahn,
 <W3><m fadein>ah...<W4><m joy>Ohhh...
 
 *n_01
-<m ple>Hang in there, Ixia!
+<m ple>Cố lên, Ixia!
 
 
 *200/22_ixia_rescue_02 i_00
 <m fadein>Haa, <W2>hah...
-<W3>That was horrible...
+<W3>Kinh khủng thật...
 
 *n_01
-I tried to warn you...
+Tớ đã cố cảnh báo cậu rồi mà...
 
 *i_02
-<I><m ple>Not fast enough, you didn’t!
-Speak up next time!
+<I><m ple>Cậu cảnh báo muộn quá đấy!
+Lần sau nói to lên!
 
 *i_03
-<I><m ple>I’m gonna continue my search over here!
+<I><m ple>Tớ sẽ tiếp tục tìm kiếm ở phía bên này!
 
 *n_04
-Are you sure? What if you get captured again?
+Cậu chắc chứ? Lỡ lại bị bắt thì sao?
 
 *i_05
-<m scary><m fadein>What are you, my mother!?
+<m scary><m fadein>Cậu là mẹ tớ đấy à!?
 
 *n_06
-Off she goes.
-...again.
+Cậu ấy lại đi rồi.
+...Lại nữa.
 
 
 //暗闇洞窟
 *200/25_darkarea n_00
-It’s so dark...
+Tối quá...
 
 *n_01
-That green glow must be from an old mana tree.
-<c1>If there’s any monsters nearby, they’ll definitely attack me on sight<c0>.
+Ánh sáng xanh kia chắc phát ra từ một Cây Mana cổ.
+<c1>Nếu có quái vật nào ở gần đây, chắc chắn chúng sẽ tấn công mình ngay khi nhìn thấy<c0>.
 
 *n_02
-It’s not much, but I could use my staff as a light source.
-If I <c5>prepare a shotgun<c0>, I’ll at least know what’s right in front of me.
+Không nhiều lắm, nhưng mình có thể dùng trượng làm nguồn sáng.
+Nếu <c5>chuẩn bị Shotgun<c0>, ít nhất mình cũng có thể nhìn rõ những gì ngay trước mắt.
 
 
 // =================================================
@@ -203,7 +203,7 @@ If I <c5>prepare a shotgun<c0>, I’ll at least know what’s right in front of 
 
 // ここで引き返す
 *200/29_escape12turnback n_00
-I can’t leave now, she’s right there!
+Giờ mình không thể quay lại được, cô ấy đang ngay phía trước!
 
 // 子犬型がタックル
 *200/31_escape12aft a_00
@@ -211,48 +211,48 @@ I can’t leave now, she’s right there!
 少時間令戻此場!
 
 *n_02
-<m cry><s4>Ow, my butt...
+<m cry>Ái da, mông mình...
 
 *n_03
-<W4><m scary>Uuu!
-<m ple>I was so close!
+<W4><m scary>Ư...
+<m ple>Chỉ còn một chút nữa thôi!
 
 *l_03
 <m ple>Noel!?
-Are you okay!?
+Cậu không sao chứ!?
 
 
 *200/32_escape12aft_alma n_00
 Alma!
-Did you see a girl run by just now!?
+Cậu có thấy một cô gái vừa chạy ngang qua đây không!?
 
 *l_01
-Y-Yes, but I didn’t see which way she went.
-There was a monster with her and I got scared.
+C-Có, nhưng tớ không thấy cô ấy chạy về hướng nào.
+Có một con quái vật đi cùng cô ấy nên tớ sợ quá.
 
 *l_02
-Is she the one Ixia was talking about? The Bermit Attacker!?
+Có phải cô gái mà Ixia nhắc đến không? Kẻ Tấn Công Bermit ấy!?
 
 *n_03
-Yes, but...
+Ừ, nhưng...
 
 *n_04
-<think>She was crying...
+<think>Cô ấy đang khóc...
 *
-<think>She can command monsters, but she seems terrified of us. Who is she?
+<think>Cô ấy có thể điều khiển quái vật, nhưng lại có vẻ rất sợ chúng ta. Rốt cuộc cô ấy là gì vậy?
 
 *l_03
 ...Noel?
 
 *n_05
-Oh, sorry...
-I should get going.
+À, xin lỗi...
+Tớ phải đi đây.
 
 
 // 2回目
 
 *l_20
-There’s a beastman settlement up ahead. We can take a short break to rest and gather supplies, if you need to.
+Phía trước có một khu định cư của thú nhân. Nếu cần, chúng ta có thể nghỉ ngơi một lát và thu thập thêm vật tư ở đó.
 
 
 // 水晶地帯で壊れたスキルチップを得る
@@ -261,31 +261,31 @@ There’s a beastman settlement up ahead. We can take a short break to rest and 
 <W2><s3><m cry>Ah...Gah!!
 
 *n_01
-<angry><s4><W3><m scary>What’s <W3>happen<s6><W4>ing...!?
+<angry><s4><W3><m scary>Chuyện <W3>gì đang <W4>xảy ra...!?
 
 *cane_00
-<device>Malformed packets detected.
-Disconnecting from unknown device.
+<device>Đã phát hiện gói dữ liệu không hợp lệ.
+Đang ngắt kết nối khỏi thiết bị không xác định.
 *
-<device>Ejecting in:
+<device>Đang đẩy ra sau:
 <W4>5, <W6>4, <W6>3, <W6>2, <W6>1.
 
 *n_02
-<s5>......<s3><m scary>Cough, <W2>cough...
-<s2><m fadein>Hah...
+<s5>......<s3><m scary>Khụ, <W2>khụ...
+<s2><m fadein>Ha...
 
 *n_03
-<think>That’s never happened before.
+<think>Chuyện này chưa từng xảy ra trước đây.
 *
-<think>I’ll keep this skill chip for now...just in case.
+<think>Tạm thời mình sẽ giữ lại con chip kỹ năng này... phòng khi cần đến.
 
 
 // 宝箱を無視をしようとした
 
 *200/m2d_out_mount_secret_glacier_0 n_00
-<think>Judging by the color, there’s a skill chip in that box.
+<think>Nhìn màu sắc thì có vẻ trong chiếc hộp đó chứa một chip kỹ năng.
 *
-<think>It might be something I can use to help catch that girl.
+<think>Có lẽ nó sẽ giúp ích cho mình trong việc bắt được cô gái đó.
 
 
 // ==========================================
@@ -293,7 +293,7 @@ Disconnecting from unknown device.
 // ==========================================
 
 *200/70_escape_floor n_00
-Hold it right there!
+Đứng lại đó!
 
 //*ひっ、怒ってるっ……!　にげ、にげな、きゃ。
 
@@ -314,9 +314,9 @@ Hold it right there!
 令助私…… <W3>私未受殺此場……
 
 *n_03
-Calm down, I’m not going to hurt you.
+Bình tĩnh nào, tớ sẽ không làm hại cậu đâu.
 *
-I just want to talk.
+Tớ chỉ muốn nói chuyện thôi.
 
 *a_04
 <dwarf><s6>…………………<s1>
@@ -326,8 +326,8 @@ I just want to talk.
 // 子犬型、ノエル拘束
 
 *200/72_escape_floor_deadend_absorb n_05
-<angry><m cry>Guh!
-<m scary>Ah! Ow! Stop!
+<angry><m cry>Khự!
+<m scary>Á! Đau! Dừng lại!
 
 
 //あ、……それ以上だめ!　でも離したら……どうしよう、どうしよう!
@@ -340,16 +340,16 @@ I just want to talk.
 ?何物求実私
 
 *n_07
-<think><m fadein>This is no ordinary monster!
+<think><m fadein>Đây không phải quái vật bình thường!
 
 *n_08
-<think><m scary><m fadein>I can’t break free...
-I’m gonna have to -
+<think><m scary><m fadein>Mình không thoát ra được...
+Mình buộc phải -
 
 //バースト使用。床崩壊
 
 *200/73_escape_floor_deadend_break n_05
-<m ple>Oh no!
+<m ple>Ôi không!
 
 *a_06
 <dwarf><m ple><angry>悲嘆嘆嘆嘆嘆!!
@@ -360,23 +360,23 @@ I’m gonna have to -
 // ========================================================
 
 *200/80_spidercave0 n_00
-<m scary><W4><s4><m fadein>Ow, ow, ow...
+<m scary><W4><s4><m fadein>Ái da, đau quá...
 
 *n_01
-<m ple>My staff! Where’s my staff!?
-<W3>Come!
+<m ple>Cây trượng của mình! Cây trượng đâu rồi!?
+<W3>Đến đây!
 
 *n_02
-<think>Phew...
+<think>Phù...
 
 *n_02_2
-<think>Well, I’m still in one piece.
-That was a long fall.
+<think>May mà mình vẫn còn nguyên vẹn.
+Cú rơi vừa rồi cao thật đấy.
 
 *n_03
-<think>There’s mana plants everywhere!
+<think>Cây Mana mọc khắp nơi dưới này!
 *
-<think>All the noise we made might have attracted more monsters. I should keep quiet.
+<think>Tiếng động lúc nãy có thể đã thu hút thêm quái vật. Mình nên giữ im lặng.
 
 
 // ううう……。
@@ -387,10 +387,10 @@ That was a long fall.
 <dwarf><m fadein><s3>苦…… <W3>悲嘆嘆……
 
 *n_06
-Are you alright?
+Cậu không sao chứ?
 
 *n_07
-I can get you medical care, but first, hand over the installer.
+Tớ có thể đưa cậu đi chữa trị, nhưng trước tiên, hãy giao Bộ Cài Đặt ra đây đã.
 
 *a_07
 <dwarf><angry>ひ嘆……!
@@ -402,7 +402,7 @@ I can get you medical care, but first, hand over the installer.
 <W3>の 令のく!
 
 *n_08
-Yes, that’s what I’m here for! Come on, there’s nowhere else to run!
+Đúng rồi, tớ đến đây vì nó đấy! Mau lên, cậu không còn đường chạy đâu!
 
 
 // -----
@@ -418,21 +418,21 @@ Yes, that’s what I’m here for! Come on, there’s nowhere else to run!
 //アリス、指差し後退り。
 
 *n_10
-Huh?
-Behind me?
+Hả?
+Phía sau tớ á?
 
 *n_11
-<think>She’s slippery. I shouldn’t take my eyes off her.
+<think>Cậu ấy nhanh nhẹn thật. Mình không nên rời mắt khỏi cậu ấy.
 
 *n_12
-No! I’m not falling for any more of your tricks!
+Không! Tớ sẽ không mắc bẫy của cậu thêm lần nào nữa!
 
 
 // あるから、あるからぁ!
 *a_12
 <dwarf><angry><m ple>私了発其!
 私了話を私了発!
- 
+
  // もう一度話すと
 *a_20
 <dwarf><angry><m ple>後 令見後!
@@ -443,10 +443,10 @@ No! I’m not falling for any more of your tricks!
 
 // 見つけて回収
 *200/79_pickup_magicdevice n_30
-Oh, it really was there. She must’ve dropped it.
+Quả nhiên nó ở đây thật. Chắc cậu ấy đã đánh rơi nó.
 
 *n_31
-Good thing I got it back before someone used it. Without any security settings, it could’ve easily fallen into the wrong hands.
+May mà mình đã lấy lại được trước khi có kẻ khác sử dụng nó. Không có bất kỳ thiết lập bảo mật nào, nó rất dễ rơi vào tay kẻ xấu.
 
 // ルベっちどこ……。
 
@@ -459,9 +459,9 @@ Good thing I got it back before someone used it. Without any security settings, 
 <dwarf><m fadein><s3>私求其仲……
 
 *n_03
-I can’t understand you.
+Tớ đang không hiểu cậu cố nói gì.
 *
-Were you trying to trap me down here?
+Cậu định nhốt tớ dưới này sao?
 
 
 //杖を構えてにじり寄るノエル
@@ -474,7 +474,7 @@ Were you trying to trap me down here?
 <dwarf><s3><m fadein>比其… 私求<i>るべち</i>をび共…
 
 *n_05
-Are you the one who attacked Bermit?
+Có phải cậu là kẻ đã tấn công Bermit không?
 
 
 // あの子がいなくて、その……ぐすっ探さないと……だからぁ……。
@@ -483,7 +483,7 @@ Are you the one who attacked Bermit?
 嘆… 私求発其仲…
 
 *n_07
-What’s wrong? I told you, I’m not going to hurt you.
+Có chuyện gì vậy? Tớ đã bảo là tớ sẽ không làm hại cậu rồi mà.
 
 
 //杖の間合いまで近寄るノエル。
@@ -495,10 +495,10 @@ What’s wrong? I told you, I’m not going to hurt you.
 <W3>私与恐私与恐を君!
 
 *n_09
-<angry><m scary>H-Hey…!
-<W2><m fadein>Keep it down.
+<angry><m scary>N-Này...!
+<W2><m fadein>Im lặng đi.
 *
-I want to hear what you have to say, but there might be monsters around.
+Tớ muốn nghe cậu nói gì, nhưng quanh đây có thể có quái vật.
 
 
 //うずくまったまま横になり、膝と腕で顔を隠す。
@@ -514,9 +514,9 @@ I want to hear what you have to say, but there might be monsters around.
 
 
 *200/83_spidercave_flashback n_00
-One, two, three...yay!
+Một, hai, ba...yay!
 *
-I got all the mushrooms sister asked for!
+Mình đã hái đủ số nấm mà chị hai nhờ rồi!
 
 *n_01
 <I><angry><W2><m scary>Wah!
@@ -525,19 +525,19 @@ I got all the mushrooms sister asked for!
 <W5><m fadein><s3>Owie...
 
 *n_03
-<W4><s4>Ah! A mana plant!
+<W4><s4>Á! Một nhánh Cây Mana!
 
 *n_05
 Eee!
 
 *n_11
-<s3><m scary>Noooo! Get away!
+<s3><m scary>Khônggg! Tránh xa ta ra!
 
 *n_12
-<I><m scary>Sister!
+<I><m scary>Chị hai!
 *
-<s5><m fadein>Where are you?
-<W2><s2><m ple>Help meee!
+<s5><m fadein>Chị ở đâu?
+<W2><s2><m ple>Cứu em vớiii!
 
 *v_11
 <m scary><angry>Hi-yah!!
@@ -546,26 +546,26 @@ Eee!
 //一瞬だけ本気モード（真面目）なレヴィ
 
 *v_12
-Are you okay, Noel!?
+Em không sao chứ, Noel!?
 
 *n_13
-<m scary><angry>Sisterrrrr!
+<m scary><angry>Chị haiiiii!
 
 *v_14
-There, there. It's okay. I know you’re scared.
+Ngoan nào, không sao đâu. Chị biết em đang sợ mà.
 *
-I’m here now.
+Chị đến rồi đây.
 *
-You’re safe with me.
+Có chị ở đây rồi, em an toàn rồi.
 
 *n_15
-<m scary><s2>(sniffle)
+<m scary><s2>(sụt sịt)
 <W5><m cry><s6>Waahhh......
 
 
 *200/84_spider_comes n_00
 <think><s6>......
-<s2>Her monster was trying to protect her...like my sister did for me...
+<s2>Con quái vật của cô ấy đã cố bảo vệ cô ấy... giống như chị từng bảo vệ mình vậy...
 
 
 //杖を下ろす
@@ -577,37 +577,37 @@ You’re safe with me.
 <m ple><angry>!?
 
 *n_03
-<think>Oh no! That must be the monster that lives here!
+<think>Ôi không! Chắc đó là con quái vật sống ở đây!
 
 *a_04
 <dwarf><m scary><angry>令否実!!
 令与戻私!!
 
 *n_05
-<think>This is bad!
-<W3><m scary>What should I do!?
+<think>Nguy rồi!
+<W3><m scary>Mình phải làm gì đây!?
 
 *n_06
-<s5><W4>Stay calm.
-You can do this.
+<s5><W4>Bình tĩnh.
+Mình làm được mà.
 
 *n_07
-<s2><W4>I know I’m supposed to return the installer...
-but this is an emergency!
+<s2><W4>Mình biết là phải trả lại Bộ Cài Đặt...
+nhưng đây là tình huống khẩn cấp!
 
 *n_08
-Noel Cornehl, Cadet Class III-F,
-deploying new magic to defeat the monster!
+Noel Cornehl, học viên lớp III-F,
+triển khai phép thuật mới để đánh bại quái vật!
 
 
 //登録装置使用、スキル取得
 //ボス戦開始
 
 *200/85_spider_activate n_00
-This is the same magic Tigrina used when we were defending Bermit!
+Đây chính là loại phép mà Tigrina đã sử dụng khi chúng ta phòng thủ Bermit!
 
 *n_01
-<angry>Alright...let’s dance!
+<angry>Được rồi...cùng khiêu vũ nào!
 
 
 // ========================================================
@@ -624,8 +624,8 @@ This is the same magic Tigrina used when we were defending Bermit!
 <dwarf>!
 
 *n_01
-It’s okay.
-You’re not hurt, are you?
+Không sao đâu.
+Cậu không bị thương chứ?
 
 // 私を殺さない……？どうして？
 *a_02
@@ -633,29 +633,29 @@ You’re not hurt, are you?
 ?……何故
 
 *n_03
-I know you didn't summon that monster to attack me.
+Tớ biết cậu không cố ý triệu hồi con quái vật đó để tấn công tớ.
 *
-It was just defending its lair.
+Nó chỉ đang bảo vệ lãnh địa của mình thôi.
 *
-Come on, let’s find a way out together.
+Nào, chúng ta cùng tìm đường ra khỏi đây.
 
 *200/101_see_ladder n_00
-I can see light peeking through. That must be the way out.
+Mình có thể nhìn thấy ánh sáng le lói phía trên. Chắc đó là lối ra.
 *
-There’s some scaffolding and a rope ladder wrapped around it up there, but I don’t see any way to reach it.
+Có một giàn giáo và một chiếc thang dây quấn quanh nó ở trên kia, nhưng mình không thấy cách nào để lên được đó.
 
 *n_01
-I could call for help, but I’m not getting a Wi-Fu signal down here.
+Mình có thể gọi người đến giúp, nhưng ở dưới này không có tín hiệu Wi-Fu.
 
 // ものを渡す時に関係ないものを与え続けた時のヒント
 *n_10
-Wait, didn’t I pick up a <c5>strange skill chip<c0> while I was chasing her?
+Khoan đã, chẳng phải mình đã nhặt được một <c5>chip kỹ năng kỳ lạ<c0> trong lúc đuổi theo cô ấy sao?
 *
-Maybe she’ll know what to do with it.
+Có lẽ cô ấy sẽ biết cách sử dụng nó.
 
 // 不適合チップを渡したあとののヒント
 *n_20
-She looks nervous. Maybe I should get out of the way and <c5>observe her<c0> for a moment.
+Cô ấy có vẻ lo lắng. Có lẽ mình nên tránh sang một bên và <c5>quan sát cô ấy<c0> một lúc.
 
 
 *200/102_spider_giving a_00
@@ -665,7 +665,7 @@ She looks nervous. Maybe I should get out of the way and <c5>observe her<c0> for
 <dwarf>?……
 
 *n_02
-<think>I thought pinching her cheek might cause her true nature to come out.
+<think>Mình cứ tưởng véo má cô ấy sẽ khiến bản chất thật của cô ấy lộ ra.
 
 
 //2回目
@@ -679,7 +679,7 @@ She looks nervous. Maybe I should get out of the way and <c5>observe her<c0> for
 ?何故実此を私 //なんでこんなことするの?
 
 *n_12
-<think>She cries when she’s in pain...just like us elves...
+<think>Cô ấy khóc khi bị đau... cũng giống như chúng ta vậy, những Elf...
 
 //3回目
 
@@ -692,16 +692,16 @@ She looks nervous. Maybe I should get out of the way and <c5>observe her<c0> for
 *
 <dwarf><m fadein><s3>何故? 何故?
 令助…… 大父……
- 
+
 *n_22
-<think>I don’t think this is bringing anything out.
-...except tears.
+<think>Mình không nghĩ làm vậy sẽ khiến bản chất gì đó lộ ra đâu.
+...Ngoài nước mắt.
 
 
 // ジュース関連
 
 *n_50
-W-What do you think of this?
+C-Cậu thấy thứ này thế nào?
 
 *a_51
 <dwarf>?何……
@@ -713,12 +713,12 @@ W-What do you think of this?
 魔光未殺私s!
 
 *n_53
-<think>If she were a monster, she’d be having a more positive reaction.
+<think>Nếu cô ấy là quái vật, phản ứng của cô ấy hẳn phải tích cực hơn mới đúng.
 *
-<think>Instead she just seems disgusted.
+<think>Nhưng trông cô ấy chỉ thấy ghê tởm thôi.
 
 *n_55
-<think>...I probably could’ve figured that out without showing her something weird.
+<think>...Chắc mình đã có thể tự nhận ra điều đó mà không cần đưa cho cô ấy xem thứ kỳ quặc này.
 
 
 //魔族由来の素材を渡す
@@ -732,12 +732,12 @@ W-What do you think of this?
 私見求を君殺魔種。
 
 *n_63
-<think>She looks sad...
+<think>Cô ấy trông buồn quá...
 
 
 // ノエルの服を渡す
 *n_80
-...Hmm...
+...Ừm...
 
 *a_81
 <dwarf><m fadein>え……
@@ -749,9 +749,9 @@ W-What do you think of this?
 <dwarf><m fadein>?君今遊以私。
 
 *n_83
-<think>...I think she’s trying to ask me something.
+<think>...Mình nghĩ cô ấy đang muốn hỏi gì đó.
 
-// 頷く
+ // 頷く
 *a_84
 <dwarf><m fadein>……私力否理を君理。
 
@@ -761,40 +761,40 @@ W-What do you think of this?
 ?何故君与其を私……………。
 
 *n_86
-<think>She looks confused.
+<think>Cô ấy có vẻ bối rối.
 
 *n_87
-<think>Which is fair. I don’t really know why I’m doing this either.
+<think>Cũng phải thôi. Chính mình còn chẳng biết tại sao lại làm vậy nữa.
 *
-<think>I’m getting cold. I should take my clothes back.
+<think>Mình bắt đầu thấy lạnh rồi. Nên lấy lại quần áo thôi.
 
 
 // 下着を渡す
 *n_90
-W-What do you think of these?
+C-Cậu thấy những thứ này thế nào?
 
 *a_91
 <dwarf>?此び君的下服……
  // これはあなたの下着?
- 
+
 *n_92
-There’s traces of my mana on them. We could use them to lure your monster friend back.
+Trên đó còn lưu lại dấu vết mana của mình. Chúng ta có thể dùng chúng để dụ người bạn quái vật của cậu quay lại đấy.
 
  // ……えるふは、下着を着なくて平気なの?
- 
+
 *a_93
 <dwarf>?えの見求其下服
 
 *n_94
 ...
 *
-Yeah, I’m not sure what I was thinkin’ there.
+Ừm, mình cũng chẳng biết lúc đó mình nghĩ gì nữa.
 
 
 // その他
 
 *n_100
-What do you think of this?
+Cậu thấy thứ này thế nào?
 
 *a_101
 <dwarf>嘆嘆……
@@ -807,12 +807,12 @@ What do you think of this?
 <dwarf>……
 
 *n_104
-<think>I don’t think she’s interested.
+<think>Mình không nghĩ cô ấy hứng thú với thứ này.
 
 
 // 魚、ごはん
 *n_110
-Are you hungry?
+Cậu đói không?
 
 *a_111
 <dwarf>……糧
@@ -825,13 +825,13 @@ Are you hungry?
 大父……
 
 *n_113
-Why is this making her cry?
+Sao cô ấy lại khóc vì chuyện này nhỉ?
 
 
 // デバイスを渡す
 
 *200/95_spider_give_device n_200
-Do you know what this is?
+Cậu có biết đây là thứ gì không?
 
 *a_201
 <dwarf>?……君与是を私
@@ -840,18 +840,18 @@ Do you know what this is?
 <dwarf>…………
 
 *n_203
-<think>She took it...
-She must be interested.
+<think>Cô ấy nhận lấy rồi...
+Chắc cô ấy có hứng thú với nó.
 
 *a_204
 <dwarf>?何物受連実……
 
 *n_205
-Oh wow! You can use it.
+Ồ! Cậu còn biết cách sử dụng nó à.
 
 *n_206
-...she keeps glancing at me.
-Maybe I should get out of the way and <c5>observe her<c0>.
+...Cô ấy cứ liếc nhìn mình.
+Có lẽ mình nên tránh sang một bên và <c5>quan sát cô ấy<c0>.
 
 
 *200/104_spider_waiting a_00
@@ -862,24 +862,24 @@ Maybe I should get out of the way and <c5>observe her<c0>.
 <dwarf><m fadein><i>るべち</i>……?何場び君。
 
 *n_02
-I think she’s calling for someone. But, there doesn’t seem to be anyone else around.
+Mình nghĩ cô ấy đang gọi ai đó. Nhưng có vẻ quanh đây chẳng còn ai khác.
 *
-I should probably stick with her.
+Chắc mình nên ở lại với cô ấy.
 
 
 // スキルチップを渡した後に待機を選ぶ
 // アリスがスキルを発動し大ジャンプして脱出
 
 *200/105_shinebooster n_00
-Amazing!
+Tuyệt vời!
 
 *n_01
-But...now how am I supposed to get out?
+Nhưng... giờ mình phải ra ngoài bằng cách nào đây?
 
 //ロープが降りてくる
 
 *n_02
-O-Oh...
+Ồ-Ồ...
 
 
 // ========================================================
@@ -887,13 +887,13 @@ O-Oh...
 // ========================================================
 
 *200/150_no_item n_00
-She’s just up ahead, but...
+Cô ấy ở ngay phía trước, nhưng...
 *
-It feels like I’m not ready.
-I think I’m <c1>forgetting something<c0>.
+Mình cảm thấy vẫn chưa sẵn sàng.
+Có lẽ mình đang <c1>bỏ sót thứ gì đó<c0>.
 
 *n_01
-Maybe I should investigate the beastman settlement a bit more.
+Có lẽ mình nên điều tra thêm về khu định cư của thú nhân.
 
 
 // ========================================================
@@ -901,15 +901,15 @@ Maybe I should investigate the beastman settlement a bit more.
 // ========================================================
 
 *200/00_from_city n_00
-Ah, feels like I’ve already wasted too much time.
+Haiz, cảm giác như mình đã lãng phí quá nhiều thời gian rồi.
 
 *n_01
-The attack, the red-eyed girl, and the stolen installer...
+Cuộc tấn công, cô gái mắt đỏ và Bộ Cài Đặt bị đánh cắp...
 *
-What’s the connection between them?
+Mối liên hệ giữa chúng là gì?
 
 *n_02
-Only one way to find out! I’ll have to catch up with Ixia <c5>in the mountains<c0>!
+Chỉ còn một cách để tìm ra thôi! Mình phải đuổi kịp Ixia <c5>trong vùng núi<c0>!
 
 
 // ========================================================
@@ -917,25 +917,25 @@ Only one way to find out! I’ll have to catch up with Ixia <c5>in the mountains
 // ========================================================
 
 *200/08_rope_pre n_00
-Oh, there’s a rope.
-...but...what if I fall?
+Ồ, có một sợi dây.
+...Nhưng... lỡ mình ngã thì sao?
 
 *n_01
-I guess I could...straddle it and inch my way across...
+Mình nghĩ mình có thể... dạng chân qua dây rồi từ từ nhích sang bên kia...
 
 
 // 渡った後
 *200/08b_rope_aft n_00
-<think><s3><m cry>Ah...haa...
-<W4>Fuwahh...
-<W2>What were those knots for?
+<think><s3><m cry>Á...haa...
+<W4>Phù...
+<W2>Mấy nút thắt đó dùng để làm gì cơ chứ!?
 
 *n_01
-<m scary><W3><s2>I-If you think that will stop me...you’re wrong!
+<m scary><W3><s2>N-Nếu cậu nghĩ thế là có thể ngăn được tôi... thì nhầm to rồi!
 
 *n_02
-More mana residue.
-She’s still close by!
+Lại có tàn dư mana.
+Cô ấy vẫn còn ở gần đây!
 
 
 // ===== ===== ===== ===== ===== =====
@@ -944,59 +944,59 @@ She’s still close by!
 
 // ハニカム型登場
 *200/22b_ixia_rescue_02 i_00
-<angry>AH! <m scary>It came back!
+<angry>Á! <m scary>Nó quay lại rồi!
 
 *n_01
-It was here before?
+Nó từng xuất hiện ở đây rồi à?
 
 *i_03
-It trapped me in some kind of bubble. That’s when the other monsters -
+Nó nhốt tớ trong một thứ giống như bong bóng. Rồi sau đó những con quái vật khác -
 *
-<angry>Oh, why am I explaining this!?
-<m ple>RUN!
+<angry>Ôi, sao tớ lại phải giải thích chuyện này chứ!?
+<m ple>CHẠY MAU!
 
 
 // 逃走
 *n_10
-Whoof, that was close.
+Phù, suýt nữa thì toi rồi.
 
 *i_11
-We can’t defeat those flying-types without <c1>some kind of gravity magic<c0> like that Loudmouth McWeirdo girl was using.
+Chúng ta không thể đánh bại mấy con quái vật bay đó nếu không có <c1>loại ma thuật trọng lực<c0> nào đó, giống như thứ mà cô nàng kỳ quặc mồm to kia đã dùng.
 *
-Coincidentally, can you guess what kind of prototype was stolen from the armory?
+Mà tình cờ thay, cậu đoán xem thứ gì đã bị đánh cắp khỏi kho vũ khí?
 
 *n_12
-<think>The installer...
+<think>Bộ Cài Đặt...
 
 *n_13
-<think>But, why would she steal something like that? She didn’t even have a staff to use it with.
+<think>Nhưng tại sao cô ta lại đánh cắp thứ đó? Cô ấy thậm chí còn chẳng có trượng để sử dụng nó.
 
 *i_14
-<angry>Now I’m <m scary>really<m0> starting to get mad!
-First she steals from us, then she gets us caught up in traps!
+<angry>Giờ thì tớ <m scary>thực sự<m0> bắt đầu nổi giận rồi đấy!
+Đầu tiên là trộm đồ của chúng ta, sau đó còn khiến chúng ta mắc bẫy nữa!
 
 *n_15
-I don’t think that last one was her fault.
+Tớ không nghĩ chuyện sau là lỗi của cô ấy đâu.
 
 *i_16
-<angry><I>Yes it <m cry>wa-A-a-A-s!!
+<angry><I>Có chứ <m cry>Có-O-o-Ó!!
 
 *i_17
-Look, until we can get ahold of some gravity magic -
+Nghe này, cho đến khi chúng ta lấy được phép thuật trọng lực -
 *
-- stay away from places with that <c1>sticky orange slime<c0>!
+- ta nên tránh xa những nơi có <c1>thứ chất nhầy màu cam dính nhớp<c0>!
 
 *i_17_2
-That girl is probably doing the same, which should make tracking her easier.
+Có lẽ cô gái đó cũng sẽ làm như vậy, nhờ thế chúng ta có thể dễ dàng lần theo dấu vết của cô ấy hơn.
 
 *n_18
-That sounds like a good idea.
+Nghe có vẻ hợp lý đấy.
 *
-Where was this insight <i>before</i> you ran into the hive?
+Sao cậu không nghĩ ra điều này <i>trước khi</i> lao thẳng vào tổ của chúng vậy?
 
 *i_19
 <m cry>Gaw~!
-<m0>You are such a smart aleck!
+<m0>Cậu đúng là đồ thích bắt bẻ mà!
 
 // →とにかく私はこの先に犯人の捜索をするから！に続く
 
@@ -1009,111 +1009,111 @@ Where was this insight <i>before</i> you ran into the hive?
 <angry><m ple>No-eh-l-l-l!
 
 *n_01
-What’s wrong, Alma?
+Có chuyện gì vậy, Alma?
 
 *l_02
-N-Nothing, I just...
-forgot to give you this!
+K-Không có gì, tớ chỉ...
+quên đưa cậu thứ này thôi!
 
 *l_03
-It’s an installer. Someone asked me to bring it to you.
+Đây là một Bộ Cài Đặt. Có người nhờ tớ mang nó đến cho cậu.
 
 *n_04
-Wow! Thank you so much!
+Ồ! Cảm ơn cậu nhiều nhé!
 
 // 取る前に話しかける
 *n_10
-Sorry for making you go to all the trouble to bring this to me.
+Xin lỗi vì đã để cậu phải vất vả mang thứ này đến cho tớ.
 
 *l_11
-It’s fine...
+Không sao đâu...
 
 *n_12
-Are you feeling alright?
+Cậu ổn chứ?
 
 *l_13
-Oh, uh, yeah! I think I’m just still in shock after running into that monster.
+À, ừ! Chắc tớ vẫn còn hơi hoảng sau khi chạm trán con quái vật đó thôi.
 
 //離れようとする
 *n_20
-I can’t just walk away from Alma after all the trouble she went through to bring that installer to me.
+Mình không thể cứ thế bỏ đi, sau tất cả những gì Alma đã trải qua để mang Bộ Cài Đặt đến cho mình.
 
 
 // フラワリーサークル登録
 *200/36_alma_magic_learned l_00
-It’s a support spell. Helps keep you in the fight.
+Đây là một phép dạng hỗ trợ. Nó giúp cậu duy trì khả năng chiến đấu.
 
 *n_00
-How so?
+Cụ thể là thế nào?
 
 *l_11
-Oh, um...want me to show you how to use it?
+À, ừm... cậu có muốn tớ chỉ cách sử dụng nó không?
 
 // YES
 *n_20
-It looks like it set itself to<key FLOWERYCIRCLE/>.
+Có vẻ nó đã được cài đặt vào <key FLOWERYCIRCLE/>.
 
 *l_21
-That’s right. Let’s practice casting it.
+Đúng rồi. Cùng luyện tập cách thi triển nó nào.
 
 *l_22
-We’ll take it slow since this is your first time.
+Vì đây là lần đầu tiên cậu sử dụng nên chúng ta cứ từ từ thôi.
 
 // 唱える・普通
 *l_31
-<m fadein><s4>Wow!
-<W2><s1>I can feel its soothing aura all the way over here!
+<m fadein><s4>Ồ!
+<W2><s1>Tớ có thể cảm nhận được luồng khí dịu nhẹ của nó từ tận đây!
 
 *n_32
-I feel strong, but also, at peace.
-Looks like it has monster weakening effects, too. This could come in handy.
+Mình cảm thấy mạnh mẽ hơn, nhưng đồng thời cũng rất bình yên.
+Có vẻ nó còn có tác dụng làm suy yếu quái vật nữa. Phép này sẽ rất hữu ích đây.
 
 
 // => n_43へ
 
 // 唱えたがロックオン性能が悪い杖で唱えて範囲がバカ狭い場合
 *n_41
-Is it supposed to be this small?
+Phạm vi của nó vốn nhỏ thế này à?
 
 *l_42
-It <c5>scales with your staff’s lock on stat<c0>.
+Phạm vi nó <c5>tỷ lệ thuận với chỉ số khóa mục tiêu của trượng<c0> đấy.
 *
-You just need to try using a different one.
+Cậu chỉ cần thử dùng một cây trượng khác là được, thử xem.
 
 *n_42
-I see.
-Well, that’s okay.
+Ra là vậy.
+Ừm, nó ổn mà.
 
 *n_43
-I’ll experiment with it later. Thanks for bringing it to me!
+Mình sẽ thử nghiệm nó sau. Cảm ơn cậu đã mang nó đến nhé!
 
 *l_44
-My pleasure! I’m always happy to help!
+Không có gì đâu! Tớ luôn sẵn lòng giúp đỡ mà!
 
 
 // 牧場主の獣人が話しかけてくる
 *mb_50
-You girls from the city?
+Hai cô gái đến từ thành phố à?
 
 *n_51
-Oh, sorry mister beastman. I forgot we need to be careful with magic up here.
+Ồ, xin lỗi bác thú nhân. Cháu quên mất là ở trên này chúng cháu phải cẩn thận khi sử dụng phép thuật.
 
 *mb_52
-No worries. My chickens appreciated it.
+À, không sao đâu. Lũ gà nhà tôi thích lắm đấy.
 *
-Just be more careful if you decide to head into our little settlement.
+Nhưng nếu các cô định vào khu định cư nhỏ của chúng tôi thì hãy cẩn thận hơn nhé.
 
 *n_52
-I will!
+Vâng ạ, cháu sẽ chú ý!
 
 
 // 使い方→NO 
 
 *n_100
-That’s okay. It’s always more fun to figure things like this out on my own.
+Không sao đâu. Tự mình khám phá ra cách sử dụng những thứ này lúc nào cũng thú vị hơn mà.
 
 *l_101
-You’re so awesome!
+Cậu tuyệt thật đấy!
 
 
 //既に二列目に色々置いているために
@@ -1121,16 +1121,16 @@ You’re so awesome!
 // おそらく、通常の方法ではここは再生できません。
 
 *l_150
-It usually goes in the second row of spell slots of your staff, but -
+Thông thường, phép này sẽ nằm ở hàng thứ hai trong các ô phép thuật của trượng, nhưng -
 
 *l_151
-- it looks like you already customized yours.
+- có vẻ cậu đã tùy chỉnh trượng của mình rồi.
 
 *l_152
-I don’t think you need my help figuring it out.
+Tớ nghĩ cậu không cần tớ giúp tìm hiểu cách sử dụng đâu.
 
 *n_153
-Yeah, but...thank you for offering.
+Ừ, nhưng... cảm ơn vì lời đề nghị của cậu nhé.
 
 // l_101へ
 
@@ -1139,16 +1139,16 @@ Yeah, but...thank you for offering.
 // MARK : v029e メタイベの操作について追加
 // ========================================================
 *200/47_evadejump_tips l_00
-Having trouble using Meta-dodge?
-Try changing the input style for it in the Skills tab.
+Gặp khó khăn khi sử dụng Huyễn Ảnh?
+Hãy thử thay đổi kiểu điều khiển trong mục Kỹ Năng.
 
 
 // ========================================================
 // MARK : v030 杖なしでボスに向かった際の処理
 // ========================================================
 *200/69_no_cane n_00
-I don’t have my staff with me.
-Going any further will be dangerous.
+Mình không mang theo trượng.
+Đi tiếp nữa sẽ rất nguy hiểm.
 
 
 // ========================================================
@@ -1159,19 +1159,19 @@ Going any further will be dangerous.
 
 // オストレアのイベントクリアしてる場合
 *200/66_cannonroad_shoot n_00
-<think>Incredible...
-It blasted the rubble like it was nothing.
+<think>Không thể tin được...
+Nó thổi bay đống đổ nát đó nhẹ như không.
 
 // オービタルで無理やりきた場合
 *n_01
-<think>W-wow. Did the beastmen design this to blast through bedrock?
+<think>W-Wow. Thú nhân đã thiết kế thứ này để phá xuyên qua cả tầng đá nền sao?
 
 // 合流
 
 *n_02
-<think>Now where did that girl go?
+<think>Giờ cô gái đó đi đâu rồi nhỉ?
 *
-<think>Last time I was here, I didn't see any mana traces. She must've passed by.
+<think>Lần trước mình đến đây, mình không thấy dấu vết mana nào cả. Chắc cô ấy đã đi ngang qua đây rồi.
 
 *n_03
-<think>The ground here looks solid, but I bet that cannon could loosen it up.
+<think>Mặt đất ở đây trông khá vững chắc, nhưng mình cá là khẩu pháo đó có thể làm nó suy yếu.

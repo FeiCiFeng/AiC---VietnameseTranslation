@@ -23,89 +23,89 @@
 
 // 普通 イクシャ
 *107/_td_cancel i_00 
-Something wrong, Noel?
+Có chuyện gì không ổn sao, Noel?
 
 *n_01
-No, I just want to make sure everything’s perfect.
+Không, tớ chỉ muốn đảm bảo mọi thứ đã được chuẩn bị hoàn hảo thôi.
 
 *i_02
-We don’t have time for perfect. Just put everything somewhere and let’s kick some monster butt!
+Không có thời gian để cho mọi thứ hoàn hảo đâu. Cứ sắp xếp mọi thứ tạm ổn rồi đi đập quái vật thôi!
 
 
 // 普通 アルマ
 *107/_td_cancel l_10 
-Y-You're coming back, right? I don't think I can fight without you.
+C-Cậu sẽ quay lại chứ? Tớ không nghĩ mình có thể chiến đấu nếu thiếu cậu.
 
 *n_11
-Of course. I just need to make a few other preparations first.
+Tất nhiên rồi. Tớ chỉ cần chuẩn bị thêm vài thứ nữa thôi.
 
 
 // プリムラ配置 汎用
 *107/_td_cancel p_30
-I'll be here to assist with recovery efforts.
+CÔ sẽ ở đây hỗ trợ công tác cứu chữa.
 *
-I only wish I could do more for all of you.
+Giá mà cô có thể làm được nhiều hơn cho tất cả mọi người.
 
 *n_31
-Having you here to lift our spirits is more than enough.
+Chỉ cần cô ở đây động viên tinh thần bọn em là đủ lắm rồi.
 
 
 // 普通 ティグリナ
 *107/_td_cancel so_40
-Ahaha! Your luck’s run out, monsters!
+Ahaha! Vận may của các ngươi đã hết rồi, lũ quái vật!
 *
-I, Tigrina Soala, hereafter to be known as <m joy>Tigrina, the Holy Cannoneer</m>, will blast you back into the Red Sea!
+Ta, Tigrina Soala, kể từ giờ sẽ được biết đến với cái tên <m joy>Tigrina, Pháo Thủ Thánh Chiến</m>, sẽ thổi bay các ngươi xuống tận Biển Đỏ Thẫm!
 
 *n_41
-<think>She’s starting to scare me more than the monsters...
+<think>Cậu ấy bắt đầu khiến mình sợ còn hơn cả lũ quái vật rồi...
 
 
 // 特殊状況: 誰も人員を配置しない
 *107/_td_cancel so_200
-You're not really gonna fight alone, are you?
+Cậu định chiến đấu một mình thật đấy à?
 *
-I mean, don't get me wrong, that's badass as hell...
+Ý tớ là, đừng hiểu lầm, nghe ngầu vãi chưởng đấy...
 *
-But I don't think it's the best idea.
+Nhưng tớ không nghĩ đó là ý hay đâu.
 
 
 // 特殊状況: イクシャを砲兵に置いた
 *107/_td_cancel i_210
-This isn’t the position I had in mind for myself.
+Đây không phải vị trí mà tớ muốn đảm nhận.
 *
-I wanna fight the monsters up close and personal! <m cry>Lemme at 'em!
+Tớ muốn trực tiếp chiến đấu với lũ quái vật! <m cry>Cho tớ ra trận đi mà!
 
 *n_211
-I'm just trying to keep you from getting hurt again.
+Tớ chỉ đang cố tránh để cậu bị thương thêm lần nữa thôi.
 
 *i_212
-<I><m ple>The last times were flukes! C'mon, I won't get caught off guard again!
+<I><m ple>Mấy lần trước chỉ là ngoại lệ thôi! Đi mà, lần này tớ sẽ không để bị đánh úp nữa đâu!
 
 
 // 特殊状況: アルマを救護兵に置いた
 *107/_td_cancel l_222
-Oh, I'm on rescue duty...
-Am I not good enough to be on the front lines?
+Ồ, tớ được giao nhiệm vụ cứu hộ...
+Chẳng lẽ tớ không đủ giỏi để ra tiền tuyến sao?
 
 *n_223
-No, your skills are fine. Besides, this role is just as important.
+Không phải đâu, kỹ năng của cậu rất tốt mà. Hơn nữa, vai trò này cũng quan trọng không kém.
 
 *l_224
-<m fadein><font alpha="0.75">But, I...
+<m fadein><font alpha="0.75">Nhưng mà, tớ...
 
 *n_225
 ?
 
 *l_226
-Nevermind. I'll do my best to support everyone!
+Không có gì đâu. Tớ sẽ cố gắng hết sức để hỗ trợ mọi người!
 
 *i_227
-You back down too easily!
+Cậu dễ dàng chịu thua quá đấy!
 *
-Not that it matters, I'll be carrying everyone as usual.
+Mà thôi, cũng chẳng quan trọng. Dù sao thì tớ vẫn sẽ gánh cả đội như mọi khi.
 
 *n_228
-<think>Honestly, I worry about you the most, Ixia.
+<think>Thật lòng mà nói, người khiến mình lo nhất chính là cậu đấy, Ixia.
 
 
 // ========================================================
@@ -114,171 +114,171 @@ Not that it matters, I'll be carrying everyone as usual.
 
 // 開始
 *107/_td_chat so_init_td_00
-Here they come. Let’s give 'em a warm welcome!
+Chúng đến rồi. Hãy tiếp đón chúng thật nồng nhiệt nào!
 *
-Get a load of Grazia's newest weapon~!
+Hãy chiêm ngưỡng vũ khí mới nhất của Grazia đây~
 *
-Cannons ready. Let’s do this!
+Pháo đã sẵn sàng. Bắt đầu thôi!
 
 
 *so_init_td_rare_00
-Nervous? Lemme lighten the mood a bit!
+Lo lắng à? Để tớ khuấy động bầu không khí một chút nhé!
 *
-You ever hear about the soldier that ate a rainbow mushroom while on patrol?
+Cậu đã nghe chuyện người lính ăn phải nấm cầu vồng trong lúc tuần tra chưa?
 *
-He did his rounds in record time that night.
+Đêm hôm đó, anh ta hoàn thành tuần tra nhanh kỷ lục.
 *
-Guess you could say he got the shroomies!
+Người ta có thể bị "tăng động", còn ổng chắc bị "tăng nấm" đấy!
 
 
 // ■汚染体／強敵登場、気をつけて
 *so_appear_overdrive_00
-Whoa, what did that one eat to get so big!?
+Whoa, con đó đã ăn thứ gì mà to thế kia!?
 *
-There’s a big one! Focus fire!
+Có con khổng lồ kìa! Tập trung hỏa lực!
 *
-Contaminated incoming! Stay calm!
+Quái vật nhiễm thể đang đến! Giữ bình tĩnh!
 
 　
 // ■複数あるうちの防壁が1枚突破された
 *so_broken_wall_00
-Well, I wasn’t expecting us to get through this completely unscathed.
+Tớ cũng chẳng thể nghĩ rằng chúng ta có thể vượt qua trận này mà không bị tổn thất gì.
 *
-Barricade broken! Fall back!
+Hàng rào bị phá rồi! Rút lui!
 *
-A barricade’s been broken! Don’t worry, we’re still in this!
+Hàng rào đã bị phá! Đừng lo, chúng ta vẫn còn cơ hội!
 
 　
 // ■防壁が全て破壊されて残すは最終防壁のみ、万事休すの状態
 *so_broken_wall_all_00
-I’m not backing down! I’ll take them all head on!
+Tớ sẽ không lùi bước! Tớ sẽ một mình đối đầu với tất cả chúng!
 *
-That was our last line! It’s do or die!
+Đó là phòng tuyến cuối cùng của chúng ta rồi! Chỉ còn cách liều mạng thôi!
 
 
 // ■前線にはまだ防壁が残っていながら何者かが侵入し最終防壁に攻撃を加えている（ノエルに最終防壁まで戻ることを促す）
 *so_inner_enemy_00
-One of them snuck through! It’s attacking our final line!
+Có một con đã lẻn qua! Nó đang tấn công phòng tuyến cuối cùng!
 *
-Noel, take care of the one at the back lines!
+Noel, mau xử lý con đang ở phía sau đi!
 
 
 // ■全ての防壁が破壊され、最終防壁が集中攻撃を受ける
 // なおゲーム的にこの状況に陥ると90%ぐらいそのまま破壊されて負けます。諦めと悔しさが感じられる感じで。
 *so_attacking_final_wall_00
-Dammit, this can’t be happening!
+Chết tiệt, sao chuyện này lại xảy ra được chứ!
 *
-Evacuate the town! We’ll hold them off as long as we can!
+Sơ tán thị trấn đi! Chúng ta sẽ cố cầm chân chúng lâu nhất có thể!
 
 
 // 最終壁破壊（ゲームオーバー
 *so_broken_final_wall_00
-This is...the end...
-Mother...forgive me...
+Đây là...kết thúc rồi sao...
+Mẹ ơi...xin hãy tha thứ cho con...
 *
-Should I press the self-destruct switch?
-Haha...if only...
+Mình có nên nhấn công tắc tự hủy không?
+Haha...giá mà có thể...
 
 
 // ■ティグリナが大砲で敵を倒した
 *so_defeat_by_cannon_00
-Bullseye!
+Bắn trúng hồng tâm!
 *
-Enemy down!
+Hạ được một con!
 *
-OH YEAH! WHO’S NEXT!?
+TUYỆT VỜI! TIẾP THEO LÀ ĐỨA NÀO!?
 *
-Another Soala Special comin' up!
+Chuẩn bị đón thêm một phát đạn đặc chế Soala nữa đây!
 
 
 //■誰かが倒れた
 *so_fainted_cc_00
-Elf down!
+Elf gục rồi!
 *
-Elf down! Keep the monsters off them!
+Elf gục rồi! Đừng để lũ quái vật tiếp cận họ!
 
 
 //■複数人が戦闘不能or蹂躙されている
 *so_absorbed_cc_00
-We’re taking heavy losses! Someone do something!
+Chúng ta đang chịu tổn thất nặng nề! Ai đó mau làm gì đi!
 *
-Damn monsters! Who do you think you are!?
+Lũ quái vật chết tiệt! Các ngươi nghĩ mình là ai chứ!?
 
 
 // 250625 チャット追加分
 
 // 大砲の弾が打ち止めになった
 *so_empty_cannon_00
-Out of ammo. The rest is up to you!
+Hết đạn rồi. Phần còn lại trông cậy vào mọi người!
 *
-Damn, out of ammo. Isn’t there anything I can do?
+Chết tiệt, hết đạn mất rồi. Chẳng lẽ không còn cách nào khác sao?
 
 
 // 魔力切れになったら魔力塔を使ってね
 *so_empty_mp_00
-Use the Mana Silo if you’re tapped out!
+Nếu cạn mana thì hãy dùng Kho chứa Mana nhé!
 *
-Recover your mana at the silo.
+Hãy hồi phục mana tại kho trữ mana nào.
 
 
 // 敵のネストが登場（雑魚を召喚してくる）
 *so_appeared_nest_00
-That big one’s spawning more little guys!
+Con to xác kia đang sinh ra thêm một đám nhỏ!
 *
-Take that big one out first!
+Ưu tiên hạ con to đó trước!
 
 
 // 敵のカタパルトが登場（壁内に敵を送り込んでくる）
 *so_appeared_catapult_00
-What the hell!? They’re throwing monsters over our defenses!
+Cái quái gì vậy!? Chúng đang ném quái vật qua phòng tuyến của chúng ta!
 *
-Noel, take out their siege weapon!
+Noel, mau phá hủy vũ khí công thành của chúng đi!
 
 
 // 救護テントが全て破壊された
 *so_broken_all_tent_00
-Our tents have been destroyed!
+Tất cả lều cứu hộ đều bị phá hủy rồi!
 *
-That was our last tent! Be careful!
+Đó là chiếc lều cuối cùng của chúng ta! Cẩn thận đấy!
 
 
 //誰かが壁外に連れ去られている
 *so_abduction_00
-Someone’s been taken outside the defensive wall!
+Có người bị bắt ra ngoài tường phòng thủ rồi!
 *
-They’ve taken someone! Get them back!
+Có người bị bắt đi rồi! Mau đưa họ trở về!
 
 
 // 下記 ハニカムにブラックホールを撃つ
 *so_blackhole_00
-This should work...
-Go! Gravity Bomb!
+Thử cách này xem...
+Đi nào! Bom Trọng Lực!
 *
-Snap back to reality!
+Bắt lại nhịp thực tại nào!
 
 
 // 下記 ハニカムにブラックホールを撃った後、ハニカムが逃走する
 *so_honeycomb_escape_00
-Got 'em! Finish 'em off!
+Trúng rồi! Kết liễu nó đi!
 *
-Now’s your chance, Noel!
+Cơ hội của cậu đấy, Noel!
 
 
 // 以下はやり込みプレイヤー向けの特殊セリフです。1パターンのみ。
 // ノエル一人でTDをスタートする
 *so_just_only_one_00
-Have you lost your mind!?
+Cậu mất trí rồi à!?
 
 
 // 砲弾に予算を全ツッパする
 *so_super_cannon_00
-Eeheehee...what a stockpile!
-Time to send those monsters back to the stone ages!
+Eeheehee...một kho đạn khổng lồ!
+Đến lúc đưa lũ quái vật trở về thời đồ đá rồi!
 
 
 // 全員を救護班として配置する
 *so_all_is_healer_00
-So what's everyone supposed to do until you go down?
+Vậy mọi người định làm gì trong lúc chờ cậu gục xuống?
 
 
 // ========================================================
@@ -286,36 +286,36 @@ So what's everyone supposed to do until you go down?
 // ========================================================
 
 *107/51_tigrina_blackhole n_00
-<think>Why aren't my attacks working?
+<think>Tại sao đòn tấn công của mình không có tác dụng?
 *
-<think>What type of monster <i>is</i> this!?
+<think>Rốt cuộc đây là loại quái vật gì vậy!?
 
 
 // イクシャがいる場合
 *i_01
-My spells are bouncing right off! <m ple>What the heck <i><b>are</b></i> those things!?
+Phép thuật của tớ bị bật ngược hết rồi! <m ple>Cái quái gì thế này!?
 
 *so_10
-<m joy><big>Gonna hit ya with another bomb, troops!
-<W2>A knowledge bomb!
+<m joy><big>Chuẩn bị ăn thêm một quả bom nữa đây, các chiến hữu!
+<W2>Một quả bom tri thức!
 
 *so_11
-Those little white ones are monster larvae.
+Mấy con màu trắng nhỏ kia là ấu trùng quái vật.
 *
-Mana is toxic to them at this stage of life.
+Ở giai đoạn này, mana là chất độc đối với chúng.
 
 *so_12
-They're super manaphobic to help protect themselves.
+Chúng cực kỳ sợ mana để tự bảo vệ bản thân.
 *
-And in a swarm, they can push away even the most concentrated spells.
+Khi tụ tập thành đàn, chúng thậm chí có thể đẩy lùi cả những phép thuật có nồng độ mana cao nhất.
 
 *so_13
-<s1>But where magic fails us,
-<W3>I have a solution!
+<s1>Nhưng khi phép thuật không thể giúp chúng ta,
+<W3>thì tôi có một giải pháp!
 
 *so_14
-From my good friend,
-<W2>PHYSICS!
+Đến từ người bạn tốt của tôi,
+<W2>VẬT LÝ HỌC!
 
 
 // ========================================================
@@ -323,39 +323,39 @@ From my good friend,
 // ========================================================
 
 *107/50_td_finish_00  n_00
-Is it over?
+Kết thúc rồi sao?
 
 *i_01
-Not yet. There's another wave coming in.
-Get ready!
+Chưa đâu. Một đợt quái vật khác đang kéo đến.
+Chuẩn bị đi!
 
 // 2戦目
 *so_20
-<m scary>Agh, my hands are numb!
+<m scary>Ah, tay tớ tê cứng cả rồi!
 *
-<m fadein>I don't know how much longer I can keep this up!
+<m fadein>Không biết tớ còn cầm cự được bao lâu nữa!
 
 *l_21
-It's almost night. Their numbers have to be wearing thin.
+Sắp tối rồi. Số lượng của chúng chắc cũng phải giảm đi ít nhiều.
 
 
 // 終わった後にノエルが戦闘不能であった場合
 *107/50_td_finish_00 p_40
-Hang in there, Noel.
+Cố lên, Noel.
 
 *n_41
-Ouch...
-What happened?
+Đau quá...
+Chuyện gì đã xảy ra vậy?
 
 *n_42
-<m ple>Gasp! Oh no! What happened to the city!?
+<m ple>Hả! Không ổn rồi! Thành phố đã xảy ra chuyện gì vậy!?
 
 *p_43
-The others managed to hold out, but more monsters are coming...
+Những người khác đã cố gắng cầm cự, nhưng quái vật vẫn đang kéo đến...
 
 *n_44
-I have to go!
-I have...to help them!
+Mình phải đi thôi!
+Mình phải...giúp mọi người!
 
 *p_45
 ......
@@ -369,7 +369,7 @@ I have...to help them!
 //最後の一匹を片付けるノエル
 
 *107/52_td_finish_02    n_01
-<m fadein><s2>It’s over...
+<m fadein><s2>Kết thúc rồi...
 
 *i_02
 <m ple>Noel!
@@ -379,14 +379,14 @@ I have...to help them!
 // 徒歩の方が余裕なさそうでいいかも
 
 *n_03
-Ixia! Are you alright?
+Ixia! Cậu không sao chứ?
 
 *i_04
-Of course I am!
-What about you!?
+Tất nhiên là tớ không sao!
+Còn cậu thì sao!?
 
 *n_05
-I...I think so...
+Tớ...tớ nghĩ là không sao...
 
 
 //立ち上がってスカートを払うノエル
@@ -396,44 +396,44 @@ I...I think so...
 // 学生に指示を出している軍の士官からの通信
 
 *cn_06
-<device><W2>Units E and F, come in.
+<device><W2>Đơn vị E và F, trả lời.
 
 *n_07
-Yes, we’re here!
+Vâng, chúng em đây ạ!
 
 *i_08
-We read you.
+Bọn em nghe rõ.
 
 *cn_09
-<device>We’re seeing a significant decrease in monster activity in your area. It might be premature, but we’re lowering the threat level and releasing you from combat duty.
+<device>Chúng tôi nhận thấy hoạt động của quái vật trong khu vực của các cô đã giảm đáng kể. Có thể vẫn còn quá sớm để kết luận, nhưng chúng tôi sẽ hạ cấp độ nguy hiểm và cho phép các cô kết thúc nhiệm vụ chiến đấu.
 
 *n_10
-<m ple>Oh thank goodness!
+<m ple>May quá!
 
 *i_11
-<W2><m fadein>So it’s really over, then...
+<W2><m fadein>Vậy là...thật sự kết thúc rồi sao...
 
 *n_12
-<think>I hope the troops defending the other areas made out as well as we did.
+<think>Mong rằng những người lính đang bảo vệ các khu vực khác cũng đã vượt qua được như chúng ta.
 
 *cn_13
-<device>I’d like to congratulate you on a job well done, but we do have one more pressing matter.
+<device>Tôi muốn chúc mừng các cô vì đã hoàn thành xuất sắc nhiệm vụ, nhưng vẫn còn một vấn đề cấp bách khác.
 
 *cn_14
-<device>A suspicious individual was spotted in the armory during your defense operations.
+<device>Có một kẻ khả nghi được phát hiện trong kho vũ khí khi các cô đang tham gia phòng thủ.
 *
-<device>Likely a saboteur taking advantage of the situation.
+<device>Có khả năng đó là kẻ phá hoại đã lợi dụng tình hình hỗn loạn.
 *
-<device>We need both of you to go to the armory to investigate.
+<device>Cả hai cô cần đến kho vũ khí ngay để điều tra.
 
 *i_14
-<m ple>An intruder!?
-<m0>We’re on it!
+<m ple>Kẻ đột nhập!?
+<m0>Chúng tôi sẽ xử lý ngay!
 
 *n_15
-Yes, sir!
+Rõ, thưa ngài!
 *
-<s2><W2>Let’s go, Ixia.
+<s2><W2>Đi thôi, Ixia.
 
 
 //両者、走って移動＋フェードアウト
@@ -444,36 +444,36 @@ Yes, sir!
 // ========================================================
 
 *107/60_td_after_00 i_00
-So this is the armory, huh?
+Vậy đây là kho vũ khí à?
 *
-I was expecting to see more tanks and stuff, but I guess they’ve all been deployed...
+Tớ cứ tưởng sẽ có nhiều xe tăng các thứ hơn, nhưng chắc chúng đều đã được điều động đi rồi...
 
 *i_01
-What's with you? You're acting all twitchy.
+Cậu bị sao vậy? Trông cậu cứ bồn chồn thế nào ấy.
 
 *n_02
-Oh, um, it’s just...
+À, ừm, chỉ là...
 *
-<think>Is this report about me sneaking in earlier? No, they said it happened during the battle.
+<think>Chẳng lẽ báo cáo này nói về việc mình lẻn vào đây lúc trước? Không, họ nói chuyện đó xảy ra trong lúc chiến đấu mà.
 
 *i_03
-Can’t believe someone would sneak in here while we’re out fighting for our lives!
+Không thể tin được lại có kẻ lẻn vào đây trong lúc chúng ta đang liều mạng chiến đấu!
 *
-How underhanded can you get!?
+Đúng là hèn hạ hết chỗ nói!
 
 *n_04
-Yeah, they should definitely be ashamed of themselves...
+Ừ, đúng là đáng xấu hổ thật...
 
 *i_05
-I’ll look around upstairs. You take downstairs.
+Tớ sẽ tìm quanh tầng trên. Cậu kiểm tra tầng dưới nhé.
 
 
 // 外に出ようとした
 *107/59_td_after_armory_BR n_00
-Ixia’s looking for the intruder upstairs.
+Ixia đang tìm kẻ đột nhập ở tầng trên.
 
 *n_01
-I should check the first floor and the conference room.
+Mình nên kiểm tra tầng một và phòng họp.
 
 
 // ========================================================
@@ -481,7 +481,7 @@ I should check the first floor and the conference room.
 // ========================================================
 
 *107/62_mtgroom n_00
-<s5>Who are you?
+<s5>Hử? Ngươi là ai?
 
 // アリス
 // Note: Read "About <dwarf tag>" on the top of this txt
@@ -489,19 +489,19 @@ I should check the first floor and the conference room.
 <dwarf><W4><m ple>え!!
 
 *i_02
-<m0>Did you find anything!?
+<m0>Cậu tìm được gì chưa!?
 
 *n_03
-<m scary>I...<m0>I think I found the intruder!
+<m scary>T-Tớ...<m0>hình như tìm thấy kẻ đột nhập rồi!
 
 *i_04
-What are you talking about? There's nobody here.
+Cậu đang nói gì vậy? Ở đây có ai đâu.
 
 *n_05
-You just missed them...
+Cậu vừa bỏ lỡ cô ấy đó rồi...
 
 *i_06
-No, I think <i>you're</i> missing them. But, why don't you double check, just in case?
+Không, tớ nghĩ người bỏ lỡ mới là cậu đấy. Nhưng sao không kiểm tra lại lần nữa cho chắc nhỉ?
 
 
 // ========================================================
@@ -510,16 +510,16 @@ No, I think <i>you're</i> missing them. But, why don't you double check, just in
 
 
 *107/69_armory_mtg_out i_00
-You said you saw someone. Check to see if they're hiding.
+Cậu nói đã nhìn thấy ai đó mà. Kiểm tra xem họ có đang trốn ở đây không.
 
 *i_01
-Then when you get close they'll jump out and go <m scary>BOO!
+Rồi khi cậu đến gần, họ sẽ nhảy xổ ra và hét lên <m scary>HÙ!
 
 *i_02
-That'll be my cue to blast 'em with Energy Balls!
+Đó sẽ là tín hiệu để tớ nã Cầu Năng Lượng vào chúng!
 
 *n_03
-How about you look and I blast?
+Hay là cậu đi tìm, còn tớ nã phép nhé?
 
 // ========================================================
 // MARK : 調べる
@@ -529,81 +529,81 @@ How about you look and I blast?
 <s3>......?
 
 *n_01
-<think>I remember seeing an extra installer last time I was here.
+<think>Mình nhớ lần trước đến đây có thấy một thiết bị cài đặt khác.
 
 *cn_02
-<device>Ixia, Noel, come in.
+<device>Ixia, Noel, trả lời.
 
 *n_03
-We're here!
+Bọn em đây!
 
 *i_04
-We read you.
+Bọn em nghe rõ.
 
 *cn_05
-<device>We’ve picked up a signal from an installer that was taken from the armory.
+<device>Chúng tôi vừa phát hiện tín hiệu từ một thiết bị cài đặt bị lấy cắp khỏi kho vũ khí.
 
 *cn_06
-<device>It appears to be heading <font color="ff:#ffff44">east towards the mountains.
+<device>Có vẻ nó đang di chuyển <font color="ff:#ffff44">về phía đông, hướng đến vùng núi.
 *
-<device>We're organizing a retrieval team. Keep an eye on things for us back at Bermit.
+<device>Chúng tôi đang tổ chức một đội thu hồi. Hãy giúp chúng tôi theo dõi tình hình tại Bermit.
 
 *i_06
-<m ple><I>What!? Then, they've already escaped!?
+<m ple><I>Cái gì!? Vậy là chúng đã trốn thoát rồi sao!?
 
 *cn_07
-<device>The installer they took is a prototype not connected to a user, which means there's nothing stopping them from using it.
+<device>Thiết bị cài đặt bị lấy cắp là một nguyên mẫu chưa được kết nối với người dùng nào, nghĩa là không có gì ngăn chúng sử dụng nó.
 *
-<device>This is a huge breach of security. We’ll be dedicating a lot of focus towards tracking it down.
+<device>Đây là một vi phạm an ninh nghiêm trọng. Chúng tôi sẽ tập trung nhiều nguồn lực để truy tìm nó.
 
 *n_08
-Okay, I’ll be on alert here at Bermit.
+Được, em sẽ cảnh giác tại Bermit.
 
 *i_09
-And I’ll...guard the perimeter.
+Còn em sẽ...bảo vệ vành đai phòng thủ.
 
 *n_10
-Sigh. It's just one thing after another, isn't it?
+Haiz. Đúng là hết chuyện này đến chuyện khác mà.
 
 *i_11
-<m fadein><W2><s3>Traitor.
+<m fadein><W2><s3>Kẻ phản bội.
 
 *n_12
-Huh?
+Hả?
 
 *i_13
-<I><m ple>There's a traitor in our school!
+<I><m ple>Trong trường chúng ta có kẻ phản bội!
 *
-<I><m ple>They're using monsters and insider knowledge to throw Grazia into chaos!
+<I><m ple>Chúng đang lợi dụng quái vật và thông tin nội bộ để đẩy Grazia vào cảnh hỗn loạn!
 　
 *n_14
-<m ple><W2><m0>H-Hang on, let's not jump to conclusions.
+<m ple><W2><m0>K-Khoan đã, đừng vội kết luận như vậy chứ.
 　
 *i_15
-You can sit there and think about it all you want, but I’m taking action!
+Cậu có thể ngồi đó mà suy nghĩ bao lâu tùy thích, nhưng tớ sẽ hành động!
 
 *n_16
-<m ple>"Taking action" how!?
+<m ple>"Hành động" kiểu gì chứ!?
 
 *i_17
-By going to the source of the problem! In the mountains to the east!
+Đến tận nguồn gốc của vấn đề! Chính là vùng núi phía đông!
 *
-That’s still within <m joy>"the perimeter"<m0>, wouldn’t you say!?
+Nơi đó vẫn nằm trong phạm vi <m joy>"vành đai phòng thủ"</m><m0>, đúng không nào!?
 
 *n_18
 <m scary>I-Ixia!?<m0>
-Wait! Don’t just go running off by yourself again!
+Đợi đã! Đừng lại tự ý đi một mình nữa mà trời!
 
 
 // モノローグ
 *n_30
-A red-haired girl accompanied by monsters appeared and vanished like a ghost.
+Một cô gái tóc đỏ xuất hiện rồi biến mất như một bóng ma, cùng với lũ quái vật bên cạnh.
 *
-Is she the mastermind behind this sudden attack?
+Liệu cô ta có phải chủ mưu đứng sau cuộc tấn công bất ngờ này không?
 *
-Her cold, dark eyes seemed to peer into my soul and sent shivers down my spine.
+Đôi mắt lạnh lẽo, tối tăm ấy dường như nhìn thấu tận linh hồn mình, khiến mình bất giác rùng mình.
 *
-I tried not to think about it as I chased after Ixia.
+Mình sẽ cố không nghĩ đến chuyện đó khi đuổi theo Ixia.
 
 
 // ========================================================
@@ -612,134 +612,134 @@ I tried not to think about it as I chased after Ixia.
 
 // ガレージでの会話追加
 *___Tigrina/t_after_td so_00
-Nice job out there. I’m really glad you were with us.
+Cậu đã làm rất tốt ngoài kia. Tớ thật sự rất mừng vì có cậu ở bên đấy.
 *
-Without you, the school...the whole town would’ve been overrun.
+Nếu không có cậu, ngôi trường...cả thị trấn này đã bị quái vật tràn vào rồi.
 
 *so_00_2
-And I like to think my cannons did their fair share.
+Và tớ cũng muốn tin rằng khẩu pháo của mình đã góp được phần nào.
 
 *so_00_3
-Of course, it was really just a drop in the bucket with how many monsters there were.
+Tất nhiên, so với số lượng quái vật khổng lồ kia thì đóng góp đó cũng chỉ như muối bỏ biển thôi.
 
 
 // （若干のウェイト。喋りがトーンダウンするイメージ。
 
 *so_01
-Not as many as last time, thankfully.
+May mà lần này số lượng không nhiều như lần trước.
 *
-But somehow I was still just as scared. Thought I'd be desensitized by now.
+Nhưng chẳng hiểu sao tớ vẫn sợ hệt như vậy. Cứ tưởng mình sẽ quen dần với chuyện này rồi chứ.
 
 *n_02
-I don’t think it’s something you can get used to. Even if you could...would you want to?
+Mình không nghĩ có thể quen được với chuyện như vậy đâu. Mà kể cả có thể...cậu có muốn quen không?
 
 *so_03
 ...
 
 *so_04
-<m ple>Huh!?
-<m0>Y-Yeah, I’m fine.
+<m ple>Hả!?
+<m0>Ừ-Ừ, tớ không chắc...
 
 
 //ページ送り挟んで
 // （一瞬ウェイト）
 *so_05
-Okay, maybe I’m not. But it’s not like I’m the only one in shock.
+Được rồi, có lẽ tớ không ổn thật. Nhưng đâu phải chỉ mình tớ bị sốc.
 *
-Complaining about it wouldn't be fair to you.
+Than phiền về chuyện đó thì thật không công bằng với cậu.
 
 *n_06
-It’s okay.
-You can talk to me.
+Không sao đâu.
+Cậu có thể tâm sự với mình mà.
 
 *so_07
-Hmm...alright, if you say so.
+Hmm...được rồi, nếu cậu đã nói vậy.
 
 *so_08
-Do you know why I joined this club? It’s because machines were all I could think about.
+Cậu có biết tại sao tớ tham gia câu lạc bộ này không? Bởi vì máy móc là thứ duy nhất tớ có thể nghĩ đến.
 *
-Day and night, waking or asleep, they consumed my every thought.
+Dù ngày hay đêm, dù thức hay ngủ, trong đầu tớ lúc nào cũng chỉ toàn là chúng.
 
 *so_09
-And why? I wanted to build something to help control the monster population.
+Vậy tại sao ư? Tớ muốn chế tạo thứ gì đó có thể giúp kiểm soát số lượng quái vật.
 *
-Well, slaughter every last one of them, more like.
+Nói đúng hơn là tàn sát sạch sành sanh từng con một.
 *
-I’m still searching for the most efficient way to do it.
+Đến giờ tớ vẫn đang tìm cách hiệu quả nhất để làm điều đó.
 
 *n_10
-You must really hate monsters.
+Cậu hẳn phải căm ghét quái vật lắm.
 
 *so_11
-<s2>They killed my mother.
+<s2>Chúng đã giết mẹ tớ.
 
 *so_12
-She was the nicest, most gentle person in the world.
+Cô ấy là người dịu dàng và tốt bụng nhất trên đời.
 *
-She never told me she loved me.
-She didn't have to.
+Mẹ tớ chưa bao giờ nói rằng mẹ tớ yêu tớ.
+Nhưng mẹ chẳng cần phải nói điều đó.
 
 *so_13
-I didn't...
+Tớ đã không...
 *
-I never even got to say goodbye.
+Tớ thậm chí còn chẳng kịp nói lời tạm biệt.
 
 *n_12
-<W2>...I’m so sorry.
+<W2>...Tớ rất tiếc.
 
 *so_13_2
-It’s okay. It was a long time ago.
+Không sao đâu. Chuyện đó đã lâu lắm rồi.
 *
-Ever since then, I’ve channeled my grief into my research.
+Kể từ ngày ấy, tớ đã dồn nỗi đau mất mát vào công việc nghiên cứu.
 
 *so_13_3
-And a lot of good has come from that.
+Và cũng nhờ vậy mà tớ đã đạt được không ít thành tựu.
 *
-I know everything about Bermit’s security, its defenses, and a whole host of classified info.
+Tớ biết mọi thứ về hệ thống an ninh, hệ thống phòng thủ của Bermit, cùng vô số thông tin mật khác.
 
 
 // （周囲を振り向く仕草。周囲に若干フォーカス。
 
 *so_14
-Still, it’s not enough...
+Dù vậy, vẫn chưa đủ...
 *
-I really thought the monsters were going to break through our defenses.
+Tớ đã thực sự nghĩ rằng lũ quái vật sẽ xuyên thủng được phòng tuyến của chúng ta.
 
 *so_14_2
-The thought of seeing all my hard work go up in smoke was almost enough to make me give up.
+Ý nghĩ tất cả công sức của tớ sẽ tan thành mây khói suýt chút nữa đã khiến tớ muốn bỏ cuộc.
 *
-But then I saw how fiercely you were fighting out there...
+Nhưng rồi tớ nhìn thấy cậu chiến đấu kiên cường đến nhường nào...
 
 *so_15
-<W3><s2>...and it gave me the strength to keep going.
+<W3><s2>...và điều đó đã tiếp thêm sức mạnh để tớ tiếp tục cố gắng.
 
 *n_15
-I wasn’t doing anything special. Each of us gave it our all...
+Tớ chẳng làm gì đặc biệt cả. Mỗi người trong chúng ta đều đã cố gắng hết sức...
 *
-Including you, Tigrina.
+Trong đó có cả cậu nữa, Tigrina.
 
 *so_16
-Heh, my "all" will be to develop an impenetrable defense system that anyone can use.
+Heh, tớ sẽ dốc hết sức để phát triển một hệ thống phòng thủ bất khả xâm phạm mà bất kỳ ai cũng có thể sử dụng.
 *
-That way nobody has to be afraid ever again.
+Như vậy sẽ chẳng còn ai phải sợ hãi nữa.
 
 *n_17
-I’m sure you can do it.
+Mình tin cậu sẽ làm được.
 
 *so_18
-<m joy>I KNOW I can!
+<m joy>không...TỚ BIẾT CHẮC MÌNH SẼ LÀM ĐƯỢC!
 
 *so_19
-<m ple>And the sooner I get started, the better!
+<m ple>Và càng bắt tay vào làm sớm thì càng tốt!
 *
-Actually, I’ve already got an idea for a new machine! Something that flies around the forest and collects mana by sucking it up!
+Thật ra tớ đã có ý tưởng cho một cỗ máy mới rồi! Một thứ có thể bay quanh khu rừng và hút mana để thu thập chúng!
 *
-I need a name for it; something fitting. I know! How about “Huver”?
+Tớ cần đặt cho nó một cái tên thật phù hợp. Biết rồi! Hay là “Huver” nhé?
 *
-<MT l="-1">It still can’t distinguish between elves and monsters, so I’ll need your help as a test subject to work out the kinks-
+<MT l="-1">Nó vẫn chưa thể phân biệt Elf với quái vật, nên tớ cần cậu làm đối tượng thử nghiệm để khắc phục những lỗi còn lại-
 
 *n_20
-Umm, I think I’ll pass!
+Ừm, mình xin phép từ chối lần này!
 
 
 // ========================================================
@@ -748,82 +748,82 @@ Umm, I think I’ll pass!
 //寮生
 
 *___city/tdb_dorm00 ma_00
-<m joy>Sister-r-r <emoji>❤️</emoji>
+<m joy>Chị ơ-ơ-ơi <emoji>❤️</emoji>
 
 *mb_01
-<m joy>What’s wrong, princess?
+<m joy>Sao thế, công chúa nhỏ của chị?
 
 *ma_02
-<m joy>I haven’t been able to sleep lately.
+<m joy>Dạo này em không ngủ được.
 
 *mb_03
-<m joy>Oh? Why's that?
+<m joy>Ồ? Sao vậy?
 
 *ma_04
-<m cry>I'm scared.
+<m cry>Em sợ lắm.
 *
-<m cry>I'm afraid the monsters are going to break in and come right to our dorm.
+<m cry>Em sợ quái vật sẽ xông vào đây, rồi tìm đến tận ký túc xá của chúng ta.
 *
-<m cry>Even the shadows of my stuffed animals are keeping me up at night.
+<m cry>Ngay cả bóng của mấy con thú nhồi bông cũng khiến em không ngủ nổi.
 
 *mb_05
-<m joy>I see.
+<m joy>Chị hiểu rồi.
 *
-<m fadein><s4>Then, how about I sleep with you tonight? I’ll keep you safe.
+<m fadein><s4>Vậy tối nay chị ngủ cùng em nhé? Chị sẽ bảo vệ em.
 
 *ma_06
-<m joy>Yay, thank you sister~ <emoji>❤️</emoji>
+<m joy>Yay, cảm ơn chị yêu~ <emoji>❤️</emoji>
 
 
 // TD
 
 *___city/tdb_dorm00 ma_50
-<m ple>Sister, you’re okay!
+<m ple>Chị ơi, chị không sao rồi!
 
 *mb_51
-<W2><m joy>Hmph, of course I am. And not a scratch on me.
+<W2><m joy>Hmph, tất nhiên rồi. Chị chẳng bị trầy xước gì cả.
 *
-<m joy>I said I’d protect you, didn’t I?
+<m joy>Chị đã nói chị sẽ bảo vệ em rồi mà, đúng không?
 
 *ma_52
-<m cry>But your clothes are all ripped up! And they don’t match your staff's crystal!
+<m cry>Nhưng quần áo chị rách hết cả rồi! Viên pha lê trên trượng cũng chẳng còn khớp nữa!
 
 *mb_53
-<m joy>That doesn’t matter! Clothes can be mended and crystals can be replaced.
+<m joy>Chuyện đó không quan trọng! Quần áo có thể vá lại, pha lê cũng có thể thay thế.
 *
-<m joy>What matters is that you’re safe.
+<m joy>Điều quan trọng là em vẫn an toàn.
 
 *ma_54
-<W3>You’re right. And I bet I could fix your skirt it in no time flat. Here, lemme see it.
+<W3>Chị nói đúng. Em cá là mình có thể sửa chiếc váy của chị ngay thôi. Đưa em xem nào.
 
 *mb_55
-<m ple>A-a-actually it might not be fixable...
-The backside is kinda...burnt...<W3><m cry>Uhharrgg!
+<m ple>T-Thật ra có lẽ không sửa được đâu...
+Phía sau nó hơi...cháy xém ấy...<W3><m cry>Uhharrgg!
 
 
 // Td前廊下右
 
 *___city/tdb_hall_r ma_00
-<m fadein>Phew, that was close...
+<m fadein>Phù, suýt nữa thì...
 
 *ma_01
-Way too close.
+Suýt nữa thật đấy.
 *
-I know male cadets are a minority, but there should still be as many bathrooms for us as there are for female cadets.
+Tớ biết nam học viên không nhiều, nhưng ít nhất số nhà vệ sinh dành cho bọn tớ cũng phải ngang với nữ học viên chứ.
 
 *mb_02
-Huh, I never noticed that before, but you're right.
+Hả, trước giờ tớ chưa để ý chuyện đó, nhưng cậu nói đúng thật.
 
 *ma_03
-I'm not surprised, but it still bums me out.
+Tớ cũng chẳng bất ngờ, nhưng vẫn thấy buồn.
 *
-There's a place here for men, but our options are really limited.
+Ở đây có một khu dành cho nam giới, nhưng lựa chọn của bọn tớ thực sự rất hạn chế.
 
 *mb_04
-Yeah, most men I know are field soldiers. Which is important and appreciated.
+Ừ, hầu hết những người đàn ông tớ biết đều là lính chiến đấu ngoài thực địa. Công việc đó rất quan trọng và đáng được trân trọng.
 
 *ma_05
-Heh. Wish the other girls were as understanding as you.
+Heh. Giá mà những cô gái khác cũng thấu hiểu như cậu.
 
 
 // Td後 同じ男子中央廊下
@@ -831,90 +831,90 @@ Heh. Wish the other girls were as understanding as you.
 // （二回目以降）
 
 *___city/tdb_hall_r_after00 ma_00
-I’ve never been good at magic. My team always has to stay late after practice to catch up because of me.
+Tớ vốn chẳng giỏi phép thuật. Vì tớ mà cả đội lúc nào cũng phải ở lại muộn sau giờ luyện tập để theo kịp mọi người.
 *
-Figured I’d never be good for anything other than physical labor.
+Tớ từng nghĩ mình chẳng làm được gì ngoài những công việc chân tay.
 *
-But during the battle, I was able to rescue a girl with my White Arrow.
+Nhưng trong trận chiến vừa rồi, tớ đã cứu được một cô gái bằng Quang Tiễn của mình.
 *
-It was the first time I was able to cast it without someone else helping me.
+Đó là lần đầu tiên tớ có thể thi triển nó mà không cần người khác giúp đỡ.
 *
-I'm gonna try harder from now on.
+Từ giờ tớ sẽ cố gắng hơn nữa.
 
 *ma_01
-Because it's not just my life on the line.
+Bởi vì không chỉ có mạng sống của riêng mình bị đặt lên bàn cân.
 
 
 // （二回目以降。
 *ma_04
-I didn’t get a chance to talk to her afterwards. I hope she’s okay.
+Tớ đã không có cơ hội nói chuyện với cô ấy sau đó. Mong là cô ấy vẫn ổn.
 
 
 *___city/tdb_hall_b_after01 mb_00
-That boy in unit J or...was it K?...is such a screw-up.
+Cái tên con trai đấy ở đơn vị J hay...K ấy nhỉ?...đúng là đồ hậu đậu.
 *
-How can someone like that ever hope to graduate?
+Một người như vậy thì làm sao có thể tốt nghiệp được chứ?
 *
-He did save me though...
+Nhưng cậu ta đã cứu mình...
 *
-A monster caught me off guard during the attack.
+Một con quái vật đã bất ngờ tấn công mình trong trận chiến.
 *
-If it wasn’t for him...
+Nếu không có cậu ta thì...
 
 *mb_01
-Maybe I can get assigned to his group for our next practice...
-S-So I can thank him!
+Có lẽ lần luyện tập tới mình nên xin được xếp cùng nhóm với cậu ấy...
+Đ-Để cảm ơn cậu ấy thôi!
 
 
 *___city/tdb_hall_f2_00 ma_00
 <m cry>Uuu, hic...
 *
-<m fadein>There were so many monsters...
+<m fadein>Có quá nhiều quái vật...
 *
-A-And I did nuh-huhthing.
+M-Mình chẳng làm được gì cả.
 *
-<m fadein>I was so scared. I’m a failure as a cadet!
+<m fadein>Mình sợ quá. Mình đúng là một học viên tồi tệ!
 
 
 //（二回目以降。
 *ma_01
-<m fadein>I wanna go home.
+<m fadein>Mình muốn về nhà.
 *
-<m cry>I don’t belong here.
+<m cry>Mình không thuộc về nơi này.
 *
-<m cry>What should I do?
-<m fadein>Uuu...sniff...
-Momma...
+<m cry>Mình phải làm sao đây?
+<m fadein>Uuu...hức...
+Mẹ ơi...
 
 
-// TD後 東1F ========================
+ // TD後 東1F ========================
 *___city/tdb_hall_f1_00 ma_00
 <m ple>Ah, Cornehl!
-<m0>How are you feeling?
+<m0>Cậu cảm thấy thế nào rồi?
 *
-I didn’t see you after we got called into battle.
+Tớ không thấy cậu sau khi chúng ta được gọi đi chiến đấu.
 
 *n_01
-I’m fine, thanks for asking.
+Tớ ổn, cảm ơn cậu đã hỏi thăm.
 
 *ma_02
-Oh, good. I was worried since you’d been gone so long. What a thing to happen right after you get back.
+Ồ, vậy thì tốt. Tớ đã lo vì cậu biến mất lâu như vậy. Đúng là chuyện chẳng ai ngờ tới, nhất là ngay sau khi cậu vừa trở về.
 
 
 // TD後 カフェ ========================
 *___city/tdb_hall_cafe_00 ma_00
-Fighting sure works up an appetite!
+Chiến đấu đúng là khiến người ta nhanh đói bụng!
 *
-The tough part is knowing when to stop...
-Ah, one more won't hurt!
+Khó nhất là biết lúc nào nên dừng lại...
+À, ăn thêm một miếng nữa chắc cũng chẳng sao!
 *
-Besides, we were fighting for our lives out there!
+Hơn nữa, chúng ta đã phải liều mạng chiến đấu ngoài kia mà!
 
 *n_01
-<think>She looks tough...
+<think>Trông cô ấy khỏe thật...
 
 *ma_02
-My instructor said he hopes all the praise I’m getting doesn’t go to my head. I’m just hopin' all this food doesn’t go to my thighs hehe~
+Giảng viên của tớ bảo hy vọng những lời khen ngợi mà tớ nhận được sẽ không khiến tớ tự mãn. Còn tớ chỉ mong đống thức ăn này không tích hết vào đùi mình thôi, hehe~
 
 
 // ========================================================
@@ -922,18 +922,18 @@ My instructor said he hopes all the praise I’m getting doesn’t go to my head
 // ========================================================
 
 *___Tigrina/t_107_not_here n_00
-Is this a...Tigrina doll?
+Đây là...búp bê Tigrina sao?
 
 // ぬいぐるみが喋る
 *so_00
-<device>Hi there!
-I am currently out or otherwise unavailable.
+<device>Chào đằng ấy!
+Hiện tại tôi đang đi vắng hoặc không thể trả lời.
 *
-<device>Feel free to use the shed, just be careful not to break anything.
-<W3><s4><m scary>Or else...!
+<device>Cứ tự nhiên sử dụng nhà kho nhé, chỉ cần cẩn thận đừng làm hỏng thứ gì là được.
+<W3><s4><m scary>Bằng không thì...!
 
 *n_01
 Eep!
 
 *n_02
-Knowing Tigrina, she’s probably watching a live feed of this place at all times. I should get back to the front lines.
+Với tính cách của Tigrina, có lẽ cậu ấy đang theo dõi hình ảnh trực tiếp ở đây mọi lúc. Mình nên quay lại tiền tuyến thôi.

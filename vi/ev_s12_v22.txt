@@ -15,62 +15,62 @@
 
 
 *s12_7a w_00
-First time I've been called down from the mountain in a while, and it's to clean up this awful mess.
+Lâu lắm rồi mới được điều động xuống núi, vậy mà lại là để dọn dẹp cái mớ hỗn độn kinh khủng này.
 *
-Requests from upper Grazia are always somethin’, aren’t they.
+Mấy yêu cầu từ Grazia lúc nào cũng rắc rối nhỉ.
 
 // ノエルに気付く
 *w_01
-You a student, lass?
-Ah, right, this is a school route, isn't it?
+Nhóc là học viên à?
+À phải rồi, đây là tuyến đường đến học viện nhỉ?
 
 
 *w_01b
-Well, sorry, but the road's closed.
+Ừm, xin lỗi nhé, nhưng đường đang bị phong tỏa.
 *w_01c
-...Hm? You wanna help?
-Well then, I'd 'preciate it if you could check up on muh bud.
+...Hửm? Nhóc muốn giúp à?
+Vậy thì ta sẽ rất cảm kích nếu nhóc kiểm tra giúp thằng bạn ta.
 
 *w_01d
-That idjit always spends too much time on his safety checks before he actually starts blasting. 
+Thằng ngốc đó lúc nào cũng mất quá nhiều thời gian kiểm tra an toàn trước khi bắt đầu cho nổ.
 *
-He's probably hangin' ‘round nearby, lettin’ the grass grow under his feet.
+Chắc giờ nó vẫn đang lảng vảng quanh đây, chậm chạp chẳng chịu làm gì.
 *w_01e
-If he’s not payin’ attention though, a mana plant might spring up and knock ‘im on his ass! <m scary>GAHAHAHA!
+Nhưng nếu nó không để ý, Cây Mana có thể mọc lên rồi đánh bay nó ngã chổng vó đấy! <m scary>GAHAHAHA!
 
 // 発破かける = explode A (Aを爆弾などで爆破して破壊　する）
 
 
 
 *w_02
-Oh by the by, don’t be castin’ spells near me. That magic stuff’s a wee bit toxic for us mountain-folk.
+À mà, đừng thi triển phép thuật gần ta nhé. Mấy thứ ma thuật đó hơi độc hại với dân vùng núi bọn ta.
 *w_02b
-Shouldn’t be any reason fer ya to anyway, the officers are doing everything they can to keep the mana plants from sproutin’ up here.
+Dù sao thì nhóc cũng chẳng có lý do gì phải làm thế đâu. Các sĩ quan đang cố hết sức ngăn Cây Mana mọc lên ở đây rồi.
 *
-Whatta tough job that must be.
+Đúng là một công việc vất vả.
 
 
 // *1
 *w_03
-My buddy should be hangin' ‘round here somewhere.
+Chắc thằng bạn ta đang ở đâu đó quanh đây.
 
 *w_03b
-If you find him, tell him Walross is fixin' to kick his ass.
+Nếu tìm thấy nó, bảo nó là Walross sắp sửa đá đít nó đấy.
 
 
 // 5-B 服が破れてる状態でヴァーロスと話す
 *w_04
-What's up with your clothes, lass? You tryin' to seduce me or somethin'?
+Quần áo của nhóc bị sao thế? Định quyến rũ ta hay gì?
 *w_04b
-Sorry, but I'm only interested in my own kind. In fact, right now I'm thinkin' 'bout how to hit on that cutie I met back at the bar.
+Xin lỗi nhé, nhưng ta chỉ có hứng thú với đồng loại thôi. Mà thực ra, giờ ta còn đang nghĩ cách tán tỉnh cô nàng dễ thương gặp ở quán rượu lúc trước đây.
 
 *w_04c
-Course, my wife would tan my hide if she ever found out. <m scary>GAHAHA!
+Tất nhiên mà để vợ ta mà biết chuyện này thì chắc ta bị lột da mất. <m scary>GAHAHA!
 *w_04d
-...Oh, not sayin' yer ugly or nothin'.
+...Ý ta không phải là nhóc xấu xí hay gì đâu.
 *
-I'm sure you could have any man you wanted no matter how you dressed. 
-Just don't let 'em take advantage of you.
+Ta chắc chắn nhóc có thể khiến bất kỳ người đàn ông nào đổ gục, bất kể ăn mặc thế nào.
+Chỉ cần đừng để bọn chúng lợi dụng mình là được.
 
 
 
@@ -83,98 +83,98 @@ Just don't let 'em take advantage of you.
 // 6-A
 
 *s12_8a s_00
-<m fadein>Ahh.. 
-what should I do...
+<m fadein>Haiz...
+phải làm sao đây...
 
 
 // ～～ヴァーロスの名前を聞く（*1) までヴァーロスに話しかけたかどうかで2パターン
 // 聞いていない～～
 *n_01
-Excuse me, 
-are you “Muhbud”...?
+Xin lỗi thưa anh,
+anh có phải là "bợn chí cún" không...?
 
 // 聞いている～～
 *n_02
-Excuse me, are you Mr. Walross' buddy...?
+Xin lỗi thưa anh, anh có phải là bạn của Walross không...?
 
 // ～～分岐ここまで
 
 // ～～ノエルの服が破れているかで分岐
 // 服が破れていない ～～
 *s_03
-<m scary>Uwah! It's one of those girl-in-a-white-dress ghosts!
-<m joy>Our Father, who art in the Cradle, may you rest in peace~~~...
+<m scary>Á! Là ma nữ mặc váy trắng!
+<m joy>Đức Cha của chúng con, người đang ngự nơi Nôi Thánh, nguyện xin người được an nghỉ nơi chín suối~~~...
 
 *n_04
-Uh, I'm still alive...
+Ờm, em vẫn còn sống mà...
 
 *s_05
-Hm!? Oh, you're an elf...
+Hửm!? À, cô là Elf...
 
 
 *s_05b
-Sorry about that. I haven't met very many elves...
+Xin lỗi nhé. Anh chưa gặp nhiều Elf cho lắm...
 
 *n_06
-Is there anything I can help you with?
+Có chuyện gì em có thể giúp anh không?
 
 
 // 服が破れている ～～
 *s_07
-<m scary>Uwah! It's one of those girl-in-a-white-dress ghosts!
+<m scary>Á! Là ma nữ mặc váy trắng!
 *
-<m scary>With clothes like that, she definitely died with unfinished business...!
+<m scary>Ăn mặc thế kia, chắc chắn cô ấy đã chết khi vẫn còn tâm nguyện chưa được hoàn thành...!
 *
-<m joy>Our Father, who art in the Cradle, may you rest in peace~~~...
+<m joy>Đức Cha của chúng con, người đang ngự nơi Nôi Thánh, nguyện xin người được an nghỉ nơi chín suối~~~...
 
 *n_08
-<m pleasure>I'm still alive!<m>　My clothes were just...torn up a bit in battle.
+<m pleasure>Em vẫn còn sống thình lình đây mà!<m> Chỉ là...quần áo bị rách một chút trong lúc chiến đấu thôi ạ.
 *
-Please...try not to stare.
+Làm ơn...đừng nhìn chằm chằm vào em như thế.
 
 *s_09
-O-Oh! Okay.
-S-S-S-Sorry, I didn't mean to.
+Ơ-Ồ! Được rồi.
+X-X-X-Xin lỗi, tôi không cố ý đâu.
 
 *n_10
-...Is there anything I can help you with?
+...Có chuyện gì em có thể giúp anh không?
 
 
 // ～～分岐ここまで
 
 *s_11
-Ah, yeah, actually there is. 
+À, ừ, thật ra là có.
 *
-Right now I'm in so much trouble that I'm contemplating if life is even worth living.
+Tình cảnh của anh lúc này tệ đến mức anh đang tự hỏi liệu sống tiếp có còn đáng nữa không.
 
 // 穴の底の沼を指す
 *s_12
-...You see that yucky black stuff down there?
-I accidentally dropped the explosives I need for work into it.
+...Em thấy thứ đen sì ghê tởm dưới đó không?
+Anh lỡ tay làm rơi thuốc nổ cần dùng cho công việc xuống đó.
 *
-I want to go in and get them back, but there’s mana plants inside. 
+Anh muốn xuống lấy lại, nhưng bên dưới có Cây Mana.
 *
-Also, it feels like <m cry>something<m>'s moving around down in there...
+Hơn nữa, anh có cảm giác như <m cry>có thứ gì đó<m> đang di chuyển bên dưới...
 *
-At the moment, my plan is to hope <m joy>the explosives somehow float back up by themselves...
+Kế hoạch hiện tại của anh là hy vọng <m joy>đống thuốc nổ tự nổi lên bằng cách nào đó...
 
 *n_13
-Well, my classmates and I need the road cleared so we can get to school, and I’ve dealt with mana plants before, so...
+Ừm thì, em và các bạn cùng lớp cần con đường được thông để đến trường, mà em cũng từng xử lý Cây Mana rồi, nên...
 *
-would you like me to retrieve them for you? 
+anh có muốn em lấy chúng lên giúp không?
 
 *s_14
-R-Really? Phew...
-<m joy>I guess miracles really do happen if you have a little faith...
+T-Thật sao? Phù...
+<m joy>Quả nhiên, chỉ cần có chút đức tin thì phép màu sẽ xảy ra...
 
 *s_14b
-I dropped <c blue>two sets of explosives.<c>
-If you can get both of them back, I'll be eternally grateful!
+Anh đã làm rơi <c blue>hai bộ thuốc nổ.<c>
+Nếu em có thể lấy lại cả hai bộ thì anh sẽ biết ơn cô bé đây suốt đời!
 *s_14c
-They may have sunk into the swamp, but it doesn’t look to be that deep...
+Có thể chúng đã chìm xuống đầm lầy, nhưng trông nơi này cũng không sâu lắm...
 
 *n_15
-<think><m fadein>Is it really safe to have someone like him managing explosives....?
+<think><m fadein>Giao thuốc nổ cho một người như anh ta quản lý thật sự có an toàn không vậy...?
 
 
 
@@ -186,49 +186,49 @@ They may have sunk into the swamp, but it doesn’t look to be that deep...
 // ～～
 
 *s12_9a n_00
-Are these it? They’re so covered with sludge it’s hard to tell what they are...
+Đây là chúng à? Bùn đất phủ kín thế này, khó mà nhận ra chúng là gì...
 
 *s_01
-<m joy>Praise the great Mother Tree,<m> you did it! I can’t thank you enough!
+<m joy>Tạ ơn Mẫu Thụ,<m> em làm được rồi! Anh không biết phải cảm ơn em thế nào cho đủ!
 
 // 母なる大樹様＝ Oh my god! ぐらいのニュアンス。
 *s_02
-It doesn’t even come close to repaying my debt to you, but...here...I’d like you to have this.
+Món quà này chẳng thấm vào đâu so với món nợ ân tình anh mang, nhưng...này...anh muốn tặng em thứ này.
 
 // スパイスの小瓶
 *n_03
-Are these...spices from Mt. Fallen?
+Đây là...gia vị từ Núi Fallen sao?
 
 // Mt. Fallen
 *s_04
-Yes. I see elven merchants come up the mountain to restock on them sometimes, so I thought you might appreciate it.
+Đúng vậy. Thỉnh thoảng anh thấy các thương nhân Elf lên núi để bổ sung gia vị, nên nghĩ em có thể sẽ thích.
 
 // ＝Nightingale のこと
 *s_05
-Well, I’d better head back. Thank you once again! Take care!
+Thôi, anh phải quay lại làm việc đây. Cảm ơn em lần nữa! Bảo trọng nhé!
 
 // 去る
 
 *n_06
-...there he goes.
+...Anh ta đi rồi.
 *
-I’ve never been to the mountains before. I wonder if there are other beastmen living there like...uhh...whoever he was...
+Mình chưa từng đến vùng núi bao giờ. Không biết ở đó có những thú nhân khác giống như...ừm...anh ta tên gì ấy nhỉ...
 
 
 *n_07
-<I>...Wait, he never told me his name!
+<I>...Khoan đã, anh ta còn chưa nói cho mình biết tên!
 
 
 // ～～ここまでに料理を作ったことがあるかどうかで分岐
 // 料理経験アリ～～
 *n_08
-I wonder if these spices are good for cooking?
-I’ll have to give it a try when I get home.
+Không biết loại gia vị này có dùng để nấu ăn được không nhỉ?
+Khi về nhà mình phải thử mới được.
 
 // 料理経験ナシ～～
 *n_09
-Maybe these spices can be used for cooking?
-I’ll ask Tilde when I get home.
+Có lẽ loại gia vị này dùng để nấu ăn được nhỉ?
+Khi về nhà mình sẽ hỏi Tilde.
 
 // ～～
 
@@ -241,50 +241,50 @@ I’ll ask Tilde when I get home.
 
 
 *s12_9b n_00
-......<m fadein>...uuu
-<m scary>*cough* *cough*...
+......<m fadein>...ư...
+<m scary>*khụ* *khụ*...
 
 *s_01
-Are you okay?
+Em không sao chứ?
 
 *n_02
-<m fadein>Ah...sorry mister...
-I wasn’t able to get the explosives...
+<m fadein>À...xin lỗi anh...
+Em không lấy được thuốc nổ...
 
 *s_03
-<m scary>P-p-p<m>lease don’t worry about it! 
+<m scary>Đ-Đ-Đ<m>ừng lo! 
 *
-I managed to grab the explosives while the monsters had their backs turned and made a mad dash back out.
+Anh đã tranh thủ lấy được thuốc nổ lúc lũ quái vật quay lưng rồi nhanh chóng chạy thoát ra ngoài.
 
 *n_04
 <think>......
-Thank goodness, at least it wasn’t all for nothing.
+May quá, ít nhất mọi chuyện cũng không hoàn toàn uổng phí.
 *
-<think>I wish he’d stop staring at me with such pity, though...uuu.
+<think>Nhưng mình ước gì anh ấy đừng nhìn mình với ánh mắt thương hại như thế...ư...
 
 *s_05
-Oh, uh...um...I’m not sure what to do... Should I call someone from the village, or...?
+À, ừm...anh không biết phải làm gì nữa... liệu anh có nên gọi gọi người trong làng đến hay...?
 
 *n_06
-<m fadein>I’m alright. I can still walk on my own. Besides, I’m kind of...used to this.
+<m fadein>Em ổn. Vẫn tự đi được. Với lại, chuyện này...em cũng quen rồi.
 
 *s_07
-Alright, I understand...
+Được rồi, anh hiểu...
 *
-In the future, try not to take any chances if a situation looks dangerous. And don’t be afraid to ask for help!
+Lần sau, nếu thấy tình huống nguy hiểm thì đừng liều lĩnh nữa nhé. Và đừng ngại nhờ người khác giúp đỡ nhé!
 
 *n_08
 ......
 
 *s_09
-Well, 
-I should get back to work. 
-Thank you for your help! 
-Sincerely!
+Thôi,
+anh nên quay lại làm việc đây.
+Cảm ơn em đã giúp đỡ!
+Thật lòng đấy!
 
 // 去る。敗けた場合はこのタイミングではカレー粉はもらえない
 *n_10
-...uuu. Let’s move on.
+...ư... Đi tiếp thôi.
 
 
 
@@ -298,28 +298,28 @@ Sincerely!
 
 
 *s12_8c n_00
-Found them. They're pretty heavy...
-They won't explode, w-will they?
+Tìm thấy rồi. Nặng thật đấy...
+Chúng sẽ không phát nổ chứ, đ-đúng không?
 
 // 扉が閉まる
 *n_01
 <m ple>!?
 *
-There's definitely something lurking down here in the mire...
-Whatever it is probably thinks I'm here for the mana plants...
+Chắc chắn có thứ gì đó đang rình rập dưới đầm lầy này...
+Dù là thứ gì thì có lẽ nó cũng nghĩ mình đến đây để tìm Cây Mana...
 
 *n_02
-...Fighting in the swamp wouldn't be a great idea. 
+...Chiến đấu trong đầm lầy không phải ý hay.
 *
-If I really have to take them on, I need to be aware of my footing.
+Nếu thật sự phải đối đầu với chúng, mình cần chú ý bước chân của mình.
 
 
 
 // 8-D: 先に戦闘したあとに爆弾を拾った場合
 *n_03
-Maybe it's a good thing I took them out first so I could search for the explosives without panicking.
+Có lẽ hạ chúng trước là quyết định đúng đắn, nhờ vậy mình có thể không phải cuống cuồng mà đi tìm thuốc nổ.
 *
-Let's get them back to that beastman.
+Đem chúng trả lại cho anh thú nhân kia thôi.
 
 
 
@@ -327,52 +327,52 @@ Let's get them back to that beastman.
 
 // 10-A 
 *s12_10a w_00
-Oh, it’s the little elf lady from before!
-I hear you helped my partner clean up the mess he made!
+Ồ, cô Elf nhỏ bé lúc nãy đây rồi!
+Nghe nói em đã giúp cộng sự của ta dọn dẹp mớ hỗn độn mà hắn gây ra!
 
 *s_01
-T-thanks for that...
+C-Cảm ơn anh...
 
 *n_02
-And thank you Mr Beastman...for opening the road again.
+Và cảm ơn anh nữa, thú nhân...vì đã mở lại con đường.
 
 *w_03
-There’s still some bits left to clean up, but thanks to your help, we were able to punch through the blockade!
+Vẫn còn một ít thứ cần dọn dẹp ở đây, nhưng nhờ em giúp đỡ, bọn anh đã phá được chướng ngại vật rồi!
 *
-You can go on through if you want.
+Nếu muốn thì giờ em có thể đi qua.
 
 *s_04
-Yeah, we’re about...90% done. We still have to reinforce the walls in 12 different places to keep it from collapsing again...
+Ừ, bọn anh đã hoàn thành khoảng...90% rồi. Vẫn phải gia cố tường ở 12 chỗ để nó không sập lần nữa...
 
 *w_05
-Ahhhh we’ll git ta that later!
+Aaaa, để sau rồi tính!
 *
-I’m Walross, by the way. And this little fella is Ostrea. 
+À, ta là Walross. Còn thằng cốt này là Ostrea.
 *w_05b
-We’re miners from up
-in the mountains.
-Sorry fer all the trouble we caused ya’.
+Bọn ta là những thợ mỏ
+sống trên núi.
+Xin lỗi vì đã gây ra bao nhiêu rắc rối cho cô.
 
 *n_06
-My name is Noel Cornehl. Pleased to meet you.
+Em là Noel Cornehl. Rất vui được gặp hai anh.
 
 
 // ～～ 沼で敗北した場合はここでカレー粉がもらえる
 *w_07
-I got a feelin’ you might appreciate these.
+Anh có cảm giác nhóc sẽ thích thứ này.
 
 // スパイスの小瓶
 *n_08
-Are these...spices from Mt. Fallen?
+Đây là...gia vị từ Núi Fallen sao?
 
 *w_09
-Not somethin’ that grows ‘round these parts, eh?
+Thứ này không tự nhiên mà mọc lên ở quanh đây đâu nhỉ?
 *
-I see elven merchants travel up the mountain just to stock up on ‘em.
+Anh thấy các thương nhân Elf phải đi tận lên núi chỉ để lấy thêm chúng.
 
 *w_10
-Give ‘em a try next time yer preppin’ a meal.
-I think you’ll like ‘em!
+Lần tới khi chuẩn bị bữa ăn, cứ thử dùng xem.
+Anh nghĩ nhóc sẽ thích đấy!
 
 
 
@@ -380,28 +380,28 @@ I think you’ll like ‘em!
 
 
 *s12_11a w_00
-We really owe you a debt of gratitude, lass.
+Bọn anh thật sự mang ơn nhóc nhiều lắm.
 *
-If yer house ever needs remodeling, just lemme know. I’ll fly in from the miner’s settlement.
+Nếu nhà nhóc cần sửa sang gì thì cứ nói với anh. Anh sẽ bay từ khu định cư thợ mỏ đến giúp.
 
 *w_01
-Although...my travel and labor costs might be a bit high for ya’! <m scary>GAHAHA!
+Mặc dù...chi phí đi lại với nhân công có thể hơi cao đấy nhé! <m scary>GAHAHA!
 
 *n_01
-<think>That sounds more like an advertisement than a favor...
+<think>Nghe giống quảng cáo hơn là giúp đỡ thì đúng hơn...
 
 // 12-A オストレアと話す
 
 
 
 *s12_12a s_00
-Thanks for your help earlier! Those explosives really did the trick, as you can see.
+Cảm ơn em vì đã giúp đỡ lúc nãy! Đống thuốc nổ đó đúng là hữu ích, như em thấy đấy.
 *
-We’ll finish cleaning up the rest of the debris in a bit.
+Bọn anh sẽ sớm dọn dẹp nốt đống đổ nát còn lại.
 
 *s_01
-My air filtration unit needs a replacement soon...
-Oh, how I miss the low-magic air of the mountains.
+Thiết bị lọc không khí của anh sắp đến lúc phải thay rồi...
+Ôi, anh nhớ bầu không khí ít ma thuật trên núi biết bao.
 
 
 // 11-B 服が破れた状態でもう一度ヴァーロスと話す
@@ -409,13 +409,13 @@ Oh, how I miss the low-magic air of the mountains.
 
 
 *s12_11a w_02
-So lass, is walking around in tatters a hobby a’ yers?
+Này nhóc, đi lại với bộ dạng rách rưới thế kia là sở thích của nhóc à?
 *
-Battle scars are like medals of honor for a village ruffian, but on a pretty young lady like you, it just ain’t right.
+Với một tên du côn trong làng, sẹo chiến đấu giống như huân chương danh dự vậy, nhưng với một cô gái trẻ xinh đẹp như nhóc thì chẳng hợp chút nào.
 *w_03
-I’d love to fix ‘em up for you, but needlework ain’t one of my specialties. 
+Anh rất muốn vá lại quần áo cho nhóc, nhưng may vá không phải sở trường của anh.
 *w_04
-I’d pro’bly just end up reducin’ ‘em to scraps. <m scary>GAHAHA!!
+Có khi anh lại biến chúng thành đống giẻ rách mất. <m scary>GAHAHA!!
 
 
 
@@ -423,71 +423,71 @@ I’d pro’bly just end up reducin’ ‘em to scraps. <m scary>GAHAHA!!
 
 
 *s12_12a s_03
-Honestly, your appearance is making it difficult for me to take the measurements I need here.
+Thật lòng mà nói, bộ dạng của nhóc lúc này khiến tôi khó lấy được chỉ số đo đạc cần thiết ở đây đấy.
 *
-I think you should do something about your clothes as soon as possible.
+Anh nghĩ nhóc nên xử lý quần áo của mình càng sớm càng tốt.
 *s_04
-I know that makes me sound like a meddlesome old fogey...
+Anh biết nói thế này nghe giống một ông già hay xen vào chuyện người khác...
 *
-but with you being an elf, I’m certain that you’re actually the older one between the two of us.
-	
+nhưng nhóc là Elf, nên bọn anh chắc chắn rằng người lớn tuổi nhất giữa ba chúng ta có thể thực ra là nhóc đấy chứ.
+
 
 
 
 
 *s12_15a xa_00
-I definitely landed more hits than you...
+Tôi chắc chắn mình đánh trúng nhiều hơn cậu...
 
 *xb_01
-No way. Besides, my White Arrow struck a vital organ, so I dealt more damage than you.
+Không đời nào. Hơn nữa, Bạch Tiễn của tôi đã đánh trúng điểm trọng yếu của nó, nên tôi gây ra nhiều sát thương hơn cậu.
 
 *xa_02
-Psh, it shrugged that off like it was nothin'. Also I severed it's thickest root, so...
+Xì, nó chịu đòn đó nhẹ như không ấy. Với cả tôi còn chặt đứt cái rễ to nhất của nó, nên...
 
 *xb_03
-Tch, only because I...
+Chậc, chỉ là vì tôi...
 
 *xa_04
-It was all me...
+Toàn bộ đều là công của tôi...
 
 
 
 // 15-C: 荷物を確認しているエルフの男性。
 *s12_15c x_00
-87, 88...Yes, commander! I'm checking our supplies right...now...
+87, 88...Rõ, thưa chỉ huy! Tôi đang kiểm tra vật tư ngay...bây giờ...
 *
-Oh, you're not the commander. Their outfit is white just like yours.
+Ồ, em không phải chỉ huy. Trang phục của em cũng màu trắng giống ngài ấy.
 *
-Which unit are you from?　You should probably get to your post before the commander sees you slacking off.
+Em thuộc đơn vị nào thế? Tốt nhất em nên về vị trí của mình trước khi chỉ huy thấy em đang lơ là nhiệm vụ.
 
 *x_01
-Did you hear about the heavy damage our unit sustained during the last battle? 
+Em có nghe tin đơn vị bọn anh đã chịu tổn thất nặng nề trong trận chiến trước không?
 *
-We had to use most of our supplies.
+Bọn đã phải sử dụng gần hết vật tư.
 *
-I'm checking to see what's left right now. Where was I, 90...no, 86...?
+Abg đang kiểm tra xem hiện giờ còn lại những gì. Đến đâu rồi nhỉ, 90...không, 86...?
 *
-Guess I'm starting over...
+Chắc anh lại phải đếm lại từ đầu rồi...
 
 
 // 15-D: 同人物に服が破れた状況で話しかける
 
 *x_02
-94, 95...yikes, there are still a lot of troops that haven't received their supplies...
+94, 95...Chết thật, vẫn còn nhiều binh lính chưa nhận được vật tư...
 *
-These ones are being sent straight to the front lines, you'll have to go to the office to get yours.
+Những thứ này được chuyển thẳng ra tiền tuyến, em cũng phải đến văn phòng để nhận phần của mình đấy.
 *x_03
-<think>...is this girl even in our army? 
+<think>...Cô gái này có thật sự thuộc quân đội chúng ta không vậy?
 *
-<think>If a cutie like her was on the front lines, I'd definitely be distracted watching her get atta-...I mean, avoid attacks...
+<think>Nếu một cô nàng dễ thương như cô ấy ở tiền tuyến, chắc chắn tôi sẽ bị phân tâm khi nhìn cô ấy trúng đòn...ý tôi là, né đòn...
 
 *n_04
-Um...
+Ờm...
 
 *x_05
-Oh, sorry, it's nothing! Now, where was I...oh yeah, checking the supplies...
+À, xin lỗi, không có gì đâu! Nào, mình đang kiểm tra vật tư đến đâu rồi nhỉ...
 *
-100, 101...wait...
+100, 101...khoan đã...
 
 
 
@@ -496,12 +496,12 @@ Oh, sorry, it's nothing! Now, where was I...oh yeah, checking the supplies...
 
 
 *s12_15e n_00
-These stairs lead to the Elf Village.
-Nobody from the Cornehl family is allowed to enter, except for Zeth and our father.
+Cầu thang này dẫn đến Làng Elf.
+Không ai thuộc gia tộc Cornehl được phép vào, ngoại trừ Zeth và cha chúng tôi.
 *n_01
-Ixia was born there, but she's been living in a dorm since she became a student,
+Ixia được sinh ra ở đó, nhưng từ khi trở thành học viên, cô ấy đã sống trong ký túc xá,
 *
-and hasn't been back to her parent's place in awhile.
+và cũng lâu rồi chưa về nhà cha mẹ.
 
 
 
@@ -514,31 +514,31 @@ and hasn't been back to her parent's place in awhile.
 
 
 *s12_16a x_00
-This area has been designated as a military zone.
+Khu vực này đã được chỉ định là vùng quân sự đang bị phong tỏa.
 *
-Excuse me...you there, what unit are you from?
-Could you check the area to see if anyone was left behind?
+Này cô bé...em thuộc đơn vị nào đấy?
+Cô bé có thể kiểm tra khu vực xem còn ai bị bỏ lại không?
 *x_01
-...You're a student in Grazia? You must have really slept in. Back when I was a student...
+...Em là học viên ở Grazia à? Chắc em ngủ quên mất rồi. Hồi anh còn là học viên...
 *
-Nevermind, that's not important. 
-Like I said, this is a military zone. 
-Return to your home.
+Thôi, chuyện đó không quan trọng.
+Như anh đã nói, đây là vùng quân sự.
+Hãy quay về nhà đi.
 
 
 // 16-B:
 
 *s12_16b x_00
-All the eerie relics scattered about here are creeping me out.
+Mấy di vật kỳ quái nằm rải rác quanh đây khiến tôi nổi da gà.
 *
-Even though they're lying in ruins, it feels like they could start moving again at any moment.
+Dù đã đổ nát, tôi vẫn có cảm giác chúng có thể bắt đầu chuyển động trở lại bất cứ lúc nào.
 *
-There have been reports of the "Pink-haired Phantasm" going around recently. 
+Gần đây có tin đồn về "Ảo Ảnh Tóc Hồng" xuất hiện quanh đây.
 *
-She's been wandering the forest for decades, her appearance untouched by the passage of time.
+Cô ta đã lang thang trong khu rừng suốt hàng chục năm, nhưng ngoại hình vẫn chẳng hề thay đổi theo thời gian.
 *
-<m scary>Honestly if I ever saw her, I'd be scared out of my wits.<m>
+<m scary>Nói thật, nếu tôi gặp cô ta thì chắc sợ chết khiếp mất.<m>
 *
-It's said she was standing in front of one of these ancient devices when her physical form suddenly disappeared...
+Nghe nói cô ta đang đứng trước một trong những thiết bị cổ đại này thì cơ thể đột nhiên biến mất...
 *
-Oh, the horror...the horror...
+Ôi, thật đáng sợ...đáng sợ quá...

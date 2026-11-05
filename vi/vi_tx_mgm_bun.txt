@@ -1,125 +1,125 @@
 %FAMILY vi
 // ミニゲーム バニー給仕
 
-&&Select_talk_more Talk more
+&&Select_talk_more Nói chuyện thêm
 
-&&Select_takeout_liquir Takeout order
-&&Select_arbeit Work part-time
+&&Select_takeout_liquir Gọi đồ mang đi
+&&Select_arbeit Làm thêm 
 
-&&Select_arbeit_start Begin
-&&Select_arbeit_rule0 Overview
-&&Select_arbeit_rule1 Tips
-&&Select_arbeit_rule2 Stamina
-
-
-&&Select_talk_more_you_are_monster Are you a monster?
-&&Select_talk_more_not_takeout Why no takeout?
-&&Select_talk_more_mount_friend Mountain friend
-&&Select_talk_more_about_td Where were you during the attack?
-&&Select_talk_more_password Storeroom password
-&&Select_talk_more_about_td2 Reason for the attack
-&&Select_talk_more_about_walross Walross clones
-&&Select_talk_more_about_food Why bartend?
-
-&&Select_takeout Order takeout
-&&Select_back_to_takeout Order takeout
-&&Select_quit_takeout Don't order
-
-&&Select_retry_arbeit_talking Work part-time
-&&Select_quit_arbeit_talking End shift
-&&Select_retry_arbeit Work part-time
-&&Select_quit_arbeit End shift
-
-&&MgmBun_Take_Cocktail   Take
-&&MgmBun_Take_Cocktail_Replace   Swap
-&&MgmBun_Serve_Cocktail   Serve
-
-&&MgmBun_Receipt   Order slip
-&&MgmBun_Trash   Toss
+&&Select_arbeit_start Bắt đầu
+&&Select_arbeit_rule0 Tổng quan
+&&Select_arbeit_rule1 Mẹo
+&&Select_arbeit_rule2 Thể lực
 
 
-&&MgmBun_ui_highscore_bunny High score (Bunny)
-&&MgmBun_ui_highscore_bunnyrev High score (R. Bunny)
+&&Select_talk_more_you_are_monster Ngươi là quái vật à?
+&&Select_talk_more_not_takeout Sao không nhận gọi món mang đi?
+&&Select_talk_more_mount_friend Người bạn trên núi
+&&Select_talk_more_about_td Lúc xảy ra cuộc tấn công, ngươi đã ở đâu?
+&&Select_talk_more_password Mật khẩu kho chứa
+&&Select_talk_more_about_td2 Lý do của cuộc tấn công
+&&Select_talk_more_about_walross Các bản sao của Walross
+&&Select_talk_more_about_food Sao lại làm nhân viên pha chế?
+
+&&Select_takeout Gọi món mang đi
+&&Select_back_to_takeout Gọi món mang đi
+&&Select_quit_takeout Thôi, không gọi nữa
+
+&&Select_retry_arbeit_talking Làm thêm
+&&Select_quit_arbeit_talking Kết thúc ca làm
+&&Select_retry_arbeit Làm thêm
+&&Select_quit_arbeit Kết thúc ca làm
+
+&&MgmBun_Take_Cocktail   Lấy ly
+&&MgmBun_Take_Cocktail_Replace   Đổi ly
+&&MgmBun_Serve_Cocktail   Phục vụ
+
+&&MgmBun_Receipt   Hóa đơn
+&&MgmBun_Trash   Vứt bỏ
+
+
+&&MgmBun_ui_highscore_bunny Kỷ lục cao nhất (Thỏ)
+&&MgmBun_ui_highscore_bunnyrev Kỷ lục cao nhất (Thỏ ngược)
 
 // ========================================================
 // MARK : 選択
 // ========================================================
 
-&&MgmBun_costume_select Outfit Select
+&&MgmBun_costume_select Chọn trang phục
 
-&&MgmBun_costume_title_bunny Bunnygirl
-&&MgmBun_difficulty Difficulty
+&&MgmBun_costume_title_bunny Cô gái thỏ
+&&MgmBun_difficulty Độ khó
 
 /* ___ MgmBun_costume_desc_bunny ___ */
-The quintessential waitress outfit.
-Tight-fitting and tough to take off.
-You won’t be able to use the restroom
-once your shift starts.
+Bộ trang phục bồi bàn kinh điển.
+Ôm sát cơ thể, rất khó cởi ra.
+Một khi đã bắt đầu ca làm,
+bạn sẽ không thể đi vệ sinh.
 
 
 
-&&MgmBun_costume_title_bunnyrev Reverse Bunnygirl
+&&MgmBun_costume_title_bunnyrev Bộ đồ thỏ đảo ngược
 
 
 /* ___ MgmBun_costume_desc_bunnyrev ___ */
-The attention grabber.
-Customers will be captivated and tip generously.
-Just be careful...
+Bộ trang phục thu hút mọi ánh nhìn.
+Khách hàng sẽ bị mê hoặc và bo tiền rất hào phóng.
+Nhưng nhớ cẩn thận đấy...
 
 
-&&Log_bun_attacked_breast   A customer groped my breasts...
-&&Log_bun_attacked_belly   A customer groped my belly...
-&&Log_bun_attacked_leg   A customer groped my thighs...
-&&Log_bun_attacked_back   A customer groped my back...
-&&Log_bun_attacked_hip   A customer groped my hips...
-&&Log_bun_attacked_other  A customer touched me...
+&&Log_bun_attacked_breast   Có khách sờ soạng ngực mình...
+&&Log_bun_attacked_belly   Có khách sờ soạng bụng mình...
+&&Log_bun_attacked_leg   Có khách sờ soạng đùi mình...
+&&Log_bun_attacked_back   Có khách sờ soạng lưng mình...
+&&Log_bun_attacked_hip   Có khách sờ soạng hông mình...
+&&Log_bun_attacked_other  Có khách động chạm vào người mình...
 
-&&Log_bun_restroom_disable It's too early to take a break.
-&&Log_bun_restroom_finished I took a quick break.
+&&Log_bun_restroom_disable Còn sớm quá, chưa thể nghỉ được.
+&&Log_bun_restroom_finished Mình đã tranh thủ nghỉ một lát.
 
 
 //SituCon (メニューの直近の思い出ログ用)
-&&Log_bun_attacked_total Customers groped me &1 time(s) at my part-time job...
-&&Log_bun_failed_omorashi I wet myself in front of the customers at my part-time job...
+&&Log_bun_attacked_total Trong lúc làm thêm, mình đã bị khách sờ soạng &1 lần...
+&&Log_bun_failed_omorashi Mình đã tè dầm ngay trước mặt khách trong lúc làm thêm...
 
 // ========================================================
 // MARK : Debuff
 // ========================================================
 
-&&MgmBun_cured_debuff_1 My head feels fuzzy...
-&&MgmBun_cured_debuff_2 I feel all hot...
+&&MgmBun_cured_debuff_1 Đầu óc mình cứ lâng lâng...
+&&MgmBun_cured_debuff_2 Người mình nóng bừng lên...
 // ========================================================
 // MARK : Result
 // ========================================================
 
-&&MgmBun_result_row_title_order_total Orders filled/received
+&&MgmBun_result_row_title_order_total Số đơn đã hoàn thành/tổng số đơn
 &&MgmBun_result_row_value_order_total &1 / &2 (&3%)
 
-&&MgmBun_store_only_can_one You can only order one drink.
+&&MgmBun_store_only_can_one Mỗi lần chỉ có thể gọi một đồ uống.
 
-&&MgmBun_result_row_title_combo Max combo
+&&MgmBun_result_row_title_combo Chuỗi combo dài nhất
 &&MgmBun_result_row_value_combo &1
 
 
-&&MgmBun_result_row_title_people Number of customers
+&&MgmBun_result_row_title_people Số lượng khách hàng
 &&MgmBun_result_row_value_people &1
 
-&&MgmBun_result_row_title_touched Times harrassed
+&&MgmBun_result_row_title_touched Số lần bị quấy rối
 &&MgmBun_result_row_value_touched &1
 
 
-&&MgmBun_result_row_title_eat Biscuits eaten
+&&MgmBun_result_row_title_eat Số bánh quy đã ăn
 &&MgmBun_result_row_value_eat &1
 
-&&MgmBun_result_row_title_sell Sales
-&&MgmBun_result_row_title_chip + Tips
-&&MgmBun_result_row_title_cleaning - Cleaning bill
+&&MgmBun_result_row_title_sell Doanh thu
+&&MgmBun_result_row_title_chip + Tiền boa
+&&MgmBun_result_row_title_cleaning - Phí vệ sinh
 
-&&MgmBun_result_row_value_money &1 pt.
+&&MgmBun_result_row_value_money &1 điểm
 
-&&MgmBun_result_total Total &1 pt.
+&&MgmBun_result_total Tổng cộng &1 điểm
 
-&&MgmBun_cure Recover
+&&MgmBun_cure Hồi phục
 
 
-&&Store_no_enough_bun_score <b>I’ll have to work another shift...</b>
+&&Store_no_enough_bun_score <b>Mình đành phải làm thêm ca nữa vậy...</b>

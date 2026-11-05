@@ -1,10 +1,10 @@
 // For translaters:
-// entire event statement will be exported to the 
+// entire event statement will be exported to the
 // In the next version, this txt file containing the
 // StreamingAssets directory.
 
 // =====================
-// Add an asterisk at the beginning of the sentence 
+// Add an asterisk at the beginning of the sentence
 // to define the event name and label.
 // =====================
 
@@ -12,126 +12,126 @@
 *___Fatal/spider b00
 “Haa, haa…”
 *
-Having dodged the spider's attack, an exhausted Noel
-found herself covered in sticky threads.
+Vừa né được đòn tấn công của nhện độc, Noel kiệt sức nhận ra
+cả người cô ấy đã dính đầy những sợi tơ bết dính.
 *
-How could she have missed them?
-Where was the tactical mistake that got her here?
+Sao cô ấy lại có thể không nhận ra chúng cơ chứ?
+Sai lầm chiến thuật nào đã đẩy cô vào cảnh ngộ này?
 *
-Her mind shifted away from analyzing the details.
-What mattered now was breaking free.
+Tâm trí cô không còn thì giờ mổ xẻ những chi tiết ấy nữa.
+Điều quan trọng duy nhất lúc này là phải thoát ra.
 
 *b00_2
 “Nn-aah!”
 *
-Before she could even begin to struggle,
-a sudden pain shot up her body,
-coursing through her veins.
+Thế nhưng trước khi cô kịp vùng vẫy,
+một cơn đau nhói bất thình lình bắn thẳng khắp cơ thể,
+chạy dọc theo các huyết mạch của cô.
 *
-Toxins.
+Độc tố.
 *
-A paralytic agent injected through hair-like needles
-embedded in the webs.
+Một loại độc gây tê liệt được tiêm qua những sợi lông gai mảnh như kim
+cắm sâu trong các lớp mạng nhện.
 
 
 // b01_sticky
 *b01
-(I can’t...move)
+(Mình không thể...cử động...)
 *
-Noel’s body went limp as she collapsed
-down onto more webs.
+Cơ thể Noel rũ rượi ngã xuống
+xuống những lớp tơ nhện dầy đặc hơn bên dưới.
 *
-“Ah...”, she muttered, too tired to cry out
-as the toxins took hold of her.
+“Ah...”, cô lẩm bẩm, quá rã rời để có thể hét lên
+khi chất độc bắt đầu khống chế toàn bộ cơ thể.
 
 
 // b02_sticky_escape
 *b01_3
 Grrch. Grrch.
-With a dull, earthy, drag, the spider
-pinned Noel’s limbs to the ground.
+Với tiếng lê kéo nặng nề, thô ráp, con nhện
+ghim chặt tứ chi của Noel xuống mặt đất.
 *
 “A-ah…”
 *
-(What should I do?)
-(What <i>can</i> I do?)
+(Mình phải làm gì đây?)
+(Mình có thể làm được gì chứ?)
 *
-Her mind raced, looking for any solution.
-But all magical options required at least <i>some</i> movement from her.
+Đầu óc cô xoay cuồng tìm kiếm mọi giải pháp.
+Thế nhưng mọi phương án dùng phép thuật đều đòi hỏi cô phải cử động được ít nhất đôi chút.
 
 *b01_5
 “Nn-mmm! Hnnng!!”
 *
-Noel pushed as hard as she could,
-trying to get any part of her body to move.
+Noel gắng hết sức bình sinh,
+cố ép bất kỳ bộ phận nào trên cơ thể mình cử động.
 *
-But only her neck, chest,
-and stomach were listening.
+Thế nhưng chỉ có cổ, ngực,
+và bụng là còn nghe theo lời cô.
 *
-(Come on.)
+(Cố lên nào.)
 
 // b03_sticky_escape
 *b03
-The spider was listening, too; answering her thoughts and
-languid movements with its own body language.
+Con nhện dường như cũng đang lắng nghe; nó đáp lại dòng suy nghĩ và
+những cử động yếu ớt của cô bằng ngôn ngữ cơ thể của chính nó.
 *
-“Nn...o...”
+“Kh... ô...ng...”
 *
-Noel stared down at the spider’s ovipositor,
-perturbed by the lack of fear in her mind.
+Noel nhìn chằm chằm vào cơ quan sính sản của con nhện,
+bàng hoàng nhận ra tâm trí mình lúc này lại chẳng hề có lấy một chút sợ hãi.
 
 *b03_2
-“D-don...t...!”
+“Đ-đừng... m...à...!”
 *
-The ovipositor dangled just above,
-softly kissing her outer lips before-
+Cơ sinh sản lơ lửng ngay phía trên,
+khẽ mơn trớn đôi môi ngoài của cô trước khi—
 
 
 *b03_3
 “Ka-hah!”
 *
-Noel gasped as her organs pressed up against
-her lungs from the force of the spider’s thrusts.
+Noel nghẹn thở khi nội tạng bên trong bị chèn ép ép chặt lên
+tận ngực trước vì uy lực thúc mạnh bạo của con nhện.
 *
 “Kahh! Hah, ahh, ah!”
 
 *b05
-Slrch. Sqrrt.
-A slimy liquid began pouring into her.
+Nhóp nhép. Phì phò.
+Một dòng chất lỏng nhớp nhúa bắt đầu tuôn xối xả vào trong cô.
 *
-“Wh-...wha...!?”
+“Cái-...cái gì...!?”
 *
-It flowed smoothly into her abdomen,
-causing it to swell.
+Nó trơn tru chảy tràn vào khoang bụng,
+khiến bụng cô căng phồng lên.
 *
-A faint glow began to shine
-where the liquid pooled inside her.
+Một vệt sáng lờ mờ bắt đầu phát ra
+tại nơi chất lỏng kia đang ở lại trong cơ thể cô.
 *
-Noel quivered.
+Noel khẽ run rẩy.
 
 *b05_2
-“Wh-what’s happening!?”
+“Ch-chuyện gì đang diễn ra thế này!?”
 *
-An unfamiliar sensation gripped Noel as she felt
-her mana shift towards her center.
+Một cảm giác xa lạ bóp nghẹt lấy Noel khi cô cảm nhận được
+lượng mana của mình đang di chuyển dồn về trung tâm cơ thể.
 *
-(I...haven’t been drained...)
+(Mình...chưa hề bị cạn mana...?)
 *
-(Why? What is it pla-)
+(Tại sao chứ? Nó đang tính là—)
 
 *b06
 Glrch, sllsh!!
 *
 “N-, kah! Ahh!”
 *
-A heavier load of viscous liquid poured into her.
-Noel could help but cry out in agony.
+Một lượng chất lỏng đặc quánh nặng nề hơn nữa tràn ngập vào trong cô.
+Noel không thể kìm nén được tiếng thét trong đau đớn tột cùng.
 
 *b06_2
-Throb. Throb. The ovipositor pulsed,
-pouring a mass of tainted mana into her.
+Thình thịch. Thình thịch. Cơ quan sinh dục co bóp dữ dội,
+bơm vào người cô một khối mana vấy bẩn ô uế.
 *
-Noel’s vision blurred as she passed out.
+Tầm nhìn của Noel nhòe dần khi cô ngất lịm đi.
 
 
 //暗転。ノエル妊娠（初妊娠なのでお腹はまだ小さめ）
@@ -140,242 +140,242 @@ Noel’s vision blurred as she passed out.
 *b07
 “Hah, ah, hoh...”
 *
-Pain. Swelling. A feeling of fullness
-like she was about to burst.
+Đau đớn. Căng tức. Cảm giác đầy ứ
+như thể cô sắp sửa nổ tung ra.
 *
-The sensation renewed itself
-with each beat of her heart.
+Cảm giác ấy lại tái hiện dồn dập
+theo từng nhịp đập của trái tim cô.
 
 *b07_2
-Ba-dump...ba-dump.
+Thình thịch...thình thịch.
 *
 “Aghh...”
 *
-“It...hurts...”
+“Đau...quá...”
 
 *b07_3
 “Kee-yaaaaa!”
 
 *b09
-Splut.
+Bộp.
 
 *b09_1
-With a wet splat, something fell out of Noel.
+Cùng với một tiếng ướt át rơi tõm, thứ gì đó từ trong người Noel đã tuột ra ngoài.
 *
-“What...was that?”
+“Thứ gì... thế này?”
 
 *b09_2
-Noel looked down and saw
-a tiny creature crawling on spindly legs.
+Noel nhìn xuống và thấy
+một sinh vật tí hon đang bò lổm ngổm trên những chiếc chân khẳng khiu.
 *
-She knew immediately what it was.
+cô lập tức hiểu ngay đó là gì.
 
 *b09_3
-(Ah...)
+(A...)
 *
-(My...baby...)
+(Con của...mình...)
 *
-Noel’s consciousness faded once again.
+Ý thức của Noel một lần nữa lịm dần đi.
 
 
 
 //暗転 ===========================
 *b10
-–How much time had passed?
+–Đã bao nhiêu lâu trôi qua rồi?
 *
-Her rest had not restored any of her strength.
-Noel still found herself unable to move.
+Giấc ngủ chẳng hề giúp cô hồi phục lại chút sức lực nào.
+Noel nhận thấy bản thân vẫn bất lực không thể cựa quậy.
 *
-And now surrounded entirely by spiderwebs.
+Và giờ đây, xung quanh cô hoàn toàn bị bao vây bởi tơ nhện.
 
 *b10_2
-Scrch. Scrch.
-Noel could hear the spider returning.
+Lạo xạo. Lạo xạo.
+Noel nghe thấy tiếng con nhện đang quay trở lại.
 *
-(What is that smell!?)
+(Mùi gì thế này!?)
 *
-A strong, fermented smell assaulted her senses.
+Một mùi lên men nồng nặc xộc thẳng vào khứu giác cô.
 *
-It was metallic, like iron.
-Noel’s eyes began to water.
+Nó tanh nồng mùi kim loại, tựa như mùi rỉ sắt.
+Khóe mắt Noel bắt đầu trào lệ.
 *
-She closed them to squeeze out
-the tears as the stench got stronger.
+cô nhắm nghiền mắt lại để ép
+những giọt nước mắt chảy ra khi thứ mùi hôi thối ấy càng lúc càng nồng nặc.
 *
-When she opened them, the spider
-thrust a glob of sludge into her mouth.
+Khi cô mở mắt ra, con nhện
+nhét thẳng một bọc cặn bã nhầy nhụa vào miệng cô.
 
 *b10_3
 “Gghk, kaff, ekk! Urrrgh!”
 *
-Noel’s gag reflex rejected
-the offering to her stomach.
+Cơn buồn nôn của Noel kịch liệt chối từ
+thứ lễ vật đang bị tống vào dạ dày cô.
 
 *b11
-The spider, watching Noel emotionlessly,
-pulled out its ovipositor once more.
+Con nhện lạnh lùng nhìn Noel không một chút cảm xúc,
+rồi rút cơ quan sinh sản ra một lần nữa.
 *
-“No...not again!”
+“Không... đừng lại thế nữa mà!”
 
 *b11_2
-“Please…<i>please</i>!”
+“Làm ơn...làm ơn!”
 *
-“I don’t want to be a mother to spiders!”
+Ta không muốn làm mẹ của loài nhện đâu!”
 
 *b11_3
 “Guh!”
 *
 “Agh, yah, ah...”
 *
-“Ahn, auu, no more...”
+“Ahn, auu, đừng thêm nữa mà...”
 
 *b11_4
-After the wet slapping of flesh stopped,
-a cry rang out.
+Sau khi những tiếng da thịt va chạm ướt át dứt hẳn,
+một tiếng khóc non nớt cất lên.
 *
-New life greeting the world.
+Sinh linh mới đang cất lời chào thế giới.
 
 
 //暗転
 
 *b12
-...Days passed, life outside
-the pitch-black cave continued.
+...Ngày qua ngày, cuộc sống bên ngoài
+hang động tối tăm như mực vẫn tiếp diễn.
 *
-Inside the cocoon, a weak,
-parched Noel slowly opened her eyes.
+Bên trong chiếc kén tơ, một Noel yếu ớt
+và khô khốc từ từ mở đôi mắt.
 
 *b12_2
-“Guu, ah...not again...how many...”
+“Guu, ah...lại nữa rồi...bao nhiêu đứa rồi cơ chứ...”
 *
-More eggs slipped out from between her legs.
+Thêm nhiều quả trứng nữa lại trượt ra từ giữa hai chân cô.
 *
-The pain had not lessened since the first one,
-and Noel wished desperately
-that she had remained unconscious.
+Cơn đau đớn chẳng hề vơi bớt kể từ lần đầu tiên,
+và Noel khao khát đến tuyệt vọng
+rằng giá như bản thân cứ mãi chìm trong cơn mê man.
 
 *b12_2b
-But even if she was unconscious, the pain was seared
-so deeply into her mind that it would burn even if she
-transcended to a different plane of existence.
+Thế nhưng dẫu cô có bất tỉnh, nỗi đau đớn ấy vẫn hằn sâu
+vào tâm trí đến mức nó sẽ thiêu đốt cô ngay cả khi
+linh hồn cô có phiêu dạt sang một cõi giới khác.
 *
-The same for that rancid,
-fishy smell the spider kept bringing back to her.
+Cả cái mùi tanh tưởi, hôi thối
+mà con nhện liên tục mang về nhồi cho cô cũng vậy.
 
 *b12_3
-Noel still had her pride as an elf.
+Noel vẫn giữ lòng kiêu hãnh của một Elf.
 *
-But it didn’t mean much in the face of starvation.
+Nhưng điều đó chẳng còn nhiều ý nghĩa gì trước bờ vực chết đói.
 *
-She was at her limit.
+cô đã chạm tới giới hạn chịu đựng.
 
 *b12_4
 “Mmph, hom...”
 *
-Noel nibbled and sucked at the juices
-from the mushy glob.
+Noel gặm nhấm và mút lấy từng giọt dịch
+từ cái bọc nhão nhoét ấy.
 *
-Strangely...it didn’t taste that bad.
+Kỳ lạ thay...vị của nó chẳng tệ đến thế.
 *
-With her thirst quenched,
-Noel felt her spirits lift just a little.
+Cơn đói được giải tỏa,
+Noel cảm thấy tinh thần mình khẽ phấn chấn lên đôi chút.
 
 *b12_5
-Slurp, slurp, suuuck.
+Chùn chụt, chùn chụt, mútttt.
 *
-(Help will come. I just have to stay alive.)
+(Sẽ có người đến cứu thôi. Mình chỉ cần cố gắng sống sót.)
 *
-The spider stared down at her coldly.
+Con nhện lạnh lùng nhìn xuống cô.
 
 
 //暗転。ノエル少し乳が大きくなる
 
 *b13
-...More days passed. Noel had given birth
-to several more babies.
+...Lại nhiều ngày nữa trôi qua. Noel đã hạ sinh
+thêm vài lứa con nữa.
 *
-She felt she deserved a reward.
+cô cảm thấy mình xứng đáng có được một phần thưởng.
 *
-She wriggled slightly, alerting
-the master of the cave to her desires.
+cô khẽ ngọ nguậy, báo cho
+chủ nhân của hang động biết mong muốn của cô ấy.
 
 *b13_2
-The spider, as if expecting her call,
-arrived with the glob and thrust it into her face.
+Con nhện, như thể đã đoán trước được tiếng gọi của cô,
+tiến tới mang theo khối bọc nhầy nhụa và đưa thẳng vào mặt cô.
 *
-Noel opened her mouth wide and...
+Noel há to miệng và...
 
 *b13_3
-“Nom, om, mph, mmm...”
+“Nhgàm, ngoàm, mph, mmm...”
 *
-Took huge bites from it.
-She knew she should be ashamed
-to be eating such filth, but she didn’t care.
+Ngoạm từng miếng lớn ngấu nghiến.
+cô biết mình nên cảm thấy xấu hổ
+khi ăn thứ cặn bã nhơ nhuốc như vậy, nhưng cô chẳng bận tâm.
 *
-Right now, it was the sweetest-tasting thing
-in the world to her.
+Ngay lúc này, đây là thứ có vị ngọt ngào nhất
+trên cõi đời đối với cô.
 
 *b14
-Once she had eaten her fill,
-she spread her legs and relaxed her muscles.
+Khi đã ăn no nê thỏa thuê,
+cô dang rộng hai chân và thả lỏng các cơ bắp.
 *
-The spider produced its ovipositor without hesitation
-and deposited its eggs into her.
+Con nhện không chút do dự rút cơ quan sinh dục ra
+và cấy những quả trứng của nó vào sâu bên trong cơ thể cô.
 *
-Groan. Stretch.
-Multiple at a time.
+Rên rỉ. Giãn nở.
+Từng đợt nhiều quả cùng một lúc.
 
 *b14_2
-Noel’s mind emptied.
-She thought of nothing but the pleasure
-she felt in these moments.
+Đầu óc Noel trống rỗng hoàn toàn.
+cô chẳng còn nghĩ ngợi điều gì ngoài khoái cảm
+mà cô cảm nhận được trong những khoảnh khắc này.
 *
-Eat. Mate. Repeat.
+Ăn. Giao phối. Lặp lại.
 *
-What more could she ever want?
+cô còn có thể mong muốn điều gì hơn thế nữa chứ?
 
 
- // 暗転。さらに膨乳化。ノイズを乗せて、自我が曖昧になってることを表現しても良いかも
+// 暗転。さらに膨乳化。ノイズを乗せて、自我が曖昧になってることを表現しても良いかも
 *b15
-<s5>　────
+ ────
 *
-<s5>　Wake up. Hungry.
+ Thức dậy. Đói.
 *
-<s5>　Wiggle. Get food.
+ Ngọ nguậy. Được cho ăn.
 *
-<s5>　Eat. Happy.
+ Ăn. Hạnh phúc.
 
 *b15_2
-<s5>　Full. Happy. Heart.
+ No nê. Hạnh phúc. Trái tim.
 *
-<s5>　Children. Born. Happy.
-*　
-<s5>　Grow. Thrive.
+ Những đứa con. Chào đời. Hạnh phúc.
+*
+ Lớn khôn. Phát triển.
 
 *b15_3
-<s5>　More.
+ Nữa.
 *
-<s5>　Babies.
+ Các con.
 *
-<s5>　More. More. More.
+ Nhiều hơn. Nhiều hơn nữa. Nhiều hơn nữa.
 
 *b16
 // 出産
 *b16_1
-<s5>　Spider. Happy.
+ Nhện. Hạnh phúc.
 *
-<s5>　Head. Fuzzy.
+ Đầu óc. Mơ hồ.
 
 *b16_2
-<s5>　Tomorrow. Again.
+ Ngày mai. Lại tiếp tục.
 *
-<s5>　More. Babies.　
+ Thêm nhiều. Con cái.
 *
-<s5>　...Happy.
+ ...Hạnh phúc.
 
 *b17
-No one came to rescue her.
-The pitiful girl lived out
-the rest of her days in that cave.
+Chẳng có ai đến cứu cô cả.
+Cô gái đáng thương sống nốt
+những chuỗi ngày còn lại trong hang động tăm tối ấy.
 *
-The perfect ending in her eyes.
+Một kết cục hoàn hảo trong mắt cô.

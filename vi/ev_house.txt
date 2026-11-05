@@ -1,28 +1,28 @@
 // For translaters:
 // In the next version, this txt file containing the
-// entire event statement will be exported to the 
+// entire event statement will be exported to the
 // StreamingAssets directory.
 
 // =====================
-// Add an asterisk at the beginning of the sentence 
+// Add an asterisk at the beginning of the sentence
 // to define the event name and label.
 // =====================
 // ========================================================
 // MARK : ___House/_backdoor_portal
 // ========================================================
- 
+
 
 
 
 *___House/_backdoor_portal n_00
-<think>Where shall I go?
+Mình nên đi đâu bây giờ?
 
 
 *___House/_dont_goout n_00
-Let's not go out now.
+Lúc này chưa nên ra ngoài vội.
 
 // ========================================================
 // MARK : cooking
 // ========================================================
 *___House/_cooking_portal n_00
-<think>Tilde told me to keep my hands off the cookware.
+Tilde đã dặn mình không được đụng tay vào dụng cụ làm bếp rồi.

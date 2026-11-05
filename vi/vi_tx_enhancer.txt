@@ -1,0 +1,82 @@
+%FAMILY vi
+
+// ========================================================
+// MARK : Enhancer
+// ========================================================
+
+&&Enhancer_title_hp_eye Huyết Đồng Tử
+/* ___ Enhancer_desc_hp_eye ___ */
+Hiển thị HP và Mana của những con quái mà bạn đã gây sát thương ít nhất một lần.
+
+&&Enhancer_title_cliff_stopper Giày Bám Đá
+/* ___ Enhancer_desc_cliff_stopper ___ */
+Ngăn bạn rơi khỏi mép vực khi né tránh hoặc bị đòn tấn công đánh bật lùi.
+
+&&Enhancer_title_overspell Quá Tải Phép
+/* ___ Enhancer_desc_overspell ___ */
+Tăng sức mạnh của phép thuật và các đòn shotgun khi bạn không có đủ mana.
+(Tối đa gấp 2 lần)
+// Shotgun - - when you press shift to put the mana charged into your staff
+ 
+&&Enhancer_title_anchor Cảm Quan Cơ Thể
+/* ___ Enhancer_desc_anchor ___ */
+Giảm khả năng bị ngã khi va chạm với kẻ địch.
+
+&&Enhancer_title_long_reach Trượng Dài
+/* ___ Enhancer_desc_long_reach ___ */
+Tăng tầm đánh của các đòn đánh thường và Shotgun.
+
+&&Enhancer_title_secure_absorb Trái Tim Từ Tính
+/* ___ Enhancer_desc_secure_absorb ___ */
+Giảm lượng mana bị mất khi kẻ địch sử dụng đòn hút mana.
+
+&&Enhancer_title_soul_eater Kẻ Nuốt Hồn
+/* ___ Enhancer_desc_soul_eater ___ */
+Tăng lượng mana có thể đánh cắp bằng các đòn đánh thường.
+
+&&Enhancer_title_falling_cat Mèo Tiếp Đất
+/* ___ Enhancer_desc_falling_cat ___ */
+Giảm tốc độ rơi khi sử dụng phép thuật giữa không trung.
+
+&&Enhancer_title_double_evade Né Tránh Kép
+/* ___ Enhancer_desc_double_evade ___ */
+Cho phép né tránh hai lần liên tiếp.
+
+&&Enhancer_title_sway_sliding Bộ Pháp Đạo Tặc
+/* ___ Enhancer_desc_sway_sliding ___ */
+Tạm thời miễn nhiễm với mọi hiệu ứng do tiếp xúc vật lý với kẻ địch sau khi trượt.
+Có thời gian hồi chiêu trước khi có thể sử dụng lại.
+
+&&Enhancer_title_raincaller Bùa Gọi Mưa
+/* ___ Enhancer_desc_raincaller ___ */
+Tăng khả năng xuất hiện thời tiết mưa,
+đồng thời giảm khả năng xuất hiện các loại thời tiết khác.
+
+&&Enhancer_title_shield_cat Chứng Sợ Độ Cao
+/* ___ Enhancer_desc_shield_cat ___ */
+Giảm tốc độ rơi khi đang giương khiên.
+
+&&Enhancer_title_singletask Tuyệt Kỹ Của Kẻ Vụng Về
+/* ___ Enhancer_desc_singletask ___ */
+Giảm đáng kể lượng mana mất đi khi nhận sát thương,
+nhưng bạn không thể hồi phục mana trong lúc niệm phép hoặc tích trữ phép.
+
+&&Enhancer_title_juice_server Điềm Báo Ướt Át
+/* ___ Enhancer_desc_juice_server ___ */
+Lượng dịch ngọt tiết ra tăng vọt.
+
+// ========================================================
+// MARK : ver 029
+// ========================================================
+
+&&Enhancer_title_shield_guarantee Thủ Thế Vững Vàng
+/* ___ Enhancer_desc_shield_guarantee ___ */
+Ngăn Noel bị choáng khi khiên của cô ấy bị phá vỡ.
+
+&&Enhancer_title_watershard_sticky Vòng Thủy Thuẫn
+/* ___ Enhancer_desc_watershard_sticky ___ */
+Các Mảnh Thủy Phiến bám sát Noel hơn, giúp bảo vệ cô khỏi sát thương lửa.
+
+&&Enhancer_title_windguard Bộ Pháp Kiêu Hãnh
+/* ___ Enhancer_desc_windguard ___ */
+Ngăn các hiệu ứng cản trở di chuyển do gió và sàn nhà dính gây ra.

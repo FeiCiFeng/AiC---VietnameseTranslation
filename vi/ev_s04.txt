@@ -14,20 +14,20 @@
 // ========================================================
 
 *s04_1a n_00
-Ixia gave you the spell registration device, didn't she?
+Ixia đã đưa cho cô thiết bị đăng ký phép thuật rồi đúng không ạ?
 
 *p_01
-She did! Please register it whenever you're ready.
+Đúng rồi em! Khi nào sẵn sàng thì hãy tiến hành đăng ký nhé.
 
 
 
 *s04_1a n_02
-...Why is the device floating?
+...Tại sao cái thiết bị đó lại đang lơ lửng vậy?
 
 *p_03
-Well...the servers for the authentication system are located at the Heavenly Facilities in Grazia.
+À thì...máy chủ của hệ thống xác thực được đặt tại Cơ Sở Thiên Giới ở Grazia mà.
 *
-Maybe it gets a better signal up there?
+Có lẽ việc bay lên trên đó thì bắt sóng tốt hơn chăng?
 
 
 
@@ -37,86 +37,86 @@ Maybe it gets a better signal up there?
 // ========================================================
 
 *s04_1b n_00
-S-Something amazing just happened!
-Sorry about my dress lifting up...
+C-Chuyện gì vừa xảy ra vậy?!
+Em Xin lỗi vì váy bị tốc lên ạaaaa!...
 
 *p_01
-After the attack, spell device authentication has become even more complex.
+Sau vụ tấn công, quy trình xác thực thiết bị phép thuật đã trở nên phức tạp hơn nữa.
 *
-It's got something called three-step authentication and uses WiFu technology to communicate with the servers.
+Nó có thứ gọi là xác thực ba bước, đồng thời sử dụng công nghệ WiFu để liên lạc với máy chủ.
 *p_01_2
-But it's almost twice as heavy as before, and can still only be used once.
+Nhưng nó lại nặng gần gấp đôi trước đây, mà vẫn chỉ dùng được một lần.
 *
-Transporting them has become such a pain.
+Vận chuyển chúng đúng là phiền phức hết sức.
 
 
 *p_02
-The spell you registered was the <c red>Ground Bomb<c>.
-It compresses mana into a small sphere that sticks to floors and walls.
+Phép thuật em vừa đăng ký là <c red>Địa Lôi<c>.
+Nó nén mana thành một quả cầu nhỏ có thể bám vào sàn nhà và tường.
 
 *p_03
-It'll automatically explode when any monster comes near and put them in a daze, so it's good for crowd control.
+Nó sẽ tự động phát nổ khi có quái vật đến gần, khiến chúng choáng váng, nên rất hữu ích để khống chế nhiều mục tiêu cùng lúc.
 *
-Give it a try.
+thực hành xem nào.
 
 
 
 *n_04
-...? What's this?
+...? Cái gì đây?
 
 
 *p_05
-It's a candy box...with a letter inside?
-*
-'To the 18-year-old me, how are you? My dream is to become a cool magician like big sis'. 
+Một hộp kẹo...bên trong còn có một lá thư nữa?
+
+'Gửi mình năm 18 tuổi, dạo này thế nào rồi? Ước mơ của mình là trở thành một pháp sư ngầu như chị hai'.
 
 *n_06
-Uwa! Uwa!! This is the time capsule I buried so that I can open it with my sister! 
+Uwa! Uwa!! Đây là chiếc hộp thời gian mà mình đã chôn để sau này mở cùng chị gái!
 *
-We weren't supposed to open it for another three years!!
+Đáng lẽ phải ba năm nữa mới được mở cơ mà!!
 
 *p_07
-Teehee... 
+Hì hì...
 *
-Just like that, your bombs can blow up the floor or walls that look like they might have something in them.
+Cũng giống như vậy, bom của em có thể phá hủy sàn nhà hoặc tường ở những chỗ trông như có thứ gì đó ẩn bên trong.
 *
-If you think something looks suspicious, use it and see.
+Nếu thấy chỗ nào đáng ngờ, cứ thử dùng bom xem sao.
 
 
 *p_08
-I got you something else. A gift to celebrate your recovery.
+Cô còn có món khác muốn tặng em. Một món quà chúc mừng em hồi phục.
 
 
 *n_09
-Waah, thank you so much...
+Waah, cảm ơn cô nhiều lắm...
 
 *p_10
-It's actually a skill for athletes. You've always had a spring in your step, though, so I figured you might be able to master it.
+Thật ra đây là kỹ năng dành cho vận động viên. Nhưng em vốn nhanh nhẹn rồi, nên cô nghĩ cậu có thể thành thạo nó.
 *p_10_2
-...By the way, do you remember how to set your skills?
+...Mà này, em còn nhớ cách thiết lập kỹ năng không?
 
 
 
 *p_20
-Well then, let's practice, shall we? Try opening the menu.
+Vậy thì, chúng ta cùng luyện tập thử nhé? Thử mở menu lên nào.
 
 *p_21
-You can set the skills you obtained from the 'Skills' menu.
+Em có thể thiết lập những kỹ năng đã nhận được trong menu 'Kỹ Năng'.
 
 *p_22
-Now you know how to choose the 'Skill' menu.
+Giờ thì em đã biết cách chọn menu 'Kỹ Năng' rồi.
 *
-The skills you just acquired are in the 'Defense' tab. Try opening it.
+Những kỹ năng em vừa học nằm trong tab 'Phòng Thủ'. Thử mở ra xem.
 <key ltab/> / <key rtab/>
 
 *p_23
-There is a 'Use' checkbox next to the 'Dodge' and 'Shield' skills. Check or uncheck them to choose whether they are active or not.
+Bên cạnh kỹ năng 'Né Tránh' và 'Khiên' có ô đánh dấu 'Sử dụng'. Hãy tích hoặc bỏ tích để chọn bật hay tắt chúng nhé.
 
 
 *p_24
-Well done!
+Làm tốt lắm!
 *
-<key lsh/> deploys a shield, and <key lsh/>+<key la/><key ra/> performs a dodge!
+<key lsh/> sẽ triển khai khiên, còn <key lsh/>+<key la/><key ra/> sẽ thực hiện đòn né tránh!
 
 
 
@@ -124,12 +124,12 @@ Well done!
 
 
 *p_25
-By the way, this is just an example so it's still set to off.
+Nhân tiện, đây chỉ là ví dụ nên kỹ năng vẫn đang ở trạng thái tắt.
 *
-Normally when you obtain a skill, it will be on by default. So don't worry about setting it every time you get a new skill.
+Thông thường, khi nhận được kỹ năng mới, nó sẽ tự động được bật sẵn. Vì vậy em không cần lo phải thiết lập lại mỗi lần học kỹ năng mới đâu.
 
 *p_26
-Now, let's begin the practical skill test!
+Giờ thì bắt đầu bài kiểm tra thực hành kỹ năng nhé!
 
 
 // 3-A へ
@@ -137,34 +137,34 @@ Now, let's begin the practical skill test!
 // 2-B ====================================
 
 *p_27
-That's what I thought, but I had to check. Now then─
+Cô cũng nghĩ em còn nhớ, nhưng vẫn phải kiểm tra cho chắc. Nào─
 *p_28
-Let's begin the practical skill test!
+Bắt đầu bài kiểm tra thực hành kỹ năng thôi!
 
 
 *n_29
-Y-yes!
+V-Vâng!
 
 
 // ========================================================
 // MARK : s04_3a
 // ========================================================
 *s04_3a p_00
-Mm...hup.
+Ừm... hự.
 
 
 *p_01
-I'm going to cast a spell at you, please try to block it.
+Cô sẽ thi triển phép thuật lên em, hãy thử chặn nó xem nào.
 
 *n_02
-Okay...!
+D-Dạ vâng...!
 
 *p_03
-We'll start with practice drills for shields.
+Trước tiên, chúng ta sẽ luyện tập sử dụng khiên.
 *
-<key lsh/><c red>While your shield is active, you can protect yourself from toxic gases.
+<key lsh/><c red>Khi khiên đang được kích hoạt, em có thể tự bảo vệ mình khỏi khí độc.
 *p_04
-Keep the shield up so you don't inhale the gas from my spell. Let's begin!
+Hãy giữ khiên để không hít phải khí từ phép thuật của cô. Bắt đầu nào!
 
 
 
@@ -174,18 +174,18 @@ Keep the shield up so you don't inhale the gas from my spell. Let's begin!
 ...Ha!
 
 *p_01
-Are you all right? You inhaled a lot of gas and fainted.
+Em ổn chứ? Em đã hít phải quá nhiều khí rồi ngất đi đấy.
 
 *n_02
-I-I'm sorry. I'll do better next time...
+E-Em xin lỗi. Lần sau em sẽ làm tốt hơn...
 
 *p_03
-If you put up your shield for a long time, it will glow red and its strength will drop.
+Nếu giữ khiên quá lâu thì nó sẽ phát sáng đỏ lên và độ bền giảm xuống.
 *
-But, <c red>as long as you do not receive physical damage, it will not break<c>. So, you can keep the shield up until the gas dissipates.
+Nhưng <c red>chỉ cần em không chịu sát thương vật lý, khiên sẽ không bị vỡ<c>. Vì vậy, em có thể tiếp tục giữ khiên cho đến khi khí độc tan hết.
 
 *p_04
-...Okay then, once again! This time, be careful not to breathe in the gas!
+...Được rồi, thử lại lần nữa! Lần này nhớ cẩn thận, đừng hít phải khí nhé!
 
 
 
@@ -193,52 +193,52 @@ But, <c red>as long as you do not receive physical damage, it will not break<c>.
 
 // 3-F: 成功 ====================
 *s04_3f p_00
-Well done!
+Làm tốt lắm!
 *p_01
-In a real battle, when your shield is weakened by gas, there is the danger of it being broken by an enemy's physical attack.
+Trong chiến đấu thực tế, khi khiên bị khí độc làm suy yếu, nó có nguy cơ bị phá vỡ bởi đòn tấn công vật lý của quái vật.
 *
-In some cases, it might be more advantageous to move away from the gas rather than using your shield.
+Trong một số trường hợp, tránh xa vùng khí độc có thể hiệu quả hơn là dùng khiên để chống đỡ.
 
 *n_01
-Okay!
+Vâng!
 
 
 *p_02
-Let's move on to the next skill.
+Chuyển sang kỹ năng tiếp theo thôi.
 
 
 
 
 // 3-C: 失敗パターン2 ( シールドを貼らずに逃げる ) ====================
 *s04_3c p_00
-...You do understand we're practicing using shields, right?
+...Em hiểu là chúng ta đang luyện tập sử dụng khiên chứ?
 
 *p_01
-Of course, in a real battle there will be times when staying away from the gas altogether is more viable, but...
+Tất nhiên rồi, trong chiến đấu thực tế, đôi khi tránh hẳn khỏi vùng khí độc sẽ là lựa chọn tốt hơn, nhưng...
 
 *p_02
-Even so, is simply keeping up a shield too easy for a model student like you?
+Dù vậy, chỉ cần duy trì khiên thôi là cũng quá dễ với một học sinh ưu tú như em không đấy?
 
 
 
 // 3-D
 *n_03
-I'm sorry, I'll do it properly this time!
+Em xin lỗi, lần này em sẽ làm nghiêm túc!
 
 *p_04
-Very well. Then I'll use the same spell again.
+Được thôi. Vậy cô sẽ dùng lại phép lần nữa nhé.
 
 
 // 3-E
 *p_05
-I understand. In deference to your eagerness, we'll move on to the next skill.
+Cô hiểu rồi. Vậy để đáp lại sự nhiệt tình của em, chúng ta sẽ chuyển sang kỹ năng tiếp theo.
 
 *p_06
-After the shield has been kept up for some time, it will glow red.
+Sau khi giữ khiên một thời gian, nó sẽ phát sáng đỏ lên.
 *
-If an enemy's attack hits the shield while it's red, the shield will be destroyed.
+Nếu đòn tấn công của quái vật đánh trúng khiên lúc nó đang ở trạng thái đỏ, khiên sẽ bị phá hủy.
 *
-When that happens, you will be knocked down and defenseless for a while, so be extra careful.
+Khi đó, em sẽ bị đánh ngã và rơi vào trạng thái không thể tự vệ trong một lúc, nên phải hết sức cẩn thận.
 
 
 
@@ -248,28 +248,28 @@ When that happens, you will be knocked down and defenseless for a while, so be e
 
 
 *s04_4a p_00
-Next up is the dodge skill. Try using it a few times first to get a feel for it.
+Tiếp theo là kỹ năng né tránh. Trước tiên, em hãy thử dùng vài lần để làm quen nhé.
 
 
 *s04_4a_2 p_01
-Well done. You're invincible while dodging. Use it to avoid enemy attacks.
+Làm tốt lắm. Khi đang né tránh, em sẽ ở trạng thái bất khả xâm phạm. Hãy tận dụng nó để tránh đòn tấn công của quái vật.
 
 
 *p_02
-Okay, I'm going to cast a shockwave spell. Don't worry, it's set to be non-lethal, so it shouldn't hurt too much.
+Được rồi, cô sẽ thi triển phép thuật sóng xung kích. Đừng lo, cô đã điều chỉnh để nó không gây chết người, nên chắc sẽ không đau lắm đâu.
 *
-Even at normal strength, a beastman's spell would probably only scratch an elf.
+Ngay cả khi dùng sức mạnh với uy lực thường, phép thuật của thú nhân có lẽ cũng chỉ khiến một Elf bị trầy xước thôi.
 
 *n_03
-So...I should take this seriously to avoid getting hit in the face?
+Vậy...em nên nghiêm túc né tránh để khỏi bị đánh trúng mặt nhỉ?
 
 *p_04
-So perceptive! I'll have you try to dodge not just once, but several times in a row!
+Nhạy bén lắm! Cô sẽ cho em thử né tránh liên tiếp nhiều lần, chứ không chỉ một lần đâu!
 *
-I wonder if you can still do it so soon after your recovery?
+Không biết em có làm được không khi vừa mới hồi phục chưa lâu nhỉ?
 
 *n_05
-I'll do my best!
+Em sẽ cố hết sức!
 
 
 
@@ -277,65 +277,65 @@ I'll do my best!
 
 // 4-B: 被弾1回目
 *s04_4b p_00
-...Are you okay? Did you hit your head?
+...Em ổn chứ? Có bị đập đầu không?
 
 *n_01
-I-I'm fine... I'll dodge it next time!
+V-Vâng, em ổn... Lần sau em sẽ né được!
 
 *p_02
-Ahem. Watch the shockwave carefully and dodge towards me when it's about to hit you. I know you can do it.
+E hèm. Hãy quan sát kỹ sóng xung kích, rồi lướt về phía cô ngay khi nó sắp đánh trúng. Cô tin bạn làm được mà.
 
 
 // 4-C: 被弾2回目
 *n_03
-Uuu... Please, let me try one more time.
+Ư... Làm ơn cho em thử thêm một lần nữa.
 
 *p_04
-Maybe I'm going a little too fast. I'll leave more space between each cast this time.
+Có lẽ cô làm hơi nhanh rồi. Lần này cô sẽ giãn khoảng cách giữa các lần thi triển ra.
 
 
-// 4-D: 被弾3回目以降
+ // 4-D: 被弾3回目以降
 *n_05
-I-I'm sorry...
+E-Em xin lỗi...
 
 *p_06
-There's no need to rush. But...hmm, maybe you still aren't back to full strength yet. Do you want to try again?
+Không cần phải vội đâu. Nhưng... ừm, có lẽ em vẫn chưa hồi phục hoàn toàn. Em có muốn thử lại không?
 
-// 4-E
+ // 4-E
 *n_07
-I'll get it right this time!
+Lần này em nhất định sẽ làm được!
 
 *p_08
-Thatta'girl, Noel! Try as many times as you like!
+Giỏi lắm, Noel! Cứ thử bao nhiêu lần tùy thích!
 *
-Just as the shockwave is about to hit, dodge towards me and glide over the wave. Keep calm, you got this.
+Ngay trước khi sóng xung kích đánh trúng, hãy lướt về phía cô rồi lướt qua luồng sóng đó. Bình tĩnh nhé, em làm được mà.
 
 
-// 4-F
+ // 4-F
 *p_09
-I understand. I'm sure you'll be fine. It might be more efficient to get used to it in a real fight.
+Cô hiểu rồi. cô tin em sẽ ổn cả thôi. Có lẽ luyện tập trong một trận chiến thực sự sẽ hiệu quả hơn.
 
 
-// 4-G: 成功 ========================
+ // 4-G: 成功 ========================
 
 
 
 *s04_4g n_00
-I-I did it!
+E-Em làm được rồi!
 
 *p_01
-Great job! I thought it would be a little difficult...but you've mastered dodging as easily as I expected!
+Giỏi lắm! Cô cứ nghĩ sẽ hơi khó... nhưng quả nhiên e, đã thành thạo né tránh dễ dàng như cô đã dự đoán!
 
 
-// 4-H: 成功 (シールドを張って昏倒しながら無理やり突破した)  ========================
+ // 4-H: 成功 (シールドを張って昏倒しながら無理やり突破した)  ========================
 
 
 
 *s04_4h n_00
-I-I did it...hehehe...
+E-em làm được rồi... hihihi...
 
 *p_01
-It's dangerous to take such hits during an actual battle, but I'll give you a pass for your quick turnaround.
+Trong chiến đấu thực tế, chịu những đòn như vậy rất nguy hiểm, nhưng lần này cô sẽ bỏ qua vì em đã nhanh chóng đứng vững dậy được.
 
 
 
@@ -345,10 +345,10 @@ It's dangerous to take such hits during an actual battle, but I'll give you a pa
 
 
 *s04_5a p_00
-...Now, let's do a final wrap-up on everything we've learned so far!
+...Giờ thì cùng tổng kết lại tất cả những gì chúng ta đã học nhé!
 
 *p_01
-Avoid inhaling too much gas and dodge the shockwaves at the same time. Let's begin!
+Hãy vừa tránh hít quá nhiều khí độc, vừa né những đợt sóng xung kích. Bắt đầu nào!
 
 
 
@@ -361,19 +361,19 @@ Avoid inhaling too much gas and dodge the shockwaves at the same time. Let's beg
 ...Ha-
 
 *p_01
-Are you okay? You inhaled a lot of gas and fainted.
+Em ổn chứ? Em đã hít phải quá nhiều khí rồi ngất đi đấy.
 
 *n_02
-I'm sorry. I'll do better next time...
+Em xin lỗi. Lần sau em sẽ làm tốt hơn...
 
 *p_03
-Even if you are in the area of the gas, the effects of it won't kick in immediately.
+Ngay cả khi đang ở trong vùng khí độc, em cũng sẽ không bị ảnh hưởng ngay lập tức.
 *
-You can't breathe in fresh air while the shield is up, but you can at least look for an area where the gas is clearing up.
+Khi đang thi triển khiên, em không thể hít thở không khí trong lành, nhưng ít nhất vẫn có thể lướt tới một nơi mà khí độc đang tan dần.
 
 
 *p_04
-Don't be too hasty. Stay calm. Okay, once again!
+Đừng quá vội vàng. Bình tĩnh lại nào. Được rồi mà, thử lại lần nữa nào!
 
 
 
@@ -381,47 +381,47 @@ Don't be too hasty. Stay calm. Okay, once again!
 
 
 *s04_5b_2 n_00
-Ow...
+A...
 
 *p_01
-Are you okay!? Are you hurt anywhere!?
+Em ổn chứ!? Có bị thương ở đâu không!?
 
 *n_02
-I just scraped my hips a little... P-please, one more time!
+Em chỉ bị trầy một chút ở hông thôi... L-Làm ơn cho em thử thêm lần nữa!
 
 *p_03
-...I understand. Let's start!
+...Cô hiểu rồi. Bắt đầu thôi!
 
 
 // 5-C: 何度も失敗する ====================
 
 *s04_5c p_00
-...I'm sorry, is this a bit too difficult?
+... bài này hơi khó quá đúng không em?
 
 
 *n_01
-Uu...it's...
+Ư... chuyện này...
 
 
 
 // 5-D
 *n_02
-No, I can still continue...!
+Không, em vẫn tiếp tục được...!
 
 *p_03
-You've just recovered, so don't overdo it.
+Em vừa mới hồi phục, đừng cố quá sức ấy chứ.
 *p_04
-But since you're up to the challenge... I will continue to fire without restraint!
+Nhưng vì em đã quyết tâm thử thách bản thân...em sẽ tiếp tục tấn công hết sức!
 
 
 // 5-E
 *n_05
-I-I'd like to leave it at that for today...
+E-Em muốn dừng ở đây hôm nay thôi...
 
 *p_06
-...I understand.
+...Cô hiểu rồi.
 *
-Take a look at your 'Skills' menu if you ever forget how to use one.
+Nếu sau này quên cách sử dụng kỹ năng nào, hãy xem lại menu 'Kỹ Năng' nhé.
 
 
 
@@ -429,16 +429,16 @@ Take a look at your 'Skills' menu if you ever forget how to use one.
 
 
 *s04_5f p_00
-Very well done!
-It was a complicated move, but you mastered it with ease.
+Làm tốt lắm!
+Đó là một động tác phức tạp, nhưng bạn đã thành thạo nó một cách dễ dàng.
 *
-Noel, I really think you are worthy of being called the school's genius.
+Noel, mình thật sự nghĩ bạn xứng đáng với danh hiệu thiên tài của học viện.
 
 *n_01
-T-That's too much praise...but thank you for helping me practice!
+K-Khen quá lời rồi... nhưng cảm ơn cô đã giúp mình luyện tập!
 
 *p_02
-If you forget how to use any skill, have a look at the 'Skills' menu for instructions.
+Nếu quên cách sử dụng kỹ năng nào, hãy xem hướng dẫn trong menu 'Kỹ Năng' nhé.
 
 
 
@@ -449,171 +449,171 @@ If you forget how to use any skill, have a look at the 'Skills' menu for instruc
 
 
 *s04_6a n_00
-Thank you so much for coming today, Ms. Primula. I know it's a long trip to get here from town.
+Cảm ơn cô đã đến hôm nay, cô Primula. Em biết đường từ đô thành đến đây rất xa.
 *
-You even went to the trouble of bringing your staff and those ancient documents...
+Cô còn cất công mang theo cả trượng và những tài liệu cổ đó nữa...
 
 *p_00
-Oh don't worry about me. I couldn't bear the thought of having such a cute, bright student fall behind everyone else.
+Ôi, đừng bận tâm. Cô không thể chịu nổi cảnh một học sinh vừa đáng yêu vừa thông minh như em lại bị tụt lại phía sau mọi người được.
 
 // しばらく無言
 
 *p_01
-Tell me, Noel... 
-Do you have any dreams you'd like to achieve someday?
+Này, Noel...
+Sau này em có ước mơ nào muốn thực hiện không?
 
 *n_02
-My dream... 
+Ước mơ của em...
 *
-is to be a great magician, travel the world...and...become someone's hero... 
+là trở thành một pháp sư vĩ đại, đi chu du khắp thế giới... và... trở thành anh hùng của một ai đó...
 
 *n_03
-No, no, what am I saying? That's so embarrassing. It sounds like a fairy tale, doesn't it?
+Không, không, em đang nói gì vậy? Xấu hổ quá đi mất. Nghe cứ như chuyện cổ tích ấy á...
 
 
 *p_03
-Not at all. You have nothing to be ashamed of.
+Không có đâu. Em chẳng có gì phải xấu hổ cả.
 *p_04
-You're definitely not a fairy tale princess.
+Em chắc chắn không phải một nàng công chúa trong truyện cổ tích.
 *p_04_2
-But, it's okay to yearn for an adventure down the 'rabbit hole'.
+Nhưng khao khát được phiêu lưu xuống 'hang thỏ' cũng chẳng có gì sai cả.
 
 *n_04
-Adven...ture...
+Phiêu... lưu...
 
 *p_05
-Yes. I have every bit of confidence that you can do it. 
+Đúng vậy. Cô hoàn toàn tin rằng em có thể làm được.
 *
-You are an excellent student, after all. I see great things in your future.
+Dù sao em cũng là một học sinh xuất sắc mà. Cô tin tương lai em sẽ rất tươi sáng.
 
 *n_06
-Thank you, sensei.
+Cảm ơn cô.
 
 *n_07
-...May I ask what your dream is?
+...Em có thể hỏi ước mơ của cô là gì không?
 
 
 *p_07
-...I'd like to meet my previous incarnation...and give her a good slap for not transferring her memories.
+...Cô muốn gặp kiếp trước của mình... rồi tát cho cô ta một cái thật đau vì đã không chuyển giao ký ức.
 
 *n_08
 Ahaha...
 
 *p_09
-You know that we true beastmen have a very short physical lifespan, so we extend our lives by transferring our memories to a new body-
+Em biết đấy, thú nhân chân chính như chúng ta có tuổi thọ thể xác rất ngắn, nên phải kéo dài sự sống bằng cách chuyển ký ức sang một cơ thể mới-
 *
--through a process called 'reincarnation' at the 'Heavenly Facilities'.
+-thông qua quá trình gọi là 'luân hồi' tại 'Cơ Sở Thiên Giới'.
 
 *n_10
-Right.
+Vâng.
 
 *p_11
-By transferring my memories into a newly cloned body, I 'Primula' can continue to exist.
+Bằng cách chuyển ký ức của mình vào một cơ thể nhân bản mới, Cô đây, 'Primula', có thể tiếp tục tồn tại.
 *
-...But, when you think about it, wouldn't that mean the previous Primula died when her memories weren't transferred?
+...Nhưng nghĩ kỹ thì chẳng phải Primula trước đây đã chết khi ký ức của cô ấy không được chuyển giao sao?
 
 
 
 *n_12
-...I've heard that when they prepare the clone, they renew the body's stem cells.
+...Em nghe nói khi chuẩn bị cơ thể nhân bản, họ sẽ làm mới tế bào gốc của cơ thể.
 
 *p_13
-Even so, if we consider my consciousness to be a continuation of my inherited memories...
+Dù vậy, nếu xem ý thức của cô là sự tiếp nối của những ký ức được kế thừa...
 *
-...one could say that I'm already dead, and now I'm nothing more than a zombie, couldn't they?
+...thì chẳng phải có thể nói cô đã chết từ lâu, giờ chỉ còn là một thây ma thôi sao?
 
 *n_14
 ...
 
 *p_15
-Sorry, I didn't mean to bring up such a depressing matter. Just take what I said as a joke.
+Xin lỗi nhé, cô không có ý làm bầu không khí trở nên nặng nề như vậy đâu. Cứ xem những gì cô vừa nói là chuyện đùa thôi.
 
 *n_16
-It's a bit too serious of an issue to take it that way...
+Chuyện này nghiêm túc quá, em không thể xem như đùa được...
 
 
 *p_17
-Yeah...I suppose. You know what I'd really like to see? The stars.
+Ừ... cô nghĩ vậy. Em biết điều cô thật sự muốn nhìn thấy là gì không? Những vì sao.
 
 *n_18
-Stars...?
+Những vì sao...?
 
 *p_19
-It's a legend I heard from Shasta. Right now, the night sky is covered with a cloud of magical power that never clears.
+Đó là truyền thuyết cô nghe được từ Shasta. Hiện tại, bầu trời đêm bị bao phủ bởi một tầng mây ma lực không bao giờ tan.
 *
-Beyond this cloud, there is a black ceiling glittering with countless jewels called 'Stars'.
+Phía bên kia tầng mây ấy là một mái vòm đen lấp lánh vô số viên ngọc được gọi là 'Những Vì Sao'.
 
 *n_20
-Jewels in the sky...is that a fairy tale of the lost civilization?
+Những viên ngọc trên trời... đó là chuyện cổ tích về nền văn minh đã mất sao?
 
 *p_21
-It's unbelievable, isn't it? I laughed so hard when Shasta first told me. She was speaking so seriously.
+Khó tin thật nhỉ? Lần đầu Shasta kể, cô đã cười đến mức không ngừng được. Vậy mà cô ấy lại nói rất nghiêm túc.
 *
-But after reading the old documents that were deciphered, I don't think it's just a fairy tale.
+Nhưng sau khi đọc những tài liệu cổ đã được giải mã, cô không nghĩ đó chỉ là chuyện cổ tích nữa.
 
 *p_22
-<c black><i>"Above the clouds that bring the blessed rains, cradled high atop the Mother Tree, our Father lies in sleep"</i></c>.
+"Vượt lên trên những tầng mây mang lại cơn mưa phước lành, được ôm ấp chở che nơi ngọn Mẫu Thụ chót vót, là nơi Phụ Thân của chúng ta đang an giấc".
 
 *n_22
-That's a verse from the Grazian Orthodoxy.
+Đó là một lời thánh ca trong Chính Thống Giáo Grazia.
 
 *p_23
-There are rumors that a very small handful of powerful people have access to the top level hidden in Grazia's Heavenly Facilities.
+Có lời đồn rằng chỉ một số rất ít người quyền lực mới có thể tiếp cận tầng cao nhất ẩn sâu trong Cơ Sở Thiên Giới của Grazia.
 *
-If the 'cradle' in this doctrine really exists...
+Nếu 'chiếc nôi' trong giáo lý này thực sự tồn tại...
 *
-I'm sure I'll be able to see the stars with my own eyes from there.
+Cô tin mình sẽ có thể tận mắt nhìn thấy những vì sao từ đó.
 
 *n_24
 ...
 
 *p_25
-Just kidding. I think Shasta's habit of exaggerating may have rubbed off on me a bit.
+Đùa thôi. Có lẽ thói quen phóng đại mọi chuyện của Shasta cũng lây sang cô mất rồi.
 *p_26
-...Well, I'm off for today. I'll see you tomorrow evening after I finish my work at school.
+...Hôm nay cô về đây. Ngày mai sau khi xong việc ở học viện, cô sẽ đến vào buổi tối.
 *
-We'll talk about your return then.
+Lúc đó chúng ta sẽ nói về việc em trở về.
 
 *n_26
-I understand. Please take care on your way back.
+Vâng. Cô đi đường cẩn thận nhé.
 
 *p_27
-Good night, Noel.
+Chúc ngủ ngon, Noel.
 
 
 
 *n_50
-<I><w2><m fadein>A world where flowers, mice and cards talk to each other.
+<I><w2><m fadein>Một thế giới nơi hoa, chuột và những lá bài có thể trò chuyện với nhau.
 
 
 *n_51
-<I><w2><m fadein>A world where jewels shine on the ceiling above the sky.
+<I><w2><m fadein>Một thế giới nơi những viên ngọc lấp lánh trên mái vòm phía trên bầu trời.
 
 
 *n_52
-<I><w2><m fadein>All the stories I heard from her today were like something from a wonderful dream.
+<I><w2><m fadein>Tất cả những câu chuyện cô kể hôm nay đều giống như bước ra từ một giấc mơ tuyệt đẹp.
 
 
 *n_53
-<I><w2><m fadein>Perhaps, somehow, somewhere in this world...
-there is such a wonderland...
+<I><w2><m fadein>Biết đâu, ở đâu đó trong thế giới này...
+thật sự tồn tại một xứ sở thần tiên như thế...
 
 // ========================================================
 // MARK : s04_6b
 // ========================================================
 *s04_6b v_00
-Noel, what are you doing~? We're closing the main gate~
+Noel, em đang làm gì thế~? Chị sắp đóng cổng chính rồi~
 
 *n_01
-Ah, sister. Thank you for your hard work.
+A, chị. Chị vất vả rồi.
 
 // : 門を閉める
 *n_02
-Sister, do you know what a 'Star' is? There's a ceiling above the clouds with jewels hanging from it─
+Chị, chị có biết 'Vì Sao' là gì không? Trên những tầng mây có một mái vòm, trên đó treo đầy những viên ngọc─
 
 *v_03
-<m joy>Ahaha~ That's so romantic~</m>
-You've always loved those kinds of fantasies, haven't you~
+<m joy>Ahaha~ Lãng mạn quá đi~</m>
+Em lúc nào cũng thích những chuyện tưởng tượng như thế nhỉ~
 
 
 
@@ -624,8 +624,8 @@ You've always loved those kinds of fantasies, haven't you~
 
 
 *n_10
-Would I get to meet a mysterious 'rabbit' tonight? 
-My heart danced with anticipation as I drifted off to sleep.
+Đêm nay, liệu mình có gặp được một 'chú thỏ' bí ẩn không nhỉ?
+Mình chìm vào giấc ngủ với trái tim tràn đầy mong đợi.
 
 
 
@@ -638,4 +638,4 @@ My heart danced with anticipation as I drifted off to sleep.
 // ノエル独白モノローグ
 
 *n_11
-I felt a spark of warmth that night. Like a fire had been rekindled in my wounded heart.
+Đêm đó, mình cảm nhận được một tia ấm áp. Như thể ngọn lửa trong trái tim đầy thương tích của mình đã được thắp lên lần nữa.

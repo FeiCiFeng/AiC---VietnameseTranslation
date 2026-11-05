@@ -20,7 +20,7 @@
 // ファースト
 
 *___firstman/t00 n_00
-<I><angry><m scary>A monster!?
+<I><angry><m scary>Quái vật!?
 
 *fh_01
 <W3>...
@@ -35,26 +35,26 @@
 <s8>......
 
 *n_05
-<think>He’s clearly a monster, but...
-I don’t think he’s hostile.
+<think>Rõ ràng ông ấy là quái vật, nhưng...
+Mình không nghĩ ông ấy có ý định thù địch.
 
- 
+
  //話しかける
 
 *___firstman/t01 n_00
-Excuse me, but...
-Are you fishing?
+Dạ, cho cháu hỏi...
+Ông đang câu cá à?
 
 *fh_01
 ......
 
 *n_02
-The other rod? Are you saying I can have it?
- 
+Cần câu còn lại sao? Ý ông là cháu có thể lấy nó à?
+
  // 受け取らない
 
 *n_10
-I think...I'll pass.
+Cháu nghĩ...mình xin phép không nhận.
 
 *fh_11
 ...
@@ -63,13 +63,13 @@ I think...I'll pass.
 // 受け取るが荷物がいっぱい
 
 *n_20
-M-My bag is a bit full right now...
+T-Túi đồ của cháu hiện đang hơi đầy...
 
 *fh_21
 <s5>......
 
 *n_22
-<think>What’s with that look of disappointment?
+<think>Sao ông ấy lại nhìn mình thất vọng thế nhỉ?
 
 
 // 受け取る
@@ -78,22 +78,22 @@ M-My bag is a bit full right now...
 <m joy><s2>...!
 
 *n_51
-<think>I can’t quite tell, but he seems happy.
+<think>Không rõ lắm, nhưng có vẻ ông ấy khá vui.
 
 *n_52
-Um, I’ve...never actually fished before...
+Ừm, cháu...thật ra chưa từng câu cá bao giờ...
 
 *fh_53
 ......
 
 *n_54
-<think>He’s pointing...
-Is he trying to show me how it’s done?
+<think>Ông ấy đang chỉ tay...
+Có phải ông ấy định chỉ cho mình cách câu cá không?
 
 
 // お手本を見ない
 *n_60
-I'll try it for myself. I like figuring things out on my own.
+Cháu sẽ tự thử xem sao. Cháu thích tự mình tìm hiểu hơn.
 
 *fh_61
 ...
@@ -101,58 +101,58 @@ I'll try it for myself. I like figuring things out on my own.
 
 // お手本を見る.1
 *___firstman/t_fish_turorial n_00
-<think>Okay, so...once the bobber goes under the surface, start reeling it in.
+<think>Được rồi, vậy là...cứ hễ phao chìm một cái là kéo cần thu dây liền.
 *
-<think>That makes sense, but I didn’t quite understand the next part. <c5>I should ask him to show me again<c0>.
+<think>Nghe cũng hợp lý, nhưng phần tiếp theo thì mình chưa hiểu lắm. <c5>Mình nên nhờ ông ấy làm mẫu lại<c0>.
 
 // お手本を見る.2
 *n_10
-<think>I see. Once the fish bites, move the rod in sync with it by using<key la/><key ra/>.
+<think>Ra là vậy. Khi cá cắn câu, mình cần điều chỉnh cần câu theo hướng di chuyển của nó bằng cách sử dụng<key la/><key ra/>.
 *
-<think>It looked like he was doing small movements at a time to adjust, rather than pulling strongly in either direction.
+<think>Trông có vẻ ông ấy chỉ thực hiện những động tác nhỏ để điều chỉnh từng chút một, chứ không kéo mạnh về một phía nào cả.
 
 
 // 釣れない時のヒント
 *___firstman/t_fishing_need_listen n_00
-Ohh...I’m not very good at this.
+Ôi...Mình câu cá dở thật đấy.
 
 *n_01
-Maybe I should stop and learn more from a professional first.
+Có lẽ mình nên dừng lại và học hỏi thêm từ một người chuyên nghiệp trước đã.
 
 
 // やめておく
- 
+
  // 水に落下すると助けてくれる。 
 
 *___firstman/_checkpoint_back n_00
-<m scary>Cough, <W2>cough, <W2>puheh...
-<W3><m0>Th-thank you...
+<m scary>Khụ, <W2>khụ, <W2>phụt...
+<W3><m0>C-Cảm ơn ông...
 
 *fh_01
 ... 
- 
- 
+
+
  // 作業台を調べる
 
 *___firstman/t_craft0 n_00
-Is this a workbench? It’s full of notes on how to make a fishing rod.
+Đây là bàn gia công à? Trên đó có đầy ghi chú về cách làm cần câu.
 *
-I can’t read what it says, but I get the gist of it from the pictures.
+Mình không đọc được chữ viết trên đó, nhưng vẫn hiểu đại khái nhờ những hình minh họa.
 
 *fh_01
 <W4>......
 
 *n_01
-<think>I think he’s okay with me using it.
+<think>Có vẻ ông ấy không phiền nếu mình sử dụng nó.
 *
-...What’s this?
+...Cái gì đây?
 *
 <think>......
 
 *n_02
-<think>It’s a drawing of someone <c5>throwing bait into the pond<c0>.
+<think>Đây là hình vẽ một người đang <c5>ném mồi xuống ao<c0>.
 *
-<think>I could <c5>use this workbench to make bait for catching different kinds of fish<c0>. That might be useful.
+<think>Mình có thể <c5>dùng bàn gia công này để làm mồi câu cho nhiều loại cá khác nhau<c0>. Có lẽ sẽ hữu ích đấy.
 
 
 // ========================================================
@@ -160,88 +160,88 @@ I can’t read what it says, but I get the gist of it from the pictures.
 // ========================================================
 
 *___firstman/t_finish_treasurehunt n_00
-Do you know anything about this photo?
+Ông có biết gì về bức ảnh này không?
 *
-I've searched high and low, but I can't seem to find what it's showing.
+Cháu đã tìm khắp nơi rồi, nhưng vẫn không thể tìm ra địa điểm trong ảnh.
 
 *fh_01
 <W4>......
-<W4>I hid it.
+<W4>Tôi đã giấu nó.
 
 *n_02
 <I><m ple>!
-<W2><m0>You can talk?
+<W2><m0>Ông biết nói sao?
 
 *fh_03
 <W4>......
 
 *n_50
-...Will you...help me find it?
+...Ơ...ông cứ thế...tặng kho báu cho cháu sao?
 
 *fh_51
 <W4>......
 
 *n_52
-Thank you...I think?
+Cảm ơn ông...chắc vậy?
 
 
 *n_100
-Do you know anything about this photo?
+Ông có biết gì về bức ảnh này không?
 
 *fh_101
 <W4>......
 
 *n_102
-You said you hid the other treasure.
+Ông nói mình đã giấu kho báu còn lại.
 *
-Are <i>all</i> the hidden treasures your doing?
+Vậy <i>tất cả</i> những kho báu bị giấu đều do ông làm sao?
 
 *fh_103
 <W4>......
 
 *n_104
-<think>I think he nodded.
+<think>Mình nghĩ ông ấy vừa gật đầu.
 *
-May I ask why you did it?
+Cháu có thể hỏi tại sao ông lại làm vậy không?
 
 *fh_105
 <W4>......
 
 *n_151
-...Okay.
+...Được rồi.
 *
-<think>He's not going to tell me.
+<think>Có vẻ ông ấy sẽ không nói cho mình biết.
 
 
 *n_200
-What about this photo?
+Thế còn bức ảnh này?
 *
-Is it a clue to finding this cave?
+Đây có phải manh mối để tìm ra hang động này không?
 
 *fh_201
 <W4>......
 
 *n_202
-Why hide all this treasure? And why reveal the entrance to your cave.
+Tại sao ông lại giấu tất cả kho báu này? Và tại sao lại tiết lộ lối vào hang động của mình?
 
 *fh_203
-<W4>To find...people.
+<W4>Để tìm...người.
 
 *n_204
-People?
+Tìm người?
 *
-What do you mean?
+Ý ông là sao?
 
 *fh_250
 <W4>......
 
 *n_251
-<think>Once again he is not gonna tell me.
+<think>Một lần nữa, ông ấy lại không chịu nói cho mình biết.
 
 
 // ========================================================
 // MARK : 既に宝探しを終わらせてるプレイヤー向け
 // ========================================================
 *___firstman board_announce_v030
-The final reward for the treasure hunt has been added.
-Check the cave beyond the location in the sixth clue.
+Phần thưởng cuối cùng của cuộc săn tìm kho báu đã được bổ sung.
+Hãy kiểm tra hang động nằm phía bên kia địa điểm được nhắc đến trong manh mối thứ sáu.

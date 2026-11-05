@@ -10,7 +10,7 @@
 
 // バーでの会話集。
 // ========================================================
-// MARK : 過去の思い出
+// MARK : Quá khứ
 // ========================================================
 
 
@@ -18,48 +18,48 @@
 
 
 *___city/2weekattack_00 mb0_00
-<angry><m ple><big>ALL CADETS EVACUATE IMMEDIATELY!
-THIS IS NOT A DRILL! I REPEAT-!
+<angry><m ple><big>TẤT CẢ HỌC VIÊN LẬP TỨC SƠ TÁN!
+ĐÂY KHÔNG PHẢI DIỄN TẬP! NHẮC LẠI-!
 
 *l_01
-<scary>OOF...!
+<scary>UẶC...!
 
 *l_02
-<w1><m fadein>AAH!
-<w3>N-NO,<w1><scary>PLE...
+<w1><m fadein>Á!
+<w3>K-KHÔNG,<w1><scary>XIN...
 
 *l_03
-<think><m fadein><s2>My leg is caught...
-<m scary>SOMEONE! HELP!
+<think><m fadein><s2>Chân mình bị tóm lấy rồi...
+<m scary>CÓ AI KHÔNG! CỨU VỚI!
 
 *n_04
-<angry><m fadein>WHITE ARROW!
+<angry><m fadein>QUANG TIỄN!
 
 *l_05
 C-Cornehl...
 
 *n_06
-<m fadein>ALMA, RUN!
+<m fadein>ALMA, CHẠY ĐI!
 
 *n_07
-<think><m scary>It's...<m ple>a contaminated variant!
-<m0>I didn't know they could get this big...
+<think><m scary>Là...<m ple>một quái nhiễm thể!
+<m0>Mình không ngờ chúng có thể lớn đến mức này...
 *
-<think><m fadein>I-It doesn’t matter! I just need to buy Alma enough time to escape.
-Hopefully the military will arrive soon.
+<think><m fadein>K-Không quan trọng! Mình chỉ cần câu giờ đủ lâu để Alma trốn thoát.
+Hy vọng quân đội sẽ sớm đến.
 *
-<think><m fadein>I’ll just keep it distracted, and-
+<think><m fadein>Mình chỉ cần tiếp tục thu hút sự chú ý của nó, rồi-
 
 *l_08
-<angry><m scary>WATCH OUT!
+<angry><m scary>CẨN THẬN!
 
 
 *n_09
-<m fadein>Huh?
+<m fadein>Hả?
 
 
 *n_10
-<think><m ple>Oh n-...
+<think><m ple>Ôi khô-...
 *n_11
 <angry><m scary>Mmmmnm! Mmph...!
 *n_11_2
@@ -80,70 +80,70 @@ Hopefully the military will arrive soon.
 *l_12
 <m scary>Aa...a...
 *l_13
-<think><m fadein>It's...it's eating her...?
+<think><m fadein>Nó...nó đang ăn thịt cậu ấy sao...?
 *
-<think><m fadein>Why...why?
+<think><m fadein>Tại sao...tại sao chứ?
 *
-<think><m fadein>It's...all my fault.
+<think><m fadein>Tất cả...là lỗi của mình.
 *
-<think><m fadein>If I hadn't tripped...
-she wouldn't be...
+<think><m fadein>Nếu mình không vấp ngã...
+thì cậu ấy đã không...
 *
 <think><m fadein><w2><s2>Cornehl...
 *
-<think><m fadein><w2><s3>...my fault...<w1>
-It's all my fault...
+<think><m fadein><w2><s3>...lỗi của mình...<w1>
+Tất cả đều là lỗi của mình...
 
 
 
 *___city/2weekattack_05 n_00
-<think>Uuu...this is bad.
-Calm down, there has to be a way out...
+<think>Uuu...tệ rồi.
+Bình tĩnh nào, chắc chắn phải có cách thoát ra...
 *
-<think><m ple>My staff! It's outside, but I might still be able to call out to it...
+<think><m ple>Cây trượng của mình! Nó ở bên ngoài, nhưng có lẽ mình vẫn có thể gọi nó vào đây...
 
 // 熱湯
 *n_01
-<think><m ple>!? AH<m scary>...<m0>
-IT BURNS...
+<think><m ple>!? Á<m scary>...<m0>
+NÓNG QUÁ...
 
 *n_02
 <angry><m scary>Mmmh!!
 <m cry>Mn<m fadein>mmm!!!
 
 *n_03
-<think><m fadein>I can't breathe...
-All the mana is being sucked out of my body...
+<think><m fadein>Mình không thở nổi...
+Toàn bộ mana đang bị hút khỏi cơ thể mình...
 
 *n_04
 <angry><m scary><big>ーーー
 ーーー!
 
 *n_05
-<think><m ple>OW!<m angry>IT BURNS IT BURNS
-<m ple>IT BUUUUURNSSSS!<w2>
-<m scary><w2>STOP!!!
+<think><m ple>ĐAU QUÁ!<m angry>NÓNG QUÁ NÓNG QUÁ
+<m ple>NÓNG QUÁAAAAA!<w2>
+<m scary><w2>DỪNG LẠI!!!
 *
-<think><m fadein>Am I...melting...?<w2>
-<m0>NO...<m scary>NONONO
-THIS CAN'T BEEEEE!!!
+<think><m fadein>Mình...đang tan chảy sao...?<w2>
+<m0>KHÔNG...<m scary>KHÔNG KHÔNG KHÔNG
+CHUYỆN NÀY KHÔNG THỂ NÀOOOO!!!
 *
-<think><m ple>SOMEONE HELP!
-<m scary>PLEEEEEASE!!!
+<think><m ple>CÓ AI KHÔNG! CỨU MÌNH VỚI!
+<m scary>LÀM ƠN!!!
 
 *n_06
 <angry><m scary>---!!<w1>
 <m cry>NMMPH<m ple>...<m scary>------!!!
 
 *n_07
-<think><s2><m scary>OW OW OW HOT!
+<think><s2><m scary>ĐAU QUÁ ĐAU QUÁ NÓNG QUÁ!
 *n_08
-<think><s2><m scary>MAKE IT STOP MAKE IT STOP!!
+<think><s2><m scary>DỪNG LẠI ĐI DỪNG LẠI ĐI!!
 *n_09
-<think><m ple>I'm gonna die!
-<m fadein>My...staff...
+<think><m ple>Mình sắp chết rồi!
+<m fadein>Cây...trượng của mình...
 *n_10
-<think><m scary>I...<m fadein>can't...
+<think><m scary>Mình...<m fadein>không thể...
 
 *n_11
 <think><s2><m scary>...<m fadein>...
@@ -152,129 +152,129 @@ THIS CAN'T BEEEEE!!!
 *n_12
 <think><s2><m fadein>A...h...
 *
-<think><s3><m fadein>No one can hear me...
+<think><s3><m fadein>Không ai nghe thấy mình cả...
 
 *n_13
-<think><s3><m fadein>Ow...
+<think><s3><m fadein>Đau quá...
 A...
 *
-<think><s3><m fadein>This is it...
-This is the end...
+<think><s3><m fadein>Vậy là hết...
+Mọi chuyện kết thúc rồi...
 *
-<think><s3><m fadein>At least Alma...
-is...safe...
+<think><s3><m fadein>Ít nhất thì Alma...
+vẫn...an toàn...
 *n_14
 <think><s3><m fadein>a...<w1>
-My body is exhausted...
+Cơ thể mình kiệt sức rồi...
 *n_15
-<think><s4><m fadein>Sister...
-<w1>brother...<w2>
-<s5>Primu...<w2>la...
+<think><s4><m fadein>Chị...
+<w1>anh...<w2>
+<s5>cô Primu...<w2>la...
 
 
 
 *___city/2weekattack_06 mb0_15
-<m fadein><small>Target neutralized.
-Confirming kill-
+<m fadein><small>Mục tiêu đã bị vô hiệu hóa.
+Xác nhận tiêu diệt-
 
 *mb5_16
-<m fadein><small>OVER HERE!
-We’ve extracted a cadet from within-
+<m fadein><small>Ở ĐÂY!
+Chúng tôi vừa đưa được một học viên ra khỏi từ bên trong-
 
 *l_17
 <angry><m fadein><small>...ehl! Cornehl!!
 
 *n_18
-<m fadein><s3>U...a...
-(cough)...
+<m fadein><s3>Ư...a...
+(khụ)...
 
 
 *mb4_19
-<small>Subject was the victim of a Contaminated attack.
-She’s suffering from Level 5 blood damage-
+<small>Nạn nhân bị quái vật nhiễm thể tấn công.
+Cô ấy đang bị tổn thương máu nghiêm trọng cấp độ 5-
 
 *mb6_20
-<small>Take her to medical immediately.
+<small>Mau đưa cô ấy đến phòng y tế!
 
 
 
 // 最後のアルマの文章は表示されない。ログに記載されるのみ。強調表示もされない。
 *l_hidden_21
-I’m sorry...
-I wasn’t strong enough to protect you...
+Tớ xin lỗi...
+Tớ đã không đủ mạnh để bảo vệ cậu...
 
 *n_22
-<m fadein><s3>...-heuw-...
-<w1>(gasp)...
+<m fadein><s3>...-hự-...
+<w1>(hớp)...
 
 
 // 嘔吐
 
 *___city/2weekattack_07 n_15
-Ulp<m fadein><w2>...<w2>
+Ựa<m fadein><w2>...<w2>
 <m scary>...
 
 
 *n_16
-<s8><m scary><big>Wa<m0>aa<m cry>aaa<m scary>aaah...
+<s8><m scary><big>Á<m0>aaa<m cry>aaa<m scary>aaah...
 
 
 // アルマがいる場合
 *l_17
 <m ple>Noel!?
-A-are you okay!?
+C-Cậu ổn chứ!?
 *
-<m ple>I’ll go get Primula! Just...hang in there!
+<m ple>Tớ đi gọi cô Primula đây! Cậu cố...cố chịu đựng nhé!
 
 // いない場合
 *mb1_18
-<m ple>Whoa, are you alright!?
+<m ple>Whoa, cô ổn chứ!?
 *
-<m ple>Teacher, teacher! Someone collapsed on the grounds!
+<m ple>Cô giáo, cô giáo! Có người ngất trong sân trường!
 
 
 
 // 保健室
 
 *n_19
-...Sorry, Primula...
-I thought I was all better, but...
+...Xin lỗi, cô Primula...
+Em cứ tưởng mình đã khỏe hẳn rồi, nhưng...
 
 *p_20
-There's nothing to apologize for.
+Em không cần phải xin lỗi đâu.
 *
-You had a flashback. Your magic and physical strength have fully recovered, but there's still trauma to deal with.
+Em chỉ vừa trải qua một cơn hồi tưởng. Ma thuật và thể lực của em đã hồi phục hoàn toàn, nhưng vẫn còn những tổn thương tâm lý cần được chữa lành.
 *p_21
-But don't you worry. I'll be with you every step of the way.
+Nhưng đừng lo. Cô sẽ luôn ở bên cạnh em trong suốt quá trình này.
 
 *n_21
-Thank you.
+Cảm ơn cô ạ.
 
 
 *n_100
-Huh? Is this...the nurse's office?
+Hả? Đây là...phòng y tế sao?
 
 *p_101
-First Ixia and now you.
+Đầu tiên là Ixia, giờ đến lượt em đấy.
 
 *p_102
-What happened? Did the schoolyard cause some bad memories to surface?
+Đã xảy ra chuyện gì vậy? Có phải sân trường khiến em nhớ lại chuyện không vui nào đó không?
 
 *n_102
-No, I just...got lightheaded and lost my balance.
+Không, em chỉ...hơi choáng váng rồi mất thăng bằng thôi.
 
 *p_103
-I can tell you're lying.
+Cô biết em đang nói dối.
 *
-Your physical recovery has gone well, but you're still carrying wounds from that day.
+Thể trạng của em đã hồi phục rất tốt, nhưng những tổn thương từ ngày hôm đó vẫn còn ở trong lòng em.
 
 // p_21, n_21
 
 *n_104
-Well, it's not about me right now...
-How is Ixia doing?
+À, nhưng hiện giờ không phải chuyện của em...
+Tình hình của Ixia thế nào rồi?
 
 *p_105
-<m fadein><small>Headstrong as ever...
+<m fadein><small>Vẫn bướng bỉnh như mọi khi thôi...
 
 // 105/health_primula_t00 *p_06 に合流

@@ -1,36 +1,36 @@
 %FAMILY vi
 
 /* ___ Title_error_announce ___ */
-An error log was generated in the previous play.
+Đã tạo bản ghi lỗi trong lần chơi trước.
 
 /* ___ Title_error_announce_filepath ___ */
-( File: <font color="0xff000000"><b>&1</b></font> )
+( Tệp: <font color="0xff000000"><b>&1</b></font> )
 
 /* ___ Title_error_announce_discord ___ */
-AiC development would be greatly facilitated 
-if you could send the error log to 
-the official Discord.
+Việc phát triển AiC sẽ thuận lợi hơn rất nhiều
+nếu bạn có thể gửi bản ghi lỗi
+đến máy chủ Discord chính thức.
 
-&&discord_url_is_here Discord URL for reporting: 
+&&discord_url_is_here Đường dẫn Discord để báo lỗi:
 
-&&Title_Show_Log Reveal the log
-
-
+&&Title_Show_Log Hiển thị bản ghi
 
 
-&&EV_access_carry_block Carry
-&&Item_cmd_discard_row Discard one row
 
-&&Explore_timer &1:&2 passed since you started explore
 
-&&Item_desc_decline_undropable I can't drop any items here.
+&&EV_access_carry_block Mang theo
+&&Item_cmd_discard_row Bỏ một hàng
+
+&&Explore_timer Đã trôi qua &1:&2 kể từ khi bạn bắt đầu khám phá
+
+&&Item_desc_decline_undropable Không thể vứt vật phẩm ở đây.
 
 
 // ========================================================
 // MARK : event name
 // ========================================================
 
-&&EV_access_workbench Crafting Bench
+&&EV_access_workbench Bàn chế tác
 
 
 // ========================================================
@@ -38,58 +38,58 @@ the official Discord.
 // ========================================================
 
 /* ___ ItemSel_assign ___ */ 
-You can use items pressing 
-<key d/>+<key la/><key ba/><key ta/><key ra/> in battle.
+Bạn có thể sử dụng vật phẩm bằng cách nhấn
+<key d/>+<key la/><key ba/><key ta/><key ra/> trong trận chiến.
 
-&&ItemSel_sort_now Now:  
-&&ItemSel_sort_ascend Use from lower grades
-&&ItemSel_sort_descend Use from higher grades
+&&ItemSel_sort_now Hiện tại:
+&&ItemSel_sort_ascend Dùng từ cấp thấp hơn
+&&ItemSel_sort_descend Dùng từ cấp cao hơn
 
 
-&&Item_cmd_itemsel Assign Shortcuts
-&&KD_ItemSel_assign_start <key d/>Assign Shortcuts
+&&Item_cmd_itemsel Gán phím tắt
+&&KD_ItemSel_assign_start <key d/>Gán phím tắt
 
-&&KD_ItemSel_item_info <key add/>Show details
-&&KD_ItemSel_item_revert <key add/>Instruction
+&&KD_ItemSel_item_info <key add/>Xem chi tiết
+&&KD_ItemSel_item_revert <key add/>Hướng dẫn
 
-&&KD_ItemSel_noselect <key la/><key ba/><key ta/><key ra/>Choose
-&&KD_ItemSel_assign0 <key submit/>Assign 
-&&KD_ItemSel_assign1 <key submit/>Change Grade\n<key rem/>Clear
+&&KD_ItemSel_noselect <key la/><key ba/><key ta/><key ra/>Chọn
+&&KD_ItemSel_assign0 <key submit/>Gán
+&&KD_ItemSel_assign1 <key submit/>Đổi cấp\n<key rem/>Xóa
 
-&&KD_ItemSel_use_submit <key submit/>Use
-&&KD_ItemSel_use_release Release <key d/> to use
-&&KD_ItemSel_use_disable <img mesh="alert" /> Not available
+&&KD_ItemSel_use_submit <key submit/>Sử dụng
+&&KD_ItemSel_use_release Nhả <key d/> để sử dụng
+&&KD_ItemSel_use_disable <img mesh="alert" /> Không khả dụng
 
-&&ItemSel_Consumed Used <b>&1</b> <font size="12"> (left: &2)</font>
+&&ItemSel_Consumed Đã dùng <b>&1</b> <font size="12"> (còn lại: &2)</font>
 
 // ========================================================
 // MARK : Alchemy WorkBench
 // ========================================================
-&&storage_title_workbench Crafting Bench
-&&workbench_ingredient_title Ingredients required to <b>&1</b>:
-&&workbench_limit_reached You cannot make any more.
+&&storage_title_workbench Bàn chế tác
+&&workbench_ingredient_title Nguyên liệu cần để <b>&1</b>:
+&&workbench_limit_reached Bạn không thể chế tạo thêm nữa.
 
 &&workbench_current_short &1 / &2
-&&workbench_current_capacity Now capacity : &1
-&&workbench_current_capacity_after → <font color="ff:#6D72FF">After: &1 </font>
-&&workbench_current_obtain Now you have : &1
-&&workbench_current_obtain_after → <font color="ff:#6D72FF">After: &1 </font>
+&&workbench_current_capacity Sức chứa hiện tại: &1
+&&workbench_current_capacity_after → <font color="ff:#6D72FF">Sau đó: &1 </font>
+&&workbench_current_obtain Hiện có: &1
+&&workbench_current_obtain_after → <font color="ff:#6D72FF">Sau đó: &1 </font>
 
 /* ___ alchemy_workbench_complete_capacity ___ */
-<font size="28">Now your inventory has 
-a capacity of <font color="ff:#6D72FF"> &1 </font></font>
+<font size="28">Sức chứa túi đồ của bạn hiện là
+<font color="ff:#6D72FF"> &1 </font></font>
 
-%ITEM workbench_capacity Expand Capacity
-Expand the capacity of the inventory by one.
+%ITEM workbench_capacity Mở rộng sức chứa
+Tăng sức chứa túi đồ thêm một ô.
 
 // ========================
 
 /* ___ alchemy_workbench_complete_bottle ___ */
-<font size="28">You got <font color="ff:#6D72FF">&1th </font> Bottle Holder!</font>
+<font size="28">Bạn nhận được Túi Đựng Chai thứ <font color="ff:#6D72FF">&1 </font>!</font>
 
-%ITEM workbench_bottle Bottle Holder
-Create a holder to store an empty bottle.
-Empty bottles in the holder will be hidden from your inventory, and you can carry one extra item.
+%ITEM workbench_bottle Túi Đựng Chai
+Tạo một túi để cất giữ chai rỗng.
+Các chai rỗng trong túi sẽ không hiển thị trong túi đồ, giúp bạn mang thêm được một vật phẩm.
 
 // ========================================================
 // MARK : Fatal
@@ -97,29 +97,29 @@ Empty bottles in the holder will be hidden from your inventory, and you can carr
 
 
 
-&&Fatal_check_hide_ui Hide UI ( Switch by <key rem/> )
-&&Fatal_auto_mode Auto ( Switch by <key add/> )
-&&Fatal_auto_mode_speed Wait: &1 sec
-&&Fatal_free_cam Free Camera Mode ( Switch by <key sort/> )
-&&Fatal_skip Skip
+&&Fatal_check_hide_ui Ẩn giao diện (Chuyển bằng <key rem/>)
+&&Fatal_auto_mode Tự động (Chuyển bằng <key add/>)
+&&Fatal_auto_mode_speed Chờ: &1 giây
+&&Fatal_free_cam Chế độ camera tự do (Chuyển bằng <key sort/>)
+&&Fatal_skip Bỏ qua
 
-&&Fatal_quit Quit <font size="15">(Return to the bench)</font>
-&&Fatal_quit_onmem Quit
+&&Fatal_quit Thoát <font size="15">(Quay lại ghế nghỉ)</font>
+&&Fatal_quit_onmem Thoát
 
 // ========================================================
 // MARK : KeyDescription
 // ========================================================
 
-&&KD_map_zoomin <key add/>Zoom in
-&&KD_map_zoomout <key add/>Zoom out
+&&KD_map_zoomin <key add/>Phóng to
+&&KD_map_zoomout <key add/>Thu nhỏ
 
 
-&&Tuto_box_release Hold <key x/> to release the box
+&&Tuto_box_release Giữ <key x/> để thả chiếc hộp
 
-&&SVD_label_memo Memo
+&&SVD_label_memo Ghi chú
 
 
-&&Fatal_snake Snake (Failure to save Ixia)
+&&Fatal_snake Rắn Chuột Chũi (Thất bại trong việc cứu Ixia)
 
 
 // ========================================================
@@ -127,84 +127,84 @@ Empty bottles in the holder will be hidden from your inventory, and you can carr
 // ========================================================
 
 
-&&Tuto_magic_burst Press and hold<key PR_BURST/>: Holy Burst
-&&Tuto_goback <key la/>Go back
-&&Tuto_goback_strong <key la/>Go back. Now.
+&&Tuto_magic_burst Nhấn giữ <key PR_BURST/>: Bộc Phá Thánh Quang
+&&Tuto_goback <key la/>Quay lại
+&&Tuto_goback_strong <key la/>Quay lại. Ngay lập tức.
 
 
-&&Damage_water_choke_in_absorbed I can’t breathe…! 
+&&Damage_water_choke_in_absorbed Mình không thở được…!
 
 
 
-&&SerTitle_jamming Empty-headed
-&&SerDesc_jamming   Time required to chant a spell is doubled.
-&&SerDesc_jamming_2   Time required to chant a spell is tripled.
-&&SerDesc_jamming_3  Time required to chant a spell is quadrupled.
+&&SerTitle_jamming Đầu óc trống rỗng
+&&SerDesc_jamming   Thời gian niệm phép tăng gấp đôi.
+&&SerDesc_jamming_2   Thời gian niệm phép tăng gấp ba.
+&&SerDesc_jamming_3  Thời gian niệm phép tăng gấp bốn.
 
 
-&&SerTitle_frozen    Frozen
+&&SerTitle_frozen    Đóng băng
 /* ___ SerDesc_frozen ___ */
-Spells take 50% longer to chant.
-Movement speed is reduced. Enemy grapples are harder to escape.
+Thời gian niệm phép tăng 50%.
+Tốc độ di chuyển giảm. Khó thoát khỏi các đòn khống chế của kẻ địch hơn.
 
 /* ___ SerDesc_frozen_suffix ___ */
-You can recover more quickly by rapidly pressing the movement keys.
-Taking damage from physical attacks will also speed up the recovery, but you’ll take increased damage from the hit.
+Bạn có thể hồi phục nhanh hơn bằng cách nhấn liên tục các phím di chuyển.
+Nhận sát thương từ đòn đánh vật lý cũng giúp hồi phục nhanh hơn, nhưng sát thương từ đòn đánh đó sẽ tăng.
 
 
 /* ___ SerDesc_frozen_2 ___ */
-Spells take three times as long to chant.
-You cannot run or dodge.
-Movement speed is reduced. Enemy grapples are harder to escape.
+Thời gian niệm phép tăng gấp ba.
+Bạn không thể chạy hoặc né tránh.
+Tốc độ di chuyển giảm. Khó thoát khỏi các đòn khống chế của kẻ địch hơn.
 
 /* ___ SerDesc_frozen_3 ___ */
-You cannot move or cast spells.
+Bạn không thể di chuyển hoặc sử dụng phép thuật.
 
 
 /* ___ SerDesc_sexercise_2 ___ */
-Arousal rate rises significantly faster, and you will become more easily On Edge.
-This status will not be removed until you have climaxed.
+Tỷ lệ hưng phấn tăng nhanh hơn đáng kể, và bạn sẽ dễ rơi vào trạng thái Bức Bối hơn.
+Trạng thái này sẽ không biến mất cho đến khi bạn lên đỉnh.
 
 
 
 
-&&Tuto_sliding <key ba/>+<key z/> Slide
+&&Tuto_sliding <key ba/>+<key z/> Trượt
 
-&&Alert_item_reduced_ostrea_bomb Returned &2 &1 to the beastman.
+&&Alert_item_reduced_ostrea_bomb Đã trả lại &2 &1 cho người thú.
 
 
 // ========================================================
 // MARK : textlog
 // ========================================================
 
-&&MsgCon_Hiding Message hidden. Press any key to display it again.
+&&MsgCon_Hiding Lời thoại đã bị ẩn. Nhấn phím bất kỳ để hiển thị lại.
 
-&&Scenario_Tab_log History Log
+&&Scenario_Tab_log Nhật Ký Đối Thoại
 
-&&TextLog_Selected Selection <img mesh="arrow_nel_5"/> &1
+&&TextLog_Selected Lựa chọn <img mesh="arrow_nel_5"/> &1
 
 /* ___ TextLog_Desc ___ */
-<key add/>: Display previous messages during a cutscene.
-<key rem/>: Hide messages.
+<key add/>: Hiển thị các tin nhắn trước đó trong đoạn cắt cảnh.
+<key rem/>: Ẩn tin nhắn.
 
 
 // ver 0.22d ========================
-&&BurstSel_fainted_ratio <font size="16">Possibility of getting <img mesh="AUiSerIcon.27" />Fainted:</font>\n&1%
+&&BurstSel_fainted_ratio <font size="16">Tỉ lệ bị <img mesh="AUiSerIcon.27" />Bất Tỉnh:</font>\n&1%
 
 // ========================================================
 // MARK : ver0.23
 // ========================================================
 
-&&Bench_execute_shower_clean Clothing cleaned.
-&&Bench_execute_shower_cure_cloth Clothing repaired.
-&&Alert_Nightingale_will_not_appear Seems like the merchant won't come here.
+&&Bench_execute_shower_clean Đã làm sạch quần áo.
+&&Bench_execute_shower_cure_cloth Đã sửa sang quần áo.
+&&Alert_Nightingale_will_not_appear Có vẻ nữ thương nhân sẽ không đến đây.
 
 
-// 全体マップ
-&&KD_map_switch_wa <key rtab/>Whole map
-&&KD_map_switch_detail <key ltab/>Area map
-&&KD_map_wa_def <key sort/>Current position
-&&KD_map_show_detail <key submit/>Details
+ // 全体マップ
+&&KD_map_switch_wa <key rtab/>Bản đồ tổng thể
+&&KD_map_switch_detail <key ltab/>Bản đồ khu vực
+&&KD_map_wa_def <key sort/>Vị trí hiện tại
+&&KD_map_show_detail <key submit/>Chi tiết
 
 
 // ========================================================
@@ -212,134 +212,134 @@ This status will not be removed until you have climaxed.
 // ========================================================
 
 /* ___ Title_difficulty_top ___ */ 
-<key la/><key ra/>Switch <key submit/>Submit <key cancel/>Cancel
-Select the difficulty level
-(Can be changed at any time in the Options menu)
+<key la/><key ra/>Chuyển <key submit/>Xác nhận <key cancel/>Hủy
+Chọn độ khó
+(Có thể thay đổi bất cứ lúc nào trong mục Tùy chọn)
 
 
-&&Title_difficulty_cas Casual
-&&Title_difficulty_nor Normal
-&&Title_difficulty_pro Professional
+&&Title_difficulty_cas Dễ
+&&Title_difficulty_nor Bình thường
+&&Title_difficulty_pro Chuyên nghiệp
 
 /* ___ Title_difficulty_desc_cas ___ */ 
-Relax and enjoy the game's story.
-Enemies attack less often, and the
-danger level rises more slowly after encounters.
+Thư giãn và tận hưởng cốt truyện của trò chơi.
+Kẻ địch tấn công ít thường xuyên hơn, và
+mức độ nguy hiểm tăng chậm hơn sau các cuộc chạm trán.
 
 /* ___ Title_difficulty_desc_nor ___ */ 
-The recommended difficulty.
-HP and MP can be recovered to a certain extent.
-Enemies may relent before finishing you off.
+Độ khó được đề xuất.
+HP và MP có thể hồi phục ở một mức độ nhất định.
+Kẻ địch có thể dừng tay trước khi hạ gục bạn.
 
 
 /* ___ Title_difficulty_desc_pro ___ */ 
-For 2D action game veterans.
-Enemies are merciless.
-Maximum "KAWAISOU" potential.
+Dành cho những người chơi kỳ cựu của dòng game hành động 2D.
+Kẻ địch không hề nương tay.
+Phát huy tối đa tiềm năng "KAWAISOU".
 
 
 // ========================================================
 // MARK : Catalog - 錬金術図鑑
 // ========================================================
 
-&&Catalog_categ_item Item
-&&Catalog_categ_alchemy Alchemy/Cooking
-&&Catalog_categ_enemy Enemy
+&&Catalog_categ_item Vật phẩm
+&&Catalog_categ_alchemy Giả kim thuật/Nấu ăn
+&&Catalog_categ_enemy Quái Vật
 
-&&CatalogI_tab_info Overview
-&&CatalogI_tab_chest Drops from
-&&CatalogI_tab_recipe Recipes
-&&CatalogI_tab_usedrecipe Used in
-&&CatalogI_tab_area Found in
+&&CatalogI_tab_info Tổng quan
+&&CatalogI_tab_chest Rơi từ rương
+&&CatalogI_tab_recipe Công thức
+&&CatalogI_tab_usedrecipe Được dùng trong
+&&CatalogI_tab_area Tìm thấy tại
 
-&&CatalogN_tab_info Overview
-&&CatalogN_tab_area Found in
-&&CatalogN_dropitem Drops
+&&CatalogN_tab_info Tổng quan
+&&CatalogN_tab_area Tìm thấy tại
+&&CatalogN_dropitem Vật phẩm rơi
 
-&&CatalogI_item_obtained Obtained: 
-&&CatalogR_recipe_created Made:
+&&CatalogI_item_obtained Đã thu thập:
+&&CatalogR_recipe_created Đã chế tạo:
 
-&&CatalogN_enemy_defeated Defeated: &1
-&&CatalogN_enemy_defeated_2 Defeated: &1 Standard / &2 Contaminated
+&&CatalogN_enemy_defeated Đã tiêu diệt: &1
+&&CatalogN_enemy_defeated_2 Đã tiêu diệt: &1 Thông thường / &2 Ô Nhiễm Thể
 
 
-&&KD_catalog_go_to_def <key z/>Check item
-&&KD_map_scroll <key sort/> Map scroll
+&&KD_catalog_go_to_def <key z/>Kiểm tra vật phẩm
+&&KD_map_scroll <key sort/>Cuộn bản đồ
 
-&&KD_catalog_history History
+&&KD_catalog_history Lịch sử
 
 // 他のお店などのUIからカタログを開く
-&&KD_go_to_def_in_catalog <key d/>+<key a/>View in Field Guide
-&&KD_show_catalog <key d/>+<key a/>Open Field Guide
+&&KD_go_to_def_in_catalog <key d/>+<key a/>Xem trong Sổ Tay Công thức
+&&KD_show_catalog <key d/>+<key a/>Mở Sổ Tay Công thức
 
 
 // ========================================================
 // MARK : Trm - 休憩室
 // ========================================================
 
-&&Submit_aloma Submit
-&&storage_title_trm Prepare aroma
-&&TrmUi_selector_topright Success/Failure
-&&aloma_ingredient_title &1 Materials needed: 
+&&Submit_aloma Xác nhận
+&&storage_title_trm Chuẩn bị tinh dầu
+&&TrmUi_selector_topright Thành công/Thất bại
+&&aloma_ingredient_title Nguyên liệu cần &1:
 
 
 /* ___ TrmUi_recommend_aloma ___ */
-Recommended material:
+Nguyên liệu được đề xuất:
 &1
 
-&&TrmUi_root_a Success
-&&TrmUi_root_b Failure
+&&TrmUi_root_a Thành công
+&&TrmUi_root_b Thất bại
 
 /* ___ TrmUi_selector_detail ___ */
-Rewards...
-&1&5: &2  
-&3&6: &4 
+Phần thưởng...
+&1&5: &2
+&3&6: &4
 // ↑ &5: TrmUi_root_a
 //   &6: TrmUi_root_b will be inserted
 
 /* ___ TrmUi_selector_detail_notactive ___ */
-Unlocked as you progress through the main quest.
+Được mở khóa khi bạn tiến triển trong nhiệm vụ chính.
 
-&&TrmUi_unlocked_all ※All routes unlocked. Scenes can be viewed without consuming materials.
+&&TrmUi_unlocked_all ※Tất cả tuyến truyện đã được mở khóa. Có thể xem các cảnh mà không tiêu hao nguyên liệu.
 
-&&TrmUi_selector_already_watched (Finished)
+&&TrmUi_selector_already_watched (Đã xem)
 
-&&alchemy_auto_random_aloma Laevi's recommendation
+&&alchemy_auto_random_aloma Đề xuất của Laevi
 
 /* ___ TrmUi_recommend_aloma_making ___ */
-<img mesh="IconLaeviLaugh" scale="1" />Recommended material: 
+<img mesh="IconLaeviLaugh" scale="1" />Nguyên liệu được đề xuất:
   <font size="18">&1</font>
 
-&&TrmUi_selector_success_change Success rate: &1
-&&aloma_success <i>Success!</i>
-&&alchemy_btn_go_to_play Begin (&1)
-&&alchemy_btn_cancel_trm Cancel (Materials will be returned)
+&&TrmUi_selector_success_change Tỷ lệ thành công: &1
+&&aloma_success <i>Thành công!</i>
+&&alchemy_btn_go_to_play Bắt đầu (&1)
+&&alchemy_btn_cancel_trm Hủy (Nguyên liệu sẽ được hoàn trả)
 
 
-&&EV_access_next_customer Next customer
-&&EV_access_bath Shower
+&&EV_access_next_customer Khách hàng tiếp theo
+&&EV_access_bath Tắm rửa
 
-&&aloma_power_cool Freshness
-&&aloma_power_elegance Elegance
-&&aloma_power_sweatness Sweetness
-&&aloma_power_spicy Spiciness
-&&aloma_power_bitter Bitterness
+&&aloma_power_cool Thanh mát
+&&aloma_power_elegance Thanh lịch
+&&aloma_power_sweatness Ngọt ngào
+&&aloma_power_spicy Cay nồng
+&&aloma_power_bitter Đắng
 
-&&KD_TrmUi_submit_scene <key submit/>Hold to create (&1) \n<key cancel/>Cancel
-&&TrmUi_root_success <img mesh="trm_heart_a" scale="2" /> <font size="20">Success!</font>
-&&TrmUi_root_failure <img mesh="trm_heart_b" scale="2" /> <font size="20">Failure...</font>
+&&KD_TrmUi_submit_scene Giữ<key submit/> để pha chế (&1) \n<key cancel/>Hủy
+&&TrmUi_root_success <img mesh="trm_heart_a" scale="2" /> <font size="20">Thành công!</font>
+&&TrmUi_root_failure <img mesh="trm_heart_b" scale="2" /> <font size="20">Thất bại...</font>
 
 
-&&MoneyBox_trm_reward_success <img mesh="trm_heart_a" scale="2" />「&1」 went wonderfully.\n
-&&MoneyBox_trm_reward_failure <img mesh="trm_heart_b" scale="2" />「&1」 didn't go so well...\n
+&&MoneyBox_trm_reward_success <img mesh="trm_heart_a" scale="2" />「&1」đã diễn ra rất suôn sẻ.\n
+&&MoneyBox_trm_reward_failure <img mesh="trm_heart_b" scale="2" />「&1」đã không diễn ra như mong đợi...\n
 
 &&MoneyBox_num <img mesh="money_icon" width="20"/>&1
 &&MoneyBox_num_2 <img mesh="money_icon" scale="2" width="20"/>&1
-&&MoneyBox_trm_reward_base Payment: 
-&&MoneyBox_trm_reward_grade Aroma bonus: <img mesh="nel_item_grade.&1" tx_color />
-&&MoneyBox_trm_reward_chip Tip +
+&&MoneyBox_trm_reward_base Thanh toán:
+&&MoneyBox_trm_reward_grade Thưởng tinh dầu: <img mesh="nel_item_grade.&1" tx_color />
+&&MoneyBox_trm_reward_chip Tiền boa +
 
-&&MoneyBox_trm_reward_total Total
+&&MoneyBox_trm_reward_total Tổng cộng
 
 
 
@@ -349,19 +349,19 @@ Unlocked as you progress through the main quest.
 // MARK : ver0.23d
 // ========================================================
 
-&&KD_jump_to_this_recipe View this recipe
+&&KD_jump_to_this_recipe Xem công thức này
 
 // Store への追加
-&&Store_desc_add_shifted <key shift/>+<key add/>Add all
-&&Store_desc_remove_shifted <key shift/>+<key rem/>Remove all
+&&Store_desc_add_shifted <key shift/>+<key add/>Thêm tất cả
+&&Store_desc_remove_shifted <key shift/>+<key rem/>Xóa tất cả
 
-&&KeyDesc_reel_item_detail <key submit/><key ra/>Item details
+&&KeyDesc_reel_item_detail <key submit/><key ra/>Chi tiết vật phẩm
 
-&&Tuto_run_right <key run/>+<key ra/> Run
-&&Tuto_run_right_and_dtap <key run/>+<key ra/> or <key ra/><key ra/> : Run
+&&Tuto_run_right <key run/>+<key ra/> Chạy
+&&Tuto_run_right_and_dtap <key run/>+<key ra/> hoặc <key ra/><key ra/> : Chạy
 
-&&Tuto_run_left <key run/>+<key la/> Run
-&&Tuto_run_left_and_dtap <key run/>+<key la/> or <key la/><key la/> : Run
+&&Tuto_run_left <key run/>+<key la/> Chạy
+&&Tuto_run_left_and_dtap <key run/>+<key la/> hoặc <key la/><key la/> : Chạy
 
 
 // ========================================================
@@ -369,131 +369,131 @@ Unlocked as you progress through the main quest.
 // ========================================================
 
 // 木偶のクラフト道の駅
-&&Button_Help  Help<key sort/>
-&&Store_no_enough_crafts <b>You don't have enough...</b>
+&&Button_Help  Trợ giúp<key sort/>
+&&Store_no_enough_crafts <b>Bạn không có đủ...</b>
 
 
 /* ___ Store_Puppet_Help_Title ___ */
-The Puppets’ Roadside Shop
+Cửa Hàng Ven Đường Của Con Rối Gỗ
 
-&&Alert_nighingale_locked_by_other_people There are people here, so she might not come...
+&&Alert_nighingale_locked_by_other_people Có người đang ở đây, nên có lẽ cô ấy sẽ không đến...
 
 /* ___ Store_Puppet_Help_Contents ___ */
-Try selling your items to earn <font color="ff:#358146">Materials <img mesh="money_crafts"/> </font>, 
-then use <font color="ff:#358146">Materials <img mesh="money_crafts"/> </font> to purchase items from them.
-They're especially interested in trading for wood, stone, minerals, items rich in mana, and other similar things.
+Hãy thử bán vật phẩm để kiếm <font color="ff:#358146">Nguyên liệu <img mesh="money_crafts"/> </font>,
+sau đó dùng <font color="ff:#358146">Nguyên liệu <img mesh="money_crafts"/> </font> để mua vật phẩm từ họ.
+Họ đặc biệt quan tâm đến gỗ, đá, khoáng vật, vật phẩm giàu mana và những thứ tương tự.
 
-The Sales Puppet will hold on to any excess <font color="ff:#358146">Materials <img mesh="money_crafts"/> </font> once you finish trading. They'll be available to you the next time you stop by.
+Con Rối Gỗ Bán Hàng sẽ giữ lại số <font color="ff:#358146">Nguyên liệu <img mesh="money_crafts"/> </font> dư sau khi bạn giao dịch xong. Bạn có thể sử dụng số nguyên liệu đó trong lần ghé thăm tiếp theo.
 
-That is, as long as you don’t harm the Sales Puppet...
+Tất nhiên, miễn là bạn không làm hại Con Rối Gỗ Bán Hàng...
 
-&&Store_service_buy_puppet_penalty Revenge Raise: &1%
+&&Store_service_buy_puppet_penalty Mức tăng trả thù: &1%
 
-&&alchemy_tool_column <i>Required Equipment</i>
-&&alchemy_tool_for_cook <i>Cookware</i>
+&&alchemy_tool_column <i>Thiết bị bắt buộc</i>
+&&alchemy_tool_for_cook <i>Dụng cụ nấu ăn</i>
 
-&&alchemy_tool_is_infinity Not consumed when performing alchemy
-&&alchemy_tool_is_infinity_cook Not consumed when cooking
+&&alchemy_tool_is_infinity Không bị tiêu hao khi thực hiện giả kim thuật
+&&alchemy_tool_is_infinity_cook Không bị tiêu hao khi nấu ăn
 
 
-&&Item_desc_cannot_use_bomb_from_storage Can’t be used; in storage
-&&Item_desc_decline_undropable_now Can’t be dropped right now
+&&Item_desc_cannot_use_bomb_from_storage Không thể sử dụng khi đang cất trong kho
+&&Item_desc_decline_undropable_now Hiện không thể vứt vật phẩm
 
-&&KD_ItemSel_grade_change &1 x&2\n&3 Grade change
-&&KD_ItemSel_no_item <img mesh="alert" /> No item
+&&KD_ItemSel_grade_change &1 x&2\n&3 Đổi cấp
+&&KD_ItemSel_no_item <img mesh="alert" /> Không có vật phẩm
 
 
 // item
-&&Item_cmd_pack_lunch Pack a lunch
-&&Item_prompt_pack_lunch Select food to pack\nfor <font size="150%" color="ff:#F7562E">&1</font>
+&&Item_cmd_pack_lunch Chuẩn bị bữa trưa
+&&Item_prompt_pack_lunch Chọn món ăn để chuẩn bị\ncho <font size="150%" color="ff:#F7562E">&1</font>
 
-&&Alert_item_stolen Some items were stolen...
+&&Alert_item_stolen Một số vật phẩm đã bị đánh cắp...
 
 
 
 // Coffeemaker
 
 /* ___ Coffeemaker_no_token ___ */
-　... No ticket available
+　... Không có vé khả dụng
 
 /* ___ Item_desc_coffeemaker_topic  ___ */
-Can make herbal tea or coffee.
-You need to buy tickets in advance to rent the siphon.
-Current tickets held: &1
+Có thể pha trà thảo mộc hoặc cà phê.
+Bạn cần mua vé trước để thuê bình pha siphon.
+Số vé hiện có: &1
 
-&&Alert_coffeemaker_ticket_lost A scrap of paper was blown away by the wind.
+&&Alert_coffeemaker_ticket_lost Một mảnh giấy đã bị gió thổi bay.
 
-&&alchemy_btn_drink_in Drink
+&&alchemy_btn_drink_in Uống
 
-&&Alert_water_reduced_from_stomach The effect of the drink has weakened...
-&&Alert_water_lost_from_stomach The drink has lost &1 effect...
+&&Alert_water_reduced_from_stomach Tác dụng của đồ uống đã giảm đi...
+&&Alert_water_lost_from_stomach Đồ uống đã mất &1 hiệu lực...
 
-&&Item_cmd_drink Drink
-&&Item_cmd_drink_useless (Drink)
+&&Item_cmd_drink Uống
+&&Item_cmd_drink_useless (Uống)
 
-&&Item_desc_drink_cannot_use Too full to drink any more...
+&&Item_desc_drink_cannot_use Bạn đã quá no, không thể uống thêm...
 
-&&Alert_near_pee I need to go to the bathroom...
-&&Alert_almost_pee I need to go to the bathroom now!
+&&Alert_near_pee Mình cần đi vệ sinh...
+&&Alert_almost_pee Mình phải đi vệ sinh ngay!
 
 
 
-&&lunch_drink_confirm Drink <b>「&1」</b>?
-&&lunch_drink_confirm_burst <font color="ff:#A00B35">Too full to drink all of </font><b>「&1」</b>, drink anyway?
-&&lunch_drink_confirm_dupe <font color="ff:#B828AC">I might not get enough nutrients</font> from <b> 「&1」</b>, drink anyway?
-&&lunch_drink_confirm_full <font color="ff:#A00B35">Too full to drink any more...</font>
+&&lunch_drink_confirm Uống <b>「&1」</b>?
+&&lunch_drink_confirm_burst <font color="ff:#A00B35">Bạn đã quá no để uống hết </font><b>「&1」</b>, vẫn uống chứ?
+&&lunch_drink_confirm_dupe <font color="ff:#B828AC">Có thể tôi sẽ không hấp thụ đủ chất dinh dưỡng</font> từ <b>「&1」</b>, vẫn uống chứ?
+&&lunch_drink_confirm_full <font color="ff:#A00B35">Bạn đã quá no, không thể uống thêm...</font>
 
-&&Eat_Drink Drink
+&&Eat_Drink Uống
 
 // 状態異常
-&&SerTitle_near_pee	Pee
+&&SerTitle_near_pee Đi tiểu
 /* ___ SerDesc_near_pee ___ */
-You need to go to the bathroom.
-MP gauge will crack more easily.
-Restraints will be easier to escape from.
+Bạn cần đi vệ sinh.
+Thanh MP sẽ dễ bị nứt hơn.
+Dễ thoát khỏi các đòn trói buộc hơn.
 /* ___ SerDesc_near_pee_2 ___ */
-You might pee when you fall down.
+Bạn có thể tiểu ra quần khi bị gục.
 
 
-&&GM_ep_title_water_drunk_level Pee
+&&GM_ep_title_water_drunk_level Đi tiểu
 &&GM_ep_water_drunk_level &1%
 
-&&SVD_Alert_manual_save_on_auto_save_slot Auto-save data will be overwritten on each subsequent auto-save.
+&&SVD_Alert_manual_save_on_auto_save_slot Dữ liệu tự động lưu sẽ bị ghi đè mỗi khi có lần tự động lưu tiếp theo.
 
 
 // ========================================================================
 // 230915 突然の追加で申し訳ないです！！！！！！
 
-&&KD_catalog_move_between_favolite <key add/>+<key ta/><key ba/>Move between favorites
-&&catalog_pickup Pick up
-&&catalog_jump Show details
-&&catalog_obtain_ratio Collection rate: &1%
+&&KD_catalog_move_between_favolite <key add/>+<key ta/><key ba/>Chuyển giữa các mục yêu thích
+&&catalog_pickup Chọn
+&&catalog_jump Hiển thị chi tiết
+&&catalog_obtain_ratio Tỷ lệ thu thập: &1%
 
-&&catalog_price_buy Buy: 
-&&catalog_price_sell Sell: 
-&&CatalogI_ingredient Ingredients required to make
-&&CatalogI_recipe_completion The finished product
+&&catalog_price_buy Giá mua:
+&&catalog_price_sell Giá bán:
+&&CatalogI_ingredient Nguyên liệu cần để chế tạo
+&&CatalogI_recipe_completion Sản phẩm hoàn chỉnh
 
 
 // ========================================================================
 // 231002 ファイル共有してるから軽率に追加しちゃうもんね
 
 /* ___ Title_error_announce_broken_dll ___ */
-Application installation may be incomplete.
-Please delete the directory containing this software &1, and reinstall it.
-( Even if you reinstall, your saved data will remain. )
+Có thể quá trình cài đặt ứng dụng chưa hoàn tất.
+Vui lòng xóa thư mục chứa phần mềm này &1 rồi cài đặt lại.
+(Dữ liệu đã lưu của bạn sẽ vẫn được giữ nguyên sau khi cài đặt lại.)
 
 
 // ========================================================================
 // 231004 セーブデータエラーに関する追加 アルバムの準備
 /* ___ SVD_Alert_save_failure ___ */ 
-Failed to save data.
+Không thể lưu dữ liệu.
 /* ___ SVD_Alert_load_failure ___ */ 
-Failed to load data.
+Không thể tải dữ liệu.
 
 /* ___ SVD_Alert_save_failure_content ___ */ 
-・Is there enough free disk space?
-・Does the storage location &1 have write permissions?
+・Ổ đĩa có đủ dung lượng trống không?
+・Vị trí lưu trữ &1 có quyền ghi dữ liệu không?
 
 
-// &&CatalogI_tab_shopping Shop
+// &&CatalogI_tab_shopping Cửa hàng

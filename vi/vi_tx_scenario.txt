@@ -1,0 +1,241 @@
+%FAMILY vi
+
+// ========================================================
+// MARK : 2022 2月 PURPOSE
+// ========================================================
+&&Svd_phase_0 Mở Đầu
+&&Svd_phase_1 Người Đẹp Ngủ Trong Rừng Tỉnh Giấc
+&&Svd_phase_2 Bóng Ma
+&&Svd_phase_3 Con Tàu Của Theseus
+&&Svd_phase_4 Xứ Sở Thần Tiên
+&&Svd_phase_5 Alice Trong Nôi
+&&Svd_phase_6 Hồi Kết - Những Vì Sao
+
+&&scenario_desc_pvv_0000 Khám phá khu vực phía sau bức tường có thể phá vỡ
+&&scenario_desc_pvv_0001__1 Trở về nhà
+&&scenario_desc_pvv_0002 Tham gia lớp học của Primula
+&&scenario_desc_pvv_0100 Trò chuyện với gia đình và khách hàng
+&&scenario_desc_pvv_0101 Tìm Ixia
+&&scenario_desc_pvv_0102 Đến thị trấn
+&&scenario_desc_pvv_0103 Giúp đỡ người thú
+&&scenario_desc_pvv_0104__3 Giải cứu Ixia khỏi quái vật
+
+&&scenario_wip (Đang phát triển)
+
+
+// ========================================================
+// MARK : ver0.23 added
+// ========================================================
+
+// ↑ の scenario_desc_*** も一部わずかに変更があります。ご確認下さい (hinayua_r18)
+
+// ========================================================
+// MARK : Quest
+// ========================================================
+
+&&quest__p999_trial_finished Tuyến nhiệm vụ tạm thời kết thúc tại đây. Vui lòng chờ các bản cập nhật tiếp theo.
+
+&&quest_completed Hoàn thành nhiệm vụ!
+&&quest_position_notice Xem điểm đến<key a/>
+&&quest_position_updated Đã cập nhật điểm đến<key a/>
+&&quest_position_arrived Đã đến nơi
+
+&&button_quest_reveal_on_map Xem điểm đến
+&&button_quest_jump Xem danh sách nhiệm vụ
+
+&&scenario_desc_pvv_0001__0 Thu thập nguyên liệu cho chị cả
+
+&&scenario_desc_pvv_0103__1 Thu hồi số bom từ đầm lầy
+&&scenario_desc_pvv_0103__3 Đến thăm người thú
+
+&&scenario_desc_pvv_0104__0 Tìm Ixia
+&&scenario_desc_pvv_0104__2 Tìm kiếm manh mối
+
+&&quest_selecting_multi &1 (Tổng cộng &2 nhiệm vụ)
+
+
+&&Scenario_Tab_main_quest Nhiệm vụ chính
+&&Scenario_Tab_sub_quest Nhiệm vụ phụ
+
+&&quest_sort_newer Sắp xếp: Mới hơn
+&&quest_sort_latest_update Sắp xếp: Cập nhật gần đây
+
+
+// ========================================================
+// MARK : sub quest
+// ========================================================
+
+
+&&subquest_v022_check_alchemyst_labo Tìm đến xưởng giả kim của chị cả
+
+
+// ========================================================
+// MARK : TheRoom
+// ========================================================
+
+&&Trm_first_play Tân binh của Phòng Giải Lao
+
+
+&&quest_position_near_arrived Đang đến gần điểm đến
+
+// ========================================================
+// MARK : 231004 アルバム
+// ========================================================
+
+&&Album_Tab_Fatal Cảnh Cắt Đặc Biệt
+&&Album_Tab_Picture Tranh Minh Họa
+&&Album_Tab_Memory Ký Ức
+
+
+&&Album_Memory_005_ixia_a Chuyến thăm của Ixia
+&&Album_Memory_005_ixia_b Chuyến thăm của Ixia (biến thể)
+&&Album_Memory_010_primula Primula và Shasta
+&&Album_Memory_011_primula Câu chuyện cổ tích dưới trời sao
+&&Album_Memory_102_alma Cùng Alma tại nhà ga
+&&Album_Memory_104_mepha Quân đội làng Elf
+
+
+// ========================================================
+// MARK : ver0.25 quest
+// ========================================================
+&&scenario_desc_pvv_0105_grazia__0 Đến Học viện Bermit
+&&scenario_desc_pvv_0105_grazia__1 Đến phòng y tế của trường
+&&scenario_desc_pvv_0105_grazia__2 Đến lớp học (Dãy Tây, phòng 1-2)
+
+
+&&quest__subquest_treasurehunt_000 Tìm địa điểm trong bức ảnh (Rừng)
+
+
+// ========================================================
+// MARK : 240728 アルバム実装
+// ========================================================
+
+&&EV_access_album Album
+&&Album_Memory_009_primula_a Alice ở xứ sở thần tiên
+&&Album_Memory_009_primula_b Alice ở xứ sở thần tiên (biến thể)
+&&Album_Memory_100_restroom Bị bắt gặp ngoài hành lang
+&&Album_Memory_105_2weekattack Cuộc tấn công vào học viện Bermit
+&&Album_Memory_105_classroom Mình muốn trở thành người giống bạn hơn
+&&Album_Memory_cuts_nightingale_0_0 Bí mật làm ăn của thương nhân
+
+&&Album_Play_Memory Xem lại
+&&Album_visible_term Điều kiện mở khóa: &1
+&&Album_visible_term_episode_1 Hoàn thành phần mở đầu
+&&Album_visible_term_100_restroom Tắm sau phần mở đầu
+&&Album_visible_term_103 Giải cứu Ixia khỏi rắn chũi
+&&Album_visible_term_102_alma Nói chuyện với Alma về cuộc tấn công
+&&Album_visible_term_105 Đến Grazia
+&&Album_visible_term_106 Tham gia lớp học cùng Alma
+&&Album_visible_term_105_2weekattack Hồi tưởng về cuộc tấn công ở sân trường
+&&Album_visible_term_105_classroom Tham gia lớp học tại học viện
+&&Album_visible_term_troom Thực hiện các dịch vụ tại "Phòng Giải Lao"
+&&Album_visible_term_cuts_nightingale_0_0 Hoàn thành yêu cầu của Nightingale
+
+&&Album_Tab_Osok Trừng phạt
+&&Album_coming_soon Sắp ra mắt...
+
+
+
+&&Fatal_exists_in_this_battle Trận chiến quyết định...!
+/* ___ Album_fatal_hint ___ */
+Nếu thua trận này, một cảnh cắt đặc biệt kể về cái giá phải trả cho thất bại của bạn sẽ được phát.
+
+
+&&subquest_nightingale_apple__0 Mua Trái Cấm tại Cửa hàng Phù thủy
+&&subquest_nightingale_apple__1 Mang Trái Cấm đến cho Nightingale
+
+// 中黒
+&&quest_dot ・ 
+
+
+// ========================================================
+// MARK : ver0.27
+// ========================================================
+
+&&scenario_desc_pvv_0106_tigrina_armory__0 Giúp đỡ cô gái kỳ quặc
+&&scenario_desc_pvv_0106_tigrina_armory__1 Khám phá kho vũ khí
+
+
+// アルバムでのアレ
+
+&&Album_failure_1st Thất bại
+&&Album_failure_2nd Thất bại (lần nữa)
+&&Album_failure_3rd Thất bại (lại nữa)
+&&Album_visible_term_106_tigrina Bị bắt gặp trong kho vũ khí
+&&Album_Osok_106_sneaking_mistake Thất bại khi lẻn vào (kho vũ khí)
+
+&&Album_Memory_106_tigrina_garage Trong nhà kho cùng Tigrina
+&&Album_visible_term_106_tigrina_garage Tìm lại được Chip Nhớ
+
+
+&&scenario_desc_pvv_0106_search_scl__1 Khám phá trường học
+
+&&scenario_desc_pvv_0106_search_scl__0 Đến nhà ăn
+
+
+// ========================================================
+// MARK : ver0.28
+// ========================================================
+
+&&quest__subquest_city_forge_buy__0 Thử sử dụng cây trượng
+
+
+&&scenario_desc_pvv_0107_td__0 Bảo vệ học viện Bermit
+
+
+&&scenario_desc_pvv_0107_td_after__0　Kiểm tra kho vũ khí
+
+&&quest__subquest_city_forge_access__0 Đến lò rèn ở khu ổ chuột
+
+// ========================================================
+// MARK : ver0.29
+// ========================================================
+
+&&scenario_desc_pvv_0200_alice__0 Truy dấu bóng ma
+
+&&scenario_desc_pvv_0200_alice_goback__0 Trở về Grazia
+
+/* ___ Telop_Trial_end200  ___ */
+CÒN TIẾP
+
+// 現在はまだ使っていません。
+&&quest__p999_trial_finished_w Bản dùng thử đã kết thúc. Hãy tận hưởng phần còn lại trong phiên bản đầy đủ.
+
+&&scenario_desc_pvv_0200_alice_mine1__0 Tìm lối vào Đường hầm số Một
+&&scenario_desc_pvv_0200_alice_mine1__1 Tìm cách vượt qua rào chắn
+&&scenario_desc_pvv_0200_alice_mine1__2 Vượt qua rào chắn trong Đường hầm số Một
+&&scenario_desc_pvv_0200_alice_mine1__3 Tìm dấu vết của bóng ma trong Đường hầm số Một
+
+
+&&scenario_desc_pvv_0200_elec_facil__0 Đến nhà máy điện
+&&scenario_desc_pvv_0200_elec_facil__1 Khôi phục nguồn điện
+&&scenario_desc_pvv_0200_elec_facil__3 Tìm lối thoát
+&&scenario_desc_pvv_0200_elec_facil__4 Thoát khỏi nhà máy điện
+
+
+&&scenario_desc_ooparts03__0 Làm bánh taco cá phục vụ nghiên cứu Cổ vật
+&&scenario_desc_ooparts03__1 Giao chúng cho nhà khảo cổ học
+&&scenario_desc_ooparts03__2 Bàn giao thiết bị cổ đại
+&&scenario_desc_ooparts03__3 Hoàn thiện thiết bị cổ đại
+
+
+&&quest__subquest_treasurehunt_000__5 Tìm địa điểm trong bức ảnh (???)
+&&quest__subquest_treasurehunt_001__5 Tìm địa điểm trong bức ảnh (???)
+
+&&quest__subquest_treasurehunt_001 Tìm địa điểm trong bức ảnh (Vùng Núi)
+
+
+// ========================================================
+// MARK : 030
+// ========================================================
+
+&&Album_visible_term_200 Hoàn thành tất cả các trận chiến bảo vệ Grazia
+
+&&Album_visible_term_215 Hoàn thành Chương 2 của cốt truyện chính: Hồn ma
+
+&&quest__subquest_mount_cocktail__0 Mua loại đồ uống yêu thích của Walross\btại quầy bar ở Grazia
+&&quest__subquest_mount_cocktail__1 Làm thêm tại quầy bar
+&&quest__subquest_mount_cocktail__2 Mua một chai "Heatshot 197"
+&&quest__subquest_mount_cocktail__3 Mang ly cocktail đến cho Walross
+
+&&quest__subquest_city_forge_030__0 Nhận quà từ thợ rèn

@@ -1,51 +1,51 @@
 // For translaters:
 // In the next version, this txt file containing the
-// entire event statement will be exported to the 
+// entire event statement will be exported to the
 // StreamingAssets directory.
 
 // =====================
-// Add an asterisk at the beginning of the sentence 
+// Add an asterisk at the beginning of the sentence
 // to define the event name and label.
 // =====================
 // ========================================================
 // MARK : ___Other/Skill_need_shield
 // ========================================================
- 
+
 
 
 
 *___Other/Skill_need_shield n_01
-Cough, cough...
+Khụ, khụ...
 
 *n_02
-I'll need to be able to withstand being underwater for extended periods to explore here...
+Mình cần phải nín thở ở dưới nước lâu hơn mới khám phá nơi này được...
 
 
 *n_03
-Remember sensei's teachings...
-I can press <key lsh/> to raise my shield.
+Nhớ lại lời cô giáo dạy xem nào...
+Mình có thể nhấn <key lsh/> để tạo khiên lên.
 
 *n_04
-The shield should <c blue>allow me to breathe underwater<c>, just like it does against toxic gas. Let's test it out on the moving platform.
+Lớp khiên này sẽ giúp mình thở được dưới nước<c>, giống như khi cản khí độc vậy. Thử nghiệm trên bục di chuyển kia xem sao.
 *
-Also, I can dodge <key lsh/>+<key la/><key ra/> to stay in the air longer. Let's use it just before falling...
+Ngoài ra, mình có thể né <key lsh/>+<key la/><key ra/> để lơ lửng trên không lâu hơn. Có thể canh dùng nó ngay trước khi rơi xuống...
 *n_06
-...Although, it seems like I don't have my shield enabled yet. I should probably open the menu with <key menu/> and set it up.
+...Cơ mà hình như mình vẫn chưa trang bị khiên thì phải. Chắc mình nên mở menu bằng <key menu/> rồi cài đặt nó vào thôi.
 
 
 // ========================================================
 // MARK : トイレでの汎用
 // ========================================================
 *s01_restroom n_00
-I have to fix my clothes...
+Mình phải sửa lại quần áo đã...
 
 *s01_restroom n_01
-......My tummy feels heavy...
-I have to get rid of these eggs...
+......Bụng mình cảm thấy nặng trĩu...
+Phải tống đống trứng này ra ngoài mới được...
 
 
 
 *___House/_restroom_portal n_lay_egg00
-<m fadein>Uuu...
+Ưuu...
 
 

@@ -10,54 +10,54 @@
 // ========================================================
 // MARK : ___Tilde/d_talk_aboutmana
 // ========================================================
- 
+
 
 
 
 *___Tilde/d_talk_aboutmana d_00
-We elves have cells called Glutocruorin in our blood that stores mana and circulates it throughout our body.
+Trong máu của Elf chúng ta có những tế bào gọi là Glutocruorin, có chức năng lưu trữ mana và tuần hoàn nó khắp cơ thể.
 
 
 *n_01
-Elves can convert magic power into energy...that's something I learned in class.
+Elf có thể chuyển hóa ma lực thành năng lượng... đó là điều mình đã học trên lớp.
 
 
 
 *d_02
-Yup. Magic power tends to be drawn towards those with stronger desires for it. 
+Đúng vậy. Ma lực thường có xu hướng bị thu hút về phía những người có ham muốn mạnh mẽ hơn đối với nó.
 *
-In other words, it's affected by emotions.
+Nói cách khác, nó chịu ảnh hưởng bởi cảm xúc.
 *
-So, if your <c blue>MP is low when you pluck a magical plant, you'll recover more MP<c>.
+Vì vậy, nếu <c blue>MP của em thấp khi hái Cây Mana, em sẽ hồi phục được nhiều MP hơn<c>.
 *
-On the other hand, if your <c blue>MP is already relatively high, the mana is more likely to go to nearby monsters<c>.
+Ngược lại, nếu <c blue>MP của em đã tương đối cao, mana có khả năng sẽ chuyển hướng những con quái vật ở gần đó<c>.
 
 *n_03
-...Why are you lecturing me on the basics of mana? Are you worried about me?
+...Sao anh lại giảng cho em những kiến thức cơ bản về mana vậy? Anh đang lo cho em à?
 
 *d_04
-Yeah, so? I don't exactly like the idea of my sister being turned into some monsters' plaything.
+Ừ, thì sao? Anh chẳng thích cái cảnh mà em gái mình bị biến thành món đồ chơi của lũ quái vật chút nào đâu.
 
 *n_05
-And yet you bet on me losing yesterday...
+Vậy mà hôm qua anh còn cá là em sẽ thua...
 
 *d_06
-It's not like I actually wanted you to lose. I was just taking the safe bet, since you're such a klutz.
+Đâu phải anh thật sự muốn em thua. Anh chỉ chọn cửa an toàn thôi, vì em hậu đậu đến thế cơ mà.
 *
-Zeth ended up winning the bet anyway, so it doesn't matter.
+Dù sao thì cuối cùng Zeth cũng thắng cược rồi, nên chẳng có gì quan trọng cả.
 *
-And it's a win-win situation for all of us if our ever-so-promising brother can earn money and eat good food in the village, right?
+Và đó chẳng phải là một tình huống đôi bên cùng có lợi cho tất cả chúng ta sao, nếu người anh trai đầy triển vọng của chúng ta vừa có thể kiếm được tiền, vừa được ăn ngon ngay tại làng, đúng không?
 
 *n_07
-It'd be nice if you'd do something to make me feel good too...
+Sẽ tốt hơn nếu anh cũng làm gì đó khiến em vui một chút...
 
 
 *d_08
-Oh, is that how you feel? I'll keep that in mind if I ever see you in the forest and you're really frustrated.
+Ồ, em muốn vậy à? Anh sẽ ghi nhớ điều đó, phòng khi bắt gặp em trong rừng và thấy em đang cực kỳ bức bối.
 
 
 *n_09
-<m pre>That's not what I meant!
+<m pre>Đ-Đó không phải ý em muốn nói!
 
 
 // ========================================================
@@ -65,34 +65,34 @@ Oh, is that how you feel? I'll keep that in mind if I ever see you in the forest
 // ========================================================
 
 *___Tilde/d_talk_cane d_00
-Your staff is essential when fighting monsters. So what are you supposed to do when they pounce on you and knock it away?
+Cây trượng rất quan trọng khi chiến đấu với quái vật. Vậy em định làm gì khi chúng vồ lấy em và đánh văng nó đi?
 
 *n_01
-The staff is attuned to its owner's mana.
-It'll come back to me whenever I call for it.
+Cây trượng được liên kết với mana của chủ nhân.
+Chỉ cần em gọi, nó sẽ quay trở lại.
 
 *d_02
-Whoa! I didn't know it worked like that. Guess I should've expected the national academy to equip their cadets with only the best stuff.
+Ồ! Anh không biết nó hoạt động như vậy đấy. Chắc anh nên đoán trước được rằng Học viện Quốc gia chỉ trang bị cho học viên những món đồ tốt nhất.
 
 *n_03
-This latest version has something called...'WiFu' technology...I think?
+Phiên bản mới nhất này có thứ gọi là công nghệ... 'WiFu'... thì phải?
 *
-If the staff is away from its owner for a long time, there is a built-in function which will request help for the owner.
+Nếu cây trượng cách xa chủ nhân quá lâu, nó sẽ tự động kích hoạt chức năng gọi cứu viện cho chủ nhân.
 
 *d_04
-Wow, sounds like it's practically sentient!
+Ồ, nghe cứ như nó có ý thức riêng vậy!
 
 *n_05
-...but, I have that turned off.
+...Nhưng em đã tắt chức năng đó rồi.
 
 *d_06
-How come? Are you okay with monsters carrying you off and never coming back home?
+Sao lại thế? Em không ngại việc bị quái vật bắt đi rồi chẳng bao giờ trở về nhà nữa à?
 
 *n_07
-It sent an SOS call the other day while I was on the toilet. It was so embarrassing...
+Hôm trước nó đã gửi tín hiệu SOS khi em đang đi vệ sinh. Xấu hổ chết đi được...
 
 *d_08
-Isn't that just you being careless?!
+Thế chẳng phải là do em bất cẩn sao?!
 
 
 
@@ -101,39 +101,39 @@ Isn't that just you being careless?!
 // ========================================================
 
 *___Tilde/d_talk_cooking n_00
-What's for breakfast?
+Bữa sáng có món gì vậy anh?
 *d_01
-Toast and fried eggs, as usual. 
+Bánh mì nướng và trứng ốp la như thường lệ.
 *
-I'm also gonna pick some oranges and cucumbers from the garden to make jam and pickles.
+Anh cũng sẽ hái vài quả cam và dưa chuột trong vườn để làm mứt và dưa muối.
 
 *n_02
-I don't like pickles...
+Em không thích dưa muối...
 
 
 *d_03
-Beastmen really are picky, huh... Try to see it from my perspective and you'll understand.
+Thú nhân đúng là kén ăn thật... Thử đặt mình vào vị trí của anh rồi em sẽ hiểu.
 
 *n_04
-Thank you for everything you do.
+Cảm ơn anh vì đã làm mọi thứ.
 
 
 *d_05
-Well, cooking is fun. And it's not like we have the money to hire a maid.
+Ừ thì, nấu ăn cũng vui mà. Với lại chúng ta đâu có tiền thuê người giúp việc.
 
 *n_06
-Y'know...it's been in my mind for a while now, and...I want to try cooking too.
+Anh biết không...em đã nghĩ về chuyện này một thời gian rồi, và...em cũng muốn thử nấu ăn nữa.
 
 
 *d_07
-Ha? No freakin' way. 
-I bet 100G you cut your fingers off.
+Hả? Không đời nào.
+Anh cá 100G là em sẽ tự cắt đứt ngón tay mình mất.
 
 *n_08
-<m ple>I-I may be clumsy...but I think I can manage cooking something simple!
+<m ple>E-Em có thể hơi vụng về... nhưng em nghĩ mình vẫn nấu được vài món đơn giản mà!
 
 *d_09
-Hmm~ Where does that curiosity of yours come from...
+Hmm~ Không biết sự tò mò này của em từ đâu ra nhỉ...
 
 
 // ========================================================
@@ -141,27 +141,27 @@ Hmm~ Where does that curiosity of yours come from...
 // ========================================================
 
 *___Tilde/d_talk_cooking2 d_00
-Eating food will give you some pretty good buffs. Automatic HP recovery, or a huge increase in attack power for example.
+Ăn uống có thể mang lại cho em những hiệu ứng tăng cường khá tốt. Chẳng hạn như tự động hồi HP hoặc tăng mạnh sức tấn công.
 *
-So unless you're in heat and only stepping out to fool around with the monsters, you should eat before leaving.
+Vì vậy, trừ khi em đang động dục và chỉ ra ngoài để vui đùa với lũ quái vật, em nên ăn trước khi đi.
 
 *n_01
-As if that'd ever be the reason I go out!
+Còn lâu đó mới là lý do mà em ra ngoài nhé!
 
 *d_02
-The potency and duration of the buff is affected by the quality and quantity of ingredients used in each recipe.
+Hiệu lực và thời gian duy trì của hiệu ứng tăng cường phụ thuộc vào chất lượng và số lượng nguyên liệu được sử dụng trong mỗi công thức.
 *
-Whenever you fight a monster, the buff's duration will decrease. It's a good idea to come home when the buff runs out and you're hungry again.
+Mỗi khi em chiến đấu với quái vật, thời gian duy trì hiệu ứng sẽ giảm xuống. Tốt nhất là nên về nhà khi hiệu ứng hết và khi em cảm thấy đói.
 
 *n_03
-Can't you just pack me a lunch so I can eat outside?
+Anh không thể chuẩn bị cơm hộp cho em để em ăn ở bên ngoài sao?
 
 *d_04
-Food spoils instantly when it comes in contact with mana fog. So unless you have a <c blue>special container<c>, you have to eat at home. 
+Thức ăn sẽ hỏng ngay lập tức khi tiếp xúc với sương mù mana. Vì vậy, trừ khi em có một <c blue>hộp đựng đặc biệt<c>, em chỉ có thể ăn ở nhà.
 *d_05
-Our shop does sell them, but they're expensive. And you know what our sister's stance is on family discounts...
+Cửa hàng của chúng ta có bán loại hộp đó, nhưng giá đắt lắm. Mà em cũng biết chị hai nghĩ thế nào về chuyện giảm giá cho người nhà rồi đấy...
 *d_06
-You'll have to work hard and save up if you want the luxury of eating on the go.
+Nếu muốn có được sự tiện lợi khi ăn uống trên đường, em phải chăm chỉ làm việc và tiết kiệm tiền đi thôi.
 
 
 
@@ -173,61 +173,61 @@ You'll have to work hard and save up if you want the luxury of eating on the go.
 
 
 *___Tilde/d_talk_cooking3 n_00
-I want to try cooking!
+Em muốn thử nấu ăn!
 
 *d_01
-No.
+Không.
 *n_02
-Why nooooot!
+Sao lạiiii không!
 
 
 *d_03
-Because this is my kitchen, my ingredients from the garden, and my good seasonings. I am deeply attached to them. 
+Vì đây là nhà bếp của anh, nguyên liệu anh tự trồng trong vườn, cùng những loại gia vị quý giá của anh. Anh rất quý chúng.
 *
-Got it? If you were to burn any of them you would no longer be a sister to me.
+Hiểu chưa? Nếu em làm cháy bất kỳ thứ nào trong số đó, thì từ nay anh không còn coi em là em gái nữa.
 
 *n_04
-Uuu...
+Ư...
 
 *d_05
-I do still have a stock of ingredients that I bought from town, but even those are off limits.
+Anh vẫn còn một ít nguyên liệu mua từ thị trấn, nhưng ngay cả chúng cũng không được phép đụng vào.
 
 *
-If you really want to try cooking, you'll have to gather your own ingredients.
+Nếu em thật sự muốn thử nấu ăn, em phải tự đi thu thập nguyên liệu.
 
 *n_06
-Oh, I can do that! I'm good at gathering.
+Ồ, chuyện đó thì được! Em giỏi việc này lắm.
 
 *d_07
-You can use the regular cookware, but don't even think about laying a finger on Josephine.
+Em có thể dùng những dụng cụ nấu ăn thông thường, nhưng đừng hòng động một ngón tay vào Josephine.
 
 *n_08
-...You named your frying pan?
+...Anh đặt tên cho cái chảo rán của mình à?
 
 
 *d_09
-Isn't she cute? It's a pan of love, coated in the oils of countless meals. It took years to get her to this state...
+Không đáng yêu sao? Đó là một chiếc chảo chứa đầy tình yêu, được phủ lên bởi dầu mỡ từ vô số bữa ăn. Anh đã mất nhiều năm mới chăm sóc nó được đến mức này...
 
 *n_10
-<think>Now that I think about it, that's the same pan he's been using since he graduated...
+<think>Giờ nghĩ lại thì đây cũng chính là chiếc chảo anh ấy đã dùng từ hồi tốt nghiệp...
 
 
 *d_11
-Here, you can cook with this until you prove you're capable of handling something more advanced.
+Đây, em có thể dùng cái này để nấu ăn cho đến khi chứng minh được mình đủ khả năng xử lý những thứ phức tạp hơn.
 
 *n_12
-Wow, thank you so much! I'll take good care of it.
+Ồ, cảm ơn anh nhiều lắm! Em sẽ giữ gìn nó thật cẩn thận.
 
 *d_13
-Let's start by having you cook the toast I mentioned earlier.
+Bắt đầu bằng việc nướng bánh mì như anh đã nói lúc nãy nhé.
 *
-I'll provide the ingredients for today, but after this you'll have to use ones you've gathered yourself.
+Hôm nay anh sẽ cung cấp nguyên liệu, nhưng từ lần sau em phải tự dùng những thứ mình thu thập được.
 
 
 *d_14
-...We've already gone over this.
+...Chúng ta đã nói chuyện này rồi mà.
 *
-I'll let you use some of my ingredients, but I'm keeping the finished sandwich this time. Try not to mess it up.
+Anh sẽ cho em dùng một ít nguyên liệu của anh, nhưng lần này anh sẽ giữ chiếc sandwich thành phẩm. Cố gắng đừng làm hỏng nó đấy.
 
 // ========================================================
 // MARK : ___Tilde/cook_tuto00
@@ -235,66 +235,66 @@ I'll let you use some of my ingredients, but I'm keeping the finished sandwich t
 
 
 *___Tilde/cook_tuto00 d_00
-First, select a recipe.
-We'll start with the most basic thing, bread.
+Đầu tiên, chọn một công thức.
+Chúng ta sẽ bắt đầu với món cơ bản nhất: bánh mì.
 *
-Your known recipes will show up in this list. Now, select 'bread' and get ready to cook!
+Những công thức em đã biết sẽ xuất hiện trong danh sách này. Giờ hãy chọn 'bánh mì' và chuẩn bị nấu nào!
 
 *d_02
-<W2/>The box in the top-left lists all the ingredients you need for the selected recipe.
+<W2/>Khung ở góc trên bên trái liệt kê tất cả nguyên liệu cần thiết cho công thức đã chọn.
 
 *d_03
-This top line shows the minimum required and maximum allowed for this ingredient in the recipe.
+Dòng trên cùng này hiển thị số lượng tối thiểu cần có và số lượng tối đa được phép sử dụng của nguyên liệu này trong công thức.
 
 *
-Move the cursor with <key ta/> and select this ingredient.
+Di chuyển con trỏ bằng <key ta/> rồi chọn nguyên liệu này.
 
 
 *d_04
-Ok, we have the wheat required.
-Use <key submit/> to add in at least two of them.
+Được rồi, chúng ta đã có đủ lượng lúa mì cần thiết.
+Dùng <key submit/> để thêm ít nhất hai phần vào.
 
 
 *n_05
-Is it okay to put in all five of them?
+Em cho cả năm phần vào có được không?
 
 *d_06
-Do you actually plan on eating that much? What a glutton you are.
+Em định ăn nhiều đến thế thật à? Đúng là tham ăn mà.
 
 *n_07
-N-No, I was just asking!
+K-Không, em chỉ hỏi thôi mà!
 
 *d_08
-Now we need some water. Add it in the same way.
+Tiếp theo chúng ta cần một ít nước. Thêm vào theo cách tương tự nhé.
 
 
 *d_10
-You will see details of the finished product in the box below.
+Thông tin chi tiết về thành phẩm sẽ được hiển thị trong khung bên dưới.
 *
-This fork and knife symbol represents how filling the food is. The bar represents your stomach capacity.
+Biểu tượng nĩa và dao thể hiện mức độ no của món ăn. Thanh bên cạnh biểu thị sức chứa dạ dày của em.
 *
-The more ingredients you add to each dish, the more filling it will be. 
+Em càng thêm nhiều nguyên liệu vào món ăn thì món đó càng no lâu.
 *
-It's in your best interest to eat until you're full, so plan ahead when preparing each meal.
+Tốt nhất là nên ăn cho đến khi no, vì vậy hãy tính toán trước khi chuẩn bị mỗi bữa.
 *
-Some ingredients have special effects when eaten.
+Một số nguyên liệu có hiệu ứng đặc biệt khi ăn.
 *
-Wheat helps keep mana neutral. Neutral mana is easier to recover after it scatters.
+Lúa mì giúp duy trì trạng thái trung tính của mana. Mana trung tính sẽ dễ hồi phục hơn sau khi phân tán.
 *
-If mana neutrality is low, it could lead to a situation where monsters absorb all the scattered mana and become huge.
+Nếu độ trung tính của mana quá thấp, có thể xảy ra tình trạng quái vật hấp thụ toàn bộ mana đã phân tán và trở nên to hơn.
 *d_11
-The strength of each ingredient's effect that will shine through in the finished product is displayed on the right side (Pow).
+Mức độ ảnh hưởng của từng nguyên liệu lên thành phẩm được hiển thị ở phía bên phải (Pow).
 *
-The food will be more filling if you add more than the minimum amount, but you won't be getting the most out of each ingredient.
+Món ăn sẽ no hơn nếu em thêm nhiều nguyên liệu hơn mức tối thiểu, nhưng hiệu quả của từng nguyên liệu sẽ không được tận dụng tối đa.
 *
-In short, don't crowd your dish with too many distinct or powerful flavors. Allow yourself the chance to savor them.
+Nói ngắn gọn, đừng nhồi nhét quá nhiều hương vị khác nhau hoặc quá đậm vào một món. Hãy để bản thân có cơ hội thưởng thức từng hương vị.
 *d_12
-This is starting to drag on a bit.
-Move your cursor down to that button and let's start cooking.
+Chuyện này bắt đầu hơi dài dòng rồi đấy.
+Di chuyển con trỏ xuống nút kia và bắt đầu nấu thôi.
 
 
 *d_13
-Not half bad for your first attempt at baking bread.
+Không tệ chút nào cho lần đầu tiên của em.
 
 
 // ========================================================
@@ -304,35 +304,35 @@ Not half bad for your first attempt at baking bread.
 
 
 *___Tilde/cook_tuto01 n_00
-So this...is cooking!
+Vậy ra, đây chính là...nấu ăn!
 
 *d_01
-Well, the kitchen's still intact. I'd say that's a job well done.
+Ừm, ít nhất nhà bếp vẫn còn nguyên vẹn. Anh nghĩ thế là thành công lắm rồi.
 
 *n_02
-What do you take me for!?
+Anh nghĩ em là người thế nào chứ!?
 
 *n_03
-It looks so delicious...well then, let's dig in-
+Trông ngon quá... vậy thì, ăn thôi-
 
 *d_04
-<I>Whoa, whoa, hold up!
-You're not seriously going to eat just bread, are you!?
+<I>Khoan, khoan đã!
+Em không định chỉ ăn bánh mì thôi đấy chứ!?
 
 
 *n_05
-Why not? It's still hot and fresh...
+Sao lại không? Bánh vẫn còn nóng hổi và mới ra lò mà...
 
 *d_06
-Yeah, but did you even consider putting in some veggies?
-You need to add more flavor and nutrition to your meal.
+Ừ, nhưng em có nghĩ đến việc thêm rau củ vào không?
+Em cần thêm hương vị và chất dinh dưỡng cho bữa ăn nữa.
 
 *n_07
-I suppose so...
-Freshly baked bread is good all on its own though...
+Em nghĩ cũng đúng...
+Nhưng bánh mì mới nướng ăn không thôi cũng ngon lắm mà...
 
 *d_08
-Sigh. Next, we're going to learn how to make a sandwich.
+Haiz. Tiếp theo, chúng ta sẽ học cách làm sandwich.
 
 
 
@@ -341,39 +341,39 @@ Sigh. Next, we're going to learn how to make a sandwich.
 // ========================================================
 
 *___Tilde/cook_tuto02 d_00
-This time, pick 'Sandwich' from the recipe list.
+Lần này, hãy chọn 'Sandwich' trong danh sách công thức.
 
 *d_01
-<W2>For a sandwich, you need two pieces of bread.　It would be a bit of a hassle if you had to make them separately each time, right?
+<W2>Để làm sandwich, em cần hai lát bánh mì. Nếu lần nào cũng phải làm riêng chúng thì phiền phức lắm, đúng không?
 *
-When a recipe uses another dish as an ingredient, you can make them at the same time as the recipe that calls for them if you've made them previously.
+Khi một công thức sử dụng món ăn khác làm nguyên liệu, em có thể chế biến cả hai cùng lúc nếu trước đó em đã từng làm món ăn được dùng làm nguyên liệu.
 *
-Move your cursor to the bread,
-then press <key add/>.
+Di chuyển con trỏ đến bánh mì,
+sau đó nhấn <key add/>.
 
 
 *d_03
-<W2>You can choose the approximate quality of the ingredients to use with this menu. 
-Customize them to your liking.
+<W2>Em có thể chọn chất lượng nguyên liệu dự kiến sử dụng bằng menu này.
+Hãy tùy chỉnh theo ý thích của mình.
 *d_04
-This will cook a new bread to use in addition to the one you made previously.
+Thao tác này sẽ làm thêm một mẻ bánh mì mới để sử dụng cùng với phần bánh em đã làm trước đó.
 *
-With that, the bread is ready.
+Vậy là bánh mì đã sẵn sàng.
 *d_05
-The second line tells you to put in 2-4 'fruit' or 'vegetables'.
+Dòng thứ hai yêu cầu em thêm từ 2 đến 4 phần 'trái cây' hoặc 'rau củ'.
 *
-You can mix and match them as you please.
+Em có thể tùy ý kết hợp chúng với nhau.
 *
-But remember that adding more than the minimum amount (2) will have diminishing returns for the special effects. 
+Nhưng hãy nhớ rằng nếu thêm nhiều hơn số lượng tối thiểu (2), hiệu quả của các tác dụng đặc biệt sẽ giảm dần.
 
 
 *d_06
-Now that the ingredients are prepared, you are ready to cook. Select 'Start cooking' in the box below.
+Giờ nguyên liệu đã được chuẩn bị xong, em có thể bắt đầu nấu. Chọn 'Bắt đầu nấu ăn' trong khung bên dưới.
 
 *d_07
-OK. That should be filling enough to tide you over until evening.
+Được rồi. Chắc món này đủ no để giúp em trụ đến tối rồi đấy.
 *
-That's the basics of cooking. I can explain it to you again if you ever need me to, but it's better to learn by doing.
+Đó là những điều cơ bản về nấu ăn. Nếu cần, anh có thể giải thích lại cho em bất cứ lúc nào, nhưng tự thực hành vẫn là cách học tốt nhất.
 
 // ========================================================
 // MARK : ___Tilde/cook_tuto03
@@ -383,68 +383,68 @@ That's the basics of cooking. I can explain it to you again if you ever need me 
 
 
 *___Tilde/cook_tuto03 d_00
-I'll say it again because it's extremely important: You cannot generally bring food outside of the house.
+Anh nhắc lại vì chuyện này cực kỳ quan trọng: Thông thường, em không thể mang thức ăn ra khỏi nhà.
 *
-If you fight outside even once, all the food you have on hand will spoil due to exposure to magic.
+Chỉ cần chiến đấu bên ngoài dù chỉ một lần, toàn bộ thức ăn em mang theo sẽ hỏng do tiếp xúc với ma thuật.
 *
-You won't gain anything from eating spoiled food, so store it or eat before you go out.
+Ăn thức ăn đã hỏng cũng chẳng đem lại lợi ích gì, nên hãy cất chúng đi hoặc ăn trước khi ra ngoài.
 
 
 *n_01
-What should I do if I get hungry out there?
+Nếu em đói khi đang ở ngoài thì phải làm sao?
 
 
 *d_02
-Just come back home and eat. 
+Cứ về nhà rồi ăn thôi.
 *
-Or buy one of those special lunch boxes that can prevent magic from spoiling your food.
+Hoặc mua một trong những chiếc hộp cơm đặc biệt có thể ngăn ma thuật làm hỏng thức ăn.
 
 
 *n_03
-Um...
-Can I ask one more thing?
+Ừm...
+Em có thể hỏi thêm một chuyện nữa không?
 
 *d_04
-What is it?
+Chuyện gì?
 
 *n_05
-Can I eat this sandwich now, while it's fresh...?
+Em có thể ăn chiếc sandwich này ngay bây giờ, khi nó vẫn còn tươi ngon không...?
 
 *d_06
-Sigh...you glutton. 
-Sure, go ahead. Enjoy.
+Haiz... đúng là đồ tham ăn.
+Được rồi, ăn đi. Ngon miệng nhé.
 
 // ========================================================
 // MARK : ___Tilde/d_talk_stomach
 // ========================================================
 
 *___Tilde/d_talk_stomach d_00
-By now you should know that each ingredient can have various benefits when cooked and eaten.
+Đến giờ chắc em đã biết mỗi nguyên liệu đều có thể mang lại nhiều lợi ích khác nhau khi được chế biến và ăn vào.
 
 *n_01
-If I cook and eat a lot of food with a variety of effects, will I become the strongest...?
+Nếu em nấu và ăn thật nhiều món với đủ loại hiệu ứng khác nhau, liệu em có trở thành người mạnh nhất không...?
 
 *d_02
-That depends on your cooking skills. Just be careful not to eat too much.
+Còn tùy vào kỹ năng nấu ăn của em. Chỉ cần cẩn thận đừng ăn quá nhiều.
 *
-If you try to eat a high value dish when you are already full, only a little will actually go down your stomach.
+Nếu em cố ăn một món có giá trị dinh dưỡng cao khi đã no, chỉ có một lượng nhỏ thực sự xuống được dạ dày.
 *
-That means the potency of the dish will be greatly reduced.
+Điều đó có nghĩa là hiệu lực của món ăn sẽ giảm đi đáng kể.
 
 *n_03
-Can't I just store the leftovers? 
-Or maybe, combine them with other dishes...
+Em không thể cất phần thức ăn thừa đi sao?
+Hoặc có lẽ kết hợp chúng với những món khác...
 
 
 *d_04
-...Disgraceful. If I were father I'd disown you.
+...Thật đáng xấu hổ. Nếu anh là cha, anh sẽ từ mặt em đấy.
 
 *d_05
-By the way, <c blue>the effect of all food eaten when you are hungry will be 1.5 times greater</c>.
+À, nhân tiện, <c blue>hiệu quả của tất cả thức ăn được ăn khi em đang đói sẽ tăng gấp 1,5 lần</c>.
 *
-Food tastes a lot better when you are hungry, after all.
+Dù sao thì khi đói, thức ăn cũng ngon hơn nhiều mà.
 *
-Because of that, your first meal of the day should be a special one made with high-grade ingredients.
+Vì vậy, bữa ăn đầu tiên trong ngày nên là một bữa thật đặc biệt, được chế biến từ những nguyên liệu cao cấp.
 
 
 
@@ -455,105 +455,105 @@ Because of that, your first meal of the day should be a special one made with hi
 
 
 *___TildeNpc/t01 d_00
-Oh, if it isn't Noel. 
-Fancy meeting you here.
+Ồ, chẳng phải Noel đấy sao.
+Thật tình cờ khi gặp em ở đây.
 
 *n_01
-Nice to see you too. 
-Good looking, uh...
-camp you have.
+Em cũng rất vui được gặp anh.
+Khu cắm trại...
+trông đẹp đấy.
 
 *d_02
-Isn't it? 
-I was looking for a place like this to relax after school. 
-This spot seemed perfect.
+Đúng không?
+Anh đang tìm một nơi như thế này để thư giãn sau giờ học.
+Chỗ này có vẻ hoàn hảo.
 
 
 // 分岐: 昼・夕方の場合 ===
 *d_03
-Except for all the calls I keep getting to help the nearby dimwits when a monster attacks...
+Chỉ trừ việc anh cứ liên tục bị gọi đi giúp mấy kẻ ngốc gần đây mỗi khi có quái vật tấn công...
 
 *n_04
-Would you rush to my aid if I was the one yelling?
+Nếu người hét gọi cứu viện là em thì anh có chạy đến giúp không?
 
 *d_05
-Depends on how good the book I'm reading is.
+Còn tùy vào cuốn sách anh đang đọc hay đến mức nào.
 
 // 分岐: 夜の場合 ===
 *d_06
-You should head home before 
-it gets dark.
+Em nên về nhà trước khi
+trời tối đi.
 *n_07
-What about you?
+Thế còn anh?
 
 *d_08
-Our house isn't the kind of place I care to spend all my time at, y'know?
-Now leave me to enjoy my private time in peace.
+Nhà chúng ta không phải nơi mà anh muốn dành toàn bộ thời gian ở đó, em biết mà?
+Giờ thì để anh yên tận hưởng chút thời gian riêng tư đi.
 
 
 
 
 
 *n_09
-By the way, why'd you bring your cookware all the way out here?
+À mà, sao anh lại mang cả dụng cụ nấu ăn đến tận đây?
 
 *d_10
-Oh, you don't know? 
-Eating outdoors hits so much differently than eating at home.
+Ồ, em không biết à?
+Ăn ngoài trời có cảm giác khác hẳn so với ăn ở nhà đấy.
 
 *n_11
-I see...
+Ra vậy...
 
 
 // ノエルのおなかが鳴る
 // 分岐: ノエルのおなかが空いている ===
 
 *n_12
-<m scary>Oh!</m>　
-<W3>Excuse me...
+<m scary>Ồ!</m>
+<W3>Xin lỗi...
 
 *d_13
-You look like you're starving.
+Trông em có vẻ đói lắm rồi.
 
 *n_14
-<m ple>How did you know!?
+<m ple>Sao anh biết!?
 
 *d_15
-When you've been cooking for as long as I have, you develop a sense for this stuff.
+Khi đã nấu ăn lâu như anh, em sẽ dần phát triển giác quan để nhận ra những chuyện như thế này.
 
 // 分岐: ノエルのおなかが空いてない ===
 *d_16
-You don't look very hungry, but you still want to eat? 
-Bit of a glutton, ain'tcha?
+Trông em không đói lắm, nhưng vẫn muốn ăn à?
+Đúng là đồ tham ăn nhỉ?
 
 *n_17
-N-no, it's just that...
-the smell of the campfire reminded me of our fireplace back home...
+K-Không phải, chỉ là...
+mùi lửa trại khiến em nhớ đến lò sưởi ở nhà thôi...
 
 // 分岐ここまで ===
 
 
 *n_18
-May I borrow your cookware for a minute?
+Anh cho em mượn dụng cụ nấu ăn một lát được không?
 
 *d_19
-Absolutely not. 
-I bet 5G you'd burn the whole forest down.
+Tuyệt đối không.
+Anh cá 5G là em sẽ thiêu rụi cả khu rừng mất.
 
 *n_20
-<I><m ple>No I won't! 
-<W2>How can you say that after you yourself taught me how to cook?!
+<I><m ple>Em sẽ không làm thế đâu!
+<W2>Sao anh có thể nói vậy sau khi chính anh đã dạy em nấu ăn chứ?!
 
 *d_21
-Geez, alright.
+Trời ạ, được rồi.
 
 *d_22
-But just this once. 
-And don't forget the food will spoil if you take it into battle.
+Nhưng chỉ lần này thôi.
+Và đừng quên thức ăn sẽ hỏng nếu em mang nó vào trận chiến.
 
 *d_23
-Also, no doing alchemy here. 
-I don't want you stinkin' up the place with all those weird ingredients.
+Ngoài ra, không được chế tạo giả kim ở đây.
+Anh không muốn em làm nơi này bốc mùi với đống nguyên liệu kỳ quặc đó.
 
 
 // 選択肢: 調理器具を借りる
@@ -563,74 +563,74 @@ I don't want you stinkin' up the place with all those weird ingredients.
 
 // 料理を済ませず後もう一度会話
 *___TildeNpc/t01r d_00
-Oh, ready to cook now? 
-Like I said, just this once.
+Ồ, giờ em muốn nấu ăn à?
+Như anh đã nói, chỉ lần này thôi đấy.
 
 
 
 // 料理を済ませた後もう一度会話
 *___TildeNpc/t01rc d_01
-Were you not listening? 
-I said only once.
+Em không nghe anh nói à?
+Anh đã bảo chỉ được một lần thôi mà.
 
 *n_02
-You're so mean.
+Anh thật xấu tính.
 
 *d_03
-Can you please just go? 
-I'm tryin' to read here.
+Em đi chỗ khác được không?
+Anh đang cố đọc sách đây.
 
 
 
 
 // ================================================================================================
-// 遭遇2回目 
+// 遭遇2回目
 
 
 
 
 *___TildeNpc/t02 d_00
-Hey, Noel. 
-How many times are we gonna keep bumpin' into each other?
+Này, Noel.
+Chúng ta còn định tình cờ gặp nhau bao nhiêu lần nữa đây?
 
 *n_01
-Isn't it dangerous for you to be camping out here so often?
+Anh thường xuyên cắm trại ở đây như vậy không thấy nguy hiểm sao?
 
 *d_02
-Nah, the monsters are more interested in chasing female elves than they are me, so don't worry. 
+Không đâu, quái vật có vẻ thích đuổi theo Elf nữ hơn là anh, nên đừng lo.
 *d_03
-Incidentally, how many BJ's have you given out since our last meeting?
+Nhân tiện, kể từ lần gặp trước đến giờ em đã "thổi kèn" bao nhiêu lần rồi?
 
 *n_04
-<I><m ple>Shut up!
+<I><m ple>Im đi!
 
 *d_05
-Ahaha. 
-Well, good luck keepin' 'em off you.
+Ahaha.
+Thôi thì, chúc em may mắn trong việc giữ chúng tránh xa mình nhé.
 
 *n_06
-If you really want to help, 
-let me use your cookware.
+Nếu anh thật sự muốn giúp thì
+hãy cho em dùng dụng cụ nấu ăn của anh đi.
 
 *d_07
-Fine. 
-Only once, same as before.
+Được thôi.
+Nhưng cũng chỉ một lần như trước.
 
 
 
 
 // 料理を作った後もう一度料理を作ろうとする
 *___TildeNpc/t02rc d_00
-Are you deaf? 
-You're lucky I'm letting you use it at all.
+Em giả nai à?
+Được anh cho dùng đã là may mắn lắm rồi đấy.
 
 *n_01
-But I still need more food...
+Nhưng em vẫn cần thêm thức ăn...
 *d_02
-Well then next time buy a lunchbox so you don't have to rely so much on my cookware. 
+Vậy thì lần sau mua hộp cơm đi, để khỏi phải phụ thuộc vào dụng cụ nấu ăn của anh nữa.
 *
-I know it's a bit expensive,
-but that's not my problem.
+Anh biết nó hơi đắt,
+nhưng đó không phải vấn đề của anh.
 
 
 
@@ -641,47 +641,47 @@ but that's not my problem.
 // 遭遇3回目
 
 *___TildeNpc/t03 n_00
-Hello, brother. How are you?
+Chào anh trai. Anh khỏe không?
 
 *d_01
-Not great. 
-The results of my fieldwork today weren't good. 
+Không được khỏe lắm.
+Kết quả công việc thực địa hôm nay không mấy khả quan.
 *
-The deadline for my report is coming up, so I'm going to work on it a bit more before heading home.
+Sắp đến hạn nộp báo cáo rồi, nên anh định làm thêm một chút trước khi về nhà.
 
 *n_02
-It's inspiring seeing you work so hard.
+Thật ngưỡng mộ khi thấy anh làm việc chăm chỉ như vậy.
 
 *d_03
-Bah, I don't put in half as much effort as you do...
+Ha, anh còn chẳng nỗ lực bằng một nửa em đâu...
 *
-Y'know, sometimes I see elves fighting monsters around here and it looks really rough. 
+Em biết không, đôi khi anh thấy Elf chiến đấu với quái vật quanh đây và trông vất vả thật sự.
 *
-Jumping around, trading blows, getting their mana drained...
-I don't think I'd be able to do it.
+Nhảy nhót, trao đổi chiêu thức, bị hút cạn mana...
+Anh không nghĩ mình có thể làm được đâu.
 
 *n_04
-Yeah, it's tough. 
-That's why I'm always so hungry.
+Ừ, đúng là vất vả thật.
+Đó là lý do lúc nào em cũng đói.
 *d_05
-...I'm sure you realize I'll only let you use my cookware once.
+...Chắc em cũng hiểu là anh chỉ cho em dùng dụng cụ nấu ăn một lần thôi.
 
 
 
 
 // 料理を作った後もう一度料理を作ろうとする
 *___TildeNpc/t03rc d_00
-I know cadets need to keep their stamina up, but come on...
+Anh biết học viên cần duy trì thể lực, nhưng thôi nào...
 
 *n_01
-What if the second dish is the difference between victory and death?
+Nếu món thứ hai là thứ quyết định giữa chiến thắng và cái chết thì sao?
 
 *d_02
-Don't push me on this, 
-you won't like what happens.
+Đừng ép anh chuyện này,
+em sẽ không thích những gì xảy ra tiếp theo đâu.
 
 *n_03
-Okay...
+Được rồi...
 
 
 
@@ -692,27 +692,27 @@ Okay...
 // 遭遇4回目・汎用
 
 *___TildeNpc/t04 n_00
-Hello, brother, 
-hope everything is going well.
+Chào anh trai,
+mong mọi chuyện vẫn ổn với anh.
 
 *d_01
-Same to you, Noel.
+Em cũng vậy nhé, Noel.
 
 
 
 
 // 料理を作った後もう一度料理を作ろうとする
 *___TildeNpc/t04rc d_00
-Wanna hear my favorite expression? 
+Muốn nghe câu nói yêu thích của anh không?
 *
-<i>“Even the best of friends respect each other's boundaries.” </i><W4>
-Got it?
+<i>“Ngay cả những người bạn thân nhất cũng phải tôn trọng ranh giới của nhau.”</i><W4>
+Hiểu chưa?
 
 *n_01
-S-sorry.
+E-Em xin lỗi.
 
 *d_02
-Only use my cookware once, okay?
+Chỉ được dùng dụng cụ nấu ăn của anh một lần thôi, nhé?
 
 
 // 
@@ -725,22 +725,22 @@ Only use my cookware once, okay?
 
 
 *___TildeNpc/t_torned01 n_00
-Uu... Tilde...
+Ư... Tilde...
 
 *d_01
-Whoa.
-I thought I heard a Noel-ish voice earlier. 
-Guess that was you.
+Ồ.
+Anh cứ tưởng mình vừa nghe thấy giọng ai đó giống Noel.
+Hóa ra là em thật.
 
 *n_02
-Sorry for showing up looking like this...
+Xin lỗi vì xuất hiện trong bộ dạng thế này...
 
 *d_03
-Yeah, you don't look so good. You should fix yourself up at one of those benches. 
-Got anything to wipe yourself down with?
+Ừ, trông em chẳng ổn chút nào. Em nên chỉnh trang lại ở một trong những chiếc băng ghế kia đi.
+Em có mang theo thứ gì để lau người không?
 
 *n_04
-Yes, but...um...
+Có, nhưng...ừm...
 
 *d_05
 ?
@@ -752,73 +752,73 @@ Yes, but...um...
 ...
 
 *d_07
-I guess you would be hungry after the workout you just had...
+Với buổi vận động vừa rồi, chắc em đói lắm rồi...
 *
-You can use my cookware if you like.
+Nếu muốn thì em có thể mượn dụng cụ nấu ăn của anh.
 
 
- 
+
 // 料理を済ませず後もう一度会話
 *___TildeNpc/t_torned01r d_00
-Oh, ready to cook now? 
-I forgot to mention it earlier, but I'll only let you borrow my cookware once.
+Ồ, giờ em muốn nấu ăn à?
+Anh quên nói lúc nãy, nhưng anh chỉ cho em mượn dụng cụ nấu ăn một lần thôi.
 
 
 
 // 料理を作った後もう一度料理を作ろうとする
 *___TildeNpc/t_torned01rc d_00
-I said you could use my cookware, but I meant just once.
+Anh đã nói em có thể dùng dụng cụ nấu ăn, nhưng ý anh là chỉ một lần thôi.
 
 *n_01
-Uu...but...
+Ư... nhưng mà...
 
 *d_02
-Be grateful I let you use it at all. 
-Now, c'mon, fix up your clothes and be on your way.
+Hãy biết ơn vì anh đã cho em dùng là được rồi.
+Nào, chỉnh trang lại quần áo rồi đi đi.
 
- 
+
 
 // ================================================================================================
 
 
 *___TildeNpc/t_torned02 d_00
-Again? 
-What do you keep doing to that outfit? 
-I thought it was important to you.
+Lại nữa à?
+Em cứ làm gì mà bộ đồ đó lúc nào cũng te tua thế?
+Anh tưởng nó quan trọng với em lắm mà.
 
 *n_01
-It is. That's why I do my best to repair it each time.
+Vâng. Vì thế lần nào em cũng cố hết sức để sửa lại nó.
 
 *d_02
-With that makeshift sewing kit? 
-Thing must be magical to work such miracles.
+Bằng bộ dụng cụ may vá tạm bợ đó à?
+Chắc nó phải có phép thuật mới tạo ra được những điều kỳ diệu như vậy.
 
 
 
 // 料理を済ませず後もう一度会話
 *___TildeNpc/t_torned02r d_00
-...What's with that look? 
+...Sao lại nhìn anh như thế?
 *
-Is it the expression of someone who wants to use my cookware but is too shy to ask so she just paces back and forth until I figure it out myself?
+Đó có phải vẻ mặt của một người muốn dùng dụng cụ nấu ăn của anh nhưng lại ngại mở lời, nên chỉ đi qua đi lại cho đến khi anh tự hiểu ra không?
 
 *n_01
-Y-yeah, that's pretty much it...
+V-Vâng, gần như là vậy...
 
 
 
 // 料理を作った後もう一度料理を作ろうとする
 *___TildeNpc/t_torned02rc d_00
-Stop acting like you don't already know what I'm going to say.
+Đừng giả vờ như em không biết anh sắp nói gì.
 
 *n_01
-Still no?
+Vẫn không được ạ?
 
 *d_02
-Barging into my camp covered in monster fluid is bad enough on its own. Be sure to wash the cookware extra thoroughly this time.
+Đã tự tiện xông vào khu cắm trại của anh với đầy dịch thể quái vật trên người là đủ lắm rồi. Lần này nhớ rửa dụng cụ nấu ăn thật kỹ vào nhé.
 
 
 *n_03
-Uu... sorry.
+Ư... em xin lỗi.
 
 
 
@@ -828,38 +828,38 @@ Uu... sorry.
 
 // 遭遇・ノエルがぼろぼろの状態3回目
 *___TildeNpc/t_torned03 d_00
-Is it just me, or is this becoming your normal appearance?
+Hay chỉ là anh tưởng tượng, hay đây đang dần trở thành diện mạo thường ngày của em vậy?
 
 *n_01
-N-not at all, must just be in your head.
+K-Không có đâu, chắc anh nghĩ nhiều quá thôi.
 
 *d_02
-Then how about you make an effort to show up like this less often.
+Vậy thì cố gắng đừng xuất hiện trong bộ dạng này thường xuyên nữa.
 *
-I don't like the idea of sharing a last name with a pervert who goes around exposing herself to strangers.
+Anh không muốn phải mang chung họ với một đứa biến thái cứ đi phơi bày cơ thể trước mặt người lạ đâu.
 
 *n_03
-I'll keep that in mind...
+Em sẽ ghi nhớ điều đó...
 
 
 // 料理を済ませず後もう一度会話
 *___TildeNpc/t_torned03r d_00
-Your ability to make decisions is as wavering as your clothes. If you want to cook, just do it.
+Khả năng đưa ra quyết định của em cũng thất thường chẳng kém gì bộ quần áo kia. Muốn nấu thì cứ nói đi.
 
 
 
 // 料理を作った後もう一度料理を作ろうとする
 *___TildeNpc/t_torned03rc d_00
-You realize your decisions also affect me, right? 
+Em biết những quyết định của mình cũng ảnh hưởng đến anh, đúng không?
 *
-As your brother, think about my reputation with my classmates the next time you go and do something embarrassing.
+Là anh trai em, hãy nghĩ đến danh tiếng của anh trước mặt bạn học mỗi khi em định làm chuyện gì đó đáng xấu hổ.
 
 *n_01
-I see... sorry...
+Em hiểu rồi... xin lỗi anh...
 
 *d_02
-Where did you even get such an attitude? 
-It's a shame our father has to put up with you.
+Không biết em học được cái thái độ đó từ đâu nữa.
+Thật đáng tiếc khi cha chúng ta phải chịu đựng em.
 
 
 
@@ -871,35 +871,35 @@ It's a shame our father has to put up with you.
 ...
 
 *n_01
-Um... Tilde...
+Ừm... Tilde...
 
 *d_02
-My, what an interesting book this is. 
+Chà, cuốn sách này thú vị thật đấy.
 *
-It's so captivating my perverted sister could use my cookware and I wouldn't even notice.
+Nó hấp dẫn đến mức cô em gái biến thái của anh có thể dùng dụng cụ nấu ăn mà anh cũng chẳng nhận ra.
 
 
 *n_03
-<think>......I guess that means I'm allowed to cook.
+<think>......Chắc điều đó có nghĩa là mình được phép nấu ăn.
 
 
 // 料理を済ませず後もう一度会話 or 料理を済ませた後もう一度会話
 *___TildeNpc/t_torned04r d_00
 ...
 *n_01
-<think>He's concentrating on his book.
+<think>Anh ấy đang tập trung đọc sách.
 
 
 // 料理を作った後もう一度料理を作ろうとする
 *___TildeNpc/t_torned04rc n_00
-Tilde, um...
-thank you for letting me use the cookware.
+Tilde, ừm...
+cảm ơn anh đã cho em dùng dụng cụ nấu ăn.
 
 *d_01
-Oh yeah, it would definitely suck having your sister walk around half-naked in the street. Could you imagine?
+Ồ đúng rồi, chắc sẽ tệ lắm nếu em gái anh đi khắp phố trong tình trạng gần như khỏa thân nhỉ. Em thử tưởng tượng xem?
 
 *n_02
-<think>Let's not embarrass him any further...
+<think>Mình nên dừng làm anh ấy thấy xấu hổ thêm nữa thì hơn...
 
 
 // ========================================================
@@ -907,34 +907,34 @@ Oh yeah, it would definitely suck having your sister walk around half-naked in t
 // ========================================================
 // 箱の代理オープン
 *___TildeNpc/t_open_box n_00
-Um, Tilde?
-Could you...open this chest for me?
+Ừm, Tilde?
+Anh có thể... mở chiếc rương này giúp em không?
 
 *d_01
-What? Why?
+Hả? Tại sao?
 
 *n_02
-You've always been good at getting what you want from them.
+Anh luôn rất giỏi trong việc lấy được thứ mình muốn từ những chiếc rương mà.
 *
-I've never been lucky, and um...
-well, I was hoping you could...
+Em thì chẳng bao giờ gặp may, nên... ừm...
+em đã hy vọng anh có thể...
 
 *d_03
-Geez, alright already. But just one.
+Trời ạ, được rồi. Nhưng chỉ một chiếc thôi đấy.
 
 
 *board_00
-The reel speed will be reduced 
-when opening a chest with Tilde at his camp. 
-If you're looking for something specific, 
-this may be your best chance.
+Tốc độ quay vòng sẽ giảm xuống
+khi mở rương cùng Tilde tại khu cắm trại của anh ấy.
+Nếu bạn đang tìm kiếm một món đồ cụ thể,
+đây có thể là cơ hội tốt nhất của bạn đó.
 
 // もう既に開けた場合
 
 *___TildeNpc/t_open_box_already d_00
-Wait, didn't I just open one for you?
+Khoan đã, chẳng phải anh vừa mở một chiếc cho em rồi sao?
 *
-I'm trying to read here. Come back later.
+Anh đang cố đọc sách đây. Lát nữa quay lại nhé.
 
 *n_10
-<think>Maybe if I <c5>raise the danger level and enough time has passed<c0>, he'll open another one for me...
+<think>Có lẽ nếu mình <c5>tăng cấp độ nguy hiểm và đợi đủ lâu<c0>, anh ấy sẽ mở thêm một chiếc rương nữa cho mình...

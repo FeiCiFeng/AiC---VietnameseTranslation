@@ -34,7 +34,7 @@
 &&GameMenu_map_fasttravel <img mesh="wmap_bench"/><i> Bạn có thể dịch chuyển tới ghế băng từng ngồi nghỉ trước đó. </i>
 
 &&SerTitle_burned Thiêu đốt
-&&SerDesc_burned BẠN ĐANG BỊ BỎNG LỬA! Hãy chờ ngọn lửa tự tàn hoặc nhảy xuống nước để dập tắt.
+&&SerDesc_burned BẠN ĐANG BỊ BỎNG LỬA! Chờ ngọn lửa tự tàn hoặc nhảy xuống nước để dập tắt.
 
 
 // ========================================================
@@ -42,45 +42,45 @@
 // ========================================================
 
 
-&&Bench_Cmd_cure_hp Recover HP
-&&Bench_Cmd_cure_cloth Repair clothes
-&&Bench_Cmd_cure_ep Masturbate
-&&Bench_Cmd_cure_egged Remove eggs
-&&Bench_Cmd_fast_travel Fast travel
-&&Bench_Cmd_save Save
+&&Bench_Cmd_cure_hp Hồi Phục HP
+&&Bench_Cmd_cure_cloth Sửa Quần Áo
+&&Bench_Cmd_cure_ep Thủ Dâm
+&&Bench_Cmd_cure_egged Loại Bỏ Trứng
+&&Bench_Cmd_fast_travel Di Chuyển Nhanh
+&&Bench_Cmd_save Lưu
 
-&&Bench_Cmd_pee Pee
-&&Bench_Cmd_pee_excrete Pee\n(Empty any eaten food)
-&&Bench_Cmd_shower Shower
-&&Bench_Cmd_shower_ep Shower (Reset arousal)
+&&Bench_Cmd_pee Đi tiểu
+&&Bench_Cmd_pee_excrete Đi tiểu\n(Thải bỏ thức ăn đã ăn)
+&&Bench_Cmd_shower Tắm
+&&Bench_Cmd_shower_ep Tắm (Đặt lại mức hưng phấn)
 
 
 
-&&Bench_execute_cure_hp HP restored.
-&&Bench_execute_cure_cloth Clothes repaired.
+&&Bench_execute_cure_hp Đã hồi phục HP.
+&&Bench_execute_cure_cloth Đã sửa quần áo.
 
 
 // ========================================================
 // MARK : SKILL
 // ========================================================
-&&Skill_tab_title_punch Attack
-&&Skill_tab_title_guard Defense
-&&Skill_tab_title_magic Magic
+&&Skill_tab_title_punch Tấn công
+&&Skill_tab_title_guard Phòng thủ
+&&Skill_tab_title_magic Phép thuật
 &&Skill_tab_title_hp HP
 &&Skill_tab_title_mp MP
 
-&&CheckBox_Use Use
-&&CheckBox_Auto_Bench Auto-perform
+&&CheckBox_Use Sử dụng
+&&CheckBox_Auto_Bench Tự động thực hiện
 
-&&Skill_title_punch Weak attack
+&&Skill_title_punch Đòn đánh thường
 &&Skill_manipulate_punch <key z/>
 
 // ========================================================
 // MARK : Enhancer
 // ========================================================
 
-&&Enhancer_cannot_change Cannot be changed during combat.
-&&Enhancer_desc_fav <key add/> Add to favorites
+&&Enhancer_cannot_change Không thể thay đổi trong lúc chiến đấu.
+&&Enhancer_desc_fav <key add/> Thêm vào yêu thích
 
 // ========================================================
 // MARK : Enemy Spot
@@ -88,7 +88,7 @@
 
 
 /* ___ Summoner__obtainable_dangerousness ___ */
-(Increased: &1)
+(Tăng thêm: &1)
 
 &&Summoner_dangerous_full &1 / &2
 &&Summoner_dangerous_weaken <font color="ff:#E19EF1">&1 / &2</font>
@@ -98,329 +98,329 @@
 // MARK : status effect
 // ========================================================
 
-&&Stat_food_time_left <font color="#FF2B79">【 Remaining: &1 】</font>
-&&Stat_not_eaten_anything I'm hungry...\n<font color="ff:#6D72FF">【Special effects of food are doubled if you eat when you are hungry!】</font>
+&&Stat_food_time_left <font color="#FF2B79">【 Thời gian còn lại: &1 】</font>
+&&Stat_not_eaten_anything Mình đói quá...\n<font color="ff:#6D72FF">【Hiệu ứng đặc biệt của thức ăn sẽ tăng gấp đôi nếu bạn ăn khi đang đói!】</font>
 
-&&Stat_Condition_Confuse_hide_hp_mp <font color="ff:#C41793">Hidden by the effect of Confusion Lv.2</font>
-&&Stat_Lv_Sizing    <font size="75%">Lv.&1</font>
-&&Stat_Lv    Lv.&1
-&&SerTitle_confuse    Confusion
-&&SerDesc_confuse    Up/down and left/right inputs are reversed.
-&&SerDesc_confuse_2   Your HP and MP are hidden.
-&&SerDesc_confuse_3    <font color="ff:#FF2B79">The status and item screen are garbled.</font>
+&&Stat_Condition_Confuse_hide_hp_mp <font color="ff:#C41793">Bị ẩn bởi hiệu ứng Hỗn Loạn cấp 2</font>
+&&Stat_Lv_Sizing    <font size="75%">Cấp.&1</font>
+&&Stat_Lv    Cấp.&1
+&&SerTitle_confuse    Hỗn Loạn
+&&SerDesc_confuse    Các phím điều hướng lên/xuống và trái/phải bị đảo ngược.
+&&SerDesc_confuse_2    HP và MP của bạn bị ẩn.
+&&SerDesc_confuse_3    <font color="ff:#FF2B79">Màn hình trạng thái và vật phẩm bị nhiễu loạn.</font>
 
 
-&&SerTitle_paralysis    Paralysis
-&&SerDesc_paralysis (Only in combat) Your body will sometimes go numb, causing you to fall down.
-&&SerDesc_paralysis_3   You can't run or dodge.\nThis status will not be removed until you are out of combat.
+&&SerTitle_paralysis    Tê Liệt
+&&SerDesc_paralysis (Chỉ trong chiến đấu) Cơ thể đôi lúc sẽ tê cứng, khiến bạn ngã xuống.
+&&SerDesc_paralysis_3 Bạn không thể chạy hoặc né tránh.\nTrạng thái này sẽ không biến mất cho đến khi bạn thoát khỏi chiến đấu.
 
-&&SerTitle_sleep    Sleep
-&&SerDesc_sleep    You've fallen asleep and cannot act until you wake up. If you receive damage, you will wake up slightly faster.
+&&SerTitle_sleep    Ngủ
+&&SerDesc_sleep Bạn đã ngủ thiếp đi và không thể hành động cho đến khi tỉnh dậy. Nếu nhận sát thương, bạn sẽ tỉnh nhanh hơn một chút.
 
-&&SerTitle_orgasm_after    Post-orgasm
-&&SerDesc_orgasm_after You've recently climaxed. You cannot run and your movement speed is reduced. Your MP gauge is more resistant to cracking, but you will recover less mana.
-&&SerDesc_orgasm_after_2 Mana recovery is significantly reduced. Escaping from an enemy's sexual restraining attack will be more difficult.
+&&SerTitle_orgasm_after Sau Cực Khoái
+&&SerDesc_orgasm_after Bạn vừa mới lên đỉnh. Bạn không thể chạy và tốc độ di chuyển bị giảm. Thanh MP khó bị nứt hơn, nhưng lượng mana hồi phục cũng giảm.
+&&SerDesc_orgasm_after_2 Lượng mana hồi phục giảm đáng kể. Bạn sẽ khó vùng vẫy khỏi các đòn cưỡng ép tình dục của quái vật hơn.
 
-&&SerTitle_frustrated    Frustrated
+&&SerTitle_frustrated    Bức Bối
 /* ___ SerDesc_frustrated ___ */
-You are sexually frustrated. 
-Escaping from an enemy's sexual restraining attack will be much more difficult.
-Mana recovery is significantly increased.
-If you stand still, you will involuntarily start pleasing yourself.
-This can be removed by reaching orgasm, but you will be inflicted with Post-orgasm Lv.2,
-and the inputs needed to recover will increase.
+Dục Vọng đang bừng cháy bên trong bạn.
+Bạn sẽ khó thoát khỏi các đòn cưỡng ép tình dục của quái vật hơn rất nhiều.
+Lượng mana hồi phục tăng đáng kể.
+Nếu đứng yên, bạn sẽ vô thức tự kích thích bản thân.
+Có thể loại bỏ trạng thái này bằng cách đạt cực khoái, nhưng bạn sẽ bị dính trạng thái Sau Cực Khoái cấp 2,
+và số lần thao tác cần thiết để hồi phục sẽ tăng lên.
 
-&&SerTitle_forbidden_orgasm  Orgasm Denial
-&&SerDesc_forbidden_orgasm Your Arousal Rate will not go above 95%. You will easily become Frustrated.
+&&SerTitle_forbidden_orgasm Kìm Hãm Sự Cực Khoái
+&&SerDesc_forbidden_orgasm Mức độ hưng phấn của bạn không thể vượt quá 95%. Bạn sẽ dễ rơi vào trạng thái Bức Bối.
 
-&&SerReject_run Can't run due to a status effect!
-&&SerReject_evade Can't dodge due to a status effect!
+&&SerReject_run Không thể chạy do ảnh hưởng của trạng thái!
+&&SerReject_evade Không thể né tránh do ảnh hưởng của trạng thái!
 
-&&corrupt_orgasm_after Noel is losing her strength from having her sensitive places attacked...
-&&corrupt_frustrated Noel is losing her strength from having her weak place attacked...
-&&corrupt_paralysis Noel's body is going numb...
-&&corrupt_forbidden I want to cum but I can't...!
+&&corrupt_orgasm_after Noel đang dần mất sức vì những điểm nhạy cảm bị tấn công...
+&&corrupt_frustrated Noel đang dần mất sức vì điểm yếu bị tấn công...
+&&corrupt_paralysis Cơ thể Noel đang dần tê cứng...
+&&corrupt_forbidden Mình muốn lên đỉnh nhưng không thể...!
 
 
 // ========================================================
 // MARK : Status Other UI
 // ========================================================
 
-&&Status_Tab_condition Status
-&&Status_Tab_food Food
-&&Status_Tab_sexual Sex
-&&Status_Tab_dangerousness Danger Level
-/* ___ Dangerousness_text ___ */ 
-Danger Level: &1
-/* ___ Dangerousness_weather ___ */ 
-Weather:
-/* ___ Dangerousness_weather2 ___ */ 
-Weather: &1
+&&Status_Tab_condition Trạng thái
+&&Status_Tab_food Thức ăn
+&&Status_Tab_sexual Tình dục
+&&Status_Tab_dangerousness Mức độ nguy hiểm
+/* ___ Dangerousness_text ___ */
+Mức độ nguy hiểm: &1
+/* ___ Dangerousness_weather ___ */
+Thời tiết:
+/* ___ Dangerousness_weather2 ___ */
+Thời tiết: &1
 
-&&Weather_normal Normal
-/* ___ Weather_desc_normal ___ */ 
-The usual, ordinary weather.
+&&Weather_normal Bình thường
+/* ___ Weather_desc_normal ___ */
+Thời tiết bình thường như mọi khi.
 
-&&Weather_wind Whirlwind
-/* ___ Weather_desc_wind ___ */ 
-Your spell chanting speed and enemies' movement speed are 50% faster.
+&&Weather_wind Gió Lốc
+/* ___ Weather_desc_wind ___ */
+Tốc độ niệm phép của bạn và tốc độ di chuyển của quái vật tăng 50%.
 
-&&Weather_init_log_wind  Strong winds are blowing...
+&&Weather_init_log_wind Gió mạnh đang thổi vi vu...
 
-&&Weather_thunder Thunder
-/* ___ Weather_desc_thunder ___ */ 
-Some enemies have a greater chance to spawn in a contaminated form.
+&&Weather_thunder Sấm Sét
+/* ___ Weather_desc_thunder ___ */
+Một số quái vật có tỷ lệ xuất hiện trong trạng thái ô nhiễm thể cao hơn.
 
-&&Weather_init_log_thunder A thunderstorm draws near...
+&&Weather_init_log_thunder Một cơn giông đang đến gần...
 
-&&Weather_mist Fog
-/* ___ Weather_desc_mist ___ */ 
-Mana plants generate twice as much mana.
-Enemies will also be able to absorb gold-colored mana.
-The maximum Contaminated count will go up by 1.
+&&Weather_mist Sương Mù
+/* ___ Weather_desc_mist ___ */
+Cây Mana tạo ra lượng mana gấp đôi.
+Quái vật cũng có thể hấp thụ mana vàng.
+Số lượng nhiễm thể tối đa tăng thêm 1.
 
-&&Weather_init_log_mist A fog rolls in...
+&&Weather_init_log_mist Sương mù đang kéo đến...
 
-&&Weather_drought Drought
-/* ___ Weather_desc_drought ___ */ 
-Mana plants generate only 25% of their usual mana.
-Both you and all enemies will lose mana more easily from attacks.
-Enemies will spawn with more mana.
+&&Weather_drought Hạn Hán
+/* ___ Weather_desc_drought ___ */
+Cây Mana chỉ tạo ra 25% lượng mana thông thường.
+Cả bạn và tất cả quái vật đều dễ mất mana hơn khi bị tấn công.
+Quái vật xuất hiện với lượng mana lớn hơn.
 
-&&Weather_init_log_drought  The mana is getting thinner...
+&&Weather_init_log_drought Mana trong không khí đang loãng dần...
 
-&&Weather_mist_dense Heavy Fog
-/* ___ Weather_desc_mist_dense ___ */ 
-Mana plants generate three times as much mana.
-Enemies will also be able to absorb gold-colored mana.
-Your surroundings will be very difficult to see.
+&&Weather_mist_dense Sương Mù Dày Đặc
+/* ___ Weather_desc_mist_dense ___ */
+Cây Mana tạo ra lượng mana gấp ba.
+Quái vật cũng có thể hấp thụ mana vàng.
+Tầm nhìn xung quanh sẽ bị hạn chế nghiêm trọng.
 
-&&Weather_init_log_mist_dense  The fog thickens...
+&&Weather_init_log_mist_dense Sương mù đang dày lên...
 
-&&Weather_plague Plague
-/* ___ Weather_desc_plague ___ */ 
-Both you and all enemies have a significantly higher chance of getting status effects.
+&&Weather_plague Dịch Bệnh
+/* ___ Weather_desc_plague ___ */
+Cả bạn và tất cả quái vât đều có tỷ lệ chịu ảnh hưởng của các trạng thái bất lợi cao hơn đáng kể.
 
-&&Weather_init_log_plague  My skin itches...
+&&Weather_init_log_plague Da mình ngứa quá...
 
 // ========================================================
 // MARK : Item
 // ========================================================
-&&Item_dbox_water_cannot_obtain　　You don't have an empty bottle.
-&&Item_desc_suffix_water_needs_empty_bottle　　You need an empty bottle to carry this.
+&&Item_dbox_water_cannot_obtain　　Bạn không có chai rỗng.
+&&Item_desc_suffix_water_needs_empty_bottle　　Bạn cần một chai rỗng để đựng thứ này.
 
-&&Item_list_sort_newer Sort by: New
-&&Item_list_sort_kind Sort by: Type
-&&Item_list_sort_abc Sort by: Name
-&&Item_list_sort_price Sort by: Price
-&&Item_list_sort_cost Sort by: Cost
-&&Item_list_sort_equip Sort by: Equipped
+&&Item_list_sort_newer Sắp xếp theo: Mới nhất
+&&Item_list_sort_kind Sắp xếp theo: Phân Loại
+&&Item_list_sort_abc Sắp xếp theo: Tên
+&&Item_list_sort_price Sắp xếp theo: Giá
+&&Item_list_sort_cost Sắp xếp theo: Chi phí
+&&Item_list_sort_equip Sắp xếp theo: Đang trang bị
 
 // Items: with noel, at home, precious items
-&&Item_Tab_main Inventory
-&&Item_Tab_house Storage
-&&Item_Tab_precious Precious Items
+&&Item_Tab_main Túi đồ
+&&Item_Tab_house Kho chứa
+&&Item_Tab_precious Vật phẩm quý
 
-&&Inventory_noel Inventory
-&&Inventory_house Storage
-&&Inventory_precious Precious Items
-&&Inventory_enhancer Enhancers
+&&Inventory_noel Túi đồ
+&&Inventory_house Kho chứa
+&&Inventory_precious Vật phẩm quý
+&&Inventory_enhancer Cường hóa
 
-&&Inventory_stackable Stackables
+&&Inventory_stackable Vật phẩm có thể xếp chồng
 
-&&Item_cmd_lunchtime Use as food
-&&Item_cmd_move Manage items
+&&Item_cmd_lunchtime Dùng làm thức ăn
+&&Item_cmd_move Quản lý vật phẩm
 
-&&object_singular_vowel an &1
-&&object_singular_consonant a &1
-&&cannot_take_need_container_item You need &1 to carry this.
-&&cannot_take_need_enough_room Your inventory is full.
-&&cannot_take_other_reason You cannot take this for some reason. // Debug txt
+&&object_singular_vowel một &1
+&&object_singular_consonant một &1
+&&cannot_take_need_container_item Bạn cần &1 để chứa thứ này.
+&&cannot_take_need_enough_room Túi đồ đã đầy.
+&&cannot_take_other_reason Vì lý do nào đó, bạn không thể lấy thứ này. // Debug txt
 
-&&KD_start_manage <key add/>Manage items
-&&KD_itemmove_whole <key add/>Move item to &1 <key shift/>Switch view
+&&KD_start_manage <key add/>Quản lý vật phẩm
+&&KD_itemmove_whole <key add/>Chuyển vật phẩm đến &1 <key shift/>Đổi góc nhìn
 
 // ========================================================
 // MARK : Scenario
 // ========================================================
-&&Scenario_Tab_main Main Story
-&&Scenario_Tab_backlog Chat Log
+&&Scenario_Tab_main Cốt Truyện Chính
+&&Scenario_Tab_backlog Nhật Ký Thoại
 
 // ========================================================
 // MARK : Store
 // ========================================================
-&&cmd_buy Buy
-&&cmd_sell Sell
-&&cmd_cart Shopping Cart
-&&cmd_checkout Checkout
-&&cmd_checkout_submit Confirm
-&&cmd_checkout_abort Discard
+&&cmd_buy Mua
+&&cmd_sell Bán
+&&cmd_cart Giỏ hàng
+&&cmd_checkout Thanh toán
+&&cmd_checkout_submit Xác nhận
+&&cmd_checkout_abort Hủy bỏ
 
-&&Store_title_buy Buy items
-&&Store_title_sell Sell items
-&&Store_title_checkout Finalize your purchase and proceed to payment?
+&&Store_title_buy Mua vật phẩm
+&&Store_title_sell Bán vật phẩm
+&&Store_title_checkout Hoàn tất giao dịch và tiến hành thanh toán?
 
-&&Store_prompt_title_buy Buy how many?
-&&Store_prompt_title_sell Sell how many?
-&&Store_selling_precious_things This is important. I shouldn't sell it.
+&&Store_prompt_title_buy Muốn mua bao nhiêu?
+&&Store_prompt_title_sell Muốn bán bao nhiêu?
+&&Store_selling_precious_things Đây là thứ quan trọng. Mình không nên bán nó.
 
 
-&&Store_checkout_product <font size="16">(Buying &1 item(s))</font>
-&&Store_checkout_selling <font size="16">(Selling &1 item(s))</font>
-&&Store_checkout_after Balance: &1
+&&Store_checkout_product <font size="16">(Mua &1 vật phẩm)</font>
+&&Store_checkout_selling <font size="16">(Bán &1 vật phẩm)</font>
+&&Store_checkout_after Số dư: &1
 
-&&Store_no_enough_money <b>I don't have enough money...</b>
+&&Store_no_enough_money <b>Mình không đủ tiền...</b>
 
-&&Store_topright_buying Amount in stock
+&&Store_topright_buying Số lượng trong kho
 
-&&item_tab_product Product
+&&item_tab_product Sản phẩm
 
-&&item_tab_cart_buy Items to buy
-&&item_tab_cart_sell Items to sell
+&&item_tab_cart_buy Vật phẩm muốn mua
+&&item_tab_cart_sell Vật phẩm muốn bán
 
-&&product_count In stock: &1
-&&selling_count To sell: &1
+&&product_count Còn trong kho: &1
+&&selling_count Số lượng muốn bán: &1
 
-&&buying_price_count Spending: &1
-&&selling_price_count Gaining: &1
+&&buying_price_count Chi tiêu: &1
+&&selling_price_count Thu về: &1
 
-&&Store_desc_cancel <key cancel/>Return 
-&&Store_desc_buying <key add/>Add 1 to cart
-&&Store_desc_buying_turnback <key rem/>Remove 1
-&&Store_desc_selling <key add/>Sell 1
-&&Store_desc_selling_turnback <key rem/>Remove 1
+&&Store_desc_cancel <key cancel/>Quay lại
+&&Store_desc_buying <key add/>Thêm 1 vào giỏ
+&&Store_desc_buying_turnback <key rem/>Bỏ 1
+&&Store_desc_selling <key add/>Bán 1
+&&Store_desc_selling_turnback <key rem/>Bỏ 1
 
-&&inventory_count Inventory: &1
+&&inventory_count Túi đồ: &1
 
 
 // ========================================================
 // MARK : Alchemy
 // ========================================================
 
-&&Item_for_food_cost Total Cost: &1
-&&Item_for_food_cost_and_category Food Cost: &1 (&2 )
-&&Item_for_food_effect Special Effects: \n 
+&&Item_for_food_cost Tổng chi phí: &1
+&&Item_for_food_cost_and_category Chi phí thức ăn: &1 (&2 )
+&&Item_for_food_effect Hiệu ứng đặc biệt: \n
 &&Item_for_food_effect_content &1 (&2)
-&&Item_for_food_no_effect Special Effects: None
+&&Item_for_food_no_effect Hiệu ứng đặc biệt: Không có
 
 
-&&Alchemy_recipe_is_useable Usable
-&&Submit_alchemy <font size="20">Perform Alchemy</font>
-&&Submit_cook <font size="20">Start Cooking</font>
-&&alchemy_back_to_parent Return to making &1
+&&Alchemy_recipe_is_useable Có thể sử dụng
+&&Submit_alchemy <font size="20">Tiến hành giả kim</font>
+&&Submit_cook <font size="20">Bắt đầu nấu ăn</font>
+&&alchemy_back_to_parent Quay lại chế tạo &1
 
-&&alchemy_ingredient_title Ingredients required to make <b>&1</b>
-&&alchemy_effect Pow: &1%
-&&alchemy_completion_image The image of a complete &1 will be shown here
+&&alchemy_ingredient_title Nguyên liệu cần thiết để làm ra <b>&1</b>
+&&alchemy_effect Sức mạnh: &1%
+&&alchemy_completion_image Hình ảnh hoàn chỉnh của &1 sẽ hiển thị tại đây
 
-&&alchemy_auto_q Aim for Quality
-&&alchemy_auto_cost Aim for Cost
-&&alchemy_auto_kind Item Type
-&&alchemy_auto_quantity Input Amount
+&&alchemy_auto_q Ưu tiên chất lượng
+&&alchemy_auto_cost Ưu tiên chi phí
+&&alchemy_auto_kind Phân loại vật phẩm
+&&alchemy_auto_quantity Số lượng đưa vào
 
-&&alchemy_auto_few From least
-&&alchemy_auto_enough From most
-&&alchemy_auto_random_alchemy Up to the alchemist
-&&alchemy_auto_random_cook Up to the chef
+&&alchemy_auto_few Từ ít đến nhiều
+&&alchemy_auto_enough Từ nhiều đến ít
+&&alchemy_auto_random_alchemy Để nhà giả kim quyết định
+&&alchemy_auto_random_cook Để đầu bếp quyết định
 
-&&alchemy_auto_quantity_minimum Minimum Required
-&&alchemy_auto_quantity_maximum As much as possible
-
-
-&&alchemy_auto_confirm Submit selection
-&&alchemy_auto_previous Use previous recipe
-
-&&alchemy_auto_cannot_create I don't have enough material...
-&&alchemy_manual_create Manually create
-
-&&alchemy_auto_high_cost Go full load
-&&alchemy_auto_low_cost Just a little bit
-
-&&alchemy_keydesc_confirm_randomize_all <key add/>Randomize (All)
-&&alchemy_keydesc_confirm <key rem/>Undo <key shift/>+<key rem/>Reset (All)
-
-&&alchemy_keydesc_ingredient_empty <key submit/>Select an item <key add/>Randomly select
-&&alchemy_keydesc_ingredient <key submit/>Select an item <key add/>Randomly select <key rem/>Undo <key shift/>+<key rem/>Reset
-
-&&alchemy_keydesc_content_sendback <key rem/>Undo
-&&KD_cancel <key cancel/>Cancel
-&&alchemy_keydesc_content_basic <key submit/>Submit
-&&alchemy_keydesc_content_basic_enough <key_s submit/>Submit
-&&alchemy_keydesc_content_recipe <key add/>Make
-&&alchemy_keydesc_content_recipe_enough <key_s add/>Make
-&&alchemy_keydesc_content_recipe_cannot <key_s add/>You don't have this item's recipe.
-
-&&item_current_obtain Currently holding: \n&1
-&&item_create_count Make &1
+&&alchemy_auto_quantity_minimum Số lượng tối thiểu cần thiết
+&&alchemy_auto_quantity_maximum Nhiều nhất có thể
 
 
+&&alchemy_auto_confirm Xác nhận lựa chọn
+&&alchemy_auto_previous Dùng công thức trước đó
 
-&&alchemy_complete <font size="22">Made </font><font size="28"><font color="ff:#FA6234">&1</font> !</font>
+&&alchemy_auto_cannot_create Mình không đủ nguyên liệu...
+&&alchemy_manual_create Tự chế tạo
 
-&&alchemy_complete_multi <font size="22">Made &2 </font><font size="28"><font color="ff:#FA6234">&1</font>s! </font>
+&&alchemy_auto_high_cost Dùng hết nguyên liệu
+&&alchemy_auto_low_cost Chỉ dùng một ít
 
-&&alchemy_complete_inventory_over But my bag is almost full... (&1 Remaining)
+&&alchemy_keydesc_confirm_randomize_all <key add/>Ngẫu nhiên (Tất cả)
+&&alchemy_keydesc_confirm <key rem/>Hoàn tác <key shift/>+<key rem/>Đặt lại (Tất cả)
 
-&&alchemy_btn_eat_in Eat here
-&&alchemy_btn_cancel Cancel
-&&alchemy_btn_drop Confirm (Throw away excess)
+&&alchemy_keydesc_ingredient_empty <key submit/>Chọn vật phẩm <key add/>Chọn ngẫu nhiên
+&&alchemy_keydesc_ingredient <key submit/>Chọn vật phẩm <key add/>Chọn ngẫu nhiên <key rem/>Hoàn tác <key shift/>+<key rem/>Đặt lại
 
-&&alchemy_success <i>Alchemy success!</i>
-&&cook_success <i>Cooking success!</i>
+&&alchemy_keydesc_content_sendback <key rem/>Hoàn tác
+&&KD_cancel <key cancel/>Hủy
+&&alchemy_keydesc_content_basic <key submit/>Xác nhận
+&&alchemy_keydesc_content_basic_enough <key_s submit/>Xác nhận
+&&alchemy_keydesc_content_recipe <key add/>Chế tạo
+&&alchemy_keydesc_content_recipe_enough <key_s add/>Chế tạo
+&&alchemy_keydesc_content_recipe_cannot <key_s add/>Bạn chưa có công thức của vật phẩm này.
+
+&&item_current_obtain Đang có: \n&1
+&&item_create_count Chế Tạo &1
+
+
+
+&&alchemy_complete <font size="22">Đã tạo ra </font><font size="28"><font color="ff:#FA6234">&1</font>!</font>
+
+&&alchemy_complete_multi <font size="22">Đã tạo ra &2 </font><font size="28"><font color="ff:#FA6234">&1</font>!</font>
+
+&&alchemy_complete_inventory_over Nhưng túi đồ của mình gần đầy rồi... (Còn lại &1)
+
+&&alchemy_btn_eat_in Thưởng thức tại chỗ
+&&alchemy_btn_cancel Hủy
+&&alchemy_btn_drop Xác nhận (Vứt bỏ phần thừa)
+
+&&alchemy_success <i>Giả kim thành công!</i>
+&&cook_success <i>Nấu ăn thành công!</i>
 
 // ========================================================
 // MARK : Lunch time
 // ========================================================
-&&lunch_detail_effect This food's information:
-&&lunch_detail_ingredient This food's recipe
+&&lunch_detail_effect Thông tin món ăn:
+&&lunch_detail_ingredient Công thức món ăn
 
 
-&&lunch_stomach_pre Current status:
-&&lunch_stomach_after Status after eating:
-&&lunch_effect_double <font color="ff:#6D72FF"><b>\< Empty Tummy Bonus (&1 times as effective!) \></b></font>
-&&lunch_effect_double_s <font color="ff:#6D72FF">【Empty Tummy Bonus】</font>
-&&lunch_cost_burst <font color="ff:#A00B35">\< You will be too full to finish this (&1% less effective) \></font>
-&&lunch_confirm_full_header <font color="ff:#A00B35">\< I'm too full to eat anymore... \></font>
+&&lunch_stomach_pre Trạng thái hiện tại:
+&&lunch_stomach_after Trạng thái sau khi ăn:
+&&lunch_effect_double <font color="ff:#6D72FF"><b>\< Thưởng Bụng Đói (&1 lần hiệu quả!) \></b></font>
+&&lunch_effect_double_s <font color="ff:#6D72FF">【Thưởng Bụng Đói】</font>
+&&lunch_cost_burst <font color="ff:#A00B35">\< Bạn sẽ quá no để ăn hết món này (hiệu quả giảm &1%) \></font>
+&&lunch_confirm_full_header <font color="ff:#A00B35">\< Mình no quá, không ăn thêm được nữa... \></font>
 
-&&lunch_confirm Eat <b>“&1”</b>?
-&&lunch_confirm_double <font color="ff:#6D72FF">Food tastes better when you are hungry! </font>
-&&lunch_confirm_burst <font color="ff:#A00B35">I'll be too full to finish it</font>.\nEat <b>“&1”</b> anyway?
-&&lunch_confirm_dupe <font color="ff:#B828AC">I probably won't get enough nutrition</font>.\nEat <b>“&1”</b> anyway?
-&&lunch_confirm_full <font color="ff:#A00B35">I'm too full...</font>
+&&lunch_confirm Ăn <b>“&1”</b>?
+&&lunch_confirm_double <font color="ff:#6D72FF">Khi đói, thức ăn sẽ ngon hơn! </font>
+&&lunch_confirm_burst <font color="ff:#A00B35">Mình sẽ no đến mức không thể ăn hết món này</font>.\nVẫn ăn <b>“&1”</b> chứ?
+&&lunch_confirm_dupe <font color="ff:#B828AC">Có lẽ mình sẽ không nhận đủ chất dinh dưỡng</font>.\nVẫn ăn <b>“&1”</b> chứ?
+&&lunch_confirm_full <font color="ff:#A00B35">Mình no quá rồi...</font>
 
 
 &&lunch_tag_burst <font color="ff:#A00B35">
 &&lunch_tag_dupe <font color="ff:#B828AC"><img mesh="alert_triangle" width="20" tx_color />
 &&lunch_tag_added <font color="ff:#6D72FF">
-&&lunch_suffix_dupe <font color="ff:#B828AC"><img mesh="alert_triangle" width="20" tx_color />There is a duplicate of this food.</font> 
-&&stomach_no_effect No special effects
+&&lunch_suffix_dupe <font color="ff:#B828AC"><img mesh="alert_triangle" width="20" tx_color />Món ăn này bị trùng lặp.</font>
+&&stomach_no_effect Không có hiệu ứng đặc biệt
 
 
 
 // ========================================================
 // MARK : Treasure box reel
 // ========================================================
-&&Reel_keydesc_prepare <key submit/><key menu/>Open Treasure Chest(s)
-&&Reel_keydesc_opening_finished <key submit/><key menu/>Collect Item <key cancel/>Cancel
-&&Reel_keydesc_opening Hold <key submit/><key menu/> Stop reel
-&&Reel_keydesc_detail Reel List
+&&Reel_keydesc_prepare <key submit/><key menu/>Mở rương báu
+&&Reel_keydesc_opening_finished <key submit/><key menu/>Nhận vật phẩm <key cancel/>Hủy
+&&Reel_keydesc_opening Giữ <key submit/><key menu/> để dừng vòng quay
+&&Reel_keydesc_detail Danh sách vòng quay
 
-&&Reel_detail_reel_title Reel details
-&&Reel_keydesc_cancel <key shift/><key cancel/>Cancel
-// &&Reel_keydesc_detail_itembox <key submit/>Open this treasure chest <key sort/><key cancel/>Cancel
+&&Reel_detail_reel_title Chi tiết vòng quay
+&&Reel_keydesc_cancel <key shift/><key cancel/>Hủy
+// &&Reel_keydesc_detail_itembox <key submit/>Mở rương báu này <key sort/><key cancel/>Hủy
 
 
-&&Reel_etype_prefix     Reel: &1
-&&Reel_etype_GRADE1     Grade+
-&&Reel_etype_COUNT_ADD1 Amount+
-&&Reel_etype_COUNT_MUL1 Amount×
-&&Reel_etype_ADD_MONEY  Money+
-&&Reel_etype_RANDOM     Lucky Bag
-&&Reel_etype_RARE_ADD1  Rarity+
-&&Reel_etype_GRADE2     Grade++
-&&Reel_etype_COUNT_ADD2     Amount++
-&&Reel_etype_GRADE3    Grade+++
-&&Reel_etype_COUNT_ADD3    Amount+++
+&&Reel_etype_prefix     Vòng quay: &1
+&&Reel_etype_GRADE1     Cấp+
+&&Reel_etype_COUNT_ADD1 Số lượng+
+&&Reel_etype_COUNT_MUL1 Số lượng×
+&&Reel_etype_ADD_MONEY  Tiền+
+&&Reel_etype_RANDOM     Túi May Mắn
+&&Reel_etype_RARE_ADD1  Độ hiếm+
+&&Reel_etype_GRADE2     Cấp++
+&&Reel_etype_COUNT_ADD2     Số lượng++
+&&Reel_etype_GRADE3    Cấp+++
+&&Reel_etype_COUNT_ADD3    Số lượng+++
 
 
 
@@ -428,124 +428,124 @@ Both you and all enemies have a significantly higher chance of getting status ef
 // MARK : 2202 追加分
 // ========================================================
 
-&&SerTitle_parasitised    Parasitised
+&&SerTitle_parasitised Bị Ký Sinh
 /* ___ SerDesc_parasitised ___ */
-Your HP will be drained bit by bit.
-This status will remain until the parasite is removed.
+HP của bạn sẽ bị rút dần từng chút một.
+Trạng thái này sẽ kéo dài cho đến khi ký sinh trùng bị loại bỏ.
 
-&&Store_selling_food It's mine.
-&&alchemy_never_created I have never cooked this dish.
+&&Store_selling_food Món này là của mình.
+&&alchemy_never_created Mình chưa từng nấu món này.
 
-&&Item_cmd_takeout_food Remove from Lunch Box
-&&Item_cmd_pack_in_box Pack in Lunch Box
+&&Item_cmd_takeout_food Lấy khỏi Hộp Đựng Đồ Ăn
+&&Item_cmd_pack_in_box Cho vào Hộp Đựng Đồ Ăn
 
 
-&&Bench_Cmd_wait_nightingale Wait for merchant
+&&Bench_Cmd_wait_nightingale Chờ nữ thương nhân
 // &&Bench_Cmd_reset_ep_level 性的興奮のしやすさの調整
-&&Bench_Cmd_reset_all Restore defaults
-&&Bench_Cmd_fast_travel_home Go home
-&&Alert_no_magic_puzzle You cannot use any spell here.
-&&Alert_cannot_fast_travel Fast-traveling is not allowed at night or in the rain.
-&&Alert_dangerous <font size="16"><b><img mesh="alert" tx_color /> Danger: This fight will be difficult with your current equipment.</b></font>
+&&Bench_Cmd_reset_all Khôi phục mặc định
+&&Bench_Cmd_fast_travel_home Về nhà
+&&Alert_no_magic_puzzle Bạn không thể sử dụng phép thuật ở đây.
+&&Alert_cannot_fast_travel Không thể di chuyển nhanh vào ban đêm hoặc khi trời mưa.
+&&Alert_dangerous <font size="16"><b><img mesh="alert" tx_color /> Nguy hiểm: Với trang bị hiện tại thì trận chiến này sẽ rất khó khăn.</b></font>
 
-&&Bench_execute_cure_mp Recovered MP and restored MP gauge.
-
-
-&&Alert_bench_execute_scenario_locked You can't do that right now.
-&&Alert_bench_execute_only_in_safe_area Can only be used at home.
-&&Alert_no_need_lay_egg No eggs to remove.
-&&Alert_layed_egg Eggs have been removed...
-&&Alert_no_pee_go_out Nothing to expel.
-&&Alert_no_content_in_stomach I'm hungry...
-&&Alert_stomach_item_lost Effect of &1 is no longer effective.
-&&Alert_dishes_rotten &1 food(s) have spoiled...
-&&Alert_no_nightingale The merchant didn't show up.
-
-&&Alert_item_reduced I lost &2 &1(s).
-&&Alert_item_reduced_laevi I gave &2 &1(s) to my sister.
-
-&&Bench_Cmd_cure_mp Recover MP<img mesh="wholemap_house" tx_color />
+&&Bench_execute_cure_mp Đã hồi phục MP và khôi phục thanh MP.
 
 
-&&Bench_Cmd_shower_clean_cure_cloth Repair clothes\n& cleanse self
-&&Bench_Cmd_shower_cure_cloth Repair clothes
-&&Bench_Cmd_shower_clean Cleanse self
+&&Alert_bench_execute_scenario_locked Hiện tại bạn không thể làm điều đó.
+&&Alert_bench_execute_only_in_safe_area Chỉ có thể sử dụng ở nhà.
+&&Alert_no_need_lay_egg Không có trứng nào cần loại bỏ.
+&&Alert_layed_egg Đã loại bỏ trứng...
+&&Alert_no_pee_go_out Không có gì để thải ra.
+&&Alert_no_content_in_stomach Mình đói quá...
+&&Alert_stomach_item_lost Hiệu ứng của &1 đã hết tác dụng.
+&&Alert_dishes_rotten &1 món ăn đã bị hỏng...
+&&Alert_no_nightingale Thương nhân không xuất hiện.
 
-&&Bench_Cmd_restroom_cure_egged Remove eggs
-&&Bench_Cmd_cure_ep_sensitivity Reset sensitivity (WIP)
+&&Alert_item_reduced Đã mất &2 &1.
+&&Alert_item_reduced_laevi Đã đưa &2 &1 cho chị gái.
+
+&&Bench_Cmd_cure_mp Hồi phục MP<img mesh="wholemap_house" tx_color />
+
+
+&&Bench_Cmd_shower_clean_cure_cloth Sửa quần áo\n& làm sạch cơ thể
+&&Bench_Cmd_shower_cure_cloth Sửa quần áo
+&&Bench_Cmd_shower_clean Làm sạch cơ thể
+
+&&Bench_Cmd_restroom_cure_egged Loại bỏ trứng
+&&Bench_Cmd_cure_ep_sensitivity Đặt lại độ nhạy cảm (Đang phát triển)
 
 // &&Bench_Cmd_cure_ep_sensitivity 性的興奮のしやすさの調整
 
 
 
 
-&&Summoner_reward Reward:
-&&Summoner_no_reward No Reward
+&&Summoner_reward Phần thưởng:
+&&Summoner_no_reward Không có phần thưởng
 
 /* ___ WarpConfirm_having_food ___ */
-There's &1 dish(es) in your inventory that are not in the Lunch Box.
-At the end of any battle, all dishes will spoil and become inedible.
-Really go out?
+Có &1 món ăn trong túi đồ nhưng không nằm trong Hộp Cơm.
+Sau mỗi trận chiến, tất cả món ăn sẽ bị ôi thiu và không thể ăn được.
+Vẫn muốn ra ngoài chứ?
 
 /* ___ current_dangerous ___ */
-Current Danger Level: &1
+Cấp độ nguy hiểm hiện tại: &1
 /* ___ WarpConfirm_treasurebox ___ */
-Open all treasure chests now and return home?
+Mở tất cả rương ngay bây giờ rồi về nhà?
 
 
 /* ___ WarpConfirm_returnback ___ */
-Really return home?
+Thật sự muốn về nhà chứ?
 
 /* ___ WarpConfirm_nightingale ___ */
-Wait for Nightingale. This will decrease your fullness.
-There is no guarantee she will show up.
+Chờ Nightingale. Việc này sẽ khiến bụng bạn vơi đi.
+nhưng không đảm bảo cô ấy chắc chắn sẽ xuất hiện.
 
 
-&&Submit_goout    Confirm and leave
-&&Submit_deposit_goout    Store food and leave
-&&Submit_gohome    Go home
-&&Submit_gohome_opening_box Open all chests and go home
-&&Submit_wait    Wait
+&&Submit_goout    Xác nhận và rời đi
+&&Submit_deposit_goout    Cất thức ăn và rời đi
+&&Submit_gohome     Về nhà
+&&Submit_gohome_opening_box Mở tất cả rương rồi về nhà
+&&Submit_wait    Chờ
 
-&&Alert_depositted_food &1 food(s) has been placed in Storage.
+&&Alert_depositted_food Đã cất &1 món ăn vào Kho chứa.
 
-&&alchemy_ingredient_or Fill in one of the rows:
-
-
-
-&&Config_Btn_QuitGame Quit game
-&&Confirm_QuitGame Really quit?
-&&Submit_Quit Quit
-&&Submit_GoToTitle Back to Title
+&&alchemy_ingredient_or Điền vào một trong các hàng sau:
 
 
-&&SerTitle_burst_tired    Fainted
-&&SerDesc_burst_tired     Using Holy Burst with insufficient mana has taken a serious toll on your mind.\nYou are unable to take any action until you recover.
+
+&&Config_Btn_QuitGame Thoát trò chơi
+&&Confirm_QuitGame Bạn thật sự muốn thoát chứ?
+&&Submit_Quit Thoát
+&&Submit_GoToTitle Quay về tiêu đề
+
+
+&&SerTitle_burst_tired    Bất tỉnh
+&&SerDesc_burst_tired     Việc sử dụng Bộc Phá Thánh Quang khi không đủ mana đã gây tổn hại nghiêm trọng đến tinh thần của bạn.\nBạn không thể hành động cho đến khi hồi phục.
 
 
 // ========================================================
 // MARK : 220518 (ver0.20k)
 // ========================================================
-&&Reel_tab_item Item Chest Reel
-&&Reel_tab_effect Effect Reel
-&&Reel_need_subtract You may hold up to &1 Effect Reels.\nYou must discard &2 of them before opening the Chest Reels.
-&&Reel_subtract_confirm Discard the &1 selected effect reels.\nAre you sure?
-&&Submit_discard Discard
-&&KeyDesc_discard_add <key add/>Select
-&&KeyDesc_discard_add_submit <key submit/><key add/>Select
-&&KeyDesc_discard_rem <key rem/>Deselect
-&&KeyDesc_discard_enable_submit <key sort/><key cancel/>Complete
-&&KeyDesc_discard_disable_submit <key_s a/><key_s cancel/>Complete
+&&Reel_tab_item Cuộn Rương Vật Phẩm
+&&Reel_tab_effect Hiệu Ứng Cuộn Rương
+&&Reel_need_subtract Bạn chỉ có thể giữ tối đa &1 Hiệu Ứng Cuộn Rương.\nBạn phải loại bỏ &2 cuộn trước khi mở Rương.
+&&Reel_subtract_confirm Loại bỏ &1 Hiệu Ứng Cuộn Rương đã chọn.\nBạn có chắc không?
+&&Submit_discard Loại bỏ
+&&KeyDesc_discard_add <key add/>Chọn
+&&KeyDesc_discard_add_submit <key submit/><key add/>Chọn
+&&KeyDesc_discard_rem <key rem/>Bỏ chọn
+&&KeyDesc_discard_enable_submit <key sort/><key cancel/>Hoàn tất
+&&KeyDesc_discard_disable_submit <key_s a/><key_s cancel/>Hoàn tất
 
 // 今後追加したい任意時間出発要素... 
-&&Depert_from_noon Afternoon of Day &1 (Danger LV:&2)
-&&Depert_from_evening Evening of Day &1 (Danger LV:&2)
-&&Depert_from_night Night of Day &1 (Danger LV:&2)
+&&Depert_from_noon Chiều ngày &1 (Cấp độ nguy hiểm: &2)
+&&Depert_from_evening Tối ngày &1 (Cấp độ nguy hiểm: &2)
+&&Depert_from_night Đêm ngày &1 (Cấp độ nguy hiểm: &2)
 
 /* ___ Depert_you_can_do_fast_travel ___ */
-Fast travel is possible at night
-until you fight once.
+Có thể di chuyển nhanh vào ban đêm
+cho đến khi bạn chiến đấu một trận.
 
-&&Tuto_crouch <key ba/>+<key la/> Crawl
-&&Tuto_crouch_right <key ba/>+<key ra/> Crawl
-&&Tuto_crouch_lr <key ba/>+<key la/><key ra/> Crawl
+&&Tuto_crouch <key ba/>+<key la/> Bò trườn
+&&Tuto_crouch_right <key ba/>+<key ra/> Bò trườn
+&&Tuto_crouch_lr <key ba/>+<key la/><key ra/> Bò trườn

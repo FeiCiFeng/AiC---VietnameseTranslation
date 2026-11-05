@@ -6,9 +6,9 @@
 
 // ver 0.24d now you can write the script of boards here!
 *m2d_sacred_alert pp_board
-<font linespacing="1.5" color="ff:#ff0000"><font size="130%"><img mesh="alert" tx_color/>WARNING<img mesh="alert" tx_color/></font>
-High mana concen...below
-Wor...ers must carry suf...fi...ters</font>
+<font linespacing="1.5" color="ff:#ff0000"><font size="130%"><img mesh="alert" tx_color/>CẢNH BÁO<img mesh="alert" tx_color/></font>
+Nồng độ mana cao...ở phía dưới
+Côn...hân phải mang đủ...bộ...ọc...</font>
 
 
 // この下、高濃度魔力域
@@ -17,23 +17,23 @@ Wor...ers must carry suf...fi...ters</font>
 
 // 母石エリアで倒れると、モブの獣人によって下層地区で救われる。
 *___sacred/_go2city mb_00
-Hey! Are you okay?
+Này! Cô bé ổn chứ?
 
 *n_01
-Eh...I'm...in Grazia?
+Ơ...mình đang ở Grazia sao?
 
 *mb_02
-Someone reported seeing an elf go down to the roots of the Sacred Tree.
+Có người báo rằng đã nhìn thấy một Elf đi xuống khu vực rễ của Cây Thánh.
 *
-We finally found you after 3 days of searching.
+Sau 3 ngày tìm kiếm, cuối cùng chúng tôi cũng tìm thấy cô.
 
 *n_03
-3 days...was I really out that long...?
+3 ngày...mình đã bất tỉnh lâu đến vậy sao...?
 
 *mb_04
-Please be more careful. When an elf wanders too close to the sanctuary, it's a beastman's duty to go in after them.
+Lần sau hãy cẩn thận hơn nhé. Khi một Elf đi quá gần thánh địa, việc vào đó tìm họ là trách nhiệm của thú nhân chúng tôi.
 *
-And we're already stretched thin with our normal workload.
+Mà công việc thường ngày của chúng tôi vốn đã quá tải rồi.
 
 *n_05
-Sorry. Thank you for rescuing me.
+Xin lỗi ạ... Cảm ơn mọi người đã cứu cháu.

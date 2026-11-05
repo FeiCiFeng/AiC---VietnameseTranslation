@@ -305,7 +305,7 @@ Mức Hưng Phấn sẽ tăng nhanh hơn.
 Mức độ nguy hiểm: &1
 &2
 &3
-Ô nhiễm: Tối đa &4
+Ô nhiễm thể: Tối đa &4
 
 &&Summoner_descryption_enemies Loại kẻ địch:
 

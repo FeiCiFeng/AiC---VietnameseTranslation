@@ -14,26 +14,26 @@
 // ========================================================
 
 *___city/106_cafeteria_stop l_00
-Cafeteria's a bit full...
+Căng-tin hơi đông một chút...
 
 *n_01
-Same as it was two weeks ago.
+Vẫn y như hai tuần trước vậy.
 
 *l_02
-I’ll see if I can find us some seats. In the meantime, why don’t you look around the school?
+Để tớ xem có tìm được chỗ ngồi cho chúng ta không. Trong lúc chờ, cậu cứ đi tham quan quanh trường nhé.
 *
-You should check out the gardening club! The little Emerald Grassica’s are so cute!
+Cậu nên ghé câu lạc bộ làm vườn xem thử! Mấy cây Emerald Grassica bé xíu dễ thương lắm!
 
 // 翡翠玉=春キャベツのこと。
 
 *n_03
-That sounds lovely.
-　
+Nghe có vẻ thú vị đấy.
+
 *n_04
-There’s lots of places to explore in the school.
+Trong trường có rất nhiều nơi để khám phá ấy chứ nhỉ.
 
 *n_05
-The clubs in the basement always have something going on. Should be a good place to start.
+Các câu lạc bộ ở tầng hầm lúc nào cũng có gì đó xảy ra. Bắt đầu từ đó chắc cũng hay đấy.
 
 
 // ========================================================
@@ -41,21 +41,21 @@ The clubs in the basement always have something going on. Should be a good place
 // ========================================================
 
 *___city/106_scl_armory mb_00
-Halt.
-State your business.
+Đứng lại.
+Cô đến đây có việc gì?
 
 *n_00
-Oh, umm…
-I’m just looking around.
+À, ừm...
+Em chỉ đang đi tham quan thôi.
 
 *mb_01
-Then I’ll have to ask you to clear out.
+Vậy thì tôi phải yêu cầu cô rời khỏi đây.
 
 *mb_02
-The armory is already buried under a mountain of requisitions.
-Last thing we need is <i>yet another</i> cadet wandering in without permission.
+Kho vũ khí đã ngập đầu trong đống yêu cầu cấp phát rồi.
+Điều cuối cùng chúng tôi cần lúc này là <i>thêm một</i> học viên tự tiện mò vào đây mà không được phép.
 *
-Captain’s gonna blame that one on me, I just know it...
+Thế nào đội trưởng cũng đổ hết trách nhiệm lên đầu mình cho xem...
 
 
 // ========================================================
@@ -63,250 +63,250 @@ Captain’s gonna blame that one on me, I just know it...
 // ========================================================
 
 *___Tigrina/board00 board00
-Engineering and Monster Rapport Research Club
+Câu lạc bộ Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật
 
 *___Tigrina/board01 board01
-Engineering and Monster Rapport Research Club
-Club Rules (more like guidelines, really)
+Câu lạc bộ Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật
+Nội quy câu lạc bộ (nói đúng hơn là hướng dẫn)
 
-一No casting spells outside the Holoshed!
-一When injured, go to the infirmary immediately!
-一If you <font color="ff:#ffff44">trap yourself, use Fast Travel <key PR_BURST/> to escape!</font>
-一You can end the simulation at any time by going to 
-  <font color="ff:#ffff44">Status</font>→<font color="ff:#ffff44">Danger Level/Battle</font> in the Menu!
+一Không được sử dụng phép thuật bên ngoài Holoshed!
+一Khi bị thương, hãy đến phòng y tế ngay lập tức!
+一Nếu <font color="ff:#ffff44">có tự nhốt mình vào chỗ nào đó, hãy dùng Di chuyển nhanh <key PR_BURST/> để thoát ra!</font>
+一Có thể kết thúc mô phỏng bất cứ lúc nào bằng cách vào 
+  <font color="ff:#ffff44">Trạng Thái</font>→<font color="ff:#ffff44">Cấp Độ Nguy Hiểm/Chiến Đấu</font> trong Menu!
 
 
 *___Tigrina/t00 so_00 
-Grrr~~~
-Come onnn~~~!!
+Gừừừ~~~
+Thôi nàooo~~~!!
 
 *n_00
-Wha-?
+Hả-?
 
 *so_01
-<m ple>GAH! I’m gonna tear this place apart!
+<m ple>GAH! Mình sẽ phá tan tành nơi này!
 *
-<m scary>Turn the town to rubble then burn the whole forest to the ground!
+<m scary>Biến cả thị trấn thành đống đổ nát rồi thiêu rụi khu rừng này luôn!
 *
-<m joy>And <i>then</i> I’m gonna get angry...
+<m joy>Và <i>sau đó</i> mình mới nổi giận...
 
 *so_02
-<I><W3>Oops, how much of that did you hear?
-I was just lookin’ for somethin’...
+<I><W3>Ối, cậu nghe được bao nhiêu rồi?
+Tớ chỉ đang tìm thứ gì đó thôi...
 
 *so_03
-Actually, since you’re here...do you think you could help me look~?
+Mà, tiện cậu đang ở đây... cậu giúp tớ tìm thử nhé~?
 
 *n_05
-Mmmaybe...
-What is it you’re looking for?
+Cccó lẽ là tớ có thể...
+Mà cậu đang tìm thứ gì vậy?
 
 *so_06
-A memory chip. I think I dropped it somewhere.
+Một con chip nhớ. Hình như tớ đánh rơi nó ở đâu đó.
 *
-I’ve searched everywhere, but no luck so far~.
+Tớ tìm khắp nơi rồi mà vẫn chưa thấy~.
 
 *so_07
-Y’know how you can never find something when you’re looking for it?
+Cậu có biết cảm giác càng tìm thì càng không thấy món đồ mình cần không?
 *
-Well, I figured if I ask someone for help, they could find it for me.
+Thế nên tớ nghĩ nếu nhờ ai đó giúp thì có khi người ta lại tìm ra được.
 *
-But then it’s like, no that’s embarrassing I’ll just find it myself...
+Nhưng rồi lại nghĩ, không được, ngại chết đi được, thôi tự tìm vậy...
 *
-So, uh…
-Yeah...
+Nên, ừm...
+Đại khái là thế...
 
 *so_08
-I’m Tigrina, by the way. Engineering Student, Class IV.
-Who be you?
+À, tớ là Tigrina. Học viên ngành Kỹ thuật, lớp IV.
+Còn cậu?
 
 *n_09
-I’m Noel Cornehl, Cadet, Class III.
+Tớ là Noel Cornehl, học viên lớp III.
 
 *so_10
 Noel, Noel, Noel...
-Where have I heard that name?
+Mình đã nghe cái tên này ở đâu rồi nhỉ?
 
 *so_10_2
-<I>OH! You’re the one who got eaten by a monster!
+<I>Ồ! Cậu là người bị quái vật nuốt chửng đó hả!
 *
-I saw your name on the chart when I hacked into the medical system!
+Tớ thấy tên cậu trong bảng dữ liệu khi đột nhập vào hệ thống y tế!
 
 *n_11
-Y-you did what!?
+C-cậu vừa làm gì cơ!?
 
 *so_12
-Sheesh, girl, how are you even still alive?
+Trời ạ, cô gái, sao cậu vẫn còn sống được hay vậy?
 *
-I mean, don’t get me wrong, I’m glad you are, but...!
+Ý tớ là, đừng hiểu lầm, tớ mừng vì cậu vẫn ổn, nhưng mà...!
 *
-With your condition being so bad they had to hide it from students by putting access restrictions on your chart...
+Tình trạng của cậu tệ đến mức họ phải hạn chế quyền truy cập hồ sơ để giấu chuyện đó khỏi các học viên khác đấy...
 *
-I really, truly, totally thought for sure you were a goner!
+Tớ thực sự, thực sự, thực sự nghĩ chắc chắn cậu tiêu rồi cơ!
 
 *n_13
-I-it was a bit of a miracle that I survived...
+T-tớ sống sót được cũng là một phép màu đấy...
 
 *so_14
-That we all did. I was holding them off at the front gate.
+Tất cả chúng ta đều vậy. Tớ đã cố cầm chân chúng ở cổng trước.
 
 *so_15
-The soldiers were rallying us to keep firing. “Even one can make all the difference”!
+Các binh sĩ liên tục động viên chúng tớ tiếp tục bắn. "Chỉ cần thêm một người cũng có thể tạo nên khác biệt"!
 
 *so_15_2
-<m ple>Even after some of them broke through, I was laser focused on the ones in front of me!
+<m ple>Dù có vài con lọt qua được, tớ vẫn tập trung cao độ vào đám trước mặt!
 *
-<m ple>Prolly cuz I was having too much fun shooting to notice when any got by! <m joy>Haha!
+<m ple>Chắc tại tớ mải mê bắn quá nên chẳng nhận ra có con nào lọt qua! <m joy>Haha!
 
 *n_15
-Sounds like you had your own set of...difficulties.
-At least we're both safe now.
+Nghe có vẻ cậu cũng gặp phải... những khó khăn riêng nhỉ.
+Ít nhất thì giờ cả hai chúng ta đều an toàn rồi.
 
 *so_16
-For sure, for sure.
-Anyway, back on topic...
+Chuẩn luôn, chuẩn luôn.
+Mà thôi, quay lại chuyện chính...
 *
-Care to help me out?
+Cậu giúp tớ một tay nhé?
 
 
 *___Tigrina/t01 so_00 
 <m ple>Yippee!
 
 *so_01
-I think I know where I dropped it, but the way in is a bit tricky~
+Tớ nghĩ mình biết đã đánh rơi nó ở đâu, nhưng đường vào hơi khó một chút~
 *
-I was looking for a better one, but I’m starting to feel like a dust mop with all the crawling around I’ve been doing.
+Tớ đã tìm một lối đi khác dễ hơn, nhưng bò lết khắp nơi thế này khiến tớ cảm thấy mình chẳng khác gì cây lau nhà phủ đầy bụi.
 *
-<MT>So let’s just use the entrance we already know! Commence Operation Sneak & Snatch!
+<MT>Thôi cứ dùng lối vào mà chúng ta đã biết! Bắt đầu Chiến dịch Lẻn Vào và Chôm Đồ thôi!
 
 *so_02
-<W2>Here we are, home sweet home.
+<W2>Đến nơi rồi, ngôi nhà thân yêu.
 
 *so_02_2
-It's just up ahead, past the gardening club and their lovely flowers, hiding behind the rustic shed.
+Nó ở ngay phía trước, đi qua câu lạc bộ làm vườn với những khóm hoa xinh đẹp kia, rồi sẽ thấy nó nằm khuất sau nhà kho cũ kỹ.
 
 *___Tigrina/106sneak__init so_03
-<W2>...Hmm, now that I think about it, there’s a chance somebody else has already found it.
+<W2>...Hmm, giờ nghĩ lại thì có khả năng ai đó đã tìm thấy nó trước chúng ta rồi.
 
 *so_04
-Well, I’m sending you in either way, so no point in thinking about that.
+Dù sao tớ cũng sẽ cử cậu vào trong, nên nghĩ chuyện đó cũng chẳng ích gì.
 
 *n_05
-Sending me where?
+Cử tớ đi đâu cơ?
 
 *so_06
-The armory. This elevator stops right next to an opening leading into a meeting room.
+Kho vũ khí. Thang máy này dừng ngay cạnh một lối mở dẫn vào phòng họp.
 
 *so_06_2
-<angry><m joy>Sneak in to the armory and fetch my memory chip!!
+<angry><m joy>Lẻn vào kho vũ khí và lấy con chip nhớ của tớ về nhé!!
 
 *n_07
-<m joy>Th-<W2><m scary>the<W2><m ple> armory!?<m0><W2>
-What were you doing down there?
+<m joy>Kh-<W2><m scary>kho vũ khí<W2><m ple> á!?<m0><W2>
+Cậu đã làm gì ở dưới đó vậy?
 
 *so_08
-<W2><m fadein>...I was...
+<W2><m fadein>...Tớ đã...
 
 *n_09
-Yes?
+Rồi sao?
 
 *so_10
-<m cry>Checking out<m0> the latest in <m joy>weapons and armor!
+<m cry>Đến xem<m0> những mẫu <m joy>vũ khí và giáp trụ mới nhất!
 
 *so_10_2
-That slick sheen you can only get on a brand new make!
+Lớp ánh kim bóng loáng chỉ có ở những món đồ mới tinh!
 *
-<MT>The improved shape of the armor from years of ballistics research~
+<MT>Thiết kế giáp trụ được cải tiến nhờ nhiều năm nghiên cứu đạn đạo~
 *
-<MT>And the thought of one day using them and coming back a battle-hardened veteran of war!
+<MT>Và viễn cảnh một ngày nào đó được sử dụng chúng, rồi trở về với tư cách một cựu chiến binh dày dạn kinh nghiệm!
 *
-<MT l=0><big><m scary>It sends my heart aflutter!
+<MT l=0><big><m scary>Nghĩ đến thôi cũng khiến tim tớ rung động!
 
 *n_11
-<think>...war?
+<think>...Chiến tranh?
 
 *n_12
-<W2>You really mean that?
+<W2>Cậu thật sự nghĩ tới vậy sao?
 
 *so_13
-Of course I do!
+Tất nhiên rồi!
 *
-<MT><MT>As you may have guessed, I managed to sneak my way in, <m joy>buuuut~
+<MT><MT>Như cậu đoán đấy, tớ đã lẻn được vào trong, <m joy>nhưn-nhưng mà~
 *
-...the guards found me...
+...lính gác đã phát hiện ra tớ...
 
 *so_14
-Well, they didn’t exactly find me.
+À, nói đúng hơn thì họ không thực sự nhìn thấy tớ.
 *
-<MT>They knew someone was there, but...
+<MT>Họ biết có người ở đó, nhưng...
 *
-I got away before they could see my face.
+Tớ đã trốn thoát trước khi họ kịp nhìn rõ mặt.
 
 *n_14
-Then, couldn’t you just tell them someone reported a missing item and have them check for you?
+Vậy cậu không thể báo với họ rằng có người làm mất đồ rồi nhờ họ tìm giúp sao?
 
 *so_15
-<I><angry><m scary>A-HA-HAR YOU NUTS!? NO WAY IN HELL!!
-<m ple>If they saw the contents of that chip it’d be a death sentence!!
+<I><angry><m scary>A-HA-HAR CẬU ĐIÊN À!? KHÔNG ĐỜI NÀO!!
+<m ple>Nếu họ nhìn thấy nội dung trong con chip đó thì tớ chỉ có nước chết!!
 
 *n_16
-...what <m cry>exactly<m0> were you doing down there, besides eyeing the shiny metal?
+...<m cry>Chính xác<m0> thì cậu đã làm gì dưới đó, ngoài việc ngắm nghía đống kim loại sáng bóng?
 
 *so_17
 <s8>………………………………<s1>
-Lllleeet’s talk about that later!
+Ch-chuyện đó để sau hãy nói!
 *
-<MT>Look, I can’t just walk up to the entrance without getting the third degree.
+<MT>Nghe này, tớ không thể cứ thế đi thẳng đến lối vào mà không bị tra hỏi được.
 *
-The guards are already on high alert, and I can't ask my friends to do this, so I really need your help.
+Lính gác đang cảnh giác cao độ, tớ cũng không thể nhờ bạn bè làm chuyện này, nên tớ thực sự cần cậu giúp.
 
 *n_18
-Something tells me you’re high up on their list of suspects...
+Có gì đó mách bảo tớ rằng cậu đang đứng đầu danh sách nghi phạm của họ...
 
 *so_19
 Ahahaha~...
 *
-<m ple>Oh, I know! How about a reward?
+<m ple>Ồ, tớ biết rồi! Hay là tớ thưởng cho cậu nhé?
 *
-<MT l=3>I don’t know if I can offer anything you want, but...
+<MT l=3>Tớ không biết có thể đưa ra thứ gì mà cậu muốn không, nhưng...
 *
-There’s lots of stuff in the clubroom! I bet you could find something you like there!
+Trong phòng câu lạc bộ có rất nhiều đồ đạc! Tớ cá là cậu sẽ tìm được thứ mình thích đấy!
 
 *n_20
-Well...
+Ừm...
 
 // wait
 
 *n_21
-<m scary>C-<W3><m0>Can I...
-go to the bathroom first!?
+<m scary>C-<W3><m0>Cậu có thể...
+cho tớ đi vệ sinh trước được không!?
 
 *so_22
-<m joy>Yeah, sure, no problem!<m0>
-Take all the time you need.
+<m joy>Được chứ, không vấn đề gì!<m0>
+Cứ thong thả nhé.
 *
-Best to be prepared for an operation of this magnitude!
+Chuẩn bị kỹ càng là điều cần thiết cho một chiến dịch quy mô thế này!
 
 // 進行
 
 *so_31
-Alright, hop on!
+Được rồi, vào đi!
 
 *so_32
-This elevator's a bit old, so it's not safe for more than one person to use it at a time.
+Thang máy này hơi cũ, nên mỗi lần chỉ một người được sử dụng thôi.
 *
-Which is fine because I need to stay behind to operate it remotely since the panel doesn’t work.
+Cũng vừa hay, vì tớ cần ở lại đây để điều khiển nó từ xa do bảng điều khiển bị hỏng.
 *
-But don’t worry, it’s perfectly safe!
+Nhưng đừng lo, nó an toàn tuyệt đối!
 
-<small>I think</small>
+<small>Tớ nghĩ vậy</small>
 
 *so_33
-<angry>Get in, grab the chip, get out without being seen. A simple job for <m joy>Noel the Infiltrator!
+<angry>Vào trong, lấy chip, rồi thoát ra mà không bị phát hiện. Một nhiệm vụ đơn giản dành cho <m joy>Noel-Kẻ Xâm Nhập!
 
 *n_34
-<m scary>Whaaaat!?
-<m ple>All by myself!?
+<m scary>Cá-ái gì cơ!?
+<m ple>Một mình tớ á!?
 
 
 // ========================================================
@@ -314,10 +314,10 @@ But don’t worry, it’s perfectly safe!
 // ========================================================
 
 *___Tigrina/t_garage_door n_00
-It’s locked by some kind of keycard system.
+Cánh cửa bị khóa bằng một hệ thống thẻ từ nào đó.
 
 *n_01
-Why would a building like this need such high-tech security?
+Tại sao một tòa nhà như thế này lại cần hệ thống bảo mật công nghệ cao đến vậy?
 
 
 // ========================================================
@@ -330,138 +330,138 @@ Why would a building like this need such high-tech security?
 // ぱんつが脱げる
 
 *___Tigrina/106sneak_00 n_01
-Uu…
-Thank goodness no one saw that...
+Ư...
+May mà không ai nhìn thấy...
 
 
 // 壁のボード
 *___Tigrina/106sneak__board board_00
-Request for increased security measures
+Yêu cầu tăng cường các biện pháp an ninh
 
-Yesterday, a cadet entered the armory without permission.
-Personnel must verify a cadet’s student ID prior to entry
-and they must be accompanied the entire length of their visit.
-If you spot an unattended cadet, follow the standard procedure
-for a Level 1 security breach.
+Hôm qua, một học viên đã tự ý vào kho vũ khí.
+Nhân viên phải kiểm tra thẻ học viên trước khi cho phép vào
+và phải luôn có người đi kèm trong suốt chuyến tham quan.
+Nếu phát hiện học viên đi lại mà không có người giám sát, hãy
+thực hiện quy trình tiêu chuẩn đối với vi phạm an ninh cấp độ 1.
 
-Furthermore, there must be at least one personnel
-guarding the main gate AT ALL TIMES!
+Ngoài ra, phải luôn có ít nhất một nhân viên
+canh gác cổng chính MỌI LÚC!
 
 
 // ========================================================
 // 武器庫に侵入すると兵士が入ってくる。
 // ========================================================
 *___Tigrina/106sneak__first mb0_00
-...sweep the area and take inventory.
+...quét khu vực và kiểm kê hàng hóa.
 
 // 兵士が散開する。
 *n_00
-Looks like they’re still cleaning up from when Tigrina was here. I need to find the memory chip before they do...
+Có vẻ họ vẫn đang dọn dẹp hậu quả từ lần Tigrina đến đây. Mình phải tìm con chip nhớ trước khi họ tìm thấy nó...
 
 // ========================================================
 // 武器庫でメモリーチップを拾うと入ってきた場所近くの兵士がさぼり出す。
 // ========================================================
 *___Tigrina/106sneak__pickup_notice mb0_00
-(Yawn~)
-Everything seems to be in order here.
+(Ngáp~)
+Có vẻ mọi thứ ở đây đều ổn cả.
 *
-<m cry>(Sigh~)<m0>
-These new cannons are so pretty.
+<m cry>(Thở dài~)<m0>
+Mấy khẩu pháo mới này đẹp thật.
 *
-I could stare at them all day...
+Tôi có thể ngắm chúng cả ngày...
 
 *n_02
-I don’t think I’ll be able to go back the way I came in.
-<c5>I’ll have to sneak through the main gate...<c0>
+Có vẻ mình không thể quay lại đường cũ được nữa.
+<c5>Mình sẽ phải lẻn qua cổng chính...<c0>
 
 
 // ========================================================
 // 見つかる
 // ========================================================
 *___Tigrina/106sneak__aware mb_00
-Hey, what are you doing here?
+Này, cô đang làm gì ở đây?
 
 // 241225 仮置き
 *___Tigrina/106sneak__iyapan mb_05
-You the cadet from the reports?
-...Hmm, description doesn’t match.
+Cô là học viên trong báo cáo phải không?
+...Hmm, mô tả không khớp lắm.
 *
-Well, separate case or not, what were you doing here?
+Dù có phải cùng một vụ hay không, cô đang làm gì ở đây?
 
 *n_07
-I, um...
+E-em...
 *
-<m cry>I...<m>I got lost on my way to class...
+<m cry>E-em...<m> bị lạc đường khi đang đến lớp...
 
 *mb_08
-...That so?
+...Vậy sao?
 *
-Regardless, I’m going to have to pat you down as part of our tightened security measures.
+Dù thế nào, theo quy định an ninh được thắt chặt, tôi cần khám xét người cô.
 
 *n_09
-Oh, um...okay...
+Ồ, ừm...được thôi...
 
 *mb_10
-Starting with your hat…
+Bắt đầu từ chiếc mũ...
 <s3>.........<s1>
-seems empty.
+Có vẻ không có gì.
 
 *n_11
-<think>That tickles...
+<think>Nhột quá...
 
 *mb_12
-Arms up.
+Giơ hai tay lên.
 
 *n_13
-Okay.
+Vâng.
 
 // 脇下から胸を触られる
 *n_15
-<m scary>Mn...!
+<m scary>Ư...!
 
 *mb_14
 <s3>...............
 
 *mb_16
-Lift up your skirt.
+Vén váy lên.
 
 *n_17
-<angry><m ple>What!?
+<angry>Cái gì!?
 
 *mb_18
-I have to make sure you aren’t concealing anything under it.
+Tôi phải đảm bảo cô không giấu thứ gì bên dưới váy.
 
 *n_19
-But...can’t you just keep doing a pat down?
+Nhưng...ông không thể cứ khám xét như bình thường sao?
 
 *mb_20
-If you do not cooperate, I’ll have to escort you to the station.
+Nếu cô không hợp tác, tôi sẽ phải áp giải cô về đồn.
 
 *n_21
-<m scary>O-<m0>Okay...
+<m scary>Đ-<m0>Được rồi...
 
 *n_22
-<m fadein>Uuu...
+<m fadein>Ư...
 
 *mb_23
 Hmm...
 
 *n_24
-<m fadein>Can I...put it down now?
+<m fadein>Tôi...có thể thả váy xuống được chưa?
 
 *mb_25
-Not yet...
+Chưa...
 
 *n_26
-<think><m cry>H-hurry up...
+<think><m cry>M-mau lên đi...
 
 *mb_27
-...All right, you’re clean.
-Come on, I’ll escort you out.
+...Được rồi, cô không có gì đáng ngờ.
+Đi nào, tôi sẽ đưa cô ra ngoài.
 
 *n_28
-Okay.
-Thank you...
+Vâng.
+Cảm ơn ạ...
 
 //スタート地点へ
 //たくし上げカットイン
@@ -472,228 +472,228 @@ Thank you...
 // ========================================================
 
 *___Tigrina/106sneak__iyapan mb_100
-You again? What are you really here for?
+Lại là cô à? Rốt cuộc cô đến đây làm gì?
 
 *n_100
-<m scary>I-I-I...y’see, it’s just...<m0>
-I get lost really easily...
+<m scary>E-e-em...ý em là...<m0>
+Em rất hay bị lạc đường...
 
 *mb_101
-You seriously think I believe that? This place is off limits and you know it.
+Cô thực sự nghĩ tôi sẽ tin sao? Cô biết rõ nơi này không cho phép học viên vào mà.
 
 *n_101
-Sorry...
+Xin lỗi...
 
 *mb_102
-I have to search you again. Arms up.
+Tôi phải khám xét cô lần nữa. Giơ hai tay lên.
 
 *n_103
-Yes, sir...
+Vâng...
 
 //乳揉まれカットイン
 *n_105
-<m scary>Mn…<W5><m cry>yah...
+<m scary>Ư…<W5><m cry>Á...
 
 *mb_106
-Hold still.
+Đứng yên.
 
 *n_107
-<m fadein>Y-yessir.
+<m fadein>V-vâng ạ.
 
 //もう一回揉まれ
 *n_108
 <m joy>Ah...
 
 *mb_109
-Normally I’d take you into custody for a second offense like this.
+Thông thường, tôi sẽ bắt giữ cô vì tái phạm lần thứ hai như thế này.
 
 *mb_110
-But our division has a full workload right now, so I’m letting you off with a warning.
+Nhưng bộ phận chúng tôi hiện đang quá tải công việc, nên tôi sẽ bỏ qua lần này và chỉ cảnh cáo cô.
 
 *n_111
-Th-thank you for th-...
-<s6>......<m scary><s1><MT l=-1>Mmn!
+C-cảm ơn vì đã...
+<s6>......<m scary><s1><MT l=-1>Ưm!
 
 *mb_112
-Lift up your skirt.
+Vén váy lên.
 
 *n_113
-<m cry>Uuu~...
+<m cry>Ưừừ~...
 
 //たくし上げカットイン
 
 *mb_114
-Higher. Enough to see your belly.
+Cao hơn nữa. Đủ để nhìn thấy bụng cô.
 
 *n_115
-Okay...
+Vâng...
 
 *n_116
-<think>His face is closer than last time...
+<think>Mặt ông ta gần hơn lần trước...
 
 *n_117
-Can I put it down?
+Em thả váy xuống được chưa?
 
 *mb_118
-Not yet.
+Chưa.
 
 //じろじろ見られてるっぽいカットインか何か
 
 *n_119
-Now?
+Bây giờ được chưa?
 
 *mb_120
-Your impatience isn’t doing you any favors here. It just makes it seem like you have something to hide.
+Sự nôn nóng của cô chẳng giúp ích gì đâu. Nó chỉ khiến cô trông như đang che giấu điều gì đó thôi.
 
 *n_121
-<m fadein>Sorry...
+<m fadein>Xin lỗi...
 
 *mb_122
-Turn around.
+Quay lại.
 
 *n_123
 <m scary>Ah...!
 
 *mb_124
-We missed a spot last time.
+Lần trước tôi đã bỏ sót một chỗ.
 
 *n_124
-<s2><m cry>っ<m0>...<m scary>!!
+<s2><m cry>Ư<m0>...<m scary>!!
 
 *mb_125
-All good.
+Được rồi.
 
 *mb_126
-Okay, let’s go.
+Nào, đi thôi.
 
 *n_127
-<think>Uu.
-There’s no way that was part of the procedure...
+<think>Ư...
+Chẳng đời nào chuyện đó là một phần của quy trình khám xét...
 
 *mb_128
-I’ll escort you out again.
+Tôi sẽ lại đưa cô ra ngoài.
 
 // ========================================================
 // MARK : 3回目発見
 // ========================================================
 
 *___Tigrina/106sneak__iyapan mb_200
-<m ple>Seriously!?
-<m0>Come on, I just want to finish my rounds so I can go home!
+<m ple>Thật luôn đấy!?
+<m0>Thôi nào, tôi chỉ muốn hoàn thành ca tuần tra để còn được về nhà thôi!
 
 *n_201
-<m fadein>Sorry...
+<m fadein>Xin lỗi...
 
 *mb_202
-You’re up to something...and if I wasn’t already neck-deep in requisition forms, I’d launch an investigation to find out.
+Cô đang âm mưu chuyện gì đó... Nếu không phải tôi đang ngập đầu trong đống biểu mẫu yêu cầu cấp phát, tôi đã mở cuộc điều tra để tìm hiểu rồi.
 
 *n_203
 <m fadein>......
 
 *mb_204
-All right, you know the drill.
+Được rồi, cô biết phải làm gì rồi đấy.
 
 *n_205
-...Yes, sir.
+...Vâng ạ.
 
 //胸もみ
 
 *n_206
-<m cry>Mmn<s3><m0>......
+<m cry>Ưm<s3><m0>......
 
 *mb_207
-Can’t believe I have to put up with this...
+Không thể tin được là tôi phải chịu đựng chuyện này...
 *
-If only the students' minds were as well-developed as their bodies.
+Giá mà đầu óc các học viên cũng phát triển tốt như cơ thể của họ.
 
 *n_208
-<m scary>Ah, <W3><m cry>mm...
-<W4><m fadein>You’re…being too rough...
+<m scary>Ah, <W3><m cry>ư...
+<W4><m fadein>Ah...mạnh tay quá...
 
 *mb_209
-Yeah, because you’re frustrating me. This is all on you.
+Ừ, vì cô đang khiến tôi bực mình đấy. Tất cả là tại cô.
 
 *n_210
-I’m...<W2>sorry...
+Em...<W2>xin lỗi...
 
 *mb_211
-Hurry up and lift your skirt.
+Mau lên, vén váy lên.
 
 *n_212
 <s4>......
 
 *mb_213
-Sigh...these uniforms...
-Nothing like the ones back in my day.
+Haiz...đồng phục này...
+Chẳng giống chút nào với thời tôi còn đi học.
 
 *n_214
-<think>He’s...<W2>staring really hard this time...
+<think>Anh ta...<W2>lần này nhìn chằm chằm dữ quá...
 
 *mb_215
-Wait, there’s another place I didn’t check last time! What are you hiding down there!?
+Khoan đã, lần trước còn một chỗ tôi chưa kiểm tra! Cô đang giấu gì ở dưới đó!?
 
 //パンツさわり
 *n_216
-<m scary>Mm! <W2><m cry>No...!
+<m scary>Ư! <W2><m cry>Không...!
 
 *mb_217
-Keep quiet! I’m just being thorough...
+Im lặng! Tôi chỉ đang kiểm tra thật kỹ thôi...
 
 *n_218
-<m scary>Mm, <m cry>ah, <m fadein>ooh...
+<m scary>Ư, <m cry>ah, <m fadein>ư...
 
 *mb_219
-<s3><m joy>Ahh, these thighs...<m0>
-So thick and-
+<s3><m joy>Ahh, cặp đùi này...<m0>
+Vừa dày vừa-
 *
-...ahem. Are you really a student?
+...khụ. Cô thực sự là học viên à?
 *
 <s6>......<m joy><s1>Hahh...
 
 *n_220
-<m cry>H<m scary>ah…
-<m fadein>That tingles...
+<m cry>H<m scary>ah...
+<m fadein>Nhột quá...
 
 *n_221
-<think><m fadein>His breath is so hot on my thigh...
+<think><m fadein>Hơi thở của ông ta nóng rực trên đùi mình...
 
 *mb_222
 Hah...<W2>
-<m ple>Do all students dress this lewdly?
+<m ple>Các học viên đều ăn mặc gợi dục như thế này sao?
 *
-I’ve heard some of them walk around with parts of their chest exposed.
+Tôi nghe nói có vài người còn đi lại với một phần ngực để lộ ra ngoài.
 
 //パンツいじり加速
 *n_223
-<m scary>Ah, <W2><m cry>M-mm!<W4>
-<m0><s4>S-<W2><m fadein>stop...!
+<m scary>Ah, <W2><m cry>Ư-ưm!<W4>
+<m0><s4>D-<W2><m fadein>dừng lại...!
 
 *mb_224
-<m cry>Hah...<W2><m fadein> What’s someone like you even doing in a place like this?
+<m cry>Hah...<W2><m fadein> Một người như cô thì đến nơi này làm gì?
 *
-<angry><m joy>Could it be...?<m0>
-<m scary>This is what you really wanted!?
+<angry><m joy>Hay là...?<m0>
+<m scary>Đây mới là điều cô thực sự muốn!?
 
 *n_225
-<think><m scary>Eee! This guy's a creep!
+<think><m scary>Eee! Tên này biến thái thật!
 
 *mb_226
-<s5><m joy>Phew...
-<s1><W4><m0>Okay...you can go.
+<s5><m joy>Phù...
+<s1><W4><m0>Được rồi...cô có thể đi.
 
 *n_227
-<m scary>Th-<W3><m fadein>thank you...
+<m scary>C-cảm ơn...
 
 *mb_228
-Find your own way out this time. Just don’t let the other guards see you.
+Lần này tự tìm đường ra đi. Chỉ cần đừng để những lính gác khác nhìn thấy cô.
 
 *n_229
-Ah, uuu...!
+Ah, ư...
 
 *mb_230
-I’m sure I’ll be seeing you again soon...
+Tôi chắc chắn chúng ta sẽ sớm gặp lại nhau thôi...
 *
-Now go on, get.
+Giờ thì đi đi.
 
 
 // ========================================================
@@ -702,91 +702,91 @@ Now go on, get.
 
 // 帰還後
 *___Tigrina/106sneak__aware n_100
-<m cry>Uuu...
+<m cry>Ư...
 
 *n_101
-I should’ve been more careful...
+Mình đáng lẽ phải cẩn thận hơn...
 
 *n_102
-I need to <c5>stay behind cover<c0> to avoid the guard’s flashlight.
+Mình cần <c5>ở sau chỗ nấp<c0> để tránh ánh đèn pin của lính gác.
 
 // 没収された
 *n_110
-I was so startled, I dropped the memory chip. Hopefully I can find it again.
+Mình hoảng quá nên đã đánh rơi con chip nhớ. Hy vọng mình có thể tìm lại được nó.
 
 
 // ========================================================
-// 帰る
+// MARK : 帰る
 // ========================================================
 
 *___Tigrina/106sneak__return_t00 so_00
-<m joy>Welcome ba-a-ck~
-<m0>How’d it go?
+<m joy>Chào mừng cậu quay lạ-ại~
+<m0>Sao rồi?
 
 *n_01
-I couldn’t find it...
+Tớ không tìm thấy nó...
 
 *so_02
-<m ple>Aw, that’s okay!
+<m ple>Ôi, không sao đâu!
 *
-<MT l=2>I figured it’d be tough now that there’s more guards around.
+<MT l=2>Tớ cũng đoán sẽ khó hơn khi có thêm lính gác.
 *
-And honestly that’s kinda my fault...
+Và nói thật thì chuyện này cũng phần nào là lỗi của tớ...
 *
-<MT l=2>Even if there weren’t, an elf’s seventh sense to detect things in the dark would still be a problem to sneak around.
+<MT l=2>Ngay cả khi không có thêm lính gác, giác quan thứ bảy của Elf giúp phát hiện vật thể trong bóng tối vẫn là một vấn đề khó vượt qua khi lẻn vào.
 *
-You gotta be real quiet, especially when they’re facing towards you!
+Cậu phải thật sự im lặng, nhất là khi họ đang quay mặt về phía cậu!
 
 *n_03
-...I know that.
+...Tớ biết mà.
 
 *so_04
-Yeah, I’m just jokin' around. I’m in no rush, come back whenever you’re ready.
+Ừ, tớ chỉ đùa thôi. Tớ không vội đâu, cứ quay lại bất cứ khi nào cậu sẵn sàng.
 
 *n_05
-<think>That wasn’t funny...
+<think>Chẳng buồn cười chút nào...
 
 
 *___Tigrina/106sneak__return_t01 so_00
-<m scary>I can’t believe that guy!<m0>
-<m ple>What a perv!!
+<m scary>Không thể tin nổi tên đó!<m0>
+<m ple>Đúng là đồ biến thái!!
 
 //怒りフキダシ揺れ
 
 *so_01
-<m ple>Are you okay!?
-I am so sorry for making you do this!
+<m ple>Cậu có sao không!?
+Tớ xin lỗi vì đã bắt cậu làm chuyện này!
 
 *n_02
-Y-Yeah, I'm fine...
+K-không, tớ ổn...
 
 *n_03
-<m fadein>But...how did you know what happened?
+<m fadein>Nhưng...sao cậu biết chuyện gì đã xảy ra?
 
 *so_04
-Well, I uh<s6>.........
-<s1><m0><MT l=-1>Mmmayyy have hacked into your staff!
+À, ừm<s6>.........
+<s1><m0><MT l=-1>C-có thể tớ đã hack vào cây trượng của cậu!
 *
-While I was connecting to the elevator, I noticed I could also access the camera system in your staff!
+Trong lúc kết nối với thang máy, tớ phát hiện mình cũng có thể truy cập vào hệ thống camera trên cây trượng của cậu!
 
 *n_05
-<think>This girl really is trouble...
+<think>Cô gái này đúng là rắc rối thật...
 
 *so_06
-Y’know, if they’d have done the same to me...
+Cậu biết không, nếu họ làm điều tương tự với tớ...
 
 *so_07
-I’d have to unleash my secret weapon on all of Grazia...
+Tớ sẽ phải giải phóng vũ khí bí mật của mình lên toàn bộ Grazia...
 *
-<MT>The "Supreme Elf Executor" robot! 
+<MT>Robot "Hành Hình Sư Tối Thượng Của Elf"!
 *
-<MT>It’ll kill you in <m cry>ways you can’t even imagine!<m0>
-There’s no First Law here!
+<MT>Nó sẽ giết cậu theo những <m cry>cách mà cậu không thể tưởng tượng nổi!<m0>
+Ở đây không có Luật Đầu Tiên đâu!
 *
-<MT l=-1>Hehe, just kidding!
+<MT l=-1>Hehe, đùa thôi!
 
 *n_08
-That wasn’t funny...
+Chẳng buồn cười chút nào...
 
 
 // ========================================================
@@ -796,19 +796,19 @@ That wasn’t funny...
 // 武器庫正門から出る
 // チップを持っていない
 *___Tigrina/106sneak__return_success n_00
-Ah! I was so worried about avoiding the guards, I forgot the memory chip!
+Ah! Mình mải lo tránh lính gác quá nên quên mất con chip nhớ!
 *
-Hopefully Tigrina will understand...
+Hy vọng Tigrina sẽ hiểu...
 
 // チップを持っている
 *mb_100
-Did you just come from the armory?
+Cô vừa đi từ kho vũ khí ra à?
 
 *n_101
-N-no, of course not! I’m just trying to find a bathroom...
+K-không, tất nhiên là không! Tôi chỉ đang tìm nhà vệ sinh thôi...
 
 *mb_102
-Well there isn’t one here for you. Keep moving.
+Ở đây không có nhà vệ sinh dành cho cô đâu. Đi tiếp đi.
 
 
 // ========================================================
@@ -816,53 +816,53 @@ Well there isn’t one here for you. Keep moving.
 // ========================================================
 
 *___Tigrina/t10 so_00
-Thanks so much for your help~
+Cảm ơn cậu rất nhiều~
 *
-If you hadn’t retrieved that memory chip, I’d be fighting my advisor for more club activity funds to buy a new one.
+Nếu cậu không lấy lại được con chip nhớ đó, tớ đã phải đi cãi nhau với cố vấn để xin thêm kinh phí hoạt động câu lạc bộ mà mua con chip mới rồi.
 
 *n_01
-This is a club?
+Đây là một câu lạc bộ sao?
 
 *so_02
-Yes, as far as the school is concerned...
+Đúng vậy, ít nhất là theo cách nhà trường nhìn nhận...
 *
-How long it keeps operating is up to the Mother Tree.
+Câu lạc bộ này còn hoạt động được bao lâu thì phải xem Mẫu Thụ quyết định đã.
 
 *so_03
-Without further ado, welcome to the
-<m joy><c5>Engineering and Monster Rapport Research Club<m><c0>!
+Không dài dòng nữa, chào mừng cậu đến với
+<m joy><c5>Câu lạc bộ Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật<m><c0>!
 
 *n_03
-I thought this was just a storage shed...
+Tớ cứ tưởng đây chỉ là một nhà kho chứa đồ...
 
 *so_04
-Cuz of all the scrap?
+Vì đống phế liệu này à?
 *
-Hmph. You know what they say about one person’s trash...
+Hừm. Cậu biết người ta thường nói gì về rác của người này rồi đấy...
 
 *so_05
-I wish my advisor would stop hounding me to clean this place up.
+Ước gì cố vấn của tớ ngừng cằn nhằn chuyện dọn dẹp nơi này.
 *
-I happen to like it this way. The chaos helps spark inspiration.
+Tớ thích nó như thế này. Sự hỗn độn giúp khơi nguồn cảm hứng.
 *
-Besides, it’s not like I’d get any help from the other members. They all ghosted me.
+Hơn nữa, tớ cũng chẳng mong nhận được sự giúp đỡ từ những thành viên khác. Tất cả đều bặt vô âm tín rồi.
 
 *n_05
-Ghosts?
-Also, what’s with the “Monster Rapport” part of the club name?
+bặt vô âm tín sao?
+Với cả, cái phần "Quan hệ với Quái Vật" trong tên câu lạc bộ nghĩa là gì?
 
 //無視してホログラム機に歩み寄る
 *so_06
-How ‘bout I just show you? Prepare to be <m joy>amazed<m9>!
+Hay là để tớ cho cậu xem nhé? Chuẩn bị mà <m joy>trầm trồ<m9> đi!
 
 *so_07
-<m ple>I bet this'd surprise even the military boys.
+<m ple>Tớ cá là ngay cả mấy anh chàng quân nhân cũng sẽ bất ngờ đấy.
 *
-<m ple>You ready?
+<m ple>Sẵn sàng chưa?
 *
-<m ple>You ready?
+<m ple>Sẵn sàng chưa?
 *
-<m ple><MT l=-1>Go stand over there!
+<m ple><MT l=-1>Đứng qua bên kia đi!
 
 //ホログラム機に寄るノエル、ホログラム機でなんかカチャカチャするティグ
 
@@ -870,168 +870,168 @@ How ‘bout I just show you? Prepare to be <m joy>amazed<m9>!
 <angry>!?
 
 *so_08
-Ahahaha! Sorry, didn’t mean to scare you, but the look on your face was priceless!
+Ahahaha! Xin lỗi, tớ không định làm cậu giật mình đâu, nhưng vẻ mặt của cậu lúc đó buồn cười không chịu được!
 *
-The memory chip you retrieved contains the latest in holographic technology.
+Con chip nhớ mà cậu lấy về chứa công nghệ ảnh ba chiều mới nhất đấy.
 
 *so_09
-I thought I was dead meat for hacking into the armory yesterday...
+Tớ cứ tưởng mình tiêu đời rồi vì đã hack vào kho vũ khí hôm qua...
 *
-But it was <m cry>totally worth it~<m0>
+Nhưng <m cry>hoàn toàn xứng đáng~<m0>
 *
-<MT l=-1>Give it a little touch for me.
+<MT l=-1>Chạm thử vào nó giúp tớ nhé.
 
 *n_09
-W-What!?
+C-cái gì!?
 
 // 抜ける
 
 *n_10
-Phew…
-Just a hologram after all.
+Phù...
+May mà chỉ là ảnh ba chiều.
 
 *so_11
-I should be able to change that.
-Make it more...corporeal.
+Tớ nghĩ mình có thể thay đổi chuyện đó.
+Làm cho nó...có thể tương tác như vật thể thật.
 
 *n_12
-<angry>You can do that!?
+<angry>Cậu làm được chuyện đó sao!?
 
 *so_13
-Maybe. We’ll see.
-Just gotta...
-...and then...
+Có thể. Cứ thử xem.
+Chỉ cần...
+...rồi sau đó...
 
 *so_14
-Okay, that should do it!
+Được rồi, chắc thế là xong!
 *
-Try casting a spell on the slime.
+Thử dùng phép thuật lên con slime đi.
 
 //魔術が突き抜ける
 
 *so_15
-Whoops, what'd I overlook?
+Ối, tớ đã bỏ sót chỗ nào nhỉ?
 
 *so_16
-Hmm...ah!
+Hmm...à!
 *
-Maybe this version is incompatible with...no that’s not it...
+Có lẽ phiên bản này không tương thích với...không, không phải vậy...
 *
-<W3>I’m gonna borrow your staff for <s6>juuust<s1> a second here.
+<W3>Cho tớ mượn cây trượng của cậu <s6>một chút<s1> nhé.
 
 *n_16
-Umm, what are you...?
+Ừm, cậu định...?
 
 *so_17
-Mmhm, just gotta bypass this here a-a-and...
+Ừm hứm, chỉ cần vượt qua đoạn này, rồi-rồi...
 
 //エラーメッセージ出る
 
 *cane_18
-<device>Warning. Altering root data requires owner authentication and may damage your device.
-Do you wish to proceed?
+<device>Cảnh báo. Việc thay đổi dữ liệu gốc yêu cầu xác thực chủ sở hữu và có thể làm hỏng thiết bị của bạn.
+Bạn có muốn tiếp tục không?
 
 *so_19
 <m ple>Aha!
 *
-<m joy>I got it, I got it.
-<m0>Go ahead and give that button a push.
+<m joy>Tớ làm được rồi, tớ làm được rồi.
+<m0>Nhấn nút đó đi.
 
 *n_20
-Are you sure this is safe?
+Cậu chắc chuyện này an toàn chứ?
 
 *so_21
-Totally.
-If not...we’ll deal with that later.
+Chắc chắn.
+Nếu không thì...chúng ta tính sau.
 
 *n_22
-More like <i>I’ll</i> deal with it...
+Nghe giống như <i>mình</i> sẽ phải lo liệu hơn...
 
 //権限を許可し、さらにぽちぽちするティグ
 
 *so_23
-Thank you.
+Cảm ơn nhé.
 Hmm...
 
 *so_23_2
-<m cry>Interesting<m0>...
-This staff is an antique, but the crystal embedded in it is state of the art.
+<m cry>Thú vị thật<m0>...
+Cây trượng này là đồ cổ, nhưng viên pha lê gắn bên trong lại thuộc hàng công nghệ tiên tiến nhất.
 
 *so_24
-Okay, I think we got it this time!
-Try casting a spell on the slime again!
+Được rồi, lần này chắc thành công rồi!
+Thử dùng phép thuật lên con slime lần nữa đi!
 
 // 今度は貫通せずスライムに魔術が当たる
 
 *so_25
-<m scary>Yyyyes!
-<W3><m ple>I just knew it would work!!
+<m scary>Đ-Đúng rồi!
+<W3><m ple>Tớ biết ngay là sẽ thành công mà!!
 
 *n_25
-I...hit it?
+Mình...đánh trúng nó rồi sao?
 
 *so_26
-<m joy>This is what I live for!
+<m joy>Đây chính là điều tớ sống vì nó!
 *
-<MT>I tweaked your staff so its magic could detect and interact with the hologram data.
+<MT>Tớ đã chỉnh sửa cây trượng của cậu để phép thuật có thể phát hiện và tương tác với dữ liệu ảnh ba chiều.
 *
-<MT>I essentially turned off a safety feature that was preventing the magic from hitting things it's not supposed to.
+<MT>Về cơ bản, tớ đã tắt một tính năng an toàn vốn ngăn phép thuật tác động lên những thứ mà nó không được phép chạm tới.
 *
-But don’t worry, it shouldn’t have an effect on anything outside of the shed.
+Nhưng đừng lo, thay đổi này sẽ không ảnh hưởng đến bất cứ thứ gì bên ngoài nhà kho đâu.
 *
-<MT l=-1>Oh, a-a-and...
-<W6>The holograms might be able to interact with you, too...
+<MT l=-1>Ồ, c-còn nữa...
+<W6>Ảnh ba chiều cũng có thể tương tác với cậu đấy...
 
 *n_27
-Th-that’s incredible!
+C-chuyện này thật đáng kinh ngạc!
 
 *so_28
-<m joy>Oh, stop~
-You’re embarrassing me!<m0>
+<m joy>Ôi, thôi nào~
+Cậu làm tớ ngượng quá đi mất!<m0>
 *
-It’s just a simulation, but you’ll still feel the sensation of pain when a hologram hits you.
+Dù chỉ là mô phỏng, cậu vẫn sẽ cảm nhận được cảm giác đau khi bị ảnh ba chiều đánh trúng.
 
 *so_29
-I don’t think it will actually hurt you, but do be careful!
-Now, prepare for combat, cadet!
+Tớ không nghĩ nó thực sự làm cậu bị thương đâu, nhưng nhớ cẩn thận nhé!
+Nào, chuẩn bị chiến đấu đi!
 
 *n_29
-<angry>H-Hey! How about a little heads up!?
+<angry>N-Này! Ít nhất cũng phải báo trước cho tớ chứ!?
 
 
 // =================
 // 敗北ルート
 
 *___Tigrina/t12 n_00
-(sniffle)
+(sụt sịt)
 
 *so_01
-Um...cadets do combat training, right?
+Ừm...các học viên cũng phải huấn luyện chiến đấu đúng không?
 
 *n_02
-I just haven’t eaten anything today...
+Chỉ là hôm nay tớ chưa ăn gì cả...
 
 *so_03
-Heh, cute. All right, we’ll run it again.
+Heh, dễ thương đấy. Được rồi, chúng ta thử lại nhé.
 　
 //敗北二回目
 
 *___Tigrina/t12 n_100
-(sniffle)
+(sụt sịt)
 
 *so_101
-Seriously?
+Thật luôn sao?
 
 *n_102
-I’m so embarrassed...
+Tớ xấu hổ quá...
 
-*so_103
-Well, I have asked a lot of you today...
+*n_103
+Chà, hôm nay tớ đã nhờ cậu khá nhiều rồi...
 *
-I’ll make the slimes weaker since this is just for testing purposes anyway.
+Dù sao đây cũng chỉ là thử nghiệm, nên tớ sẽ giảm sức mạnh của mấy con slime xuống.
 
 *n_104
-I can do this.
+Tớ sẽ làm được mà.
 
 //敗北3回目以降
 *___Tigrina/t12 so_200
@@ -1042,38 +1042,38 @@ I can do this.
 
 // お互い気まずい顔
 *so_202
-Are you<s7>...
-<s1>feelin’ alright?
+Cậu<s7>...
+<s1>vẫn ổn chứ?
 
 *n_203
-I’m not usually like this...
+Bình thường tớ không như thế này đâu...
 
 *so_204
-Well, I think we’ll call it here...
+Ừm, vậy chúng ta dừng ở đây nhé...
 
 *n_205
-N-no, you’ve gotta believe me!
-...uuu~~
+K-không, cậu phải tin tớ chứ!
+...Ưư~~
 
 *so_206
-Let the record show that this is how it really went down...
+Xin ghi nhận rằng mọi chuyện thực sự đã diễn ra như sau...
 
 *so_206_2
-<m joy>And so, Noel Cornehl, the most talented girl in the school, destroyed the holographic slime just as quickly as it appeared.
+<m joy>Và thế là Noel Cornehl, cô gái tài năng nhất trường, đã tiêu diệt con slime ảnh ba chiều nhanh chóng chẳng kém lúc nó xuất hiện.
 *
-<m joy>In a single strike, she passed the E.M.R.R.C entrance exam with flying colors.
+<m joy>Chỉ với một đòn duy nhất, cô đã vượt qua kỳ thi đầu vào E.M.R.R.C một cách xuất sắc.
 
 *n_207
-Th-this was a test...!?
+C-chuyện này là bài kiểm tra sao...!?
 
 *so_208
-Cheers and hurrahs echo through the club halls~!
+Tiếng reo hò và cổ vũ vang vọng khắp hành lang câu lạc bộ~!
 *
-You’re pretty strong!
-You must fight often~!
+Cậu mạnh thật đấy!
+Chắc hẳn cậu thường xuyên chiến đấu lắm nhỉ~!
 
 *n_209
-W-well...yes, I do...
+Ừ-ừm...đúng vậy...
 
 // t13へ
 
@@ -1082,19 +1082,19 @@ W-well...yes, I do...
 
 // 一度も負けずに勝利
 *___Tigrina/t11 so_00
-You’re pretty strong!
-You must fight often!
+Cậu mạnh thật đấy!
+Chắc hẳn cậu thường xuyên chiến đấu lắm!
 
 *n_01
-Oh, I’m nothing special...
+Ồ, tớ cũng chẳng có gì đặc biệt đâu...
 
 // t13へ
 
 // 一回以上負けてから勝利 ================================================
 
 *so_02
-<m joy>Okay, that was perfect!
-<m0>Thanks for your help!
+<m joy>Được rồi, hoàn hảo luôn!
+<m0>Cảm ơn cậu đã giúp đỡ!
 
 *n_03
 Ahaha...
@@ -1105,120 +1105,120 @@ Ahaha...
 // 合流
 
 *___Tigrina/t13 so_00
-I don’t really believe in this stuff, but it feels like fate that I met you.
+Tớ không thực sự tin vào mấy chuyện này, nhưng cảm giác như việc chúng ta gặp nhau là định mệnh vậy.
 *
-<MT>Of course, people usually only say that when things go their way...
+<MT>Dĩ nhiên, người ta thường chỉ nói thế khi mọi chuyện diễn ra thuận lợi...
 *
-Otherwise they call it "bad luck" instead!
+Còn nếu không thì họ lại gọi đó là "vận xui"!
 *
-<MT>...Ah, I guess it’s luck that I met you either way. I’ll thank the heavens anyway, just in case!
+<MT>...Ah, dù thế nào thì việc gặp được cậu cũng là may mắn. Tớ vẫn sẽ cảm ơn trời đất vì gặp được cậu!
 *
-<MT>Once again, I’m Tigrina, Engineering Student, Class IV.
+<MT>Một lần nữa, tớ là Tigrina, học viên ngành Kỹ thuật, lớp IV.
 
 *n_01
-I’m Noel Cornehl, Cadet, Class III.
+Tớ là Noel Cornehl, học viên lớp III.
 
 *so_02
-Could I ask you for...one more favor?
+Tớ có thể nhờ cậu...giúp thêm một việc nữa không?
 
 *n_03
-Um...
-No.
+Ừm...
+Không.
 
 *so_04
-Ahahaha! I was just gonna ask if you’d join the club!
+Ahahaha! Tớ chỉ định hỏi cậu có muốn tham gia câu lạc bộ không thôi!
 
 *n_05
-The...Engineering and Monster Rapport Research Club?
+Câu lạc bộ...Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật?
 
 *so_06
-<m joy>Tha-a-at’s right!
+<m joy>Đú-úng rồi!
 
 *so_07
-<m joy>I’ve always dreamed of having someone strong join~ 
+<m joy>Tớ luôn mơ ước có một người mạnh mẽ tham gia câu lạc bộ~
 *
-In the past, we used real monsters in this club.
+Trước đây, chúng tớ từng sử dụng quái vật thật trong câu lạc bộ này.
 *
-<MT l=2>But that turned out to be a <m joy>ba-a-d idea-a-a~
+<MT l=2>Nhưng hóa ra đó lại là một ý tưởng rất <m joy>tệ-tệ hại~
 *
-Then I tried making machine replicants of the monsters so I could control their strength, but that didn’t work out either.
+Sau đó tớ thử chế tạo những bản sao cơ khí của quái vật để có thể kiểm soát sức mạnh của chúng, nhưng cách đó cũng chẳng thành công.
 *
-<MT>And so now all the other club members have deserted meeee~
+<MT>Và thế là tất cả thành viên khác đều bỏ rơi tớ rồi~
 
 *n_08
-<think>With all the danger she’s put me through, I don’t blame them...
+<think>Với tất cả những nguy hiểm mà cô ấy đã khiến mình phải trải qua, mình cũng chẳng trách họ...
 
 *so_09
-<m ple>But!<W4> With this new holographic technology, you can interact with monsters in a safe, secure environment!
+<m ple>Nhưng!<W4> Với công nghệ ảnh ba chiều mới này, cậu có thể tương tác với quái vật trong một môi trường an toàn tuyệt đối!
 
 *so_09_2
-Combat training for the military!
-Evacuation training for civilians!
-Or just fun for anyone!
+Huấn luyện chiến đấu cho quân đội!
+Huấn luyện sơ tán cho dân thường!
+Hoặc đơn giản là để bất cứ ai cũng có thể vui chơi!
 *
-<MT>You can even practice against monsters you normally avoid in the wild!
+<MT>Cậu thậm chí có thể luyện tập đối đầu với những quái vật mà bình thường cậu sẽ tránh xa khi gặp ngoài tự nhiên!
 *
-It’s a new dawn!
-A technological revolution!
+Một kỷ nguyên mới!
+Một cuộc cách mạng công nghệ!
 
 *n_10
-Aren’t you celebrating a bit early? Right now we’re the only ones who are using it...
+Cậu ăn mừng hơi sớm rồi đấy nhỉ? Hiện tại chỉ có chúng ta sử dụng nó thôi...
 
 *so_11
-Well then, we’ll just have to add features to attract new members and soon word of mouth will spread!
+Vậy thì chúng ta chỉ cần bổ sung thêm tính năng để thu hút thành viên mới, rồi chẳng mấy chốc tin đồn sẽ lan rộng thôi!
 
 *so_12
-The biggest problem being that we only have data on the slime...
+Vấn đề lớn nhất là chúng ta chỉ có dữ liệu của slime...
 
 // 錬金術図鑑を持っている場合
 *so_13
-Hang on, is that a Field Guide?
+Khoan đã, đó là Sổ tay thực địa phải không?
 
 *so_13_2
-Lemme borrow it for a sec!
+Cho tớ mượn một chút nhé!
 
 *so_14
-There we go! Now you’ve got space to jot down data on monsters you encounter!
+Xong rồi! Giờ cậu đã có chỗ để ghi chép dữ liệu về những con quái vật mà mình gặp!
 *
-If you can defeat them and collect special materials...
+Nếu cậu có thể đánh bại chúng và thu thập nguyên liệu đặc biệt...
 
 *so_15
-I’ll be able to make new holograms from the data!
+Tớ sẽ có thể tạo ra ảnh ba chiều mới từ dữ liệu đó!
 
 
 // 錬金術図鑑を持っている場合ここまで
 
 *so_16
-Well, we best get to work!
+Thôi nào, chúng ta bắt tay vào việc thôi!
 
 // 錬金術図鑑を持たずにこのイベントをこなしたが、あとから錬金術図鑑を得てティグリナに話す
 
 *___Tigrina/t_fg_enemy so_00
-Oh! Is that a Field Guide?
+Ồ! Đó là Sổ tay thực địa sao?
 
 *so_01
-I’ve never seen one before! I didn’t know you had an alchemy license~!
+Tớ chưa từng thấy nó trước đây! Không ngờ cậu lại có giấy phép giả kim đấy~!
 
 *n_02
-Well, my sister didn’t give me much of a choice...
+Chà, chị tớ chẳng cho tớ lựa chọn nào khác...
 
 *so_03
-Woohoo~! I’m so lucky you joined my club!
+Woohoo~! Tớ cảm thấy may mắn quá vì cậu đã tham gia câu lạc bộ của tớ!
 
 *n_04
-<think>I don’t recall actually accepting the invitation...
+<think>Mình không nhớ là đã thực sự đồng ý lời mời đâu...
 
 *so_04
-Looks like it’s missing a section on monster data.
+Có vẻ nó đang thiếu một phần về dữ liệu quái vật.
 
 *so_05
-Here, lemme fix that for ya...
+Đây, để tớ bổ sung cho cậu nhé...
 
 // 部室で服を破ったあとにガレージから離れる
 
 *___Tigrina/t_garage_pre_goout n_00
-I can’t walk around school looking like this...
-I need to clean up and mend my clothes...
+Mình không thể đi quanh trường với bộ dạng thế này được...
+Mình cần dọn dẹp và vá lại quần áo...
 
 
 // ========================================================
@@ -1226,13 +1226,13 @@ I need to clean up and mend my clothes...
 // ========================================================
 
 *___Tigrina/___abort_summoner so_00
-Wanna end the simulation?
+Muốn kết thúc mô phỏng không?
 
 // ノエルが戦闘不能時
 
 *so_10
-<m scary>Oh no! Noel!!
-<m ple>Hang on, I’m coming!
+<m scary>Ôi không! Noel!!
+Chờ chút, tớ đến ngay!
 
 
 // ========================================================
@@ -1240,114 +1240,114 @@ Wanna end the simulation?
 // ========================================================
 
 *___Tigrina/t_unlock_enemy so_00
-To tell you the truth, I <m cry><s6>can’t<s1><m0> just program in new monsters...
+Nói thật nhé, tớ <m cry><s6>không thể<s1><m0> cứ thế lập trình thêm quái vật mới được...
 
 *so_01
-I need data! Lots and lots of data from my gofer, Noel!!
+Tớ cần dữ liệu! Thật nhiều dữ liệu từ trợ lý của tớ, Noel!!
 
 *n_01
-What exactly do you need me to do?
+Chính xác thì cậu cần tớ làm gì?
 
 *so_02
-Well, the simplest way to gather data from monsters is to fight them.
+Cách đơn giản nhất để thu thập dữ liệu từ quái vật là chiến đấu với chúng.
 *
-Your staff automatically records data from monsters you fight. We can piece that together once you have enough.
+Cây trượng của cậu sẽ tự động ghi lại dữ liệu từ những con quái vật mà cậu chiến đấu. Khi có đủ dữ liệu, chúng ta có thể ghép chúng lại.
 
 *so_03
-But it’s not very efficient. It would take a lot of dead monsters to ensure there’s no gaps in the data.
+Nhưng cách này không hiệu quả lắm. Sẽ cần rất nhiều quái vật bị tiêu diệt mới đảm bảo dữ liệu không có chỗ thiếu sót.
 
 *so_04
-The better way to do it is to <c5>bring me the special materials they drop<c0>.
+Cách tốt hơn là <c5>mang những nguyên liệu đặc biệt mà chúng đánh rơi đến cho tớ<c0>.
 
 *so_05
-I’ll feed it into my <m joy>Miracle Analyzer<m0> and have the perfect data set in no time flat!
+Tớ sẽ cho chúng vào <m joy>Máy Phân Tích Kỳ Diệu<m0> của tớ và có được bộ dữ liệu hoàn hảo ngay lập tức!
 *
-Of course, this will <c5>consume the material<c0>...
-My analyzer has a voracious appetite!
+Dĩ nhiên, việc này sẽ <c5>tiêu hao nguyên liệu<c0>...
+Máy phân tích của tớ có sức hấp thụ cực kỳ đáng sợ!
 
 *n_06
-O-o-ka-a-y-y then...
+Đ-Đ-Được rồi...
 
 // ========================================================
 // MARK : 素材集めのコツ:エネミードロップ
 // ========================================================
 *___Tigrina/t_enemydrop so_00
-Have you ever seen the special items that monsters drop?
+Cậu đã từng thấy những vật phẩm đặc biệt mà quái vật đánh rơi chưa?
 
 *so_01
-It happens more often when it’s <c5>raining or foggy<c0>.
+Chúng xuất hiện thường xuyên hơn khi trời <c5>mưa hoặc có sương mù<c0>.
 *
-And I think they sell rations right here in the academy that increase the drop chance.
+Và tớ nghĩ ngay trong học viện cũng có bán khẩu phần ăn giúp tăng tỷ lệ rơi vật phẩm đấy.
 
 *so_02
-The drop chance plummets if you fight in the same area multiple times.
+Tỷ lệ rơi vật phẩm sẽ giảm mạnh nếu cậu chiến đấu nhiều lần trong cùng một khu vực.
 *
-And any monsters that <c1>die from friendly fire won’t drop anything at all<c0>!
+Và bất kỳ con quái vật nào <c1>chết do sát thương từ chính đồng minh của chúng sẽ không đánh rơi thứ gì cả<c0>!
 
 *so_03
-There’s also a rumor I overheard from the occult club.
+Ngoài ra, tớ còn nghe được một tin đồn từ câu lạc bộ huyền bí.
 *
-Apparently some of the monsters have a roaming trading post they set up in the mountains and forest...
+Nghe nói một số quái vật có một quầy buôn bán lưu động mà chúng dựng lên trong núi và rừng...
 *
-They’d probably sell the special materials there...
+Có lẽ chúng sẽ bán những nguyên liệu đặc biệt ở đó...
 
 *so_04
-But who would ever believe that. Couldn’t be me~
+Nhưng ai mà tin được chuyện đó chứ. Tớ thì không đời nào~
 
 // 一度でもノエルが木偶店主に会ってる場合
 
 *n_05
-<think>I know it’s not just a rumor.
+<think>Mình biết đó không chỉ là tin đồn.
 *
-<think>But if I tell her, she might go out looking for them and wind up in big trouble...
+<think>Nhưng nếu nói cho cô ấy biết, có thể cô ấy sẽ đi tìm chúng rồi gặp rắc rối lớn mất...
 
 // ========================================================
 // MARK : 素材集めのコツ:電子基板
 // ========================================================
 
 *___Tigrina/t_elecboard so_00
-Ah, the Circuit Board...
-Prized possession of the Puppet-type monsters!
+À, Bo Mạch...
+Báu vật của đám quái vật loại Rối Gỗ!
 
 *so_01
-Sometimes I think I identify with them more than my fellow elf! We’re both engineers, after all~
+Đôi khi tớ cảm thấy mình đồng điệu với chúng hơn cả những Elf đồng loại! Dù sao thì chúng ta đều là kỹ sư mà~
 
 *so_02
-<s7>......<s1>’Course, the last time I confessed that to someone, she ran off screaming about the time she got stuck on one of their wooden horses...
+<s7>......<s1>À, lần cuối tớ thú nhận điều đó với một người, cô ấy đã bỏ chạy trong tiếng hét sau khi kể về lần bị mắc kẹt trên một con ngựa gỗ của chúng...
 
 *n_03
-<think>Just once, think before you speak...
+<think>Ít nhất một lần thôi, hãy suy nghĩ trước khi nói...
 
 *so_04
-The circuit boards used by the monsters are noticeably different from the ones the beastmen make.
+Bo mạch mà quái vật sử dụng khác biệt rõ rệt so với loại mà thú nhân chế tạo.
 *
-I doubt I could make any of their contraptions in the Holoshed without their circuit boards.
+Tớ e rằng mình không thể chế tạo bất kỳ thiết bị nào trong Holoshed nếu thiếu các bo mạch đó.
 
 *n_05
-You wouldn’t happen to know...the best way to collect them, would you?
+Cậu có biết...cách tốt nhất để thu thập chúng không?
 
 *so_06
-Oh, aiming straight for my <m joy>engineer’s heart<m0>, <m cry>are you<m0>!?
+Ồ, cậu đang nhắm thẳng vào <m joy>trái tim kỹ sư<m0> của tớ đấy à, <m cry>phải không<m0>!?
 *
-<MT l=2>Well, I certainly wouldn’t want to fall behind the monsters when it comes to tech...
+<MT l=2>Chà, tớ chắc chắn không muốn bị tụt hậu về công nghệ so với đám quái vật...
 *
-If I did, I’d have to change the club name to <m cry>Sham-gineering and Monster Crapport Research Club<m0>!
+Nếu vậy, tớ sẽ phải đổi tên câu lạc bộ thành <m cry>Câu lạc bộ Nghiên cứu Giả Kỹ thuật và Quan hệ với Quái Vật<m0> mất!
 
 *n_07
-Are you...hoping that’s what happens...?
+Cậu...đang mong chuyện đó xảy ra sao...?
 
 *so_08
-Maybe a little...
-Anyway, according to my research–
+Có lẽ một chút...
+Dù sao thì, theo nghiên cứu của tớ–
 *
-The Puppets seem to need either enough circuit boards on-hand, or <c1>3 of them around to build one contraption<c0>.
+Có vẻ đám Rối Gỗ cần phải có đủ bo mạch trong tay, hoặc cần có <c1>3 con ở gần nhau để chế tạo một thiết bị<c0>.
 *
-But I bet I could get it down to 2 of them in the Holoshed to build something.
+Nhưng tớ cá là trong Holoshed, tớ có thể giảm số lượng xuống còn 2 con để chế tạo thứ gì đó.
 
 *so_09
-By the way, their circuit boards are consumed when they craft something.
+À, nhân tiện, bo mạch của chúng sẽ bị tiêu hao khi chế tạo thứ gì đó.
 *
-If they use all of them up, you won’t get any as a drop...
+Nếu chúng dùng hết toàn bộ bo mạch, cậu sẽ chẳng nhận được cái nào làm vật phẩm rơi ra đâu...
 
 
 // ========================================================
@@ -1355,7 +1355,7 @@ If they use all of them up, you won’t get any as a drop...
 // ========================================================
 
 *___Tigrina/106sneak_mtgroom_device n_00
-Ooh, there's a bunch of registration devices lined up here. They probably contain prototypes of the latest spells...
+Ồ, ở đây có cả một dãy thiết bị đăng ký phép thuật. Có lẽ chúng chứa những nguyên mẫu phép thuật mới nhất...
 
 *n_01
-But it's not like I could use them without a matching ID on my staff. Plus it's against the rules...
+Nhưng mình đâu thể sử dụng chúng nếu không có ID tương ứng trên cây trượng. Hơn nữa, làm vậy cũng vi phạm nội quy...

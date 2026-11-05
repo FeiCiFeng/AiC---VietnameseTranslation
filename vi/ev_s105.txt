@@ -11,7 +11,7 @@
 
 // ヌシとの戦闘終了前にグラティアに向かったときの会話
 *m2d_forest_2city n_00
-I have to save Ixia!
+Mình phải đi cứu Ixia!
 
 // ========= ========= ========= ========= =========
 // ノエルがグラティアの街に到着
@@ -20,39 +20,39 @@ I have to save Ixia!
 
 // イベント ノエル、グラティア到着
 *105/m00_entrance_00 n_00
-Phew, made it.
+Phù, cuối cùng cũng tới nơi.
 
 *n_01
-Think I used up all my luck back there.
+Có vẻ như mình đã dùng hết vận may ở chỗ đó rồi.
 
 *n_02
-Looks like the soldiers are getting ready for battle.
+Trông các binh sĩ có vẻ đang chuẩn bị chiến đấu.
 *
-I wonder where they took Ixia? Hope I can find her before class starts...
+Không biết họ đưa Ixia đi đâu rồi nhỉ? Mong là mình có thể tìm thấy cậu ấy trước khi lớp học bắt đầu...
 
 *n_03
-I could try asking one of them...
+Hay mình thử hỏi một người trong số họ xem...
 
 // 服が汚れている場合
 *n_04
-<m fadein>...but, I should really clean myself up first. The customs building should have a shower I can use before I go into town.
+<m fadein>...nhưng trước tiên, mình nên tắm rửa đã. Mình sẽ dùng phòng tắm ở trạm kiểm soát, rồi nhân tiện sửa lại quần áo luôn.
 
 
 // 抱卵
 *n_05
-<m fadein>...but, I'm in no condition to talk with anyone right now.
+<m fadein>...nhưng tình trạng hiện tại của mình không thích hợp để nói chuyện với bất kỳ ai.
 *n_06
-It might be a bit messy, but I'll have to make do with the shower in the customs building by the barrier.
+Có hơi bừa bộn một chút, nhưng mình đành dùng phòng tắm trong trạm kiểm soát vậy.
 
 
 // 汎用ワープ機能の停止
 *___city/_warp n_00
-<m fadein>I can't go walking around town looking like this...
+<m fadein>Mình không thể đi loanh quanh thành phố với bộ dạng này được...
 
 // 抱卵
 *n_10
-<m fadein>Uuu...
-There's a sharp, throbbing pain in my belly...
+<m fadein>Ưư...
+Bụng mình đau nhói từng cơn ập đến...
 
 
 // ========= ========= ========= ========= =========
@@ -61,56 +61,56 @@ There's a sharp, throbbing pain in my belly...
 // ========= ========= ========= ========= =========
 
 *105/scl_entrance_reporter mb_00
-You there! Can you spare a minute?
+Này cô bé ơi! Có thể dành cho tôi một phút được không?
 
 *mb_02
-You're a student here, right? I'm with the Grazia Times.
+Cô bé là học viên ở đây, đúng không? Tôi là phóng viên đến từ tờ Grazia Times.
 *
-I'm doing a report on the large monster and the mobilization of our military. May I ask you a few questions?
+Tôi đang viết bài về con quái vật khổng lồ và việc quân đội được huy động trong vụ việc đó. Tôi có thể hỏi em vài câu được không?
 
 *n_03
-Ah...m-my teacher told me never to get involved with such things...
+À... t-thầy cô đã dặn tôi không được dính líu đến những chuyện như thế này...
 
 
 //わざと聞いてないふり
 *mb_04
-I'm told this monster has appeared before.
+Tôi nghe nói con quái vật này từng xuất hiện trước đây.
 *
-And the army has engaged it several times. Is this true?
+Và quân đội cũng đã giao chiến với nó vài lần. Có đúng vậy không?
 
 *n_05
-Uuu...
+Ưư...
 
 *mb_06
-The call to mobilize seemed more urgent this time. We picked up a signal that made it sound like someone was in danger.
+Lần huy động này có vẻ khẩn cấp hơn hẳn. Chúng tôi đã bắt được một tín hiệu nghe như thể có người đang gặp nguy hiểm.
 *
-However, only the vanguard was deployed, while the middle guard teams were disbanded. Is this also true?
+Tuy nhiên, chỉ có đội tiên phong được triển khai, còn các đội phòng vệ tuyến giữa thì bị giải tán. Chuyện đó cũng đúng chứ?
 
 
 *n_07
-I...I don't know...
+E-Em...không biết nữa...
 
 
 *mb_08
-Really? This leads us to believe that the monster is finally gone for good.
+Thật sao? Điều này khiến chúng tôi tin rằng con quái vật cuối cùng cũng đã bị tiêu diệt hoàn toàn.
 *
-But, did it die of natural causes, or did someone else put the nail in its coffin?
+Nhưng liệu nó chết vì nguyên nhân tự nhiên, hay có ai đó đã kết liễu nó?
 *mb_09
-Someone had to have been there. On the way over, I heard these strange sounds-
+Chắc hẳn đã có người ở đó. Trên đường đến đây, tôi còn nghe thấy những âm thanh kỳ lạ-
 
 
 *n_09
-<I><m ple>P-PLEASE EXCUSE ME!
+<I><m ple>X-XIN THỨ LỖI!
 
 
 //二回目以降
 
 
 *mb_10
-You there, can you spare a minute? I'm doing a report on the large monster for the Grazia Times-
+Này cô bé, có thể dành cho tôi một phút được không? Tôi đang viết bài về con quái vật khổng lồ cho tờ Grazia Times-
 
 *n_11
-<I><m ple>S-sorry, I don't know anything!
+<I><m ple>X-xin lỗi, em không biết gì cả!
 
 
 // ========= ========= ========= ========= =========
@@ -121,62 +121,62 @@ You there, can you spare a minute? I'm doing a report on the large monster for t
 // ========= ========= ========= ========= =========
 
 *105/scl_hall_center_mob_00 ma_00
-Hey, you hear about the girl who got hurt during the monster's attack?
+Này, các cậu nghe chuyện cô gái bị thương trong vụ quái vật tấn công chưa?
 
 *mb_01
-No, that's news to me.
+Chưa, tớ chưa nghe gì về nó cả.
 
 *mc_02
-Yeah, that's 'cuz the teachers are tryin' to keep it under wraps.
+Ừ, là vì giáo viên đang cố giấu nhẹm chuyện đó đấy.
 
 *mb_03
-How come?
+Sao lại thế?
 
 *mc_04
-How should I know?
+Sao tớ biết được?
 *
-Anyway, one of the students saw a teacher go into the forest after the incident, towards the witch house.
+Dù sao thì, có một học viên kể rằng đã thấy một giáo viên đi vào rừng sau vụ việc, hướng về phía căn nhà của phù thủy.
 
 *mb_06
-That place out past the giant acid tree?
+Chỗ nằm phía bên kia cây acid khổng lồ ấy hả?
 *
-I've never been there, but I've heard a lot of rumors about what goes on...
+Tớ chưa từng đến đó, nhưng nghe đồn về những chuyện xảy ra ở đó nhiều lắm...
 
 *ma_07
-Yeah, same. I even heard that her daughter is a cadet here.
+Ừ, tớ cũng thế. Thậm chí tớ còn nghe nói con gái bà ta là học viên ở đây.
 *
-And she's the one that got injured and can't come to school anymore.
+Và cô gái bị thương, giờ không thể đến trường nữa, chính là cô ta.
 
 *mc_08
-Ah, I've got it!
+À, tớ hiểu rồi!
 
 *mb_09
-Got what?
+Hiểu gì cơ?
 
 *mc_09
-I thought it was super weird for monsters to attack in such large numbers just out of the blue.
+Tớ thấy chuyện quái vật đột nhiên kéo đến với số lượng lớn như thế kỳ lạ lắm.
 *
-That girl...she must've summoned them and led the attack!
+Cô gái đó... chắc chắn đã triệu hồi chúng rồi dẫn chúng đến tấn công!
 
 *ma_09
-Whaaaaaat!?
+CÁI GÌ CƠ!?
 
 *mc_10
-And then she had them attack her to cover her tracks!
+Sau đó, cô ta còn sai chúng tấn công chính mình để che giấu dấu vết!
 *
-What do you think? That's gotta be it!
+Thấy sao? Chắc chắn là vậy rồi!
 
 *ma_11
-Ehhh, no way.
+Ể, không thể nào.
 *
-But, there is something freaky about that witch house...
+Nhưng mà căn nhà của mụ phù thủy đó đúng là có gì đó đáng sợ thật...
 *
-When I was a kid, my mom would tell me the witch would come after me and turn me into a doll if I misbehaved.
+Hồi nhỏ, mỗi khi tớ nghịch ngợm, mẹ thường dọa rằng mụ phù thủy sẽ đến bắt tớ rồi biến tớ thành búp bê vô chi.
 *
-Scared the heck outta m-
+Sợ chết khiếp luôn ấy...
 
 *mb_12
-I heard that you can hear a woman screaming from within the store every night-
+Tớ nghe nói đêm nào người ta cũng nghe thấy tiếng phụ nữ la hét phát ra từ trong cửa tiệm đó-
 
 *n_00 
 ...
@@ -191,273 +191,273 @@ I heard that you can hear a woman screaming from within the store every night-
 
 // 先にプリムラに話しかける
 *105/health_primula_t00 n_00
-Hello, Miss Primula.
+Chào cô Primula.
 
 *p_01
-Ah, hello, Noel. Good to see you.
+À, chào em Noel. Rất vui được gặp em.
 
 *n_02
-How's Ixia doing?
+Tình hình của Ixia thế nào rồi ạ?
 
 
 // 木の椅子からぴょんと降りる
 
 // 先にイクシャに話しかける
 *n_04
-Sorry to interrupt, Miss Primula. How's Ixia doing?
+Xin lỗi vì đã làm phiền cô, Primula. Tình hình Ixia thế nào rồi ạ?
 
 *p_05
-Good to see you, Noel.
+Rất vui được gặp lại em, Noel.
 
 
 // ここで合流
 *p_06
-I've just finished the mana restoration procedure. It was touch and go for a bit, but she's alright.
+Cô vừa hoàn tất quy trình phục hồi mana. Tình hình lúc đầu khá nguy cấp, nhưng giờ em ấy đã ổn rồi.
 
 *n_06
-Thank goodness.
+May quá.
 
 *p_07
-I'm a bit more worried about the hits her body sustained. Let's check on her.
+Cô hơi lo hơn về những tổn thương mà cơ thể em ấy phải chịu. Chúng ta cùng kiểm tra nhé.
 
 
 // ノエル、イクシャの方を見る。一瞬の間
 
 *
-It's odd seeing her like this instead of her usual lively self, isn't it?
+Thật lạ khi thấy em ấy cứ nằm im thế này, thay vì lúc nào cũng tràn đầy sức sống như thường ngày nhỉ?
 
 *n_09
-<m fadein>Yes indeed, <W2>heehee.
+<m fadein>Vâng ạ, <W2>heehee.
 
 
 //布団がもぞもぞする
 
 *i_10
-I'm awake, y'know.
+Này, tớ tỉnh rồi đấy nhé.
 
 *n_11
-<m ple>Ah, Ixia!
-<W2>You're supposed to be resting.
+<m ple>Á, Ixia!
+<W2>Cậu phải nằm nghỉ ngơi chứ.
 
 *i_11
-Tch, you're not a doctor. Besides, I feel fi-
+Xì, cậu có phải bác sĩ đâu. Với lại, tớ thấy ổn rồ-
 
 *i_12
 // 勢いよく起き上がる。ダメージ音（ゲーム中そのままのやつ。
-<I><m scary><big>AH! OWWWW!!!
+<I><m scary><big>Á! ĐAU QUÁAAAA!!!
 
 *p_12
-While I appreciate your eagerness, Ixia, you do need to rest.
+Cô rất mừng vì em vẫn còn nhiệt huyết như vậy, Ixia, nhưng em thực sự cần nghỉ ngơi đấy.
 *
-The recovery magic should kick in soon to help with the pain.
+Ma thuật hồi phục sẽ sớm có tác dụng và giúp em giảm đau thôi.
 
 *i_13
-<m fadein>...okay.
+<m fadein>...Vâng ạ.
 
 *p_14
-Once the pain subsides, I'll escort you to your afternoon classes.
+Khi cơn đau dịu xuống, cô sẽ đưa em đến lớp học buổi chiều.
 *p_15
-Thank you for visiting, Noel.
-Leave the rest to me.
+Cảm ơn em đã đến thăm em ấy, Noel.
+Cứ để phần còn lại cho cô lo.
 *
-You should get going. Class is about to start.
+Em nên đi đi. Sắp đến giờ vào lớp rồi.
 
 *n_15
-<m ple>Yes, ma'am!
+<m ple>Vâng, thưa cô!
 
 
 // 制服
 
 *105/health_ixia_t_uniform i_00
-...What? That big guy got my uniform all sticky and I don't have anything else to wear.
+...Nghĩ gì chứ? Cái cây khổng lồ đó làm đồng phục của tớ dính đầy thứ nhớp nháp, mà tớ cũng chẳng có bộ nào khác để mặc.
 
 *i_01
-It's supposed to be cleaned and dried in time for the practical test this afternoon.
+Đồng phục sẽ được giặt sạch và sấy khô kịp giờ kiểm tra thực hành chiều nay.
 *
-So don't go celebrating early, thinking you've won by default, Noel Cornehl!
+Vậy nên đừng có ăn mừng sớm và mặc định tưởng mình thắng rồi nhé, Noel Cornehl!
 
 *p_02
-It's great that you're in high spirits, Ixia, but if the pain returns, come see me immediately.
+Cô rất vui khi thấy em vẫn tràn đầy năng lượng, Ixia, nhưng nếu cơn đau quay trở lại thì báo với cô ngay nhé.
 
 *n_03
-Take care, Ixia...
+Bảo trọng nhé, Ixia...
 
 *i_04
-Hmph!
+Hừ!
 
 
 // 回復魔術
 
 
 *105/health_ixia_t_curemagic i_00
-I can't believe you had to save me twice today. I don't usually mess up this bad...
+Không thể tin được hôm nay tớ phải để cậu cứu lấy hai lần. Bình thường tớ đâu có mắc sai lầm nghiêm trọng đến thế...
 *
-If I knew how to use recovery magic, I could've at least undone the damage from the molesnake. Then maybe-
+Giá mà tớ biết dùng ma thuật hồi phục, ít nhất tớ đã có thể chữa lành những tổn thương do con Rắn Chuột Chũi gây ra. Rồi có lẽ-
 
 *p_02
-Recovery magic is for medical personnel only.
+Ma thuật hồi phục chỉ dành cho nhân viên y tế thôi Ixia à.
 *
-There's a limit to the amount of times an elf can recieve it each year. Plus there's the issue of abusing it...
+Mỗi Elf có giới hạn số lần được sử dụng ma thuật này trong một năm. Chưa kể đến vấn đề nếu em lạm dụng nó nữa...
 
 *i_04
-Yeah, I know, I know!
+Vâng, em biết rồi, biết rồi!
 
 
 // 暇じゃない?
 *105/health_ixia_t_boring i_00
-Huh? Well, I definitely can't sleep after everything that's happened.
+Hả? Ừ thì, sau tất cả những chuyện vừa xảy ra, tớ chắc chắn không thể ngủ ngon được.
 
 *i_01
-And as much as I'd rather go to class, I don't mind staring at the ceiling a little while longer.
+Dù rất muốn đến lớp, nhưng tớ cũng chẳng ngại nằm nhìn trần nhà thêm một lúc nữa.
 
 *n_02
-I see.
+Vậy à.
 
 *n_03
-Miss Primula, do we still have a 4-Ascend game in here?
+Cô Primula, ở đây vẫn còn bộ 4-Ascend đúng không ạ?
 
 *p_04
-Yes, but class is about to start.
+Có, nhưng sắp đến giờ vào lớp rồi đấy.
 
 *n_05
-<m ple>W-well, you see...
-<m0>I'm not feeling so good, and that might make me a little late to class.
+<m ple>À-à thì...
+<m0>Em không được khỏe lắm, nên có lẽ sẽ vào lớp muộn một chút.
 
 *p_06
-Sigh...Shasta always tried to get me to play with her when she was in the infirmary too...
+Haiz...Hồi xưa Shasta cũng luôn tìm cách rủ cô chơi cùng mỗi khi cô ấy nằm trong phòng y tế...
 
 *i_07
-So, you're going to skip class to play games with me because you think I'm bored?
+Vậy là cậu định trốn học để chơi game với tớ vì nghĩ tớ đang chán à?
 *
-I don't need your charity, Noel Cornehl!
+Tớ không cần sự thương hại đó đâu, Noel Cornehl!
 
 *i_08
-But if I back down now, it'd look like I'm running away from your challenge...
+Nhưng nếu giờ tớ rút lui thì chẳng khác nào thừa nhận mình đang trốn tránh lời thách đấu của cậu...
 
 *i_09
-So I guess I have no choice but to play with you.
+Vậy nên chắc tớ chẳng còn lựa chọn nào khác ngoài chơi với cậu.
 
 
 *105/health_ixia_t_ttr i_00
-<m ple>I'm gonna beat you to a pulp!
+<m ple>Tớ sẽ đánh cậu nhừ tử!
 
 
 // イクシャに勝った!
 *105/health_ixia_ttr_result i_000
-Nuuu~!! One more game! I'll get you next time, Noel Cornehl!
+Nuuu~!! Chơi thêm ván nữa! Lần tới tớ sẽ thắng cậu, chắc chắn, Noel Cornehl!
 
 *i_010
-You can't just win and leave! You have to give me a chance to catch back up!
+Cậu không thể cứ thắng rồi bỏ đi như thế được! Phải cho tớ cơ hội gỡ gạc lại chứ!
 
 
 // イクシャに負けた
 *i_100
-What's wrong, Noel Cornehl? Did you lose your edge while you were out?
+Sao thế, Noel Cornehl? Cậu mất phong độ trong thời gian nghỉ ở nhà rồi à?
 
 *n_101
-Uuu, maybe I'm not in the best shape today...
+Ưư, có lẽ hôm nay tớ không được khỏe lắm...
 
 *i_110
-You're so careless! Now I can see how the monsters keep catching you off-guard!
+Cậu bất cẩn quá đấy! Giờ thì tớ hiểu tại sao cậu cứ bị quái vật đánh úp rồi!
 
 *n_111
-<think>You're the last person I want to hear that from!
+<think>Người cuối cùng mình muốn nghe câu đó nói chính là cậu đấy!
 
 
 // 先生との雑談
 // 街までの道のり
 
 *105/health_primula_t_road2city p_00
-Did anything happen on your way to town? I hope you didn't get caught up in another battle.
+Trên đường đến thành phố có chuyện gì xảy ra không? Cô hy vọng em không lại vướng vào một trận chiến nào nữa.
 
 *n_01
-Eh? No...everything was fine. Thanks for your concern.
+Ơ dạ? Không ạ...mọi chuyện đều ổn. Cảm ơn cô đã quan tâm.
 
 *p_02
-Of course. You're still recovering, after all. Remember to take things slowly.
+Tất nhiên rồi. Dù sao em vẫn đang trong quá trình hồi phục mà. Nhớ đừng gắng sức quá nhé.
 
 *n_03
-I will. It's thanks to you and Ixia that I'm doing so well now.
+Vâng ạ. Em khỏe lại được như bây giờ là nhờ cô và Ixia cả.
 
 *p_03
-...speaking of things going well, it sounds like the army did a fine job with that big monster.
+...Nhắc mới nhớ, có vẻ quân đội đã xử lý con quái vật khổng lồ đó rất tốt.
 *
-The reports said it was quickly approaching the barrier and posed a serious threat.
+Theo báo cáo, nó đang nhanh chóng tiến về phía kết giới và gây ra mối đe dọa nghiêm trọng.
 
 *p_04
-I'm glad the army was able to defeat it before it could cause any damage to Grazia.
+Cô mừng vì quân đội đã đánh bại nó trước khi nó kịp gây ra thêm thiệt hại nào cho Grazia.
 
 *n_04
-But...the army didn't-
+Nhưng... quân đội đâu có-
 
 *p_05
 Hmm?
 
 *n_06
-<think>Ohh, that's right. I disobeyed the order to retreat and engaged the monster on my own.
+<think>À, phải rồi. Mình đã bất tuân lệnh rút lui và tự mình giao chiến với con quái vật đó.
 *
-<think>Bermit Academy is part of the military. I could be severely punished if they found out.
+<think>Học viện Berm​it là một phần của quân đội. Nếu chuyện này bị phát hiện, mình có thể bị trừng phạt rất nặng.
 *
-<think>That blue-haired commander lady must have reported the monster's defeat as her own unit's doing.
+<think>Chắc chị nữ chỉ huy tóc xanh kia đã báo cáo rằng chính đơn vị của cô ấy đánh bại con quái vật rồi.
 
 *p_07
-Noel, you're making a face...
-What's wrong?
+Noel, vẻ mặt em...
+Có chuyện gì xảy ra à?
 
 *n_08
-Oh, n-nothing. I was just thinking about how scary it would have been if that monster attacked me.
+À, k-không có gì ạ. Em chỉ đang nghĩ nếu con quái vật đó tấn công mình thì đáng sợ đến mức nào thôi.
 
 
 //プリムラ先生と対局
 
 *105/health_primula_t_ttr n_00
-I haven't played against you in awhile. Come on, let's go!
+Lâu rồi cô chưa đấu với em. Nào, bắt đầu thôi!
 
 *p_01
-Hmm, this is something I brought from home to help the more mischievous students pass the time.
+Hmm, đây là thứ cô mang từ nhà đến để giúp những học viên nghịch ngợm giết thời gian.
 *
-I don't really want this to be something the infirmary is used for...
+Cô thực sự không muốn phòng y tế trở thành nơi dùng để chơi trò này...
 
 *p_02
-...but, what the hey. I'll just be glad for the opportunity to play with you again.
+...Nhưng thôi thì, sao cũng được. Cô rất vui vì lại có cơ hội chơi cùng em.
 
 
 // 再戦時
 *p_10
-Fufu. I've been looking forward to this.
+Fufu. Cô đã mong chờ trận đấu này từ lâu rồi.
 
 
 // 終了（勝ち負け不問。
 *p_100
-That was fun.
-Thank you.
+Vui thật đấy.
+Cảm ơn em nhé.
 
 
 *105/health_primula_t_alma p_00
-While you were recovering at home, a girl named Alma kept asking me how you were doing.
+Trong thời gian em nghỉ ngơi ở nhà, có một cô bé tên Alma liên tục hỏi thăm tình hình của em đấy.
 
 *n_01
-Alma?
+Alma ấy ạ?
 
 // 駅でアルマに会っていない
 *n_02
-<think>Alma Opfebaum...she's in my class. During the attack two weeks ago, I-
+<think>Alma Opfebaum... cậu ấy học cùng lớp với mình. Trong vụ tấn công hai tuần trước, mình đã-
 
 *p_03
-She's probably waiting for you in 1-2 in the west wing. Why don't you go see her?
+Có lẽ em ấy đang đợi em ở phòng 1-2, khu cánh Tây. Sao em không đến gặp em ấy?
 
 *n_04
-Okay. I'll let her know that I'm fine.
+Vâng ạ. Em sẽ nói chuyện với cậu ấy sau, rằng em vẫn ổn.
 
 // 駅でアルマに会っている
 *p_10
-I saw her this morning, too. She said she spoke with you at the station and seemed very excited to start practicing today.
+Sáng nay cô cũng gặp em ấy. Em ấy nói đã trò chuyện với em ở nhà ga và có vẻ rất hào hứng được bắt đầu luyện tập hôm nay.
 
 *p_11
-I think she's outside on the grounds right now.
+Cô nghĩ hiện giờ em ấy đang ở ngoài sân trường.
 
 *n_11
-I see. I'll go thank her again for caring about me.
+Vậy ạ. Em sẽ đến cảm ơn cậu ấy lần nữa vì đã quan tâm em đến nhiều vậy.
 
 
 // ========= ========= ========= ========= =========
@@ -468,153 +468,153 @@ I see. I'll go thank her again for caring about me.
 // ========= ========= ========= ========= =========
 
 *105/scl_ground_alma n_00
-Morning, Alma.
+Chào buổi sáng, Alma.
 
 *l_01
-G-good morning, Noel.
+C-Chào buổi sáng, Noel.
 
 *n_02
-Class hasn't even started yet and you're already practicing. That's great.
+Lớp còn chưa bắt đầu mà cậu đã luyện tập rồi. Siêng thật đấy.
 
 
 //あこがれの人からの称賛にわたわたして否定するアルマ
 
 *l_03
-What!? No it's not! There's nothing great about me!
+Đâu cơ!? Không đâu! Tớ chẳng có gì siêng năng giỏi giang cả!
 
 *l_04
-I just...need to practice more than everyone else...that's all.
+Tớ chỉ... cần luyện tập nhiều hơn mọi người thôi... chỉ vậy thôi.
 
 *n_04
-It's more admirable than you think.
+Điều đó đáng ngưỡng mộ hơn cậu nghĩ đấy.
 *
-Even I make up excuses sometimes like "I'm tired", or "I'm hungry" to avoid practice.
+Đôi khi ngay cả tớ cũng viện cớ như "mệt quá" hay "đói bụng" để trốn luyện tập mà.
 
 *l_05
-Yeah, but I'm not practicing just for the sake of practice.
+Ừm, nhưng tớ không luyện tập chỉ vì muốn luyện tập đâu.
 
 *l_06
-<m fadein>To become the person I want to be someday...
+<m fadein>Tớ muốn trở thành người mà bản thân luôn hướng tới trong tương lai...
 *
-<m fadein>Someone who can protect others from all kinds of danger...
+<m fadein>Một người có thể bảo vệ người khác khỏi mọi hiểm nguy...
 *
-<m fadein>I need to be stronger.
+<m fadein>Tớ cần phải mạnh mẽ hơn.
 *
-<m fadein>When I think like that, my body just starts moving naturally.
+<m fadein>Mỗi khi nghĩ như vậy, cơ thể tớ lại tự nhiên bắt đầu rung động.
 
 *n_07
-With all the hard work you're putting in, I know you can do it!
+Với tất cả nỗ lực mà cậu đang bỏ ra, tớ tin chắc rằng cậu sẽ làm được!
 
 *l_08
-Thank you, Noel.
+Cảm ơn cậu, Noel.
 *
-<m fadein>That made my day. Ehehe...
+<m fadein>Hôm nay đúng là một ngày tuyệt vời mà. Ehehe...
 
 // 2回目
 
 *l_100
-Next class is in 1-2 in the west wing.
+Tiết học tiếp theo ở phòng 1-2, khu cánh Tây.
 *
-If it's alright, umm...<m fadein>m-may I sit next to you?
+Nếu cậu không phiền thì, ừm...<m fadein>t-tớ có thể ngồi cạnh cậu không?
 
 *n_101
-Of course.
+Tất nhiên rồi.
 
 *l_102
-<m ple>Oh!
-<m joy>Thank you!
+<m ple>Ồ!
+<m joy>Cảm ơn cậu!
 
 *l_103
-I have to put the targets back in the storage shed, so please go on ahead of me.
+Tớ còn phải mang các bia tập bắn về nhà kho, nên cậu cứ đi trước đi nhé.
 
 
 // アルマに駅で会っている 教室扉前モブ
 
 *105/scl_hall_classroom_mob_00 mob_00
-Mornin' Cornehl. Haven't seen you in awhile.
+Chào buổi sáng, Cornehl. Lâu rồi ta không gặp.
 
 *n_01
-Oh, well, you know...<m fadein>I've been sick.
+À, ừm...<m fadein>Tớ bị ốm ấy mà.
 
 *mob_02
-Yeah, it has gotten cold suddenly.
+Ừ, dạo này trời đột nhiên trở lạnh thật.
 
 *n_03
-How is everyone? I haven't had a chance to say hi yet.
+Mọi người thế nào rồi? Mình vẫn chưa có dịp chào hỏi ai cả.
 
 *mob_04
-Things have been quiet since the attack, not much goin' on.
+Sau vụ tấn công, mọi thứ khá yên ắng, chẳng có gì đáng kể.
 
 *mob_05
-I did see Alma outside earlier. She seems to be coming in early to practice extra these days.
+Hồi nãy tớ có thấy Alma ở ngoài sân. Dạo này hình như cậu thường đến sớm để luyện tập thêm.
 
 // グラウンドで会った
 
 *n_05
-Yeah, I spoke with her. We could all learn from her example.
+Ừ, Tớ đã nói chuyện với cậu ấy rồi. Mọi người chúng ta đều có thể học hỏi từ tấm gương của cậu ấy đấy.
 
 // グラウンドで会ってない
 
 *n_06
-Is that so? Maybe I'll go talk to her...
+Vậy sao? Có lẽ tớ nên đến nói chuyện với cậu ấy...
 
 // グラウンドで会った／もう一度会話
 *mob_07
-By the way, that dress is really cute. It suits you.
+À mà, chiếc váy đó dễ thương thật đấy. Rất hợp với cậu đấy.
 
 *n_08
-Thank you. Do you think it'd be weird if I wore it in class?
+À ừm...cảm ơn nhé. Cậu nghĩ nếu tớ mặc nó đến lớp thì có kỳ lạ quá không?
 
 
 // アルマに駅で会っている 授業開始 ============
 
 *105/scl_hall_go_class n_00
-Class is starting soon...
+Sắp đến giờ vào lớp rồi...
 
 
 // アルマに駅で会っていない場合 授業前・廊下 ========================
 
 *105/scl_hall_alma l_00
-<m ple>Ah, Cornehl!
+<m ple>Á, Cornehl!
 
 // ↓このセリフはs12_2aに似たようなものがあります。
 *n_01
-<think>She's one of my classmates, Alma. I haven't talked to her much, she's a quiet girl.
+<think>Đây là Alma, bạn cùng lớp với tớ. Tớ chưa nói chuyện với cậu ấy nhiều, cậu ấy là một cô gái khá là trầm tính.
 
 *n_02
-Morning, Alma.
+Chào buổi sáng, Alma.
 
 *l_03
-You've been gone for so long, I was worried about you. How are you feeling?
+Cậu nghỉ học lâu quá nên tớ lo cho cậu lắm. Cậu thấy thế nào rồi?
 
 *n_04
-I'm fine. Well enough to come to class today.
+Tớ ổn. Đủ khỏe để đến lớp hôm nay rồi.
 
 *l_05
-<m fadein>That's wonderful...!
+<m fadein>Tốt quá rồi...!
 *l_06
-Um, so...if it's okay with you, Cornehl...
+Ừm, chuyện là... nếu cậu không phiền, Cornehl...
 
 *l_07
-May I sit next to you in class?
+Tớ có thể ngồi cạnh cậu trong lớp không?
 
 
 // no ============
 *l_08
-<m scary>Oh...<m>I see...
-S-sorry to bother you...
+<m scary>Ồ...<m>Vậy à...
+X-xin lỗi vì đã làm phiền cậu...
 
 *n_09
-<m ple>No, it's not that!
-<m>I was just...gonna go to the restroom first...
+<m ple>Không, không phải vậy đâu!
+<m>Tớ chỉ... định đi vệ sinh trước thôi...
 
 *l_10
-<m ple>O-oh! Sorry, I wasn't thinking...
+<m ple>Ồ-ồ! Xin lỗi, mình không nghĩ đến chuyện đó...
 
 
 // yes ============
 *n_11
-Of course. Let's go.
+Tất nhiên rồi. Đi thôi.
 
 
 // ========= ========= ========= ========= =========
@@ -624,81 +624,81 @@ Of course. Let's go.
 // ========= ========= ========= ========= =========
 
 *105/main_classroom tc_00
-...and that's why-... Is everyone paying attention?
-This is important, so I'll go over it again.
+...và đó là lý do-... Các em có đang chú ý không đấy?
+Đây là kiến thức rất quan trọng, nên tôi sẽ nhắc lại một lần nữa.
 *
-<I><W2>Monsters are unique beings whose bodies are composed of magic.
+<I><W2>Quái vật là những sinh vật đặc biệt có cơ thể được cấu thành từ ma thuật.
 *
-<I><W2>The term "monster" is generic, and used to describe a variety of magical creatures these days.
+<I><W2>Ngày nay, thuật ngữ "quái vật" được dùng theo nghĩa chung để chỉ nhiều loại sinh vật ma thuật khác nhau.
 *
-<I><W2>The historical reason we call them monsters comes from Grazian scriptures-
+<I><W2>Lý do lịch sử khiến chúng ta gọi chúng là quái vật bắt nguồn từ kinh văn của Grazia-
 *
-<I><W2>-which originally described them as "reddish-black monsters emerging from the sea".
+<I><W2>-vốn ban đầu mô tả chúng là "những con quái vật màu đỏ đen xuất hiện từ biển cả".
 *
-<I><W2>The most widely accepted theory is that all modern-day monsters descended from them.
+<I><W2>Giả thuyết được chấp nhận rộng rãi nhất cho rằng tất cả quái vật hiện đại đều có nguồn gốc từ chúng.
 *
-<I><W2>However, this is only a comparitive cultural interpretation-
+<I><W2>Tuy nhiên, đây chỉ là một cách diễn giải dựa trên sự so sánh văn hóa-
 
 *105/main_classroom tc_00_2
--and what really differentiates monsters from one another is the nature of the magic that makes up their bodies.
+-và điều thực sự tạo nên sự khác biệt giữa các loài quái vật chính là bản chất của loại ma thuật cấu thành cơ thể chúng.
 *
-<I><W2>Compared to elves and beastmen, the magic in a monster's body is highly unstable.
+<I><W2>So với Elf và thú nhân, ma thuật bên trong cơ thể quái vật có tính bất ổn rất cao.
 *
-<I><W2>As a result, their lifespans are generally quite short.
+<I><W2>Do đó, tuổi thọ của chúng thường khá ngắn.
 *
-<I><W2>However-
+<I><W2>Tuy nhiên-
 *
-<I><W6>-this short lifespan is accompanied by a rapid evolutionary pace.
+<I><W6>-điều này đi kèm với tốc độ tiến hóa vô cùng nhanh chóng.
 *
-<I><W2>This allows them to adapt to new environments within just a few generations.
+<I><W2>Nhờ vậy, chúng có thể thích nghi với môi trường mới chỉ sau vài thế hệ.
 *
-<I><W2>Therefore-
+<I><W2>Vì thế-
 
 
 //駅で会話済ルート
 
 *l_00
-Pst, Noel.
+Eee, Noel.
 
 *n_01
-What is it?
+Gì thế?
 
 *l_02
-I heard that the big one from this morning is dead, and...um-
+Mình nghe nói con quái vật khổng lồ sáng nay đã chết, và...ừm-
 *
--that you were the one who killed it. Did you really?
+-nghe nói chính cậu đã đánh bại nó. Có thật vậy không?
 
 *n_03
-Eh?
+Ơ hả?
 
 *n_04
-<m scary>Ohh, <W1><m ple>ahh...<W1>
-<m>W-well, I guess you could say I did. But, Ixia was there too.
+<m scary>À, <W1><m ple>ừm...<W1>
+<m>Ch-chắc có thể nói là vậy. Nhưng Ixia cũng có ở đó.
 
 *l_05
-You saved Ix-...Polystachya, too?
+Cậu cũng đã cứu Ix-...Polystachya nữa sao?
 *
-That's incredible. You're amazing!
+Không thể tin được. Cậu giỏi quá!
 
 *n_06
 Ehehe.
 
 *l_07
-I wish-
+Ước gì-
 *
-I really wish I could be like you...
+Tớ thực sự ước gì có thể trở thành người như cậu...
 
  //不穏なウェイト
 
 
 *tc_03
--changing at a faster pace than any other documented-
+-thay đổi với tốc độ nhanh hơn bất kỳ trường hợp nào từng được ghi nhận-
 
 
 //駅で会話していないルート
 
 *l_100
-Pst, Cornehl.
+Eee, Cornehl.
 
 *n_101
 ?
@@ -706,109 +706,109 @@ Pst, Cornehl.
 // s12_2a*l_14 2週間前、グラティアに〜〜 n_17_2それで十分──
 
 *l_101
-<m ple>I don't...!
-<m>...think that...
-<W1><m fadein>...um...
+<m ple>Mình không...!
+<m>...nghĩ rằng...
+<W1><m fadein>...ừm...
 
 *tc_102
-<m scary>Ahe-hem...
+<m scary>Khụm...
 
 *l_102
-<m fadein>Ah, oh...
+<m fadein>À, ừ...
 
 *l_103
-<m fadein>What everyone else says about you...I don't think it's...
+<m fadein>Mình không nghĩ những điều mọi người khác nói về cậu là...
 
 // s_12_2a 〜l_22_3長々とお話してしまって。
 
 *n_104
-It's okay. I'm glad we were able to talk.
+Không sao đâu. Mình rất vui vì chúng ta đã có thể trò chuyện rồi.
 
 // ========= ========= ========= ========= =========
 // 先生の話はとても長い。
 // ========= ========= ========= ========= =========
 
 *tc_04
-For a long time now, monsters were thought to be simple-minded creatures.
+Trong một thời gian dài, quái vật vẫn được cho là những sinh vật có trí tuệ đơn giản.
 *
-<I><W2>However, it's been recently discovered that some of them are using magic similar to ours.
+<I><W2>Tuy nhiên, gần đây người ta đã phát hiện ra rằng một số loài có thể sử dụng ma thuật tương tự chúng ta.
 *
-<I><W2>The most surprising of which, is the ability to use electricity-based magic.
+<I><W2>Đáng ngạc nhiên nhất là khả năng sử dụng ma thuật hệ điện.
 *
-<I><W2>I'm sure you've all heard the recent reports about certain monsters capable of firing powerful bolts of lightning.
+<I><W2>Chắc các em đều đã nghe những báo cáo gần đây về một số loài quái vật có khả năng phóng ra những tia sét cực mạnh.
 *
-<I><W2>They convert mana into electrical energy, then release it in a sudden, channeled burst.
+<I><W2>Chúng chuyển hóa mana thành năng lượng điện, sau đó giải phóng nó thành một luồng điện tập trung trong chớp mắt.
 *
-<I><W2>In our society, only those with a Class V license are permitted to practice such dangerous magic.
+<I><W2>Trong xã hội chúng ta, chỉ những người có giấy phép Cấp V mới được phép thực hành loại ma thuật nguy hiểm như vậy.
 *
-<I><W2>Although the mechanics are quite simple, our research shows that the monsters are only using a crude imitation of what we have, but-
+<I><W2>Mặc dù cơ chế hoạt động khá đơn giản, nghiên cứu cho thấy quái vật chỉ đang sử dụng một bản sao thô sơ của ma thuật mà chúng ta có, nhưng-
 *
-<I><W2>-the fact that they are able to replicate it at even a basic level is still a significant find.
+<I><W2>-việc chúng có thể tái tạo nó dù chỉ ở mức cơ bản vẫn là một phát hiện vô cùng quan trọng.
 
 
 *tc_05
-<W4>This intelligence along with their propensity to hunt elves in groups-
+<W4>Trí tuệ này, cùng với tập tính săn Elf theo bầy đàn của chúng-
 *
-<I><W2>-has some researchers claiming that their evolution is being guided by outside forces.
+<I><W2>-đã khiến một số nhà nghiên cứu cho rằng quá trình tiến hóa của chúng đang được dẫn dắt bởi những thế lực bên ngoài.
 *
-<I><W2>A lot of newspapers and magazines are publishing sensational articles about this idea.
+<I><W2>Rất nhiều tờ báo và tạp chí đang đăng tải những bài viết giật gân về giả thuyết này.
 *
-<I><W2>So far it's nothing more than a ridiculous conspiracy theory...
+<I><W2>Cho đến nay, đây vẫn chỉ là một thuyết âm mưu nực cười...
 *
-<I><W2>...but, strangely, our research is producing results that support this theory.
+<I><W2>...nhưng kỳ lạ thay, các nghiên cứu của chúng ta lại đang thu được những kết quả ủng hộ giả thuyết này.
 
 *n_10
-(yawn)...
+(Oáp...)
 
 //とりとめのない思考、という感じで都度改ページするイメージ
 
 *n_11
-<think><m fadein>I'm sleepy...
+<think><m fadein>Mình buồn ngủ quá...
 *
-<think><m fadein>Is it lunchtime yet?
+<think><m fadein>Đến giờ ăn trưa chưa nhỉ?
 
 *n_12
-<think><m fadein>My brother used to pack lunches for me...
+<think><m fadein>Anh trai từng chuẩn bị cơm hộp cho mình...
 *
-<think><m fadein>I always looked forward to eating them.
+<think><m fadein>Mình luôn mong chờ đến lúc được ăn chúng.
 *
-<think><m fadein>But, then I asked him to stop...
+<think><m fadein>Nhưng rồi sao mình lại bảo anh ấy đừng làm nữa nhỉ...
 
 
 *n_13
-<think><m fadein>It was embarrassing eating it in front of everyone.
+<think><m fadein>Mình thấy xấu hổ khi ăn trước mặt mọi người.
 *
-<think><m fadein>Eating the cafeteria food was worse, though...
+<think><m fadein>Nhưng đồ ăn ở căng tin còn tệ hơn...
 *
-<think><m fadein>There were lots of veggies, and none of it tasted as good.
+<think><m fadein>Có rất nhiều rau củ, mà chẳng món nào ngon cả.
 *
-<think><m fadein>It was like hospital food...
+<think><m fadein>Cứ như đồ ăn trong bệnh viện vậy...
 *
-<think><m fadein>How long ago was that?
+<think><m fadein>Chuyện đó đã từ bao lâu rồi nhỉ?
 
 
 *tc_06
-We need to be careful, and make sure we have every possibility accounted for.
+Chúng ta cần phải cẩn thận và tính đến mọi khả năng có thể xảy ra.
 *
-<I><W2>And take extra care when working in areas with mana plants. We don't want to cause any unnecessary-<W9>
+<I><W2>Đồng thời, hãy đặc biệt chú ý khi làm việc ở những khu vực có Cây Mana. Chúng ta không muốn gây ra bất kỳ điều gì không cần thiết-<W9>
 
 *n_14
-<think><m fadein>Sigh...
+<think><m fadein>Haiz...
 *
-<think><m fadein>I wish my brother would make me lunch agai-
+<think><m fadein>Ước gì anh trai lại chuẩn bị cơm trưa cho mình-
 
 *tc_15
 <angry><m ple><big>CORNEHL!
 
 *n_15
-<m scary>Ah, y-yes...
-<m fadein>The answer is...um...
+<m scary>À, v-vâng...
+<m fadein>Đáp án là... ừm...
 
 *tc_16
-I'm not asking you a question. I'm asking you to pay attention.
+Tôi không hỏi em. Tôi đang yêu cầu em chú ý nghe giảng.
 
 *n_17
-S-sorry...
+D-Dạ, e-em xin lỗi...
 
 *l_18
 Ahaha!
@@ -818,27 +818,27 @@ Ahaha!
 //チャイム
 
 *tc_19
-That's all for today. Be sure to review before next class.
+Hôm nay đến đây thôi. Các em nhớ ôn bài trước tiết học tiếp theo nhé.
 
 
 //イベント終了、いつもの立ち絵に
 // with アルマ
 
 *105/main_classroom_after l_00
-Finally lunchtime. I'm starving.
+Cuối cùng cũng đến giờ ăn trưa. Mình đói muốn chết rồi.
 
 *n_01
-Me too. Wanna eat with me in the cafeteria?
+Mình cũng vậy. Cậu muốn ăn cùng mình ở căng tin không?
 
 // アルマと駅で会っていない
 
 *l_02
-Eh, really?
-<m joy>Thank you, Cornehl!
+Ơ, thật ư?
+<m joy>Cảm ơn cậu, Cornehl!
 
 *n_03
-You're welcome, but, uh...
-Could you call me "Noel"?
+Không có gì, nhưng mà, ừm...
+Cậu gọi mình là "Noel" được không?
 
 // ev_s12 5-A (s12_2a) あたりの会話挿入。
 
@@ -847,20 +847,20 @@ Could you call me "Noel"?
 // s12_2a*l_24_2
 
 *n_04
-We've always been friends, heehee.
-...Alright, let's go eat!
+Chúng ta vốn là bạn mà, heehee.
+...Được rồi, đi ăn thôi!
 
 *l_05
-<m ple>Okay! I'll go get us some seats!
+<m ple>Được rồi! Mình sẽ đi tìm chỗ ngồi cho cả hai!
 
 // アルマと駅で会っている
 
 *l_22
-Eh, really?
-<m joy>Thank you, Noel!
+Ơ, thật sao?
+<m joy>Cảm ơn cậu, Noel!
 
 *l_23
-<m ple>I'll go get us some seats!
+<m ple>Mình sẽ đi tìm chỗ ngồi cho cả hai nhé!
 
 
 // ========================================================
@@ -868,7 +868,7 @@ Eh, really?
 // ========================================================
 
 *105/scl_hall_stop_go_other_area n_00
-<think>The infirmary is at the end of the <c red>East Wing<c>.
-I'd like to explore, but...
+<think>Phòng y tế nằm ở cuối <c red>khu cánh Đông<c>.
+Mình muốn đi khám phá nơi khác, nhưng...
 *
-<think>I should check on Primula and Ixia first.
+<think>Trước tiên, mình nên đến thăm cô Primula và Ixia đã.

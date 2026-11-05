@@ -16,67 +16,67 @@
 
 
 *___city_farm/t01 fm_00
-...need somethin'?
+...cần gì à?
 
 *n_00
-Ah! N-no no, I'm fine!
-I was just thinking about what a wonderful job you're doing.
+A! K-không không, mình ổn!
+Cháu chỉ đang nghĩ rằng bác làm công việc thật tuyệt vời.
 
 *fm_01
-Heh...thank y'kindly.
-Tell y'the truth though,
-I'm strugglin' here.
+Heh...cảm ơn cô bé nhé.
+Nhưng nói thật thì,
+ta đang chật vật đây.
 
 *n_02
-How come?
+Sao vậy?
 
 *fm_03
-Well, y'see, we moved out here
-'cuz the soil has more mana than
-up in the mountains. Figured it'd
-be better pasture for our cows.
+Chuyện là, bọn bác chuyển đến đây
+vì đất có nhiều mana hơn
+trên vùng núi. Nghĩ rằng nơi này
+sẽ là đồng cỏ tốt hơn cho đàn bò.
 *
-But lately, they don't seem to be
-doin' well.
+Nhưng gần đây, chúng có vẻ
+không được khỏe cho lắm.
 *
-They haven't been eating much
-grass, and their milk output
-has been poor.
+Chúng ăn cỏ ít hơn trước,
+và lượng sữa vắt được 
+cũng giảm sút.
 
 
 *fm_04
-Wanna do me a favor
-and try milking them?
+Cô bé giúp ta một việc được không?
+Thử vắt sữa chúng nhé?
 
 *n_05
-Sure, I...what!?
-You mean...by squeezing
-their teats!?
+Được thôi, cháu...cái gì cơ!?
+Ý bác là...bóp
+vào bầu vú của chúng á!?
 
 *fm_06
-Yeah, that's how it's done.
-I'd do it, but with their
-monster lineage, I know they'd
-be much happier if they were
-milked by an elf.
+Đúng vậy, phải làm thế mới vắt được sữa.
+Ta cũng có thể tự làm, nhưng vì chúng
+mang dòng máu của quái vật, ta biết chúng
+sẽ vui hơn nhiều nếu được
+một Elf vắt sữa.
 *n_07
-I guess so...
-but...
+Cháu đoán là vậy...
+nhưng mà...
 
 *fm_08
-Don't worry, they're actually
-quite docile.
+Đừng lo, thực ra chúng
+khá hiền lành đấy.
 *
-<m ple>You have my word that they
-won't attack you like their
-forest-dwelling ilk.
-<m fadein><W2><small>Though they may still
-charge at you if you anger them...
+<m ple>Ta đảm bảo rằng chúng sẽ
+không tấn công cháu như đồng loại
+sống trong rừng của chúng đâu.
+<m fadein><W2><small>Dù vậy, nếu chọc giận chúng,
+chúng vẫn có thể lao vào húc cháu đấy...
 
 
 *___city_farm/_portal fm_01
-So, how 'bout it?
-Wanna try milking the cows?
+Thế nào, cô bé thấy sao?
+Muốn thử vắt sữa bò không?
 
 
 // ========================================================
@@ -86,39 +86,39 @@ Wanna try milking the cows?
 
 
 *___city_farm/_rule fm_01
-When you first get down to
-the pen, all the cows will be hungry.
+Khi cháu lần đầu vào chuồng,
+tất cả bò đều đang đói bụng.
 *fm_02
-<c blue>Wait until they eat a mana-
-plant<c0>, then slowly approach them.
+<c blue>Hãy đợi chúng ăn cây Mana<c0>,
+sau đó từ từ tiến lại gần.
 *fm_03
-If you milk them when they're
-eating, hungry, or startle
-them by running or jumping,
-you'll upset them.
+Nếu cháu vắt sữa khi chúng đang ăn,
+đang đói, hoặc làm chúng giật mình
+bằng cách chạy hay nhảy,
+cháu sẽ làm chúng bực mình đấy.
 *fm_04
-An upset cow can still be
-milked, but it'll be tricky.
+Bò đang bực bội vẫn có thể
+được vắt sữa, nhưng sẽ khó hơn nhiều.
 
 
 *fm_05
-And it should go without saying that<c red>dispersing a mana plant is a bad idea<c0>.
-Even a domesticated animal will seek revenge if you take away its food.
+Và chắc không cần phải nói rằng<c red>làm tan biến cây Mana là một ý tưởng tồi<c0>.
+Ngay cả động vật đã được thuần hóa cũng sẽ tìm cách trả thù nếu cháu lấy đi thức ăn của chúng.
 
 
 
 
 *___city_farm/_game fm_cfg_00
-Ah...Miss? Your auto-
-run seems to be on.
-That'll make milking
-difficult.
+À...cô bé ơi? Có vẻ như
+chế độ tự động chạy của cháu
+đang bật đấy.
+Như vậy sẽ khó vắt sữa lắm.
 
 *fm_cfg_01
-<c5>Once you're done, we'll
-turn it back on for you<c0>.
-But, before we begin, you
-should turn it off.
+<c5>Sau khi xong việc, bác
+sẽ bật lại giúp cháu<c0>.
+Nhưng trước khi bắt đầu,
+cháu nên tắt nó đi.
 
 // ========================================================
 // MARK : 牛さん拘束：初回
@@ -126,26 +126,26 @@ should turn it off.
 
 *___city_farm/_game_absorb n_00
 <m scary>Kyaah!
-<W2><m fadein>Ouch...
+<W2><m fadein>Đau quá...
 *n_01
-<I><m ple>Wah!? My clothes...
+<I><m ple>Hả!? Quần áo của mình...
 
 
 // 2回目
 *___city_farm/_game_absorb n_10
-<m fadein>Oof...!
-<W2>So heavy...!
+<m fadein>Ư...!
+<W2>Nặng quá...!
 *n_11
-<m fadein>Licking me there <W1>won't make milk...<W1>come out.
+<m fadein>Có liếm mình ở đó <W1>thì sữa cũng đâu thể<W1>chảy ra được...
 
 
 // 3回目
 *___city_farm/_game_absorb n_20
-<m fadein>Oof...!
+<m fadein>Ư...!
 <W2><m scary>Haa, ahh!
 *n_21
-<m ple>Please help me, Mr. Rancher!
-<W2>Uu, but don't look...
+<m ple>Làm ơn cứu cháu với, bác chủ trang trại ơi!
+<W2>Ư...nhưng đừng nhìn...
 
 
 // ========================================================
@@ -153,136 +153,136 @@ should turn it off.
 // ========================================================
 
 *___city_farm/_game_timeover fm_00
-Alright, let's take a break!
-Give the cows a moment to rest!
+Được rồi, nghỉ một chút thôi!
+Để đàn bò nghỉ ngơi một lát nhé!
 
 
 
 // 普通に終わった =============
 *___city_farm/_game_timeover fm_01
-Let's see how you did...
+Để xem cháu làm việc thế nào nhé...
 
 // 牛が何度も怒った =============
 *___city_farm/_game_timeover fm_10
-...Miss, what in tarnation was that all about?
+...Cô bé, rốt cuộc cháu đã làm cái quái gì vậy?
 *n_11
-Umm...what do you mean?
+Dạ...ý bác là sao?
 
 *fm_12
-It looked like you were deliberately provoking the cows in there.
+Trông như thể cô cố tình chọc giận đàn bò vậy.
 *n_13
-Well, I uh...thought it might be good for them to get some exercise.
+ừm...cháu nghĩ có lẽ cho chúng vận động một chút cũng tốt.
 *fm_14
-Sigh...while it is true that angry cows give better milk...
+Haiz...đúng là bò đang tức giận cho nhiều sữa hơn...
 *
-They're like family to us, please treat them with more respect.
+Nhưng chúng cũng như người nhà của bọn bác vậy, xin hãy đối xử với chúng tử tế hơn.
 *
-If that's the elven way of milking cows, I won't stop you.
-But I won't be responsible for your injuries.
+Nếu đó là cách người Elf vắt sữa bò thì bác cũng không ngăn cháu.
+Nhưng bác sẽ không chịu trách nhiệm nếu cháu có bị thương.
 *
-I'll look the other way and only judge you based on your results.
-Let's see how you did...
+Bác sẽ nhắm mắt làm ngơ và chỉ đánh giá dựa trên kết quả của cháu thôi.
+Để xem cháu làm được đến đâu nhé...
 
 
 
 
 *___city_farm/_game_timeover n_30
-<m scary>Uuu...!
-<m fadein>They attacked me...
-Why didn't you stop them?
+<m scary>Ư...!
+<m fadein>Chúng tấn công mình...
+Sao bác ấy không ngăn chúng lại?
 *fm_31
-<m ple>You were provoking them!
-<m>What did you think was gonna happen?
+<m ple>Chính cháu đã chọc giận chúng!
+<m>Cô bé nghĩ chuyện gì sẽ xảy ra chứ?
 *
-I know elves despise monsters, but these cows are like family to me.
+Ta biết các Elf ghét quái vật, nhưng đàn bò này cũng như người nhà của ta vậy.
 *
-...Well, at least all this excitement will improve their milk production.
+...Chà, ít nhất thì tất cả sự náo động này cũng sẽ giúp chúng cho nhiều sữa hơn.
 *
-And no matter how good the mana is in the soil here, nothin' beats the mana straight from an elf.
+Và dù mana trong đất ở đây có tốt đến đâu, cũng chẳng gì sánh được với mana trực tiếp từ một Elf.
 
 *n_32
-...F-fine, I'll be more careful next time.
+...Đ-được rồi, lần sau cháu sẽ cẩn thận hơn.
 
 *fm_32
-Don't be too hasty. Like I said, it's not all bad.
+Đừng vội nản. Như ta đã nói, chuyện này cũng không hẳn là xấu.
 *
-Anyway, let's see how you did.
+Dù sao thì, để xem cháu làm được đến đâu nhé.
 
 
 // 0ml 
 *___city_farm/_game_result fm_01
-...Did I not explain things properly?
+...Ta đã giải thích chưa đủ rõ sao?
 *
-Pay close attention to the cows, slowly approach them after they've eaten, then milk them.
-Repeat.
+Hãy chú ý quan sát đàn bò, đợi chúng ăn xong rồi từ từ tiến lại gần và vắt sữa.
+Cứ lặp lại như vậy.
 *
-Perhaps this isn't the right job for a li'l elf lady...
+Có lẽ công việc này không phù hợp với một cô Elf nhỏ nhắn như cô bé đâu...
 
 *fm_02
-Well, wanna give it another go?
+Vậy, cháu có muốn thử lại lần nữa không?
 
 
 // 少ない  ======
 *fm_10
-Well, I've seen worse.
-Thanks for tryin' your best.
+Chà, ta từng thấy những kết quả tệ hơn rồi.
+Cảm ơn cô bé đã cố gắng hết sức.
 
 
 // 普通  ======
 *fm_20
-Good job. The cows seem quite happy.
+Làm tốt lắm. Đàn bò có vẻ khá vui vẻ.
 
- 
+
 // 普通・低質  ======
 *fm_30
-Not bad. The cows seem exhausted though.
+Không tệ. Dù vậy, đàn bò có vẻ kiệt sức rồi.
 *
-I appreciate the help, but could you please be more gentle with them?
+Ta rất cảm kích vì cháu đã giúp đỡ, nhưng cháu có thể nhẹ nhàng với chúng hơn được không?
 
 // 大量 ======
 *fm_30
-<m ple>Wow!<m0> You don't see a harvest like this every day!
+<m ple>Chà!<m0> Không phải ngày nào cũng thu hoạch được nhiều như thế này đâu!
 
 *
-You're a natural!
-Let me know if you'd like a full-time job here!
+Cô bé đây có năng khiếu đấy!
+Nếu muốn làm việc toàn thời gian ở đây thì cứ cho ta biết nhé!
 
 // 大量・低質
 *fm_40
-Well, at least the amount you gathered is impressive...
+Chà, ít nhất thì lượng sữa cháu thu được cũng rất ấn tượng...
 *
-It's not my method, but who am I to argue with results?
+Ta không làm theo cách đó, nhưng kết quả tốt thì còn biết nói gì đây?
 
 
 
 
 *fm_900
-Here, for your trouble.
-Hope the taste suits you.
+Đây, gửi  cháu chút phần thưởng vì đã vất vả.
+Hy vọng cháu sẽ thích hương vị này.
 
 
 
 
 // 再挑戦
 *fm_1000
-I can always use more help, if you're interested.
-Whaddaya say?
+Ta luôn cần thêm người giúp đỡ, nếu cháu cảm thấy hứng thú.
+Cháu thấy sao?
 
 // 今日はおしまい
 *fm_1001
-The cows look exhausted.
-I'd say they're done for the day.
+Đàn bò trông kiệt sức rồi.
+Ta nghĩ hôm nay tới đây là đủ rồi.
 *
-Come back later and we'll
-be ready for ya.
+Lần sau quay lại nhé, lúc đó
+bọn bác sẵn sàng đón tiếp cháu.
 
 
 
 *___city_farm/_game_cleaning　n_00
-Um...is there somewhere I can get cleaned up?
+Ừm...có chỗ nào để cháu tắm rửa không?
 
 *fm_00
-Yeah, if people see you walking away from our farm like that, they might get the wrong idea.
+Có chứ. Nếu mọi người thấy cháu rời trang trại trong bộ dạng đó, cháu sẽ bị hiểu lầm tai hại đấy.
 *
-There's a shower inside.
-Feel free to use it.
+Có phòng tắm ở bên trong.
+Cứ tự nhiên sử dụng nhé.

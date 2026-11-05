@@ -2,65 +2,65 @@
 
 /* ___ _eventboard_forest_witchboard_00 ___ */
 ←←←
-To Cornehl's Alchemy Atelier
+Đến Xưởng Giả Kim nhà Cornehl
 
 /* ___ _eventboard_forest_witchboard_01 ___ */
 ←
-This way to Cornehl's Alchemy Atelier.
-Watch out for thorns growing overhead.
+Lối này dẫn đến Xưởng Giả Kim nhà Cornehl.
+Cẩn thận với những dây gai mọc phía trên.
 
 /* ___ _eventboard_forest_witchboard_tuto00 ___ */
 <font size="25">
-Use <key la/><key ra/> to move.
-<key z/> for a melee attack.
+Dùng <key la/><key ra/> để di chuyển.
+Nhấn <key z/> để tấn công cận chiến.
 </font>
-Let's try breaking that wall. →→
+Thử phá bức tường kia nào. →→
 
 /* ___ _eventboard_forest_witchboard_tuto01 ___ */
-<font size="25"><key a/> Map</font>
-You should probably check out 
-the shop on the far left of the area.
+<font size="25"><key a/> Bản đồ</font>
+Có lẽ bạn nên ghé qua cửa hàng
+ở phía xa bên trái khu vực này.
 
 
 /* ___ _eventboard_forest_witchboard_tuto02 ___ */
-<font size="25">Hold <key x/> to use magic.</font>
-Hit the plants to start the battle.
-Keep the enemies at a distance and cast spells at them.
+<font size="25">Giữ <key x/> để sử dụng phép thuật.</font>
+Đánh vào những các cây mana để bắt đầu trận chiến.
+Giữ khoảng cách với quái vật và tung phép vào chúng.
 
 /* ___ _eventboard_forest_witchboard_tuto03 ___ */
-・Double tap <key la/><key ra/> to sprint.
-・You can press <key PR_BURST/> simultaneously to stop chanting.
+・Nhấn nhanh hai lần <key la/><key ra/> để chạy nhanh.
+・Bạn có thể nhấn đồng thời <key PR_BURST/> để ngừng niệm phép.
 
 /* ___ _eventboard_forest_witchboard_tuto04 ___ */
-・Press attack <key z/> while chanting magic to use "shotgun" (short-range)
-・The power depends on how much mana you use. If used before the spell is fully
-chanted, it will be much weaker.
-・You can also cancel magic using <key lsh/>
+・Nhấn nút tấn công <key z/> trong khi niệm phép để dùng "shotgun" (tầm gần)
+・Sức mạnh phụ thuộc vào lượng mana bạn sử dụng. Nếu dùng trước khi niệm phép
+hoàn tất, đòn đánh sẽ yếu hơn nhiều.
+・Bạn cũng có thể hủy phép bằng cách nhấn <key lsh/>
 
 
 /* ___ _eventboard_temporary_201003  ___ */
-・You can recover from cracks in the MP gauge by using the bed.
-・For now, there are no ways to deal with eggs and such. 
-Maybe I should make it possible to XXXX at the bench...
-・You can also save while near a bench or bed.
-・Planned: Fast travel between benches
-・At first, Noel doesn't know anything about sexual stuff.
-But if you want to see "that" side, try making her aroused, or forcibly incubated.
-・You can reset the damage multiplier from experiencing stimuli at the bookshelf by the bed.
-・Food items can only raise Arousal Rate to 70%. You cannot climax by just eating.
+・Bạn có thể hồi phục các vết nứt trên thanh MP bằng cách sử dụng giường.
+・Hiện tại, chưa có cách nào xử lý trứng và những thứ tương tự.
+Có lẽ mình nên thêm chức năng XXXX tại băng ghế...
+・Bạn cũng có thể lưu game khi ở gần băng ghế hoặc giường.
+・Dự kiến: Di chuyển nhanh giữa các băng ghế.
+・Ban đầu, Noel chẳng biết gì về chuyện tình dục.
+Nhưng nếu muốn khám phá khía cạnh "đó" của cô ấy, hãy thử khiến cô ấy hưng phấn hoặc cưỡng ép mang thai.
+・Bạn có thể đặt lại hệ số nhận sát thương do kích thích tình dục tại giá sách cạnh giường.
+・Thức ăn chỉ có thể tăng Tỷ lệ Hưng phấn lên 70%. Bạn không thể lên đỉnh chỉ vì thức ăn.
 
-&&UIGM_temporary_mutation WIP
+&&UIGM_temporary_mutation Đang Phát Triển
 
 
 /* ___ _eventboard_forest_witchboard_evadion ___ */
-<font size="25"><key lsh/> Shield
-Use <key la/> or <key ra/> + <key lsh/> to dodge</font>.
-You can dodge mid-air and give a tiny boost to your jumps.
-Use this to your advantage!
+<font size="25"><key lsh/> Khiên
+Nhấn <key la/> hoặc <key ra/> + <key lsh/> để né tránh</font>.
+Bạn có thể né tránh giữa không trung và giúp cú nhảy tăng thêm một chút độ cao.
+Hãy tận dụng điều đó!
 
 
 /* ___ _eventboard_forest_witchboard_bomb ___ */
 <font size="25">
-Hold <key ba/> and press <key x/> to use a Bomb</font>
-There are many structures that can only be destroyed by a bomb.
-Let's try using this on a suspicious-looking wall!
+Giữ <key ba/> rồi nhấn <key x/> để sử dụng Địa Lôi</font>
+Có nhiều công trình chỉ có thể bị phá hủy bằng Địa Lôi.
+Thử dùng Địa Lôi lên bức tường trông đáng ngờ kia nào!

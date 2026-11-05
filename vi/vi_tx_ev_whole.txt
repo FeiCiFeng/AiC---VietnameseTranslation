@@ -24,7 +24,7 @@
 &&EV_access_alchemy Luyện kim
 &&EV_access_cook Nấu ăn
 &&EV_access_atelier Atelier
-&&EV_access_myroom Phòng của tôi
+&&EV_access_myroom Phòng của mình
 &&EV_access_shower Tắm
 &&EV_access_restroom Nhà vệ sinh
 &&EV_access_dadroom Phòng của bố
@@ -52,7 +52,7 @@
 &&Select_gate Cổng trước
 &&Select_entrance Lối vào
 &&Select_garden Khu vườn
-&&Select_myroom Phòng của tôi
+&&Select_myroom Phòng của mình
 
 
 &&EvTitle_YourName Tên của bạn
@@ -67,7 +67,7 @@
 &&Select_stop_sitdown Không làm gì cả
 
 //選択肢
-&&Select_daijoubu Tôi ổn
+&&Select_daijoubu mình ổn
 &&Select_notgood Không hẳn...
 
 &&Select_noproblem Không sao đâu
@@ -210,7 +210,7 @@
 &&Select_cfg_auto_run_off Tự động chạy: Tắt
 &&Select_start_mini_game Bắt đầu
 &&Select_nothanks_mini_game Thôi, không cần nữa
-&&Select_quit_mini_game Tôi xong rồi
+&&Select_quit_mini_game mình xong rồi
 
 
 &&EV_access_suckmilk   Vắt sữa
@@ -238,7 +238,7 @@
 
 &&Select_pay Trả tiền
 &&Select_dont_pay Không trả tiền
-&&Select_cannot_pay Tôi không đủ tiền
+&&Select_cannot_pay mình không đủ tiền
 
 
 &&EvTitle_camera Máy móc
@@ -251,7 +251,7 @@
 
 &&EvTitle_bar Cơn gió nào đưa bạn tới đây?
 &&EvTitle_fight Về trận chiến
-&&EvTitle_forklore Kể cho tôi nghe một câu chuyện
+&&EvTitle_forklore Kể cho mình nghe một câu chuyện
 &&EvTitle_replacable Trường thọ
 
 
@@ -275,7 +275,7 @@
 &&Select_ask_you_are_monster3 ......
 &&Select_drunker ......?
 
-&&Select_imsorry Tôi xin lỗi
+&&Select_imsorry mình xin lỗi
 &&Select_ask_you_sucked Tiếng soàm soạp
 
 
@@ -298,7 +298,7 @@
 
 
 &&Select_choose_bottle Lấy một cái chai rỗng
-&&Select_excrete Tôi không nhịn được nữa...!
+&&Select_excrete mình không nhịn được nữa...!
 
 &&Timer_find_bottle Lấy chai rỗng ra
 
@@ -363,7 +363,7 @@
 &&Select_forge_choose Chuyển đổi cây trượng
 &&Select_forge_choose_buy Chuyển đổi/Mua
 
-&&Select_forge_buy Tôi có thể mua cái khác không?
+&&Select_forge_buy mình có thể mua cái khác không?
 &&Select_guild_talk Về thông số trượng
 &&Select_guild_talk2 Nói chuyện/Thông số trang bị
 &&EvTitle_t_desc_buy Mẹo từ người thử nghiệm
@@ -429,13 +429,13 @@ Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 &&Select_return_BGM Nhạc
 
 
-&&Select_about_cane Tôi cần một cây trượng thay thế
+&&Select_about_cane mình cần một cây trượng thay thế
 &&Select_replace_cane Vâng, làm ơn
-&&Select_wanna_test Tôi có thể thử trước được không?
+&&Select_wanna_test mình có thể thử trước được không?
 
 &&Select_abort Thôi, không cần đâu
 
-&&Select_replace_cane_back Tôi có thể lấy lại cây trượng cũ không?
+&&Select_replace_cane_back mình có thể lấy lại cây trượng cũ không?
 
 
 // ========================================================
@@ -459,8 +459,8 @@ Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 &&Select_getit Lấy
 &&Select_getit_enough Không còn chỗ trống
 
-&&Select_no_fishing_tutorial Tôi sẽ tự học
-&&Select_watch_again làm mẫu lại cho tôi với
+&&Select_no_fishing_tutorial mình sẽ tự học
+&&Select_watch_again làm mẫu lại cho mình với
 
 &&Select_pinch Nhéo
 &&Select_giving Tặng vật phẩm
@@ -491,7 +491,7 @@ Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 
 &&Alert_item_reduced_ooparts_tigrina Đã đưa &1 
 
-&&Select_tellme2 Nói cho tôi biết
+&&Select_tellme2 Nói cho mình biết
 
 &&Tuto_flowerycircle <key FLOWERYCIRCLE/>Vòng hoa
 
@@ -530,6 +530,6 @@ Toàn bộ vật phẩm tiêu hao sẽ được hoàn cho bạn sau đó.
 
 
 
-&&Select_cure_by_rounin Chữa trị cho tôi
+&&Select_cure_by_rounin Chữa trị cho mình với
 
 &&EvTitle_t_desc_switch Đổi Trượng

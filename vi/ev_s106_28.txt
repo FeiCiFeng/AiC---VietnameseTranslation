@@ -3,368 +3,368 @@
 // ========================================================
 
 *106/00_alma_goto_ground mb_00
-Where are you going, Cornehl? Practice is about to begin.
+Cornehl, cậu đi đâu đấy? Sắp đến giờ luyện tập rồi.
 
 *n_01
-What!?
-But...I haven’t had lunch yet!
+Hả!?
+Nhưng...tớ còn chưa ăn trưa mà!
 
 *mb_01
-Oh, well, it’s a bit too late now. You better head to the grounds.
+Ôi, giờ thì hơi muộn rồi đấy. Tốt nhất cậu nên đến sân tập đi.
 
 *l_02
-Here!
+Đây!
 
 *n_03
-<m cry>Omf.
+<m cry>Ưm...
 
 *l_04
-I saved you sandwich in case you didn't make it back in time.
+Tớ đã để dành cho cậu một phần sandwich, phòng khi cậu không kịp quay lại.
 
 *n_05
-Thanghew! Shorry I wasn’t able to join you.
+Cảm ơn cậu nhiều! Xin lỗi vì không đến ăn cùng cậu.
 
 *l_06
-It's okay. C'mon, let's go!
+Không sao đâu. Nào, đi thôi!
 
 
 // =====
 
 *106/01_ground_ensyu mb0_00
-Class III-E, all present and accounted for!
+Lớp III-E, tất cả đã có mặt đầy đủ!
 
 *mb1_01
-Class III-F, all present and accounted for!
+Lớp III-F, tất cả đã có mặt đầy đủ!
 
 *bs_00
-Good, everyone's here.
+Tốt, mọi người đều đã có mặt.
 
 
 // 杖を換装していない
 
 *bs_01
-Miss Cornehl? Where's your school-issued staff?
+Em Cornehl? Trượng được cấp của em đâu rồi?
 
 *n_02
-Um, well...
+À, ừm...
 
 *bs_03
-Ah, right, the accident...
+À, phải rồi, vụ tai nạn đó...
 
 *n_04
 ......
 
 *bs_05
-That’s a breach of school policy, but I’ll let it slide for today. Get it replaced asap.
+Đó là vi phạm nội quy học viện, nhưng hôm nay tôi sẽ bỏ qua. Hãy thay trượng mới càng sớm càng tốt nhé.
 
 *l_06
 ...
 
 *i_07
-How could you forget to do something so simple, Noel? Do you need Primula to do everything for you?
+Sao cậu lại có thể quên một thứ đơn giản như vậy chứ, Noel? Chẳng lẽ chuyện gì cậu cũng cần Primula lo giúp sao?
 
 *n_08
-I heard there’s a place in town that does repairs and replacements. I could visit them-
+Tớ nghe nói trong thị trấn có một nơi chuyên sửa chữa và thay thế trượng. Tớ có thể ghé qua đó-
 
 *n_09
-Wait, shouldn’t you be resting!?
+Khoan đã, không phải cậu nên nghỉ ngơi sao!?
 
 *i_09
-Psh, I’m not gonna let myself fall behind just because some monster got a lucky hit in.
+Hừ, tớ không định để bản thân tụt lại phía sau chỉ vì bị một con quái vật đánh bất ngờ đâu.
 
 *bs_10
-Miss Polystachya, no talking.
+Em Polystachya, không nói chuyện riêng.
 
 *i_11
-Sorry, sensei.
+Em xin lỗi, thưa thầy.
 
 
 // 杖を換装した // ============
 
 *bs_12
-Miss Cornehl, how are you feeling?
+Em Cornehl, em cảm thấy thế nào rồi?
 
 *n_13
-I-I’m fine!
+E-em ổn ạ!
 
 *bs_14
-Good, I was worried I’d have to ask Miss Polystachya to do today's demonstration.
+Tốt, tôi đã lo rằng mình sẽ phải nhờ em Polystachya làm mẫu cho buổi học hôm nay.
 
 *i_15
-<angry><m ple>What's that supposed to mean!?
+<angry><m ple>Ý thầy là sao cơ chứ!?
 
 *n_16
-Ixia!? Shouldn’t you be resting!?
+Ixia!? Cậu không phải nên nghỉ ngơi đi sao!?
 
 
 // i_09が入る
 
 *bs_18
-Ahem. If you two are quite finished, I'd like to get back on task.
+E hèm. Nếu hai em đã nói chuyện xong, tôi muốn tiếp tục bài học.
 
 
 // ============
 
 // 合流
 *bs_19
-Today we’ll be practicing a new spell.
+Hôm nay chúng ta sẽ luyện tập một phép thuật mới.
 *
-Go to the counter when your name is called to begin registration.
+Khi được gọi tên, hãy đến quầy để đăng ký phép thuật.
 
 *106/02_learn_watershard n_00
-A multi-target spell! I’ve never used one of these before. Looks complicated...
+Một loại phép thuật đa mục tiêu! Mình chưa từng sử dụng loại phép này. Trông phức tạp quá...
 
 *106/03_ensyu bs_00
-Okay, looks like everyone’s registered. Miss Cornehl, why don’t you give us a demonstration?
+Được rồi, có vẻ mọi người đã đăng ký xong. Em Cornehl, em có thể làm mẫu cho cả lớp được không?
 
 *n_01
-<m scary>Wha-<m0>
-Why me!?
+<m scary>Cái-<m0>
+Tại sao lại là em!?
 
 *bs_02
-You’ve been absent for a while and I’d like to see if your skills are still up to par.
+Em đã vắng mặt một thời gian, nên tôi muốn kiểm tra xem kỹ năng của em có còn tốt như trước không.
 
 *i_03
-Yeah, come on, <m joy>Little Miss Honor Student<m0>. Show us what you can do.
+Nào, <m joy>tiểu thư học sinh gương mẫu<m0>. Cho bọn này xem cậu làm được gì đi.
 
 *n_04
-<m fadein>Ugh...
+<m fadein>Hừ...
 *
-<think>Why is it always me? I’m no role model...
+<think>Sao lúc nào cũng là mình vậy? Mình đâu phải hình mẫu gì đâu...
 
 *106/04_ensyu_first_orbit bs_00
-Water Shard surrounds the caster with 8 shards of water. <c5>It can be used offensively and defensively<c0>.
+Thủy Phiến tạo ra 8 phiến nước bao quanh người thi triển. <c5>Phép thuật này có thể được sử dụng cả để tấn công lẫn phòng thủ<c0>.
 
 *bs_01
-Once the spell is chanted, <c5>you can choose to launch the shards or hold onto them<c0>.
+Sau khi niệm phép, <c5>em có thể chọn phóng những phiến nước ra hoặc giữ chúng lại<c0>.
 
 *bs_02
-Show us how to keep the shards encircled around you.
+Hãy cho tôi và các bạn xem cách giữ những phiến nước xoay quanh người em.
 
 *106/05_ensyu_aim_big bs_00
-Good job.
+Làm tốt lắm.
 
 *bs_01
-At this point, you can cast other spells such as White Arrow or Ground Bomb.
+Ở trạng thái này, em có thể sử dụng những phép thuật khác như Quang Tiễn hoặc Bom Địa Lôi.
 *
-You can also <c5>recast Water Shard to fire the projectiles<c0>.
+Em cũng có thể <c5>niệm lại Thủy Phiến để phóng những phiến nước ra<c0>.
 
 *bs_02
-Hold <key ta/> after choosing Water Shard again to destroy the target overhead.
+Sau khi chọn Thủy Phiến lần nữa, hãy giữ <key ta/> để phá hủy mục tiêu phía trên.
 
 *106/06_ensyu_aim_big2 bs_00
-Well done.
+Rất tốt.
 
 *bs_01
-Now do the same for the targets on your left and right.
+Giờ hãy làm tương tự với các mục tiêu bên trái và bên phải.
 *
-After preparing the spell, hold the directional key to steer the water in that direction.
+Sau khi chuẩn bị phép thuật, hãy giữ phím điều hướng để điều khiển những phiến nước bay theo hướng đó.
 *
-Keep in mind that <c5>water shards only deal half damage when encircling you<c0>.
+Hãy nhớ rằng <c5>phiến nước chỉ gây một nửa sát thương khi đang xoay quanh em<c0>.
 *
-So be sure to launch them from a distance for maximum effectiveness.
+Vì vậy, hãy phóng chúng từ khoảng cách xa để đạt hiệu quả tối đa.
 
 *106/07_ensyu_aim_small bs_00
-Now we’ll try striking multiple targets.
+Giờ chúng ta sẽ thử tấn công nhiều mục tiêu cùng lúc.
 
 *bs_01
-If you <c5>don’t press any directional keys<c0> after chanting the spell, the shards will automatically lock on to nearby targets.
+Nếu em <c5>không nhấn bất kỳ phím điều hướng nào<c0> sau khi niệm phép, các phiến nước sẽ tự động khóa mục tiêu ở gần.
 
 *bs_02
-Using the directional keys is great for concentrating fire on large targets. Likewise, this is great for taking out multiple small targets.
+Sử dụng phím điều hướng rất hữu ích khi muốn tập trung hỏa lực vào những mục tiêu lớn. Tương tự, cách này cũng rất hiệu quả để tiêu diệt nhiều mục tiêu nhỏ cùng lúc.
 
 
 // 複数ターゲットモードになっていない
 
 *106/09_failure bs_00
-You’re concentrating your fire.
+Em đang tập trung hỏa lực vào một mục tiêu.
 *
-Try not holding any directional keys after chanting the spell.
+Hãy thử không giữ bất kỳ phím điều hướng nào sau khi niệm phép.
 
 *106/08_confirm n_00
-Whoof, that was rough...
+Phù, khó thật đấy...
 
 // 杖がベルミット杖ではない場合
 
 *bs_01
-Your staff’s lock on properties are a bit lacking.
+Khả năng khóa mục tiêu của cây trượng em đang dùng hơi kém.
 *
-You would’ve had an easier time with your Bermit-issued staff.
+Nếu dùng trượng được học viện Bermit cấp, em sẽ dễ dàng hơn đấy.
 
 *bs_02
-Still, that was a good enough demonstration for the other students to follow.
+Dù vậy, phần trình diễn của em cũng đủ tốt để những học viên khác làm theo.
 
 *n_03
-I’m not so sure about that...
+Em không chắc lắm ạ...
 
 *n_04
-I’d like to try it again. I think I can do better!
+Em muốn thử lại lần nữa. Em nghĩ lần này mình có thể làm tốt hơn!
 
 *bs_05
 Hmm...
-You shouldn’t be concerned with achieving perfection on your first attempt, but I admire your drive.
+Em không nên quá bận tâm đến việc phải hoàn hảo ngay trong lần thử đầu tiên, nhưng tôi rất khâm phục sự quyết tâm của em.
 
 *bs_06
-Alright,  we'll run it again. Everyone, watch closely.
+Được rồi, chúng ta sẽ thực hiện lại. Mọi người hãy quan sát thật kỹ.
 
 *bs_10
-Your turn, cadets. Follow Miss Cornehl’s example!
+Đến lượt các em, học viên. Hãy làm theo ví dụ của em Cornehl!
 
 *bs_20
-That’s enough practice! Everyone regroup!
+Buổi luyện tập đến đây thôi! Tất cả tập hợp lại!
 
 *106/20_before_matofight l_00
-I couldn’t figure it out at all. You made it look effortless on your first try...
+Tớ chẳng hiểu gì cả. Cậu làm trông nhẹ nhàng như thể đã thành thạo ngay từ lần đầu vậy...
 
 *n_01
-A lot of that was beginner's luck. I feel like I don't completely understand it yet.
+Phần lớn là do may mắn của người mới thôi hehe. Tớ vẫn cảm thấy mình chưa thực sự hiểu rõ phép thuật này.
 
 
 //（お腹がなる。
 
 *l_02
-<m fadein>Ah!
+<m fadein>Á!
 
 *l_03
-Please tell me you didn't hear that!
+Làm ơn nói với tớ là cậu không nghe thấy tiếng đó đi!
 
 *n_04
 Ahaha...
-I’ve still got half of the sandwich you gave me, if you want it.
+Tớ vẫn còn một nửa chiếc sandwich cậu đưa lúc nãy. Cậu muốn ăn không?
 
 *l_05
-No, that’s okay.
-Although, I have been hungrier than usual.
+Không sao đâu, tớ ổn.
+Mặc dù dạo này tớ thấy đói hơn bình thường thật.
 *
-Must be all the extra practice I’ve been doing, ehehe...
+Chắc là do luyện tập nhiều hơn thôi, ehehe...
 
 *bs_06
-To cap off this lesson, we’ve prepared a little game. Cornehl, Polystachya, step forward.
+Để kết thúc buổi học hôm nay, chúng ta đã chuẩn bị một trò chơi nhỏ. Cornehl, Polystachya, bước lên đây.
 
 *i_07
-<m joy>Ohohoho</m>, I knew it! It’s not a Professor Oleander lesson without a battle at the end!
+<m joy>Ohohoho</m>, biết ngay mà! Không phải buổi học của Giáo sư Oleander nếu cuối giờ không có một trận đấu!
 
 *bs_08
-It’s not a battle, Miss Polystachya. More of a friendly competition to help sharpen your skills.
+Đây không phải trận đấu, em Polystachya. Chỉ là một cuộc thi giao lưu nhằm giúp các em nâng cao kỹ năng thôi.
 
 *n_09
-I wonder what it’ll be?
+Không biết sẽ là trò gì nhỉ?
 
 *106/21_matofight_rule bs_00
-Targets will appear in waves throughout the grounds.
+Các bia tập bắn sẽ xuất hiện thành từng đợt trên khắp sân tập.
 
 *bs_01
-The one who destroys the most will be the winner.
+Ai phá hủy được nhiều bia tập bắn nhất sẽ chiến thắng.
 
 *n_02
-That’s just a normal game!
+Chỉ là một trò chơi bình thường thôi mà!
 
 *i_03
-Ha! This’ll be a cinch!
+Ha! Chuyện này dễ như ăn bánh vậy!
 *
-And don’t think I’ll go easy on you just because you’ve been out for two weeks!
+Và đừng nghĩ tớ sẽ nương tay chỉ vì cậu đã nghỉ suốt hai tuần nhé!
 *
-This spell is new to all of us, so we’re on a level playing field!
+Phép thuật này còn mới với tất cả chúng ta, nên chẳng ai có lợi thế hơn ai cả!
 
 *i_04
-Have some pride for once in your-
-<W2<MT l=-1><m scary>HECHOO!!
+Ít nhất cũng phải có chút tự trọng chứ-
+<W2<MT l=-1><m scary>HẮT XÌ!!
 
 *n_05
-Why are you all wet?
-Did you manage to hit yourself with a water shard?
+Sao người cậu ướt nhẹp vậy?
+Cậu tự bắn trúng mình bằng Thủy Phiến à?
 
 *i_06
-<m ple>Ah shuddup!
-Having a handicap like this will just make my victory even sweeter!
+<m ple>Im đi!
+Có bất lợi thế này thì chiến thắng của tớ sẽ càng ngọt ngào hơn thôi!
 
 *bs_10
-Here are the rules-
+Đây là luật chơi-
 
 *bs_11
-Small targets are worth <c5>1 point<c0>,
-large targets are worth <c5>10 points<c0>.
+Bia nhỏ có giá trị <c5>1 điểm<c0>,
+Bia lớn có giá trị <c5>10 điểm<c0>.
 *
-Only <c5>Water Shards<c0> can break the targets, and points are awarded to whomever deals the finishing blow.
+Chỉ có <c5>Thủy Phiến<c0> mới có thể phá hủy các bia tập bắn, và điểm sẽ được trao cho người tung đòn kết liễu.
 *
-Gas will cover certain areas throughout the match. It won’t cause any ailments, but it will interrupt your chanting. Prepare spells outside of the gas before stepping in to hit targets.
+Khí gas sẽ bao phủ một số khu vực trong suốt trận đấu. Nó không gây ra bất kỳ trạng thái bất lợi nào, nhưng sẽ làm gián đoạn việc niệm phép. Hãy chuẩn bị phép thuật ở bên ngoài vùng khí gas trước khi bước vào để tấn công mục tiêu.
 *
-Whichever one of you has the most points within the 100 second limit will be declared the winner. There’s no reward for winning, though.
+Người có số điểm cao nhất trong giới hạn 100 giây sẽ là chiến thắng. Tuy nhiên, không có phần thưởng cho người thắng cuộc.
 
 *i_11
-Winning is its own reward!
-Come on, Noel Cornehl! Show me what you’re made of!
+Chiến thắng tự nó đã là phần thưởng rồi!
+Nào, Noel Cornehl! Cho tớ thấy cậu có gì đi!
 
 *n_12
-She’s so competitive...
+Cậu ấy hiếu chiến thật...
 
 *106/25_matofight_finish bs_00
-TIME!
+HẾT GIỜ!
 
 *n_01
 <m ple>IXIA!!
-Flying is cheating!
+Bay là gian lận mà!
 
 *i_02
-Where in the rules did the instructor say that!?
+Trong luật có chỗ nào nói người ta không được bay đâu!?
 
 *bs_03
-She’s right. And if flying is part of her kit, it’s best she uses it during practice too.
+Em ấy nói đúng. Hơn nữa, nếu bay là một phần năng lực của em ấy, thì tốt nhất cứ sử dụng nó trong lúc luyện tập.
 *
-Now, as for the winner...
+Vậy thì, người chiến thắng là...
 
 
 // イクシャの勝ち
 
 *i_04
-Hah! I knew it!
-That’s what you get for running your mouth all the ti-<W2><MT l="-1"><m scary>HAHCHOO!! GAH!
+Hah! Biết ngay mà!
+Đó là kết quả của việc cậu cứ ba hoa suốt-<W2><MT l="-1"><m scary>HẮT XÌ!! Á!
 
 *n_05
-You’re one to talk!
+Cậu cũng chẳng khá hơn đâu!
 
 
 // ノエルの勝ち
 
 *n_06
-<m fadein>That was close...
+<m fadein>Suýt chút nữa...
 
 *i_07
-<m scary>I don’t believe it!!
+<m scary>Không thể tin được!!
 
 
 // 引き分け
 
 *i_10
-A draw!?
-Heh, guess you really are fit to be my rival!
+Hòa sao!?
+Heh, xem ra cậu thực sự xứng đáng làm đối thủ của tớ đấy!
 
 
 // 合流
 
 *bs_100
-Okay, everyone, pair up! It's your turn!
+Được rồi, tất cả hãy ghép cặp! Đến lượt các em!
 
 *i_101
-<m joy>C’mon, Noel, let’s go around agai-
-<W2><MT l="-1"><m scary>BWECHOO!!
+<m joy>Nào, Noel, chúng ta chơi thêm một vòng nữ-
+<W2><MT l="-1"><m scary>HẮT XÌ!!
 
 *n_102
-<m fadein>You wanna dry off first?
+<m fadein>Cậu muốn lau khô người trước không?
 
 
 // ノエルが勝っていた or 引き分け
 
 *i_103
-<m ple>Heck no!
-In fact, I was just warming up!
+<m ple>Không đời nào!
+Thực ra tớ mới chỉ khởi động thôi!
 
 
 // イクシャが勝っていた
 
 *i_104
-<m ple>Heck no!
-I beat you like this before, I’ll do it again!
+<m ple>Không đời nào!
+Tớ đã thắng cậu trong tình trạng này một lần rồi, lần sau cũng vậy thôi!
 
 
 // ========================================================
@@ -372,94 +372,94 @@ I beat you like this before, I’ll do it again!
 // ========================================================
 
 *106/30_shower l_00
-Sorry for hitting you with my Water Shard spell back there, Polystachya.
+Xin lỗi vì đã bắn trúng cậu bằng phép Thủy Phiến lúc nãy, Polystachya.
 
 *i_01
-Ugh, you soaked me through to my underwear.
+Hừ, cậu làm ướt sũng cả đồ lót của tớ rồi.
 *
-Course if I hadn’t bodyblocked your shot, you might’ve beaten me with the points from that target.
+Mà nếu tớ không đỡ đòn thay cậu, có khi cậu đã thắng nhờ số điểm từ mục tiêu đó rồi.
 
 *n_02
-Did you two have a target practice competition?
+Hai cậu vừa thi bắn mục tiêu à?
 
 *i_03
-Yeah, and it was a close one.
+Ừ, và kết quả sát nút lắm.
 *
-I thought you were the only person I had to worry about, Noel, but Alma’s got some skills of her own.
+Tớ cứ tưởng người duy nhất mình cần đề phòng là cậu, Noel, nhưng Alma cũng có kỹ năng đáng gờm đấy.
 
 *l_04
-You think so?
-<m joy>Ehehe, thank you.
+Cậu nghĩ vậy sao?
+<m joy>Ehehe, cảm ơn cậu.
 
 *i_05
-<m ple>Don’t go gettin’ cocky!
-Next time, I won’t beat you by a narrow margin-
+<m ple>Đừng có vội kiêu ngạo!
+Lần sau, tớ sẽ không chỉ thắng sát nút đâu-
 *
-It’ll be a landslide victory!
+Mà sẽ thắng áp đảo cậu luôn!
 
 *n_06
-Haha. You sound like you’re back to 100%, Ixia.
+Haha. Nghe cậu nói vậy, có vẻ cậu đã hồi phục hoàn toàn rồi đấy, Ixia.
 
 *i_07
-Feels like it, too. All thanks to Primula’s restoration magic.
+Tớ cũng cảm thấy vậy. Tất cả là nhờ phép thuật phục hồi của cô Primula.
 *
-I might’ve gone overboard at practice, though. I’m exhausted.
+Có điều, có lẽ lúc nãy tớ đã tập quá sức. Giờ mệt rã rời rồi.
 
 *n_08
-Restoration magic really just speeds up the body’s natural healing process, and that takes a lot of energy.
+Phép thuật phục hồi thực chất chỉ đẩy nhanh quá trình tự chữa lành của cơ thể, mà việc đó tiêu tốn rất nhiều năng lượng.
 
 *l_09
-Do you two want to go to the cafeteria for tea, then?
+Hai cậu có muốn đến nhà ăn uống trà không?
 *
-The new blend is really good.
+Loại trà mới ngon lắm đấy.
 
 *i_10
-Sure. We’ve still got some time before our next class.
+Được thôi. Chúng ta vẫn còn chút thời gian trước tiết học tiếp theo.
 *
-How ‘bout it, Noel? You up for some tea and sweets?
+Còn cậu thì sao, Noel? Muốn uống trà và ăn bánh ngọt không?
 
 *n_11
-Yeah, lemme just finish drying my hair-
+Ừ, để tớ lau khô tóc xong đã-
 
 *ann_30
-<angry><big>Red alert.
-Red alert.
+<angry><big>Báo động khẩn cấp.
+Báo động khẩn cấp.
 *
-<angry><big>All Class III cadets and above report to the auditorium. This is not a drill.
+<angry><big>Tất cả học viên từ lớp III trở lên lập tức tập trung tại hội trường. Đây không phải diễn tập.
 *
-<angry><big>Repeat. Red alert.
-Red alert.
+<angry><big>Nhắc lại. Báo động khẩn cấp.
+Báo động khẩn cấp.
 *
-<angry><big>All Class III cadets and above report to the auditorium. This is not a drill.
+<angry><big>Tất cả học viên từ lớp III trở lên lập tức tập trung tại hội trường. Đây không phải diễn tập.
 
 *n_31
-Red alert?
+Báo động khẩn cấp?
 
 *i_32
-I’ve never heard that type of alert before. Have you, Alma?
+Tớ chưa từng nghe loại báo động này bao giờ. Cậu đã nghe chưa, Alma?
 
 *l_33
-N-No...
+C-Chưa...
 
 *n_34
 <s3><m scary>......
 
 *i_35
-Noel? Are you okay?
-Do you want me to take you to the nurse’s office?
+Noel? Cậu ổn chứ?
+Cậu có muốn tớ đưa đến phòng y tế không?
 
 *n_36
-<m scary>No. <W2><m fadein>I’m. Fine...
+<m scary>Không. <W2><m fadein>Tớ... ổn...
 *
-You heard the announcement. We have to go.
+Cậu nghe thông báo rồi đấy. Chúng ta phải đi thôi.
 
 *l_37
 Noel...
-If there’s anything I can do to help...
+Nếu có gì tớ giúp được...
 
 *n_38
-Right...
-Come on, let’s go.
+Ừ...
+Đi thôi.
 
 
 // ========================================================
@@ -467,139 +467,139 @@ Come on, let’s go.
 // ========================================================
 
 *106/31_kodo bs0_00
-Settle down, everyone.
+Tất cả trật tự nào.
 *
-I understand some of you may be confused as this is your first red alert experience. Let me explain the situation as we know it and hopefully that will answer any questions you might have.
+Tôi hiểu rằng một số em có thể đang bối rối vì đây là lần đầu tiên trải qua báo động khẩn cấp. Tôi sẽ giải thích tình hình theo những gì chúng ta đã biết, hy vọng điều đó sẽ giải đáp được những thắc mắc của các em.
 
 *bs0_01
-As you know, Bermit cadets are considered military reserve forces. Historically, we have only deployed our cadets when threat levels are at their highest.
+Như các em đã biết, học viên Bermit được xem là lực lượng dự bị của quân đội. Trước đây, chúng ta chỉ triển khai học viên khi mức độ đe dọa đạt đến mức cao nhất.
 *
-But, following the attack two weeks ago, the military has raised alert levels throughout the city. This means that threats which would normally trigger a lower level alert may instead trigger a red alert.
+Tuy nhiên, sau cuộc tấn công hai tuần trước, quân đội đã nâng mức cảnh báo trên toàn thành phố. Điều này có nghĩa là những mối đe dọa vốn chỉ kích hoạt cảnh báo cấp thấp hơn giờ đây có thể dẫn đến báo động khẩn cấp.
 *
-In short, our cadets will be expected to defend the city from monsters on a more frequent basis.
+Nói ngắn gọn, các học viên sẽ phải thường xuyên hơn tham gia bảo vệ thành phố khỏi quái vật.
 
 *mb0_02
-<small>Seriously?
+<small>Thật ư?
 
 *mb1_03
-<small>We have to fight monsters?
+<small>Chúng ta phải chiến đấu với quái vật à?
 
 *bs0_04
-I know the announcement was clear about this, but I'd like to repeat that this is not a drill.
+Tôi biết thông báo vừa rồi đã nói rất rõ, nhưng tôi muốn nhắc lại rằng đây không phải diễn tập.
 
 *n_05
-<think>Even if it was a drill, it wouldn't be a joking matter.
+<think>Dù có là diễn tập thì chuyện này cũng chẳng phải thứ để đem ra đùa.
 
 *bs0_06
-A horde of monsters has breached the mountainside barrier.
+Một đàn quái vật đã phá vỡ hàng rào phòng thủ ở sườn núi.
 *
-Details are scarce at the moment. The horde is large, but nowhere near the size of the one from two weeks ago.
+Hiện tại chúng ta vẫn chưa có nhiều thông tin. Số lượng quái vật khá lớn, nhưng không thể sánh với đàn quái vật xuất hiện hai tuần trước.
 *
-Their predicted course shows them heading right for Bermit. We’ll be marshalling our defenses to protect the school and the town of Grazia.
+Theo dự đoán, chúng đang tiến thẳng về phía Học Viện Bermit. Chúng ta sẽ huy động lực lượng phòng thủ để bảo vệ học viện và đô thành Grazia.
 
 *mb2_07
-<small>Predicted? So they might not even come here...
+<small>Dự đoán thôi sao? Vậy có khi chúng còn chẳng đến đây...
 
 *mb3_08
-<small>And it’s not even that big?
+<small>Mà số lượng cũng đâu có lớn đến thế?
 
 *mb4_09
-<small>Yeah, what’s all the fuss about?
+<small>Đúng vậy, có gì mà phải làm quá lên chứ?
 
 *bs0_09
-Our district's military defense unit has been unreachable since the report came in. We’re preparing for the worst. Keep your comms open and your staff on your person at all times.
+Chúng ta đã mất liên lạc với đơn vị phòng thủ quân sự của khu vực kể từ khi nhận được báo cáo. Chúng ta đang chuẩn bị cho tình huống xấu nhất. Hãy luôn giữ thiết bị liên lạc bên mình và mang theo trượng mọi lúc.
 
 *so_11
-Tigrina Soala, Engineering Class IV.
-Permission to speak?
+Tigrina Soala, lớp Kỹ Thuật IV.
+Em xin phép được phát biểu ạ.
 
 *bs1_12
-Go ahead, Miss Tigrina.
+Em cứ nói đi, Tigrina.
 
 *so_13
-Thank you.
+Cảm ơn thầy.
 *
-We engineers don't usually engage monsters directly. We're not trained for it.
+Bọn em là học viên ngành kỹ thuật, bình thường không trực tiếp giao chiến với quái vật. Bọn em không được huấn luyện cho việc đó.
 
 *so_14
-But I did get uncomfortably close when I put myself on the front lines with the infantry two weeks ago.
+Nhưng hai tuần trước, khi tự mình ra tiền tuyến cùng bộ binh, em đã có dịp tiếp cận chúng ở khoảng cách gần đến mức khó chịu.
 *
-I've been using the artillery I borrowed from them to deal with the monsters in the forest.
+Em đã dùng pháo binh mượn từ họ để xử lý lũ quái vật trong rừng.
 
 *bs2_15
-This is the first I’m hearing of such matters.
+Đây là lần đầu tiên tôi nghe về chuyện này.
 
 *so_16
-<m joy>Oh, <m fadein>uhhh...
+<m joy>Ồ, <m fadein>ừm...
 
 *so_17
-<tigrina>Aaanyway, my point is I don't think we need to send any bodies out to the field.
+<tigrina>Dù sao thì, ý em là chúng ta không cần phải đưa bất kỳ ai ra chiến trường cả.
 *
-<tigrina>We can use the auto-turret doll I have back in my workshop.
+<tigrina>Chúng ta có thể sử dụng con rối pháo tự động mà em để trong xưởng.
 *
-<tigrina>It doesn’t have enough mana in its power source to stand up, but if it shoots enough monsters, it can collect their mana and go from there.
+<tigrina>Nguồn năng lượng của nó không đủ mana để tự đứng dậy, nhưng nếu nó bắn hạ đủ quái vật, nó có thể thu thập mana từ chúng rồi tiếp tục hoạt động.
 *
-<tigrina>I haven’t perfected the targeting system yet, so right now it just shoots anything that moves. But if there’s only monsters around, it should be fine-<W2>
+<tigrina>Em vẫn chưa hoàn thiện hệ thống nhắm mục tiêu, nên hiện tại nó sẽ bắn bất cứ thứ gì chuyển động. Nhưng nếu xung quanh chỉ có quái vật thì chắc sẽ ổn thôi-<W2>
 
 *bs1_18
-That’s enough. Go wait in the hallway and we’ll deal with you later.
+Đủ rồi. Em ra ngoài hành lang chờ đi, chúng tôi sẽ xử lý chuyện của em sau.
 
 *so_19
-<m ple>Hey, wait, I’m not done ye-!
-<MT l="-1"><m scary>Mmph!!
+<m ple>Khoan đã, em vẫn chưa nói xon-!
+<MT l="-1"><m scary>Ưm!!
 
 
 //退場させられるティグ
 
 *bs0_20
-The rest of you, prepare for combat.
+Những người còn lại, hãy chuẩn bị chiến đấu.
 
 *mb0_21
-This has to be a bad dream...
+Chắc chắn đây chỉ là một cơn ác mộng...
 
 *mb3_21
-I didn’t know we were basically conscripts.
+Tớ không biết chúng ta gần như là lính nghĩa vụ đấy.
 
 *mb1_22
-Mom...
+Mẹ ơi...
 
 *bs0_23
-We are the only thing standing between Grazia and destruction.
+Chúng ta là tuyến phòng thủ duy nhất ngăn cách Grazia với sự hủy diệt.
 *
-Fight.
-For your city and for your lives.
+Hãy chiến đấu.
+Vì thành phố và vì mạng sống của chính các em.
 
 *n_24
 ......
 
 *i_25
-Noel, check your staff. We’ve got a transmission from the military.
+Noel, kiểm tra trượng đi. Quân đội vừa gửi tín hiệu đến.
 
 *n_26
-These are...our orders.
+Đây là...mệnh lệnh của chúng ta.
 
 *i_27
-I already read them. You, me, and Alma are all posted in the same spot. Let’s go.
+Tớ đọc rồi. Cậu, tớ và Alma được phân công đến cùng một vị trí. Đi thôi.
 
 *n_28
-Okay.
+Được.
 
 *n_29
-<s2>Defending the city...
+<s2>Bảo vệ thành phố...
 *
-<s2>With friends by my side, I should be okay.
+<s2>Có bạn bè ở bên cạnh, chắc mình sẽ ổn thôi.
 
 *n_30
-<s4>So, why...<W2>why won't my hands stop shaking...
+<s4>Vậy tại sao...<W2>tại sao tay mình cứ run lên thế này...
 
 
 // タワーディフェンス開始中に街の右（山側入り口）へ行く
 
 *107/_stop_goto_entrance_rightcave n_00
-It’s too dangerous to go to the mountains with the defenses breached.
+Quá nguy hiểm để đến vùng núi khi tuyến phòng thủ đã bị phá vỡ.
 
 *n_01
-Everyone’s waiting back in Bermit. I should hurry.
+Mọi người đang đợi ở Bermit. Mình phải nhanh lên.
 
 
 // ========================================================
@@ -609,138 +609,138 @@ Everyone’s waiting back in Bermit. I should hurry.
 // （階段からティグリナのいる階の廊下に入る。
 
 *106/32_prepare_defence so_00
-<big><m cry>COME O-O-O-ON～～～!!!
-LET ME THROUGH!!
+<big><m cry>ĐI MÀAAAA～～～!!!
+CHO TÔI QUA!!
 
 *n_01
-<think>What the heck?
+<think>Cái quái gì vậy?
 
 *i_02
-<think>It’s that girl they kicked out...
+<think>Là cô gái bị đuổi ra ngoài lúc nãy...
 
 *bs1_02
-Stop yelling.
-Which department are you from?
+Đừng la hét nữa.
+Em thuộc khoa nào?
 
 *so_03
-<m ple>I already told you! And my supervisor’s name!
+<m ple>Em đã nói rồi mà! Cả tên người giám sát của em nữa!
 *
-We’re defending the city from a horde of monsters! We don’t have time for proper procedure!
+Chúng ta đang chuẩn bị phòng thủ thành phố trước đàn quái vật! Không có thời gian làm theo thủ tục đâu!
 
 *so_04
-Don’t you know the allegory of the mouse and the elf?
+Thầy không biết câu chuyện ngụ ngôn về con chuột và Elf sao?
 *
-The mouse lives a peaceful life, running in its wheel each day.
+Con chuột sống một cuộc đời yên bình, mỗi ngày chạy trong chiếc bánh xe của nó.
 *
-Completely unaware of the elf that keeps the wheel greased.
+Hoàn toàn không biết rằng có một Elf vẫn luôn tra dầu để bánh xe ấy tiếp tục quay.
 *
-<MT l="-1"><I><big><m ple>DO YOU SEE WHAT I’M SAYING!?
+<MT l="-1"><I><big><m ple>THẦY CÓ HIỂU Ý EM KHÔNG!?
 
 *bs1_05
-No. How can anyone be expected to understand you?
+Không. Làm sao có ai hiểu nổi em chứ?
 
 *so_06
-Fine, let me put it this way. What is the value of an elf’s life? Can it be measured in money?
+Được thôi, để em nói theo cách khác. Mạng sống của một Elf đáng giá bao nhiêu? Có thể đo lường bằng tiền không?
 *
-<MT l="2">I say it can! But that doesn’t mean I think life is expendable.
+<MT l="2">Theo em thì có! Nhưng không có nghĩa là em xem nhẹ mạng sống.
 *
-All life is precious.
+Mọi sinh mạng đều quý giá.
 *
-<MT l="2">But, this school is perfect proof that you can put monetary value on life.
+<MT l="2">Nhưng ngôi trường này chính là bằng chứng hoàn hảo cho thấy mạng sống có thể được quy đổi thành tiền.
 *
-It costs the school money to operate, to train us, to take care of us. And then they ask us to put our lives on the line.
+Nhà trường phải bỏ tiền để vận hành, đào tạo chúng em và chăm sóc chúng em. Rồi sau đó lại yêu cầu chúng em liều mạng vì nơi này.
 *
-<MT l="-1">So however much the school thinks we’re worth is how much money we should spend to defend it!
+<MT l="-1">Vì vậy, nhà trường nghĩ chúng em đáng giá bao nhiêu thì cũng nên chi ra từng ấy tiền để bảo vệ trường!
 
 *bs1_07
-<m scary>Just tell me what you want!
+<m scary>Rốt cuộc em muốn gì thì nói thẳng đi!
 
 *so_08
-<s2>Let me access the cannon and munition reserves.
+<s2>Cho em quyền sử dụng đại bác và kho đạn dược.
 
 
 //急に冷静になるやつ
 
 *bs1_09
-Fine.
+Được thôi.
 *
-I don’t want to be the reason any cadet dies. I’ll clear you to use anything within my authority.
+Tôi không muốn trở thành nguyên nhân khiến bất kỳ học viên nào phải bỏ mạng. Tôi sẽ cho phép em sử dụng mọi thứ trong phạm vi quyền hạn của mình.
 
 *so_10
-SQU-E-E-E! THANK YOU-U-U～～
-<m joy>I luff you so much! <emoji>❤️❤️</emoji>
+OÁI OÁI-I-I! CẢM ƠN THẦY～～
+<m joy>Em yêu thầy nhiều lắm! <emoji>❤️❤️</emoji>
 
 *bs1_11
-<m fadein>...talk like that again and I’ll slap you.
+<m fadein>...còn nói kiểu đó lần nữa thì tôi vả em đấy.
 *
-You’ll have to haul everything out yourself. You sure you know what you’re doing?
+Em sẽ phải tự vận chuyển mọi thứ ra ngoài. Em chắc mình biết phải làm gì chứ?
 
 *so_12
-Of course I do. I’ll bring everything back in one piece.
+Tất nhiên rồi ạ. Em sẽ mang mọi thứ trở về nguyên vẹn.
 *
-You have my word as the goodest girl in the whole academy.
+Em xin thề với tư cách là cô bé ngoan nhất toàn học viện.
 
 *bs1_13
-...just get moving. You're creepin' me out.
+...cứ đi làm việc đi. Em khiến tôi nổi da gà đấy.
 
 *so_14
-<m joy>Ehehe, sorry soldier <emoji>🎶</emoji>.
+<m joy>Ehehe, xin lỗi nhé <emoji>🎶</emoji>.
 
 *so_15
-Oh, hey, Noel.
+Ồ, này, Noel.
 
 *n_16
-<m fadein>Hey.
+<m fadein>Chào cậu.
 
 *so_17
-I just got us access to a bunch of defensive measures. Let’s get 'em setup.
+Tớ vừa xin được quyền sử dụng một đống thiết bị phòng thủ. Bắt tay vào lắp đặt thôi.
 
 *i_18
-<think>So she's not a complete ditz, after all.
+<think>Hóa ra cô ấy cũng không ngốc đến thế.
 
 *l_19
-<think>Ixia, that's so mean!
+<think>Ixia, cậu nói vậy ác quá đấy!
 
 *so_20
-I’ll be doing what I can from the mounted cannons. I’ll leave directing the cadets to you.
+Tớ sẽ làm hết sức từ những khẩu pháo được lắp đặt. Còn việc chỉ huy các học viên thì giao cho cậu nhé.
 
 *n_21
-Me!?
+Tớ á!?
 
 *so_22
-Yeah, you’ve got the most experience out of everyone here.
+Ừ, cậu là người có nhiều kinh nghiệm nhất trong số chúng ta.
 *
-If things go south, you’re their best chance for getting out alive.
+Nếu tình hình trở nên tồi tệ, cậu là người có khả năng giúp họ sống sót cao nhất.
 
 *n_23
-<m fadein><s3>If things...<W3>go...<W3>south...
+<m fadein><s3>Nếu mọi chuyện...<W3>trở nên...<W3>tồi tệ...
 
 
 //フラッシュバック
 
 *l_24
-<s2>It’s okay, Noel. We’re right here with you.
+<s2>Không sao đâu, Noel. Bọn tớ đang ở đây cùng cậu.
 
 *mb1_25
-Yeah! We’ll give it our all!
+Đúng vậy! Bọn tớ sẽ cố gắng hết sức!
 
 *mb2_26
-You protected us once, now it’s our turn!
+Lần trước cậu đã bảo vệ bọn tớ, giờ đến lượt bọn tớ!
 
 *mb3_27
-If we all fight together, we’ll crush those monsters!
+Nếu tất cả cùng chiến đấu, chúng ta sẽ nghiền nát lũ quái vật!
 
 *i_27
-I’m willing to take commands from you just this once.
+Lần này tớ sẽ miễn cưỡng nghe theo chỉ huy của cậu đấy.
 
 *i_28
-After all, you’re the only person other than me who knows what she’s doing! Have some confidence!
+Dù sao thì, ngoài tớ ra, cậu là người duy nhất ở đây biết mình đang làm gì! Tự tin lên!
 
 *n_28
-<s2>Thank you, everyone.
+<s2>Cảm ơn các cậu.
 
 *n_29
-<W2><s2>Let’s go <W2>defend our city.
+<W2><s2>Đi thôi. <W2>Hãy bảo vệ thành phố của chúng ta nào.
 
 
 // ========================================================
@@ -750,62 +750,62 @@ After all, you’re the only person other than me who knows what she’s doing! 
 
 // 獣人の職員
 *___city/scl_replace_cane mb_00
-Good morning.
+Chào buổi sáng.
 
 // 杖をかざす
 *n_01
-I'm Noel Cornehl, Cadet Class III.
-And, um...
+Em là Noel Cornehl, học viên lớp III.
+Và, ừm...
 
 
 // 杖の換装
 *n_02
-I need a replacement staff. My old one was destroyed two weeks ago.
+Em cần thay một cây trượng mới. Cây trượng cũ của em đã bị phá hủy hai tuần trước.
 
 *mb_03
-I see. One moment, please.
+Tôi hiểu rồi. Xin chờ một lát.
 
 *mb_04
-Ah, yes, Primula submitted an application on your behalf. Your replacement staff is ready.
+À, đúng rồi. Cô Primula đã gửi đơn đăng ký thay mặt em rồi. Trượng mới của em đã sẵn sàng.
 
 *mb_05
-Would you like to swap it for your current staff? <c1>You will not be able to switch back<c0>.
+Cô muốn đổi sang cây trượng này chứ? <c1>Một khi đã đổi, cô sẽ không thể chuyển lại cây trượng cũ<c0>.
 
 
 // 試し撃ちとかできない？
 *n_10
-I've kinda gotten used to this staff. Can I test out the Bermit one before I decide?
+Tôi cũng đã quen dùng cây trượng này rồi. Tôi có thể thử cây trượng của Bermit trước khi quyết định không?
 
 *mb_11
-Mm, no, sorry. We can't really facilitate that here.
+Ừm, rất tiếc là không được. Chúng tôi không thể hỗ trợ việc đó ở đây.
 *
-But, there is a forge down in <c5>the slums<c0> that might be able to help you out. 
+Nhưng có một lò rèn ở <c5>khu ổ chuột<c0> có lẽ sẽ giúp được em đấy.
 
 *mb_12
-That's actually where Bermit gets all of its school-issued staves from.
+Thực ra, đó chính là nơi Bermit đặt mua toàn bộ trượng cấp cho học viên.
 *
-So you can request the exact parts we're holding for you and test them there first, if you'd like.
+Vì vậy, nếu muốn, em có thể yêu cầu họ cung cấp chính xác những linh kiện mà chúng tôi đang giữ cho em, rồi thử chúng ở đó trước.
 
 *n_13
-That sounds good. Thank you.
+Nghe có vẻ ổn đấy. Cảm ơn ạ.
 
 *n_14
-The slums...
-It's a bit scary down there, but I think I'll be fine.
+Khu ổ chuột...
+Nơi đó hơi đáng sợ, nhưng chắc mình sẽ ổn thôi.
 
 // ========================
 // 換装する
 *mb_20
-Perfect. I'll go ahead and get the crystal swapped out for you.
+Tốt lắm. Tôi sẽ tiến hành thay viên tinh thể cho em.
 
 // 換装しようとした杖がバイトのテスター品だった
 *mb_21
-Oh, what's this?
+Ồ, cái này là sao?
 
 *mb_22
-Looks like this wand is a custom build. It's got the maker's insignia on it.
+Có vẻ cây trượng này là hàng được chế tạo riêng. Trên đó có phù hiệu của người chế tạo.
 *
-These things are tamper-proof for safety reasons, so you'll have to take it to a professional to get the parts replaced.
+Những món đồ này được niêm phong để đảm bảo an toàn, vì vậy em sẽ phải mang nó đến một chuyên gia để thay linh kiện.
 
 
 // ========================
@@ -813,9 +813,9 @@ These things are tamper-proof for safety reasons, so you'll have to take it to a
 // mb_11をもう一度言った後
 
 *mb_30
-They've got other customization options too, if the Bermit model doesn't suit your tastes.
+Họ cũng có những lựa chọn tùy chỉnh khác, nếu mẫu của Bermit không hợp với sở thích của em.
 *
-Maybe you'll find something you like even more than your old staff.
+Biết đâu cô còn tìm được cây trượng mình thích hơn cả cây cũ ấy chứ.
 
 *n_31
-I see. Thanks for all your help.
+Em hiểu rồi. Cảm ơn anh đã giúp đỡ nhé.

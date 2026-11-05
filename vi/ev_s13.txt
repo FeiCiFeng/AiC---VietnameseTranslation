@@ -14,113 +14,113 @@
 // ========================================================
 
 *s13_1a noelcane_00
-<device>SOS signal received. 
-SOS signal received.
-Estimated bearing: 
+<device>Phát hiện tín hiệu SOS. 
+Phát hiện tín hiệu SOS.
+Phương vị ước tính: 
 101.78 / -0.045
-Distance: 2.39
+Khoảng cách: 2.39
 
 *n_01
-Again!? 
-And it’s really close, too...
-Could it be...?
+Lại nữa sao!? 
+Mà lần này còn ở rất gần...
+Chẳng lẽ là...?
 
 
 // プレイヤーが引き返して戻ろうとする
 *n_02
-I have to check up on Ixia...!
+Mình phải đến kiểm tra tình hình của Ixia...!
 
 // 道に突き刺さったイクシャの杖を発見する
 *s13_1b ixiacane_00
-<device><noise>Warning: Dangerous entity marked for neutralization detected in the vicinity. 
+<device><noise>Cảnh báo: Phát hiện thực thể nguy hiểm được đánh dấu cần tiêu diệt trong khu vực lân cận. 
 *
-<device><noise>Requesting Level V Special Support. Repeat. Warning──
+<device><noise>Đang yêu cầu hỗ trợ đặc biệt Cấp V. Nhắc lại. Cảnh báo──
 
 
 // 巨大なツタによりイクシャの杖が破壊される
 
 *noelcane_01
-<device>Source of SOS signal identified. Level V Special Support Request sent. Automatically bypassing signals... 
+<device>Đã xác định được nguồn phát tín hiệu SOS. Đã gửi yêu cầu hỗ trợ đặc biệt Cấp V. Tự động bỏ qua các tín hiệu...
 *
-<device>21 items.
+<device>21 mục.
 *
-<device>186 items.
+<device>186 mục.
 *
 <device>......
 
 
 
 *s13_1b ixiacane_2
-<device><noise>Special message received from LifeTeller army.
+<device><noise>Đã nhận được thông điệp đặc biệt từ quân đội LifeTeller.
 
 // LifeTeller army
 // メーファ (Mepha Gridyard) : P : 女性の軍人。跳ね橋で見張りをしていた青髪の女性と同一人物
 
 *ixiacane_3
-<device><noise>Can anyone hear me?
+<device><noise>Có ai nghe thấy tôi không?
 *
-<device><noise>This is Commanding Officer Mepha Gridyard of the Elf Village’s Monster Suppression unit.
+<device><noise>Tôi là Mepha Gridyard, chỉ huy đơn vị Trấn Áp Quái Vật thuộc Làng Elf.
 *
-<device><noise>We’re mustering our troops in preparation for a search-and-destroy operation on the large monster.
+<device><noise>Chúng tôi đang tập hợp binh lực để chuẩn bị cho chiến dịch truy tìm và tiêu diệt con quái vật khổng lồ.
 *
-<device><noise>We've engaged this one several times before. 
+<device><noise>Chúng tôi đã nhiều lần giao chiến với nó trước đây.
 *
-<device><noise>It's most likely wounded and may behave in a wild and unpredictable manner.
+<device><noise>Có khả năng cao nó đã bị thương và có thể hành động hung hãn, khó lường.
 *
-<device><noise>For your safety, get as far away from it as possible.
+<device><noise>Vì sự an toàn của bản thân, hãy tránh xa nó hết mức có thể.
 *
-<device><noise>The monster is in the immediate vicinity of Grazia; retreating to the town may not be safe.
+<device><noise>Con quái vật đang ở ngay gần Grazia; rút lui về thị trấn có thể không an toàn.
 *
-<device><noise>If it escapes our forces, it could damage the town’s barrier and injure civilians.
+<device><noise>Nếu nó thoát khỏi vòng vây của chúng tôi, nó có thể phá hủy kết giới của thị trấn và làm mọi người rơi vào tình thế nguy hiểm.
 *
-<device><noise>The safety of the town is our top priority. We cannot guarantee the rescue of anyone that did not escape in time.
+<device><noise>An toàn của thị trấn là ưu tiên hàng đầu của chúng tôi. Chúng tôi không thể đảm bảo sẽ giải cứu được những người không kịp sơ tán.
 *
-<device><noise>If there are any survivors, retreat from the area immediately. I repeat──
+<device><noise>Nếu có người sống sót, hãy lập tức rút khỏi khu vực. Nhắc lại──
 
 
 *s13_1b n_04
-<m ple>What!? But then, what will happen to Ixia!?
+<m ple>Gì cơ!? Vậy còn Ixia thì sao!?
 
 *ixiacane_05
-<device><noise>A survivor? Calm down. Report the situation to me.
+<device><noise>Người sống sót sao? Bình tĩnh lại. Hãy báo cáo tình hình cho tôi.
 
 *n_06
-...I-I am Noel Cornehl. Class III Cadet of Bermit Academy.
+...T-tôi là Noel Cornehl. Học viên lớp III của Học viện Bermit.
 *
-I think...one of my friends has been captured by the monster!
+Tôi nghĩ...một người bạn của tôi đã bị con quái vật bắt đi!
 
 
 *ixiacane_07
-<device><noise>...You need to get out of there.
-<device><noise>Even though it’s wounded, it's still too much for a cadet to handle.
+<device><noise>...Cô bé cần phải rời khỏi đó ngay lập tức.
+<device><noise>Dù nó đã bị thương, nhưng một học viên như cô bé vẫn không thể đối phó với nó.
 *
-<device><noise>Get as far away
-as you can before
-it’s too late──
+<device><noise>Hãy chạy càng xa càng tốt
+trước khi
+quá muộn──
 
 
 //N:杖を回収し、走って奥へ
 
 *ixiacane_08
-<device><noise level="2">You’re breaking up... Can you still hear me? Respond──
+<device><noise level="2">Tín hiệu  bị ngắt quãng rồi... Cô bé còn nghe thấy tôi không? Trả lời đi──
 
 
 *n_09
-<m fadein>Is the military really going to just leave Ixia to die...?
+<m fadein>Quân đội thực sự định bỏ mặc Ixia đến chết sao...?
 
 *n_09b
-<m fadein>I have to get to the monster before they do...
+<m fadein>Mình phải đến chỗ con quái vật trước họ...
 *
-<m fadein>...but...can someone like me...really save her?
+<m fadein>...nhưng...một người như mình...thực sự có thể cứu được cậu ấy sao?
 *
-<m fadein>...Am I going to end up like I did on that day...
+<m fadein>...Mình sẽ lại kết thúc như ngày hôm đó sao...
 
 // ＝あの日みたいに魔族にぼろぼろに敗れる キーーン
 *n_10
 <m fadein>...
 
 *n_11
-No, I can...I WILL SAVE HER!
+Không, mình có thể... MÌNH NHẤT ĐỊNH SẼ CỨU ĐƯỢC CẬU ẤY!
 
 // ========================================================
 // MARK : s13_3a
@@ -133,49 +133,49 @@ No, I can...I WILL SAVE HER!
 // 魔術を回収し、登録した際のイベント
 
 *s13_3a n_00
-<think>W-what? I thought each device had an identity verification system that allowed only the designated user to register it...?
+<think>Ơ-ơ? Mình tưởng mỗi thiết bị đều có hệ thống xác minh danh tính, chỉ cho phép người dùng được chỉ định đăng ký nó chứ...?
 *n_01
-<think>...So this was supposed to be registered to my staff? But, that would mean...
+<think>...Vậy ra thứ này vốn được đăng ký cho cây trượng của mình? Nhưng như vậy có nghĩa là...
 
 *n_02
-<think>...Ixia got attacked while trying to bring this to me...
+<think>...Ixia đã bị tấn công khi đang cố mang thứ này đến cho mình...
 
 *n_03
-<think>Hmm, it’s called...Holy Burst.
-Looks like my staff has a dedicated slot for it...my old one never had anything like that.
+<think>Hmm, tên nó là...Bộc Phá Thánh Quang.
+Có vẻ cây trượng của mình có một khe cắm riêng dành cho nó...cây trượng cũ của mình chưa từng có thứ gì như này.
 *
-<think>Let's see...it’s a spell that doesn’t need to be chanted...
+<think>Để xem nào...đây là một phép thuật không cần niệm chú...
 *
-<think>If it’s meant to be used in emergencies, I’d better test it out so I know how it works.
+<think>Nếu nó được dùng trong tình huống khẩn cấp, tốt nhất mình nên thử trước để biết cách sử dụng.
 
 // バーストを撃つ
 
 *n_04
 <m scary>Gah!? Hah, ahh...
-<W3><m fadein>phew...
+<W3><m fadein>Phù...
 
 *n_05
-<think><m fadein>W-what was that? My heart felt like it was stuck in a vice.
+<think><m fadein>V-vừa rồi là cái gì vậy? Tim mình cứ như bị kẹp chặt trong gọng kìm vậy.
 *
-<think>This spell must use some powerful form of mana-magnetism to be cast without chanting.
+<think>Phép thuật này hẳn phải sử dụng một dạng ma thuật từ tính cực mạnh để có thể thi triển mà không cần niệm chú.
 *n_06
-<think>...Using this spell multiple times in rapid succession would <c red>definitely cause bad things<c> to happen...especially when I'm low on mana.
+<think>...Nếu sử dụng phép này nhiều lần liên tiếp trong thời gian ngắn, <c red>chắc chắn sẽ gây ra hậu quả nghiêm trọng<c>...đặc biệt là khi lượng mana của mình đang thấp.
 *n_07
-<think>...But that blast was really powerful. I’ll keep it registered so I can use it when I need to.
+<think>...Nhưng đòn tấn công đó mạnh thật. Mình sẽ giữ nó trong cây trượng để dùng khi cần thiết.
 
 *n_08
-<m fadein>...Fuu, haa. 
-<W3><m>Okay, I’m good.
+<m fadein>...Phù, ha.
+<W3><m>Được rồi, mình ổn rồi.
 
 
 // ==================
 // 3-B : 2-A を見る前に探しに来た
 
 *n_09
-Judging from the broken staff I saw earlier, Ixia's probably in a lot of trouble...!
+Dựa vào cây trượng bị gãy mà mình thấy lúc nãy, có lẽ Ixia đang trong thế ngàn cân treo sợi tóc...!
 
 *n_10
-I need to hurry back and find that large monster!
+Mình phải mau chóng quay lại tìm con quái vật khổng lồ đó!
 
 
 
@@ -183,10 +183,10 @@ I need to hurry back and find that large monster!
 // 3-C : 2-A を見た後に探しに来た
 
 *n_11
-This is the spell Ixia was trying to tell me about...
+Đây chính là phép thuật mà Ixia đã cố nói với mình...
 
 *n_12
-I have to hurry back to her...!
+Mình phải mau chóng quay lại chỗ cậu ấy...!
 
 
 // ========================================================
@@ -209,16 +209,16 @@ Huu, haa, uuu...
 
 
 *i_02
-H-ep...nnn...N...Noel...
+C-ứu..vớ-...nnn...N...Noel...
 
 *n_03
-<think><m ple>She's already 
-lost a lot of mana...!
-I have to help her, quickly!
+<think><m ple>Có vẻ cậu ấy đã
+mất quá nhiều mana rồi...!
+Mình phải nhanh chóng cứu cậu ấy!
 // ボスの咆哮
 
 *n_04
-It’s...a big one...
+Một con...quái vật khổng lồ...
 
 
 // ここからバーストを所持しているかどうかで分岐
@@ -227,15 +227,15 @@ It’s...a big one...
 // 2-A: バーストを所持せずに到達
 
 *i_05
-<m fadein>...It’s...no use...you...need to...go
+<m fadein>...Vô ích thôi...cậu...phải...chạy đi
 *i_05b
 <I><m scary>-mmph...
- 
+
 // イクシャ口をふさがれる
 *n_06
-<m ple>It’s ok, I’m here to save you!
+<m ple>Không sao đâu, tớ đến cứu cậu đây!
 *
-I’ll get you out of this cage and─
+Tớ sẽ đưa cậu ra khỏi cái lồng này và─
 
 *i_07
 <I><m scary>Nnnnmmm!! Nnnnnm!!
@@ -244,8 +244,8 @@ I’ll get you out of this cage and─
 ...?
 
 *
-<think>She's shaking her head at me...
-<c red>am I missing something?
+<think>Cậu ấy đang lắc đầu với mình...
+<c red>Mình đã bỏ sót điều gì sao?
 
 
 
@@ -258,76 +258,76 @@ I’ll get you out of this cage and─
 
 
 *i_10
-<I><m fadein>Ahh...ow...stop...my stomach...
+<I><m fadein>Aah...đau...dừng lại...bụng ta...
 
 *n_11
-<angry>It’s ok, I’m here to save you! I’ll get you out of this cage and─
+<angry>Không sao đâu, tớ đến cứu cậu đây! Tớ sẽ đưa cậu ra khỏi cái lồng này và─
 
 
 *i_12
-<m fadein>Don’t...! It’s a trap-
+<m fadein>Đừng...! Đó là một cái bẫy-
 <m scary>mmph!!
 
 // イクシャ口をふさがれる
 *n_13
-A trap...?
+Bẫy...sao?
 
 *n_14
-<think>It’s holding Ixia like she’s a piece of bait...
+<think>Nó đang giữ Ixia như thể cậu ấy là một miếng mồi treo lơ lửng vậy...
 *
-<think>Is the monster’s strategy to lure me into attacking the cage...?
+<think>Chiến thuật của con quái vật là dụ mình tấn công cái lồng sao...?
 
 *i_14
-<I><m fadein>Mmm, nho...haaah...
+<I><m fadein>Ưm, kh...haaah...
 
 
 *n_15
-<think>I don't have time to think this over...!
+<think>Mình không có thời gian để suy nghĩ nữa...!
 *
-<think>If the monster does have any surprises for me, I can use my <c blue>Holy Burst<c> to get out of trouble!
+<think>Nếu con quái vật thực sự còn chiêu trò nào khác, mình có thể dùng <c blue>Bộc Phá Thánh Quang<c> để thoát khỏi thế khó!
 
 
 
 
 
 *s13_ixia_battle i_getout
-You need...burst...
+Cậu cần...Bộc Ph-...
 
 
 *s13_ixia_battle i_00
-Uwah...my...ma...na...
-it’s draining...
+Uwah...mana...của tớ...
+đang cạn dần...
 
 *i_01
 Ahh, hah, huah...
 
 *i_02
-Stop...no more...
+Dừng lại...đừng...
 
 
 // 敵のカウンター攻撃をバーストで弾き返すと敵がスタンする。こちらの攻撃チャンス
 *i_03
-I thought you were 
-done for...! Attack!
+Tớ tưởng cậu sắp tiêu đời rồi...! 
+Tấn công đi!
 
 *i_04
-How did you...! 
-It’s vulnerable...!
+Sao cậu có thể làm vậy...!
+Nó đang để lộ sơ hở kìa...!
 
 *i_05
-Now’s your chance,
+Cơ hội của cậu đấy,
 Noel Cornehl!
 
 
 // 攻撃チャンス終了→イクシャが一旦手出しできないバックヤードに連れ去られる
 *i_06
-KYAAAAA!
+KYYYYAAAA!
 
 *i_07
-LET ME GO...!
+THẢ TA RA...!
 
 *i_08
-NO MORE, NOOO...!
+ĐỪNG NỮA, KHÔÔÔNG...!
 
 
 
@@ -339,11 +339,11 @@ NO MORE, NOOO...!
 
 *s13_4a n_00
 <W1><m fadein>...Haa...<W2>Haa...<W2>
-did I...<W2>do it?
+Mình đã...<W2>làm được rồi sao?
 
 *i_01
-<m fadein>...Yes...just as...<W2>
-I...knew you would, Noel...Cor...
+<m fadein>...Ừ...đúng như vậy...<W2>
+tớ...đã biết cậu sẽ làm được mà, Noel...Cor...
 
 // イクシャ気を失う
 
@@ -354,84 +354,84 @@ I...knew you would, Noel...Cor...
 // 暗転
 
 *n_03b
-<w2><m fadein>Shortly after, the troops from the Elf Village arrived to clean everything up.
+<w2><m fadein>Không lâu sau đó, quân đội từ Làng Elf đã đến để xử lý mọi chuyện.
 *
-<w2><m fadein>The medic told me that Ixia was in something called "Hypomanaemic Shock" and that’s why she fainted.
+<w2><m fadein>Bác sĩ nói rằng Ixia bị một tình trạng gọi là "Sốc do thiếu hụt mana", đó là lý do cậu ấy đã ngất đi.
 *
-<w2><m fadein>Thankfully, they said she’d be able to make a full recovery and took her to a medical facility in Grazia for treatment.
+<w2><m fadein>May mắn thay, họ cho biết cậu ấy sẽ hồi phục hoàn toàn và đưa cậu ấy đến một cơ sở y tế ở Grazia để điều trị.
 *
-<w2><m fadein>Hearing that was a huge relief. 
-My friend is safe, and that’s all that matters.
+<w2><m fadein>Nghe vậy, mình cảm thấy nhẹ nhõm vô cùng.
+Bạn mình đã an toàn, thế là quá đủ rồi.
 
 // 絵はver0.22aでは用意できないだろうな～
 
 *g_03
-Yep, this is the monster we’ve been hunting. It matches the descriptions in the reports we’ve been getting.
+Đúng rồi, đây chính là con quái vật mà chúng tôi đang truy lùng. Nó khớp với những mô tả trong các báo cáo mà chúng tôi nhận được.
 *
-Did you take it down all by yourself?
+Cô bé đã tự mình hạ gục nó sao?
 
 *n_04
-No, not at all... It’s all thanks to your unit weakening it and backing it into a corner.
+Không, không phải đâu... Tất cả là nhờ đơn vị của mọi người đã làm nó suy yếu và dồn nó vào đường cùng.
 *
-And...to Ixia for the spell she gave me.
+Và...còn nhờ phép thuật mà Ixia đã đưa cho em nữa.
 
 *g_05
-Well, regardless, it’s our fault you and your friend got dragged into this. 
+Dù sao thì, việc cô bé và bạn mình bị kéo vào chuyện này cũng là lỗi của chúng tôi.
 *
-We got careless when the monster was wounded and that allowed it to escape.
+Chúng tôi đã bất cẩn khi con quái vật bị thương, khiến nó có cơ hội trốn thoát.
 *
-My entire unit is indebted to you. We’ll find a way to repay you someday.
+Toàn bộ đơn vị của tôi đều mang ơn cô bé. Một ngày nào đó, chúng tôi sẽ tìm cách báo đáp.
 
 *n_06
-Oh, you don’t have to do that...It’s my fault for not listening to the evacuation order in the first place...
+À, chị không cần phải làm vậy đâu...Lỗi là do em đã không nghe theo lệnh sơ tán ngay từ đầu...
 *
-I should be the one apologizing to you...
+Người phải xin lỗi nên là em mới đúng...
 
 *g_07
-Heheh. If you were one of my subordinates, I’d already have you writing an apology letter.
+Heheh. Nếu cô bé là cấp dưới của tôi, tôi đã bắt cô bé viết bản kiểm điểm rồi đấy.
 *
-At least it all got settled peacefully in the end. 
+Ít nhất thì cuối cùng mọi chuyện cũng đã được giải quyết êm đẹp rồi.
 *g_07b
-Be proud of yourself, young lady.
+Hãy tự hào về bản thân mình đi, cô bé.
 
 *n_08
-...Thank you.
+...Cảm ơn chị.
 
 *g_09
-Mind telling me your name again? Our transmission was cutting out, so I didn’t catch it.
+Cô bé có thể nhắc lại tên mình được không? Đường truyền lúc nãy bị ngắt quãng nên tôi không nghe rõ.
 
 *n_10
-I am Noel Cornehl. 
-Class III Cadet at Bermit Academy.
+Em là Noel Cornehl.
+Học viên lớp III của Học viện Bermit.
 
 *g_11
-I see. Once again, 
-I'm Mepha Gridyard, Commanding Officer of the Elf Village's Monster Suppression unit.
+Ra vậy. Một lần nữa,
+tôi là Mepha Gridyard, chỉ huy đơn vị Trấn Áp Quái Vật thuộc Làng Elf.
 *g_11b
-Grazia is outside my unit’s jurisdiction, but perhaps we’ll meet again someday.
+Grazia tuy nằm ngoài phạm vi quản lý của đơn vị chúng tôi, nhưng có lẽ một ngày nào đó chúng ta sẽ gặp lại.
 
 *n_12
-<think>Well...it’s not like I can visit her in the village...being a Cornehl and all...
+<think>Chà...dù sao thì mình cũng đâu thể đến thăm cô ấy ở trong làng...vì mình mang thân phận một người nhà Cornehl mà...
 
 *g_12
-...So, you’re a student from Grazia, huh?
+...Vậy ra cô bé là học viên đến từ Grazia à?
 *
-Do they teach you youngsters how to take down these monsters as part of your curriculum?
+Trong chương trình học, mọi người có được dạy cách hạ gục những con quái vật này không?
 
 *n_13
-Eh? Ah...
+Ơ? À...
 *n_13b
-<I><m ple>OH NO!!!
-I forgot I was on my way to school! I'm going to be late!
+<I><m ple>CHẾT RỒI!!!
+Em quên mất mình đang trên đường đến trường! Sắp muộn học mất rồi!
 *
-S-Sorry, I have to go now──!
+X-xin lỗi, Em phải đi ngay đây──!
 
 
 // ノエル去る
 *g_14
-...My oh my. 
+...Ôi chao.
 *
-Don’t worry Noel Cornehl, those Grazians aren’t such a rigid lot; They won’t scold you for being late. Especially given the situation.
+Đừng lo, Noel Cornehl. Người Grazia không cứng nhắc đến thế đâu; họ sẽ không trách mắng cô bé chỉ vì đến muộn đâu. Nhất là trong hoàn cảnh này.
 *g_14b
-What an interesting girl.
+Đúng là một cô bé thú vị.
 

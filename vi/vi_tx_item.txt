@@ -1124,7 +1124,7 @@ Cung cấp nguồn năng lượng bạn cần ngay lập tức để tiếp tụ
 // ========================================================
 
 %ITEM mtr_poisonwater Nước Nhiễm Độc
-Nước bị nhiễm ma thuật cổ đại và mana ô uế. Rắc nó xung quanh sẽ làm mức độ nguy hiểm tăng nhẹ.
+Nước bị nhiễm ma thuật cổ đại và mana ô uế. Rắc nó xung quanh sẽ làm cấp độ nguy hiểm tăng nhẹ.
 
 %ITEM mtr_fearmemory Hạt Giống Của Sự Kinh Hoàng
 Được lấy từ một vật chứa từng bị lũ quái vật dày vò. Nguồn năng lượng tiêu cực tích tụ bên trong chắc hẳn cũng là một nguồn thức ăn khác của chúng...

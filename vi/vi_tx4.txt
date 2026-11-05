@@ -3,15 +3,15 @@
 // ========================================================================
 // 231006 カタログの追加要素
 
-&&CatalogI_tab_shopping Can be bought at
+&&CatalogI_tab_shopping Có thể mua tại
 // 素材回収の木／池で開いたときのピックアップタイトル
-&&Catalog_pickup_current_reel_spot Material spot (&1)
+&&Catalog_pickup_current_reel_spot Điểm thu thập nguyên liệu (&1)
 
 
 // ==================
 // 231008 宝箱を手に入れた際にアイテムがいっぱい
-&&MoneyBox_adding_need_enough_room I'm carrying the max amount already...
-&&MoneyBox_adding_need_bottle I don't have &1 to carry it in...
+&&MoneyBox_adding_need_enough_room Túi đồ đã đạt tối đa...
+&&MoneyBox_adding_need_bottle Mình không có &1 để chứa thứ này...
 
 
 // ========================================================
@@ -19,244 +19,244 @@
 // ========================================================
 
 
-&&Area_school  Bermit Academy
-&&Area_sacred  Sacred Mother Stone
+&&Area_school Học viện Bermit
+&&Area_sacred Cự Thạch Khởi Nguyên
 
-&&GM_error_sacred Error: Fatal levels of concentrated mana detected. Leave the area immediately.
+&&GM_error_sacred Lỗi: Phát hiện nồng độ mana ở mức nguy hiểm đến tính mạng. Hãy lập tức rời khỏi khu vực.
 
 // ========================================================
 // MARK : Dojo Game
 // ========================================================
-&&Mgm_dojo_tutorial Warm-up Exercises
+&&Mgm_dojo_tutorial Bài tập khởi động
 /* ___ Mgm_dojo_tutorial_desc ___ */ 
-A tutorial for this minigame.
-There is no penalty for failure.
+Hướng dẫn cho minigame này.
+Thất bại sẽ không bị phạt.
 /* ___ Mgm_dojo_generator_desc ___ */ 
-Difficulty: &1
+Độ khó: &1
 /* ___ Mgm_dojo_generator_count ___ */ 
-Play count: &1 (Victories:&2 ／ Fewest Mistakes:&3)
+Số lần chơi: &1 (Chiến thắng: &2 ／ Ít lỗi nhất: &3)
 /* ___ Mgm_dojo_generator_count_not_played ___ */ 
-Play count: &1 (Victories:&2)
+Số lần chơi: &1 (Chiến thắng: &2)
 
 
 /* ___ Mgm_dojo_confirm_tutorial ___ */
-The journey of a thousand miles begins with a single step.
-Learn the basics of training.
+Hành trình ngàn dặm bắt đầu từ một bước chân.
+Hãy học những kiến thức cơ bản về luyện tập.
 
 
 /* ___ Mgm_dojo_confirm_learned ___ */
-Even if you've already mastered a skill,
-practice is always good.
+Ngay cả khi bạn đã thành thạo một kỹ năng,
+luyện tập thêm cũng chưa bao giờ là thừa đâu.
 
 /* ___ Mgm_dojo_confirm_not_learned_first ___ */
-This is the price we charge for learning a new skill.
+Đây là cái giá phải trả để học một kỹ năng mới.
 
 /* ___ Mgm_dojo_confirm_not_learned ___ */
-Last time, you were unable to learn this skill.
-In order to master it, you must keep trying! No matter how many times you fall!
+Lần trước, bạn đã không thể học được kỹ năng này.
+Muốn thành thạo nó, bạn phải tiếp tục cố gắng! Dù có thất bại bao nhiêu lần đi nữa!
 
 
 /* ___ Mgm_dojo_confirm_choose ___ */
-Begin training for "&1"!
+Bắt đầu luyện tập "&1"!
 
 /* ___ Mgm_dojo_confirm_choose_tutorial ___ */
-Let's get warmed up!
+Hãy khởi động nào!
 
 
-&&Mgm_dojo_confirm_btn_ok Okay
-&&Mgm_dojo_confirm_btn_cancel Cancel
+&&Mgm_dojo_confirm_btn_ok Đồng ý
+&&Mgm_dojo_confirm_btn_cancel Hủy
 
 
 
 
-&&Mgm_dojo_tuto_play_rest    &1 more times
-&&Mgm_dojo_tuto_play0    Press<key la/>with good timing
-&&Mgm_dojo_tuto_play1    Press<key ra/>with good timing
-&&Mgm_dojo_tuto_play2    Press<key ta/>with good timing
-&&Mgm_dojo_tuto_play4    Use the correct technique with good timing
-&&Mgm_dojo_indicate_next_hand    This
+&&Mgm_dojo_tuto_play_rest    Còn &1 lần nữa
+&&Mgm_dojo_tuto_play0    Nhấn <key la/> đúng thời điểm
+&&Mgm_dojo_tuto_play1    Nhấn <key ra/> đúng thời điểm
+&&Mgm_dojo_tuto_play2    Nhấn <key ta/> đúng thời điểm
+&&Mgm_dojo_tuto_play4    Sử dụng kỹ thuật chính xác đúng thời điểm
+&&Mgm_dojo_indicate_next_hand    Chiêu này
 
 // ミニゲームUI
 
-&&Mgm_ui_highscore Highscore:
-&&Mgm_ui_playcount Played: 
-&&Mgm_ui_playcount_content &1 times
-&&Mgm_ui_updated_highscore New Highscore!
+&&Mgm_ui_highscore Kỷ lục cao nhất:
+&&Mgm_ui_playcount Đã chơi:
+&&Mgm_ui_playcount_content &1 lần
+&&Mgm_ui_updated_highscore Kỷ lục mới!
 
 // Museum Viewer
 &&Museum_image_index &1<font size="20">/&2</font>
-&&KD_museum_viewer <key rem/>Hide UI 
-&&KD_scaling Zoom in/out
-&&KD_museum_viewer_move Alts
-&&KD_museum_viewer_quit <key menu/>Close
-&&KD_museum_viewer_comment <key c/>Commentary
+&&KD_museum_viewer <key rem/>Ẩn giao diện
+&&KD_scaling Phóng to/thu nhỏ
+&&KD_museum_viewer_move Alt
+&&KD_museum_viewer_quit <key menu/>Đóng
+&&KD_museum_viewer_comment <key c/>Lời bình
 
 
 
 // 状態異常
 // アクチール: Actihol
 
-&&SerTitle_drunk    Woozy
+&&SerTitle_drunk    Choáng váng
 /* ___ SerDesc_drunk ___ */ 
-Your senses feel a bit fuzzy from the actihol.
+Các giác quan của bạn trở nên mơ hồ do Actihol.
 
 // 後半は↓ orgasm_after とほぼ同じ文章です。
 
 /* ___ SerDesc_drunk_1 ___ */ 
-Buffs from food are reduced by &1%
+Hiệu quả tăng cường từ thức ăn giảm &1%
 
 /* ___ SerDesc_drunk_2 ___ */ 
-You'll fall down periodically.
+Bạn sẽ định kỳ ngã xuống.
 
 /* ___ SerDesc_drunk_3 ___ */ 
-Shouldn't have drank so much.
+Đáng lẽ không nên uống nhiều đến thế.
 
 /* ___ SerDesc_drunk_0 ___ */ 
-MP gauge won't crack as easily.
-Less mana is recovered from all sources.
-Drink water or pass time through combat
-to remove this status.
+Thanh MP sẽ khó bị nứt hơn.
+Lượng mana hồi phục từ mọi nguồn giảm xuống.
+Uống nước hoặc để thời gian trôi qua trong chiến đấu
+để loại bỏ trạng thái này.
 
 
 
 // 買い物での飲食
 // tx2 の lunch_confirm / tx3 の lunch_drink_confirm に対応しています。
 
-&&lunchstore_drink_confirm Buy <b>"&1"</b> and drink it?
-&&lunchstore_drink_confirm_burst <font color="ff:#A00B35">You won't be able to drink it all.</font>\nBuy anyway?
-&&lunchstore_drink_confirm_dupe <font color="ff:#B828AC">There are duplicate effects.</font>\nBuy anyway?
+&&lunchstore_drink_confirm Mua và uống <b>"&1"</b>?
+&&lunchstore_drink_confirm_burst <font color="ff:#A00B35">Bạn sẽ không thể uống hết chỗ này.</font>\nVẫn mua chứ?
+&&lunchstore_drink_confirm_dupe <font color="ff:#B828AC">Các hiệu ứng bị trùng lặp.</font>\nVẫn mua chứ?
 
 
-&&lunchstore_confirm Buy <b>"&1"</b> and eat it?
-&&lunchstore_confirm_burst <font color="ff:#A00B35">You won't be able to eat it all.</font>\nBuy anyway?
-&&lunchstore_confirm_dupe <font color="ff:#B828AC">There are duplicate effects.</font>\nBuy anyway?
+&&lunchstore_confirm Mua và ăn <b>"&1"</b>?
+&&lunchstore_confirm_burst <font color="ff:#A00B35">Bạn sẽ không thể ăn hết chỗ này.</font>\nVẫn mua chứ?
+&&lunchstore_confirm_dupe <font color="ff:#B828AC">Các hiệu ứng bị trùng lặp.</font>\nVẫn mua chứ?
 
-&&Eat_Buy Buy &1
-&&Eat_Buy_Drink Buy &1
+&&Eat_Buy Mua &1
+&&Eat_Buy_Drink Mua &1
 
 
-&&SerTitle_overrun_tired    Burnout
+&&SerTitle_overrun_tired    Kiệt sức
 /* ___ SerDesc_overrun_tired ___ */ 
-You're exhausted from casting spells while at low mana.
-You take more damage
-MP gauge breaks more easily.
-You are likely to "Faint".
-Move around the map to recover.
+Bạn kiệt sức vì sử dụng phép thuật khi lượng mana thấp.
+Bạn nhận nhiều sát thương hơn.
+Thanh MP dễ bị nứt hơn.
+Bạn dễ rơi vào trạng thái "Bất Tỉnh".
+Di chuyển quanh bản đồ để hồi phục.
 
-&&SerTitle_milky    Lactation
+&&SerTitle_milky    Tiết sữa
 /* ___ SerDesc_milky ___ */ 
-Through the mysterious forces of nature,
-Noel now produces milk instead of juice.
-Why? If we knew, it wouldn't be a mystery
-now, would it?
+Nhờ những sức mạnh bí ẩn của tự nhiên,
+Noel giờ tiết ra sữa thay vì dịch ngọt.
+Tại sao ư? Nếu chúng ta biết được thì
+đó đâu còn là điều bí ẩn nữa, phải không?
 
 
-&&SerTitle_clt_broken    Torn Clothing
+&&SerTitle_clt_broken    Quần áo rách nát
 /* ___ SerDesc_clt_broken ___ */ 
-Your clothes have been destroyed.
-Repair them at a bench.
+Quần áo của bạn đã bị phá hủy.
+Hãy sửa chúng tại băng ghế.
 
 /* ___ SerDesc_clt_broken_detail ___ */ 
-You take 50% more damage.
-Slightly more invincibility time when dodging.
+Bạn nhận nhiều hơn 50% sát thương.
+Thời gian bất tử khi né tránh được tăng nhẹ.
 
 
 /* ___ Store_BarUnder_Help_Title ___ */
-The Bar's Secret Storeroom
+Kho Hàng Bí Mật Dưới Quán Bar
 
 /* ___ Store_BarUnder_Help_Contents ___ */
-Sell Noel Juice, Noel Milk, and Noel Eggs here for
-<font color="ff:#646D00">Essence<img mesh="money_juice"/></font>and use it to buy unique items!
+Bán Dịch Ngọt Noel, Sữa Noel và Trứng Noel tại đây để đổi lấy
+<font color="ff:#646D00">Tinh Chất<img mesh="money_juice"/></font>, rồi dùng chúng để mua những vật phẩm độc đáo!
 
-The bartender will hold on to any extra <font color="ff:#646D00">Essence<img mesh="money_juice"/></font>
-for you to use on your next visit.
+Người pha chế sẽ giữ lại số <font color="ff:#646D00">Tinh Chất<img mesh="money_juice"/></font>
+còn dư để bạn sử dụng trong lần ghé thăm tiếp theo.
 
-Let's enrich our lives in tandem with those on the other side
-through the "Settings" menu!
+Hãy nâng tầm trải nghiệm với những người ở phía bên kia
+thông qua menu "Cài đặt"!
 
-&&Store_selling_worthless There's no point in selling this
+&&Store_selling_worthless Bán thứ này chẳng có ích gì
 
 /* ___ Item_special_config_detail ___ */ 
-Add a new item to the config.
-This item will not show up in your inventory.
+Thêm một vật phẩm mới vào phần cài đặt.
+Vật phẩm này sẽ không xuất hiện trong túi đồ của bạn.
 
-&&Alert_spconfig_activate Got a new config item
+&&Alert_spconfig_activate Đã mở khóa tính năng mới
 
-&&Alert_explode_bomb_in_inventory The bomb detonated...
+&&Alert_explode_bomb_in_inventory Quả bom đã phát nổ...
 
 
-&&deperture_dialog Where shall I go?
-&&deperture_home Home
+&&deperture_dialog Bạn muốn đi đâu?
+&&deperture_home Nhà
 
 
 // ========================================================
 // MARK : ver0.25d 錬金術カタログ 新要素
 // ========================================================
 
-&&Catalog_enemyspot_dangerous Dangerousness: &1
-&&Catalog_pickup_reel_on_map Item Reel Spot(&1)
+&&Catalog_enemyspot_dangerous Mức độ nguy hiểm: &1
+&&Catalog_pickup_reel_on_map Điểm Cuộn Rương (&1)
 
 // ↓エネミースポット関連の一覧が追加されます。
 
-&&Catalog_categ_item_summoner Enemy Spot
-&&KD_reel_detail Item Reel details
-&&KD_enemyspot Enemy Spot details
+&&Catalog_categ_item_summoner Điểm Quái Vật
+&&KD_reel_detail Chi tiết Cuộn Vật Phẩm
+&&KD_enemyspot Chi tiết Điểm Quái Vật
 
 
-&&CatalogI_tab_enemyspot Obtainable Enemy Spots
-&&CatalogI_tab_enemydrop Enemy drops
-&&CatalogN_enemyspot_defeated Times Cleared: &1
+&&CatalogI_tab_enemyspot Điểm Quái Vật Khả Dụng
+&&CatalogI_tab_enemydrop Vật phẩm quái vật rơi ra
+&&CatalogN_enemyspot_defeated Số lần hoàn thành: &1
 
 // ↓英語などの言語で「このアイテムを取得できる宝箱」というカテゴリーとして
 // 実装されていましたが、新しく「この戦闘エリアで得られる宝箱」というカテゴリーが追加されます。
 
-&&CatalogI_tab_chest_from_here Chests
+&&CatalogI_tab_chest_from_here Rương
 
-&&CatalogI_tab_address Location
-&&catalog_show Show
+&&CatalogI_tab_address Địa điểm
+&&catalog_show Hiển thị
 
 &&recipe_categ_actihol Cocktail
-&&name_recipe_actihol Cocktail Recipe:&1
+&&name_recipe_actihol Công thức Cocktail:&1
 
 
 // ========================================================
 // MARK : ver0.25f
 // ========================================================
 
-&&Alert_new_config_on_barunder  New products available in the bar stockroom.
+&&Alert_new_config_on_barunder  Có hàng mới trong kho của quán bar.
 
 // ゲームオーバーの際、拘束解除／シャッフルボタンが追加されます。
-&&KD_go_escape_from_bind  Release
-&&KD_shuffle_enemy_position  Shuffle
+&&KD_go_escape_from_bind  Thoát trói
+&&KD_shuffle_enemy_position  Đổi vị trí quái
 
 
 
 // 錬金術カタログの減少カテゴリ
-&&Catalog_categ_sub_reduce_hp Reduce HP
-&&Catalog_categ_sub_reduce_mp Reduce MP
-&&Catalog_categ_sub_reduce_ep Reduce EP
+&&Catalog_categ_sub_reduce_hp Giảm HP
+&&Catalog_categ_sub_reduce_mp Giảm MP
+&&Catalog_categ_sub_reduce_ep Giảm EP
 
 /* ___ Alert_new_keybind_for_check ___ */
-As of ver0.25b, a new keybinding for "Speak/Check" has been added.
+Từ phiên bản 0.25b, phím gán cho chức năng "Nói chuyện/Kiểm tra" đã được thêm vào.
 
-Check the key configurations if you're having trouble with those commands.
+Hãy kiểm tra cài đặt phím nếu bạn gặp khó khăn khi sử dụng các lệnh đó.
 
 
 // ========================================================
 // MARK : ver0.26
 // ========================================================
 
-&&Item_cmd_respawn Revive
-&&Item_cmd_respawn_useless (Revive)
+&&Item_cmd_respawn Hồi sinh
+&&Item_cmd_respawn_useless (Hồi sinh)
 
 
-&&Mgm_eggremove_KD Push<key submit/>with good timing
+&&Mgm_eggremove_KD Nhấn <key submit/> đúng thời điểm
 // 卵排出中に絶頂してしまった場合
-&&Mgm_eggremove_retry Try again
-&&Mgm_eggremove_abort Give up...
+&&Mgm_eggremove_retry Thử lại
+&&Mgm_eggremove_abort Bỏ cuộc...
 // 卵のない状態だとただ単にバイブで一人遊びするだけになる
-&&Mgm_eggremove_noegg_retry Just a little more...
-&&Mgm_eggremove_noegg_abort Stop
+&&Mgm_eggremove_noegg_retry Chỉ thêm một chút nữa thôi...
+&&Mgm_eggremove_noegg_abort Dừng lại
 
 
 // ========================================================
@@ -266,121 +266,121 @@ Check the key configurations if you're having trouble with those commands.
 // ver0.26b 予約
 // 自慰行為
 
-// &&Select_see_masturbate Masturbate
-&&Select_skip_masturbate Masturbate (Skip viewing)
-&&Select_no_masturbate Endure
+// &&Select_see_masturbate Thủ dâm
+&&Select_skip_masturbate Thủ dâm (Bỏ qua cảnh)
+&&Select_no_masturbate Nhẫn nhịn
 
 
 /* ___ Title_error_no_sound_driver ___ */
-Sound driver initialization failed.
+Khởi tạo trình điều khiển âm thanh thất bại.
 &1
 
 /* ___ Title_error_no_sound_driver_nosound ___ */
-The game will run in silent mode.
+Trò chơi sẽ chạy ở chế độ im lặng.
 
 
-&&SerTitle_web_trapped Sticky
-&&SerDesc_web_trapped You’re all gummed up. No actions can be taken until you break free and escaping from a grapple will be significantly more difficult.
+&&SerTitle_web_trapped Dính tơ
+&&SerDesc_web_trapped Bạn bị dính chặt vào tơ. Không thể thực hiện bất kỳ hành động nào cho đến khi thoát ra, và việc thoát khỏi đòn trói sẽ khó khăn hơn đáng kể.
 
-&&Alert_rebagacha Mash the movement keys!
-
-
-&&Bench_Cmd_restroom_cure_egged_no_tool Egg removed naturally
-&&Bench_Cmd_restroom_cure_egged_tool Used the Egg Removal tool
+&&Alert_rebagacha Nhấn liên tục các phím di chuyển!
 
 
-&&bomb_selfexplode A grenade went off...
-&&Recipe_do_not_rotten Won’t spoil after battle
+&&Bench_Cmd_restroom_cure_egged_no_tool Trứng đã tự rơi ra
+&&Bench_Cmd_restroom_cure_egged_tool Đã sử dụng dụng cụ lấy trứng
 
 
-&&SerTitle_stone Stiff
-&&SerTitle_stone_complete Petrified
+&&bomb_selfexplode Lựu đạn đã phát nổ...
+&&Recipe_do_not_rotten Không bị hỏng sau trận chiến
+
+
+&&SerTitle_stone Cứng đờ
+&&SerTitle_stone_complete Hóa đá
 
 /* ___ SerDesc_stone_suffix ___ */
-Parts of your body have hardened. You take reduced damage from physical attacks.
+Một số bộ phận cơ thể bạn đã cứng lại. Bạn nhận ít sát thương hơn từ các đòn tấn công vật lý.
 
 /* ___ SerDesc_stone_complete_suffix ___ */
-You’ve been turned to stone and cannot move...
+Bạn đã bị hóa đá và không thể di chuyển...
 
-&&SerTitle_orgasm_stack Pent-up
-&&SerDesc_orgasm_stack You cannot orgasm, but that doesn’t stop additional ones from accumulating. When the effect wears off, they will all trigger at once.
+&&SerTitle_orgasm_stack Dồn nén
+&&SerDesc_orgasm_stack Bạn không thể đạt cực khoái, nhưng những lần cực khoái tiếp theo vẫn tiếp tục tích lũy. Khi hiệu ứng kết thúc, tất cả sẽ xảy ra cùng lúc.
 
-&&Alert_item_reduced_memorychip I dropped the &1...
+&&Alert_item_reduced_memorychip Mình đã làm rơi &1...
 
 
 // ========================================================
 // MARK : ver0.27 ステルスゲーム
 // ========================================================
 
-&&sneaking_MG_KD_top <key ta/>Ascend
-&&sneaking_MG_KD_btm <key ba/>Descend
-&&sneaking_MG_KD_goout_right <key ra/>Exit
-&&sneaking_MG_KD_goout_left <key la/>Exit
+&&sneaking_MG_KD_top <key ta/>lên
+&&sneaking_MG_KD_btm <key ba/>xuống
+&&sneaking_MG_KD_goout_right <key ra/>Thoát
+&&sneaking_MG_KD_goout_left <key la/>Thoát
 
-&&Alert_item_reduced_memorychip_success Returned &1 to Tigrina.
+&&Alert_item_reduced_memorychip_success Đã trả lại &1 cho Tigrina.
 
 
 // ========================================================
 // MARK : ver0.27 図鑑拡張
 // ========================================================
 
-&&CatalogI_tab_appear_enemyspot Enemy Spawn Location - &1
+&&CatalogI_tab_appear_enemyspot Vị trí xuất hiện quái vật - &1
 
 
 //レーションはコストが高いが倍の速度で減少する
-&&Recipe_cost_reduce_ratio Cost Reduction: &1%
+&&Recipe_cost_reduce_ratio Giảm chi phí: &1%
 
 
-&&Status_Tab_battle_abort Give up...
+&&Status_Tab_battle_abort Bỏ cuộc...
 
 
-&&ItemConfirm_do_not_obtain You do not have this item.
+&&ItemConfirm_do_not_obtain Bạn không có vật phẩm này.
 
-&&Map_show_target Show target
+&&Map_show_target Hiển thị mục tiêu
 
-&&CatalogI_drop_enemy Dropped by
-&&Recipe_edible_in_battle Edible in battle
+&&CatalogI_drop_enemy Rơi ra từ
+&&Recipe_edible_in_battle Có thể ăn trong trận chiến
 
 
 // チップス確認タブ
-&&Scenario_Tab_tips Tips
+&&Scenario_Tab_tips Mẹo
 
 
 // ========================================================
 // MARK : ver0.28
 // ========================================================
-&&Catalog_categ_item_cane Staff
+&&Catalog_categ_item_cane Trượng
 
-&&Cane_graph_near_reach Reach
-&&Cane_graph_near Short-range
-&&Cane_graph_far Long-range
-&&Cane_graph_lockon Lock on
-&&Cane_graph_stability Retention
-&&Cane_graph_mp_use_ratio Efficiency
-&&Cane_graph_neutral Balance
-&&Cane_graph_casttime Cast speed
-&&Cane_graph_near_punch_speed Swing speed
+&&Cane_graph_near_reach Tầm đánh
+&&Cane_graph_near Tầm gần
+&&Cane_graph_far Tầm xa
+&&Cane_graph_lockon Khóa mục tiêu
+&&Cane_graph_stability Độ ổn định
+&&Cane_graph_mp_use_ratio Hiệu suất
+&&Cane_graph_neutral Cân bằng
+&&Cane_graph_casttime Tốc độ niệm phép
+&&Cane_graph_near_punch_speed Tốc độ vung trượng
 
-&&Item_cmd_equip_cane Equip
-&&Item_cmd_equip_cane_disable (Equipped)
+&&Item_cmd_equip_cane Trang bị
+&&Item_cmd_equip_cane_disable (Đã trang bị)
 
-&&Alert_current_cane Already equipped
+&&Alert_current_cane Đã trang bị trượng này
 
 
 // ========================================================
 // MARK : 28
 // ========================================================
-&&Area_mount   Fallen Mountains
+&&Area_mount   Núi Fallen
 
 
 // 鍛冶屋さん ========================
-&&ForgeUi_replace_cost Convert: &1
-&&ForgeUi_buy_tester_cost Field test: &1
+&&ForgeUi_replace_cost Chuyển đổi: &1
+&&ForgeUi_buy_tester_cost Thử nghiệm thực địa: &1
 
 /* ___ ForgeUi_buy_tester_applied_damage ___ */ 
-Recorded damage data: 
+Dữ liệu sát thương đã ghi nhận:
 　&1 / &2　&3
-&&ForgeUi_buy_tester_completed Testing complete!
+&&ForgeUi_buy_tester_completed Thử nghiệm hoàn tất!
 
 /* ___ Forge_quest_applied_damage ___ */ 
 &1: &2 / &3
@@ -389,54 +389,54 @@ Recorded damage data:
 &2 / &3
 
 /* ___ Forge_detail_quest_target ___ */ 
-Currently field testing:
+Đang thử nghiệm thực địa:
 &1
 
-&&ForgeUi_cmd_replace Swap parts &1
-&&ForgeUi_cmd_buy Field test &1
-&&ForgeUi_cmd_buy_asking Can I buy it instead?
-&&ForgeUi_cmd_testfiring Try it at the Range
+&&ForgeUi_cmd_replace Đổi linh kiện &1
+&&ForgeUi_cmd_buy Thử nghiệm thực địa &1
+&&ForgeUi_cmd_buy_asking Tôi có thể mua nó luôn không?
+&&ForgeUi_cmd_testfiring Thử tại trường bắn
 
-&&ForgeUi_return_testfire_cane Returned &1 to the blacksmith
-&&ForgeUi_replace_cane Parts changed to &1
-&&ForgeUi_invalid_room_inventory Inventory is full
-&&ForgeUi_invalid_already_has Already possess
-&&ForgeUi_invalid_already_buy_src Currently field testing this staff
-&&ForgeUi_invalid_already_buy Already testing
+&&ForgeUi_return_testfire_cane Đã trả &1 cho thợ rèn
+&&ForgeUi_replace_cane Các linh kiện đã được đổi thành &1
+&&ForgeUi_invalid_room_inventory Túi đồ đã đầy
+&&ForgeUi_invalid_already_has Đã sở hữu
+&&ForgeUi_invalid_already_buy_src Hiện đang thử nghiệm thực địa cây trượng này
+&&ForgeUi_invalid_already_buy Đang trong quá trình thử nghiệm
 
 /* ___ ForgeUi_buy_description ___ */
-Selecting "Field test" will allow you to keep your current staff in addition to the new one.
-Once you have finished field testing by dealing enough damage, you can keep the staff and repeat this process.
+Chọn "Thử nghiệm thực địa" sẽ cho phép bạn giữ cây trượng hiện tại cùng với cây trượng mới.
+Sau khi hoàn thành thử nghiệm thực địa bằng cách gây đủ sát thương, bạn có thể giữ cây trượng đó và lặp lại quy trình này.
 
 /* ___ ForgeUi_buy_description_current ___ */
-You are currently field testing this staff.
+Bạn hiện đang thử nghiệm thực địa cây trượng này.
 
 /* ___ ForgeUi_confirm_replace ___ */
-Swap out &1 for &2 ?
+Đổi &1 lấy &2?
 
 /* ___ ForgeUi_confirm_buy ___ */
-Buy &1 under the guise of field testing it?
-(Once you've dealt &2 damage with it, it essentially becomes yours)
+Mua &1 dưới danh nghĩa thử nghiệm thực địa?
+(Sau khi gây &2 sát thương bằng nó, cây trượng về cơ bản sẽ thuộc về bạn)
 
 /* ___ ForgeUi_confirm_buy_already ___ */
-You are currently testing &1
-Cancel testing and switch to &2 ?
-<font size="80%" alpha="0.5" linespacing=0.7>Damage data will be preserved, but you WILL have to pay the field test fee again</font>
+Bạn hiện đang thử nghiệm &1.
+Hủy thử nghiệm và chuyển sang &2?
+<font size="80%" alpha="0.5" linespacing=0.7>Dữ liệu sát thương sẽ được giữ lại, nhưng bạn SẼ phải trả phí thử nghiệm thực địa lần nữa.</font>
 
-&&CatalogI_tab_cane Staff
+&&CatalogI_tab_cane Trượng
 
 
-&&GO_KeyHelp_pause_lockon_switch <key submit/>Focus to her
+&&GO_KeyHelp_pause_lockon_switch <key submit/>Tập trung vào Noel
 
 
 // ========================================================
 // MARK : 250710追加分
 // ========================================================
 
-&&Bench_Cmd_empty_stomach Empty yourself out
-&&Bench_Cmd_empty_stomach_get_juice Expel and collect juice
-&&Bench_Cmd_empty_stomach_juice_drop Expel and discard juice
-&&Alert_do_it_in_restroom Go to the restroom for that
+&&Bench_Cmd_empty_stomach Làm rỗng bụng
+&&Bench_Cmd_empty_stomach_get_juice Thải ra và thu thập dịch ngọt
+&&Bench_Cmd_empty_stomach_juice_drop Thải ra và vứt bỏ dịch ngọt
+&&Alert_do_it_in_restroom Hãy đến nhà vệ sinh để làm việc đó
 
 
 // ========================================================
@@ -444,9 +444,9 @@ Cancel testing and switch to &2 ?
 // ========================================================
 
 /* ___ Title_error_sha_error ___ */
-<font color="ff:#000000"><b>Application integrity error</b></font>
-...There may be a problem with the file extraction.
-Please rebuild the application from 7z or zip again.
+<font color="ff:#000000"><b>Lỗi tính toàn vẹn ứng dụng</b></font>
+...Có thể đã xảy ra sự cố khi giải nén tệp.
+Vui lòng tạo lại ứng dụng từ tệp 7z hoặc zip.
 
 
 

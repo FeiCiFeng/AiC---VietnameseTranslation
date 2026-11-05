@@ -11,7 +11,7 @@
 
 &&Config_Sensitive Chế độ an toàn
 &&Config_Sensitive_0 Tắt
-&&Config_Sensitive_1 Mở
+&&Config_Sensitive_1 Bật
 
 &&Config_AutoSave Tự động lưu
 &&Config_AutoSave_0 Tắt
@@ -105,7 +105,7 @@ của các hiệu ứng hình ảnh.
 <font color="#E70B0B" size="12" linespacing="0.7">Lưu ý: Thiết lập này sẽ không có tác dụng nếu
 cao hơn tốc độ khung hình tổng thể.</font>
 
-text id="58217"
+
 /* ___ Config_desc_MapEf_Level ___ */
 Thiết lập mức độ
 hiệu ứng hình ảnh trên màn chơi.

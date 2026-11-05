@@ -18,7 +18,7 @@
 // 先生に「先生は罪人か？」と聞く
 
 *105/health_primula_t_primula_is_villain p_00
-Hm? Something on your mind?
+Hm? Em có chuyện gì muốn hỏi sao?
 
 *n_01
 ...
@@ -26,51 +26,51 @@ Hm? Something on your mind?
 // 本当に聞く / やめておく
 
 *n_10
-...I was told it’s extremely rare for a beastman to be reincarnated without their memories.
+...Em nghe nói thú nhân được tái sinh mà không mang theo ký ức kiếp trước là chuyện cực kỳ hiếm gặp.
 
 *p_11
-Ah, yes. Perhaps my previous self had memories she’d rather seal away.
+À, phải rồi. Có lẽ kiếp trước của cô đã có những ký ức mà cô ấy muốn chôn vùi.
 
 *n_12
-<s2>...or maybe she committed terrible crimes and had them taken away.
-<W2><small>Or something.
+<s2>...Hoặc cũng có thể cô ấy từng phạm phải những tội ác khủng khiếp nên bị tước mất ký ức.
+<W2><small>Đại loại vậy.
 
 *p_13
-I’ve had that thought too.
+Cô cũng từng nghĩ đến khả năng đó nữa.
 *
-I decided it’s best not to know.
+Cô quyết định rằng tốt nhất là không nên biết nó là gì.
 *
-It would do more harm than good.
+Biết được cũng chẳng mang lại điều gì tốt đẹp, chỉ khiến mọi chuyện tệ hơn thôi.
 
 *p_14
-But I understand your curiosity.
+Nhưng cô hiểu sự tò mò của em.
 *
-It’s hard to resist the allure of a secret, isn’t it?
+Thật khó để cưỡng lại sức hấp dẫn của một bí mật mà, phải không?
 
 *n_15
 ......
 
 *p_16
-Suppose I did lose my memories as a punishment, -
+Giả sử cô thực sự mất đi ký ức như một hình phạt, -
 *
-- the people I wronged would see me walking around one day and might plot their revenge.
+- những người từng bị cô làm tổn thương có thể một ngày nào đó nhìn thấy cô đang sống bình thường rồi âm thầm lên kế hoạch trả thù.
 
 *p_17
-But I would have no idea when or where they might strike.
+Nhưng cô sẽ chẳng biết họ có thể ra tay ở đâu hay khi nào.
 *
-Living in fear of them every day would be part of my punishment.
+Ngày qua ngày sống trong nỗi sợ hãi đó cũng sẽ là một phần hình phạt dành cho cô.
 
 *n_18
-That would be unnecessarily cruel.
+Như vậy thì tàn nhẫn quá mức cần thiết rồi.
 
 *p_19
-Hehe, true.
+Hehe, đúng vậy.
 *
-<s3>But it would be what I deserve.
+<s3>Nhưng đó sẽ là điều cô đáng phải nhận.
 
 *p_20
 <s3><W2>Noel...
-Are you afraid of me?
+Em có sợ cô không?
 
 
 // A:怖い
@@ -78,51 +78,51 @@ Are you afraid of me?
 
 // A==
 *p_100
-I've always appreciated your honesty.
+Cô luôn trân trọng sự thành thật của em.
 
 *n_101
-I’m not scared of <i>you</i>.
+Em không sợ <i>cô</i> ạ.
 *
-I’m scared...that your memories might come back and you’ll be different from the Primula I know.
+Em sợ...rằng ký ức của cô có thể quay trở lại, và cô sẽ trở thành một người khác với cô Primula mà em biết.
 *
-What if she really is a criminal? What if all that time we've spent together was a lie?
+Nếu cô ấy thực sự là một tội phạm thì sao? Nếu tất cả khoảng thời gian chúng ta ở bên nhau đều là dối trá thì sao?
 
 *p_102
-Memories exist in more places than just our brains.
+Ký ức không chỉ tồn tại trong bộ não của chúng ta.
 *
-Some can take on a life of their own.
+Một số ký ức có thể tự mình tồn tại như một thực thể riêng.
 
 *p_103
-...Let me make you a promise.
+...Để cô hứa với em một điều.
 //=> C
 
 
 // B==
 *n_150
-Even if you were a criminal before, you’ll always be Primula to me.
+Dù trước đây cô có từng là tội phạm đi nữa, thì đối với em, cô vẫn luôn là Primula.
 *
-If your old memories came back, I’d just have to find a way to restore your Primula ones.
+Nếu ký ức cũ của cô quay trở lại, em chỉ cần tìm cách khôi phục lại những ký ức về cô Primula của em thôi.
 
 *p_151
-Oh? How would you do that?
+Ồ? Em định làm thế nào?
 
 *n_152
-I’d...um...find someone at the Heavenly Facilities to help me.
+Em sẽ... ừm...tìm người ở Cơ Sở Thiên Giới giúp đỡ.
 
 *p_153
-Beastmen are the cogs of society. Tampering with their memories might grind the system to a halt.
+Thú nhân là những bánh răng vận hành xã hội. Nếu ký ức của họ bị can thiệp, cả hệ thống có thể ngừng hoạt động.
 
 *p_153_2
-Whoever you talk to would turn you in and you’d get a punishment that makes mine look like a timeout.
+Bất cứ ai em tìm đến cũng sẽ tố giác cô, và hình phạt cô phải chịu sẽ còn nặng hơn cả việc bị phạt đứng góc lớp đấy.
 
 *n_154
-Oh...
+Ồ...
 
 *p_155
 Hehe.
-Promise me you won’t do anything that’ll get you arrested.
+Hứa với cô là em sẽ không làm chuyện gì khiến bản thân bị bắt nhé.
 *
-And I’ll promise you this...
+Đổi lại, cô cũng hứa với em điều này...
 
 
 //=> C
@@ -130,24 +130,24 @@ And I’ll promise you this...
 // C===
 
 *p_200
-Even if my old memories are restored, you’ll still be as precious to me as you are now.
+Ngay cả khi ký ức cũ của cô được khôi phục, em vẫn sẽ quý giá với cô như hiện tại.
 *
-That memory will always find its way back to me.
+Ký ức ấy sẽ luôn tìm được đường quay trở về với cô.
 
 *n_201
-...I’d still feel better if I knew you weren’t a criminal in the past.
+...Nhưng em vẫn sẽ yên tâm hơn nếu biết rằng trước đây cô không phải là tội phạm.
 
 *p_202
-I understand. But, even if that’s the case, you’ll still be my Noel.
+Cô hiểu. Nhưng dù có chuyện đó đi nữa, em vẫn sẽ luôn là Noel của cô.
 *
-No matter what.
+Bất kể thế nào.
 
 *n_203
 ...
 
 *p_204
-Ohh, you look so upset.
-Wanna touch my tail?
+Ôi chao, trông em buồn bã quá.
+Muốn vuốt ve đuôi cô không?
 
 *n_205
-<think>Uuu, she’s treating me like I’m a little kid...
+<think>Ưư, cô ấy lại đang đối xử với mình như trẻ con vậy...

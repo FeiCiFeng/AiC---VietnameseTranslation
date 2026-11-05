@@ -13,44 +13,44 @@
 // ========================================================
 
 *___city_hvn/___portal_front mb_00
-Greetings, Miss! Are you here to visit a patient?
+Xin chào, cô gái! Cô đến thăm bệnh nhân sao?
 *
-Visitations require an appointment, but you can still browse the library and our shop!
+Cần có lịch hẹn trước để thăm bệnh nhân, nhưng cô vẫn có thể tham quan thư viện và cửa hàng của chúng tôi!
 
 // 2回目
 
 *___city_hvn/___portal_front n_10
-<think>I shouldn't bother them unless I actually need something...
+<think>Mình không nên làm phiền họ nếu không thực sự cần gì...
 
 
 // フロントにいる獣人
 *___city_hvn/front_bst_00 mb_00
-Beastmen are reborn fully grown so they can get back to fulfilling their role more quickly.
+Thú nhân được tái sinh với cơ thể trưởng thànhđã  để có thể nhanh chóng tiếp tục thực hiện vai trò của mình.
 *
-It really makes me appreciate seeing children at play in the park.
+Điều đó thực sự khiến mình càng trân trọng cảnh trẻ em vui đùa ở công viên.
 
 *mb_01
-I hear there's an orphanage in the mountains where beastmen take care of young elves.
+Nghe nói có một cô nhi viện trên núi, nơi thú nhân chăm sóc những Elf nhỏ tuổi.
 *
-Sigh, I've lived in Grazia almost all my lives. Maybe I should see if I can get reassigned there.
+Haiz, gần như cả đời mình đều sống ở Grazia. Có lẽ mình có thể thử chuyển công tác đến đó.
 
 
 // 図書室のエルフ
 
 *___city_hvn/library_elf_00 mb_00
-Oh, hey. Nice to see another elf here.
+Ồ, chào. Thật vui khi thấy một Elf khác ở đây.
 *
-This is an impressive archive. Lots to think about.
+Kho lưu trữ này thật ấn tượng. Có nhiều thứ đáng để suy ngẫm.
 *
-Like the Grazian Orthodoxy, for example. What does it mean by "goblins"?
+Chẳng hạn như Chính Thống Giáo Grazia. Từ "goblin" trong này có nghĩa là gì nhỉ?
 
 *mb_01
-The goblins went underground? Where underground? This whole thing is ridiculous.
+Goblin đã xuống lòng đất ư? Xuống đâu dưới lòng đất? Chuyện này thật vô lý.
 *
-Has anyone ever fact checked this stuff? Or cross-referenced it with...
+Có ai từng kiểm chứng thông tin này chưa? Hay đối chiếu nó với...
 *
-Wait, is this a cipher? Maybe there's something here after all.
-<m scary>Hmmm...
+Khoan đã, đây là mật mã sao? Có lẽ tài liệu này cũng có chút giá trị đấy.
+<m scary>Hừm...
 
 
 
@@ -62,53 +62,53 @@ Wait, is this a cipher? Maybe there's something here after all.
 
 *___city_hvn/book_abyss b00
 
-Once upon a time, there was an elven girl named Lily.
-She lived peacefully in the forest village with the other elves.
+Ngày xửa ngày xưa, có một cô bé Elf tên là Lily.
+Cô bé sống yên bình cùng những Elf khác trong ngôi làng giữa rừng.
 
-Until one day, Lily didn't come home.
+Cho đến một ngày, Lily không trở về nhà.
 *
-"Could she have gotten lost in the forest?", thought the villagers.
+"Con bé có bị lạc trong rừng không nhỉ?", dân làng tự hỏi.
 
-They searched, but could not find her.
+Họ tìm kiếm khắp nơi nhưng không thể tìm thấy cô bé.
 
-"Maybe she went to...the caves.", said the village elder.
+"Có lẽ con bé đã đến... hang động.", trưởng làng nói.
 *
-The caves were located in a dark corner of the forest, far off the beaten path.
+Hang động nằm ở một góc tối trong khu rừng, cách xa những con đường quen thuộc.
 
-Some say if you listen real closely on a quiet night, you can hear the soft weeping...of a ghost.
+Người ta nói rằng nếu lắng nghe thật kỹ vào một đêm yên tĩnh, bạn có thể nghe thấy tiếng khóc nức nở khe khẽ... của một hồn ma.
 
-Those who venture to close to the mouth of the cave get swallowed up and are never heard from again...
+Những ai dám đến quá gần cửa hang đều bị nuốt chửng và không bao giờ được nghe tin tức gì nữa...
 *
-The elves sought out the beastmen at the foot of the mountain.
+Các Elf tìm đến những thú nhân sống dưới chân núi.
 
-"Please! Rescue our Lily!", they cried.
+"Làm ơn! Hãy cứu Lily của chúng tôi!", họ khóc cầu xin.
 
-The beastmen nodded.
+Những thú nhân gật đầu.
 
-"Leave it to us! We'll get her back safely!"
+"Cứ giao cho chúng tôi! Chúng tôi sẽ đưa cô bé trở về an toàn!"
 *
-The beastmen bravely approached the cave.
-From the back, a piercing voice echoed,
+Các thú nhân dũng cảm tiến đến hang động.
+Từ sâu bên trong, một giọng nói sắc lạnh vang lên,
 
-"Why have you come!?"
+"Các ngươi đến đây làm gì!?"
 
-"We're here for the girl. Return her at once!", they replied.
+"Chúng tôi đến đón cô bé. Mau trả cô bé lại!", họ đáp.
 *
-Before they had even finished their demand, the beastman pointed something into the cave, and a light began to shine from it.
+Trước khi họ kịp nói hết yêu cầu, một thú nhân đã chĩa thứ gì đó vào trong hang, rồi ánh sáng bắt đầu phát ra từ đó.
 
-"The light! So bright!", the ghost shrieked.
+"Ánh sáng! Chói quá!", hồn ma hét lên.
 *
-As the ghost fled into the caves, the beastmen ran in and rescued Lily.
+Khi hồn ma bỏ chạy sâu vào trong hang, các thú nhân lao vào giải cứu Lily.
 
-Returning to the village, the elves breathed a sigh of relief.
+Trở về làng, những Elf thở phào nhẹ nhõm.
 
-"Thank goodness you’re alright!"
+"May quá, con không sao!"
 *
-And so the village returned to peaceful times, thanks to the strength and wisdom of the beastmen.
+Và thế là ngôi làng lại trở về những ngày tháng yên bình, nhờ sức mạnh và trí tuệ của các thú nhân.
 
-Heed Lily’s tale, never venture into the caves.
+Hãy ghi nhớ câu chuyện của Lily và đừng bao giờ mạo hiểm đi vào hang động.
 
-"Or else a ghost will get you!"
+"Nếu không, hồn ma sẽ bắt bạn đấy!"
 
 
 // ========================================================
@@ -116,47 +116,47 @@ Heed Lily’s tale, never venture into the caves.
 // ========================================================
 
 *___city_hvn/book_cane b00
-Emil was a curious young beastman living at the base of the mountain.
+Emil là một thú nhân trẻ, hiếu kỳ sống dưới chân núi.
 
-He knew of the elven village deep in the forest, but had never been there himself.
-He decided to visit one day to learn more about them.
+Cậu biết đến ngôi làng Elf nằm sâu trong rừng, nhưng chưa từng tự mình đến đó.
+Một ngày nọ, cậu quyết định ghé thăm để tìm hiểu thêm về họ.
 *
-The elves built their village within the tops of the trees, but Emil was a natural climber.
+Các Elf xây dựng ngôi làng trên những ngọn cây, nhưng Emil vốn là một người leo trèo rất giỏi.
 
-Poking his head over the edge of the village, he laid eyes on a beautiful elf girl.
-She was startled to see him, but Emil's kindness and charm quickly put her at ease.
+Thò đầu qua rìa ngôi làng, cậu nhìn thấy một cô gái Elf xinh đẹp.
+Cô giật mình khi nhìn thấy cậu, nhưng lòng tốt và sự duyên dáng của Emil nhanh chóng khiến cô bình tĩnh lại.
 *
-Her name was Leena. She had lived in the village her entire life, never venturing outside due to her frailty.
+Cô gái ấy tên là Leena. Cô đã sống ở ngôi làng suốt cuộc đời mình và chưa từng ra ngoài vì cơ thể yếu ớt của cô ấy.
 
-Emil felt sorry for her. What a shame it was for her to not experience all the wonders of the outside world.
-He rushed back to his workshop, determined to invent a way to help her.
+Emil cảm thấy thương cô. Thật đáng tiếc khi cô không thể trải nghiệm những điều kỳ diệu của thế giới bên ngoài.
+Cậu vội vã trở về xưởng, quyết tâm phát minh ra thứ gì đó có thể giúp cô.
 *
-Day in and day out he studied, learning everything he could about elves and their environment, until suddenly...
+Ngày qua ngày, cậu miệt mài nghiên cứu, tìm hiểu mọi thứ có thể về Elf và môi trường sống của họ, cho đến khi đột nhiên...
 
-Eurika! Elven biology metabolizes mana from the atmosphere by breathing it in. Leena's system wasn't metabolizing it fast enough for the mana-rich environment of the forest.
-And so, Emil invented a device that could safely remove mana from her system at will.
+Eurika! Cơ thể Elf hấp thụ mana từ khí quyển thông qua hô hấp. Hệ thống trao đổi chất của Leena không xử lý mana đủ nhanh để thích nghi với môi trường giàu mana trong rừng.
+Vì thế, Emil đã phát minh ra một thiết bị có thể chủ động thải bỏ mana khỏi cơ thể cô một cách an toàn.
 *
-This was the invention of the very first staff.
+Đó chính là sự ra đời của chiếc trượng đầu tiên.
 
-Emil moved to the village and lived happily with Leena...
+Emil chuyển đến ngôi làng và sống hạnh phúc bên Leena...
 *
-...for a time.
+...trong một khoảng thời gian.
 
-Leena used the staff to invent new spells, many of which still see use today.
+Leena dùng chiếc trượng để sáng tạo những phép thuật mới, nhiều phép trong số đó vẫn được sử dụng cho đến ngày nay.
 *
-But the elders saw this as an affront to nature.
+Nhưng các trưởng lão cho rằng việc này là hành động xúc phạm tự nhiên.
 
-They banished Emil and Leena from the village.
+Họ trục xuất Emil và Leena khỏi ngôi làng.
 *
-The pair traveled to the edge of the forest where they came upon a band of merchants.
+Hai người đi đến rìa khu rừng, nơi họ bắt gặp một đoàn thương nhân.
 
-They set up a workshop and were visited by other travelers who heard stories of their magic and inventions.
+Họ dựng một xưởng chế tạo và được những lữ khách khác tìm đến sau khi nghe kể về phép thuật cùng những phát minh của họ.
 *
-They told tales to those who would listen, passing on their wisdom and skills. Some decided to stay, and built roads, bridges, and waterways.
+Họ kể chuyện cho những ai chịu lắng nghe, truyền lại kiến thức và kỹ năng của mình. Một số người quyết định ở lại, xây dựng đường sá, cầu cống và kênh dẫn nước.
 
-With all these blessings in one place, people eventually built houses, and a city began to form.
+Với tất cả những điều tốt đẹp hội tụ tại một nơi, mọi người dần xây nhà cửa, và một thành phố bắt đầu hình thành.
 *
-The town of Grazia was born.
+Thị trấn Grazia ra đời.
 
 
 // ========================================================
@@ -165,34 +165,34 @@ The town of Grazia was born.
 // 紫外線の擬人化の話。
 
 *___city_hvn/book_uv b00
-<i>O ye amber golden light, Medusa’s petrifying gaze turns, descends upon the earth.</i>
-	-Scripture
+<i>Hỡi ánh sáng màu hổ phách, ánh nhìn hóa đá của Medusa xoay chuyển, giáng xuống trần gian.</i>
+	-Kinh Thánh
 *
-Down from the heavens to the forest floor, a golden glow danced through the swaying leaves.
+Từ thiên đường xuống nền rừng, ánh sáng vàng nhảy múa qua những tán lá đung đưa.
 
-Believing it to be a blessing from the gods, priest Elias of Grazia reached out to touch it.
+Tin rằng đó là phước lành từ các vị thần, linh mục Elias của Grazia vươn tay chạm vào nó.
 *
-A searing pain shot through his arm.
+Một cơn đau bỏng rát xuyên qua cánh tay ông.
 
-He recoiled and screamed in agony.
+Ông giật lùi và hét lên trong đau đớn.
 
-His hands began to redden, blister, then char.
+Hai bàn tay bắt đầu đỏ lên, nổi phồng rộp, rồi cháy sém.
 *
-As it spread up his arms and to the rest of his body, he shouted unto the heavens,
+Khi vết thương lan dọc cánh tay và khắp cơ thể, ông hét lên trời cao,
 
-"Medusa, why do you forsake me!?"
+"Medusa, tại sao người lại bỏ rơi con!?"
 *
-But the skies remained silent as the golden light consumed him.
+Nhưng bầu trời vẫn im lặng khi ánh sáng vàng nuốt chửng ông.
 
-Days later, other priests found his body, arms still outstretched.
+Vài ngày sau, những linh mục khác tìm thấy thi thể ông, hai cánh tay vẫn vươn ra phía trước.
 *
-Even now, Medusa still watches.
+Ngay cả lúc này, Medusa vẫn đang dõi theo.
 
-Golden gaze tempting us.
+Ánh nhìn vàng óng cám dỗ chúng ta.
 
-But it is a curse.
+Nhưng đó là một lời nguyền.
 
-Don’t touch the light.
+Đừng chạm vào ánh sáng.
 
 
 // ========================================================
@@ -200,28 +200,28 @@ Don’t touch the light.
 // ========================================================
 
 *___city_hvn/book_cooking b00
-Strawberry Tart
-Crispy golden tart with strawberries and honey
+Bánh Tart Dâu Tây
+Bánh tart vàng giòn với dâu tây và mật ong
 
-Ingredients: Flour, butter, sugar, water, salt, honey, lemon juice, strawberries, red currant jam
+Nguyên liệu: Bột mì, bơ, đường, nước, muối, mật ong, nước cốt chanh, dâu tây, mứt lý chua đỏ
 
-Preheat oven to 190 (375). Mix flour, butter, sugar, and salt in bowl until crumbly. Add water in small amounts until clumps form. Roll clumps into ball and press into tart pan. Poke holes in bottom of dough and bake for 15 minutes or until golden brown. Mix sugar, lemon juice, and red currant jam in small saucepan. Place saucepan on stove and bring to low boil. Pour the hot mixture into the tart and place fresh strawberries evenly throughout. Drizzle honey evenly onto strawberries. Try with cold whipped cream for an extra sweet treat.
+Làm nóng lò nướng đến 190 (375). Trộn bột mì, bơ, đường và muối trong bát cho đến khi hỗn hợp vụn ra. Thêm từng ít nước cho đến khi hỗn hợp kết dính thành từng cục. Vo các cục bột thành một khối rồi ấn vào khuôn tart. Chọc các lỗ ở đáy bột và nướng trong 15 phút hoặc đến khi chuyển sang màu vàng nâu. Trộn đường, nước cốt chanh và mứt lý chua đỏ trong một chiếc nồi nhỏ. Đặt nồi lên bếp và đun đến khi sôi nhẹ. Đổ hỗn hợp nóng vào vỏ bánh tart rồi xếp đều dâu tây tươi lên trên. Rưới mật ong đều khắp dâu tây. Thưởng thức cùng kem tươi đánh bông lạnh để món ăn thêm ngọt ngào.
 *
-Chicken Soup w/ Soy Milk
+Súp Gà Với Sữa Đậu Nành
 
-Ingredients: Cabbage, chicken breast, leek, ginger, soy milk, water
+Nguyên liệu: Bắp cải, ức gà, tỏi tây, gừng, sữa đậu nành, nước
 
-Grind chicken meat and roll into tablespoon sized balls. When water comes to a boil, carefully add the chicken meat. Skim any bits off the top and sides. Simmer heat and add chopped cabbage and leek. Remove from heat and add soy milk. Season to taste and reheat for 3 minutes, then serve. Cabbage can be substituted with turnips for a more peppery flavor.
+Xay nhuyễn thịt gà rồi vo thành những viên có kích thước bằng một muỗng canh. Khi nước sôi, cẩn thận cho thịt gà vào. Hớt bỏ bọt và những vụn thịt nổi trên mặt nước cũng như bám quanh thành nồi. Hạ nhỏ lửa rồi thêm bắp cải và tỏi tây đã thái nhỏ. Tắt bếp rồi cho sữa đậu nành vào. Nêm nếm vừa ăn và đun nóng lại trong 3 phút, sau đó dùng ngay. Có thể thay bắp cải bằng củ cải để tạo vị cay nồng hơn.
 *
-Lamb's Meat Breaded Meatballs
+Thịt Viên Tẩm Bột Chiên Từ Thịt Cừu Non
 
-Ingredients: Lamb, cabbage, onion, bread crumbs, egg, salt, pepper, licorice powder
+Nguyên liệu: Thịt cừu non, bắp cải, hành tây, vụn bánh mì, trứng, muối, tiêu, bột cam thảo
 
-Finely chop half a head of cabbage and sprinkle with salt. Mix cabbage with ground lamb, onion, cabbage, egg, licorice powder, salt, and pepper in a bowl and knead into small balls. Heat oil in a frying pan and sear the meatballs until the outside is brown. Let cool slightly, then add bread crumbs to bowl and roll meatballs to form a shell. Brush shells with beaten egg and poke holes before baking. Cook in oven until golden brown then serve.
+Thái nhỏ nửa cây bắp cải rồi rắc muối. Cho bắp cải, thịt cừu non xay, hành tây, trứng, bột cam thảo, muối và tiêu vào bát, trộn đều rồi nhào thành những viên nhỏ. Đun nóng dầu trong chảo và áp chảo thịt viên đến khi bên ngoài chuyển sang màu nâu. Để nguội một chút, sau đó cho vụn bánh mì vào bát rồi lăn thịt viên qua để tạo thành lớp vỏ. Phết trứng đã đánh tan lên lớp vỏ và chọc vài lỗ trước khi nướng. Nướng trong lò đến khi vàng nâu rồi dùng.
 
 *n_00 
-<think>That’s enough of that.
-Too many veggies...
+<think>Đủ rồi, đọc đến đây thôi.
+Quá nhiều rau củ...
 
 
 // ========================================================
@@ -230,21 +230,21 @@ Too many veggies...
 
 *___city_hvn/book_demon b00
 
-Monsters are primitive creatures with extremely short lifespans that reproduce at an equivalent rate.
+Quái vật là những sinh vật nguyên thủy có tuổi thọ cực ngắn và sinh sản với tốc độ tương ứng.
 
-These short generational cycles lead to mutations appearing practically in real time.
+Chu kỳ thế hệ ngắn này khiến các đột biến xuất hiện gần như ngay lập tức.
 
-Each species possesses evolutionary traits adaptive to their environment, making identifying unique species effortless. However, these traits exist only on the surface.
+Mỗi loài sở hữu những đặc điểm tiến hóa thích nghi với môi trường sống, giúp dễ dàng nhận diện từng loài riêng biệt. Tuy nhiên, những đặc điểm này chỉ tồn tại ở bề ngoài.
 
-At their core, all monsters are the same. 
+Về bản chất, mọi quái vật đều giống nhau.
 *
-Their intelligence levels were previously thought to be low, but recent observations have brought this into question.
+Trước đây, người ta cho rằng trí thông minh của chúng thấp, nhưng những quan sát gần đây đã khiến giả thuyết này bị nghi ngờ.
 
-They've been seen using tools of their own making, and engage in social behavior with one another.
+Người ta đã bắt gặp chúng sử dụng những công cụ do chính mình chế tạo và thực hiện các hành vi xã hội với đồng loại.
 *
-Their territory is demarcated by mana plants, which they are fiercely protective of and will immediately swarm anything they believe to be a threat to the plants.
+Chúng đánh dấu lãnh thổ bằng các cây Mana, đồng thời bảo vệ chúng một cách quyết liệt. Chúng sẽ lập tức kéo đến tấn công bất cứ thứ gì mà chúng cho là mối đe dọa đối với những cái cây này.
 
-Attempts to study this behavior as well as mana plants themselves have proven to be equal parts difficult and dangerous.
+Những nỗ lực nghiên cứu hành vi đó cũng như bản thân các cây Mana đều vô cùng khó khăn và nguy hiểm.
 
 // ========================================================
 // MARK : 漂流者のレポート
@@ -253,22 +253,22 @@ Attempts to study this behavior as well as mana plants themselves have proven to
 //fill 内は黒塗りになります。
 *___city_hvn/book_urasima b00
 
-Report
+Báo cáo
 
-Subject name: <fill>Daiko</fill>
-Elf, male, 25
+Tên đối tượng: <fill>Daiko</fill>
+Elf, nam, 25 tuổi
 
-Subject was reported missing during a geological survey near <fill>Pioneer's Mountain, Cave 2</fill>.
+Đối tượng được báo cáo mất tích trong một cuộc khảo sát địa chất gần <fill>Núi Tiên Phong, Hang Động số 2</fill>.
 
-A search team was dispatched, but was unable to find any trace of him and called off their efforts days later. Subject resurfaced on their own one month later, alive and well. 
+Một đội tìm kiếm đã được cử đi nhưng không tìm thấy bất kỳ dấu vết nào của đối tượng và vài ngày sau đã từ bỏ việc tìm kiếm. Một tháng sau, đối tượng tự mình quay trở lại, vẫn còn sống và khỏe mạnh.
 *
-Subject was wearing the same clothes as when he disappeared and appeared to be in perfect health.
+Đối tượng mặc đúng bộ quần áo như lúc biến mất và có vẻ hoàn toàn khỏe mạnh.
 
-When informed that he had been missing for a month, subject stated that he had only been wandering in the caves for “a day or two”.
+Khi được thông báo rằng mình đã mất tích suốt một tháng, đối tượng nói rằng bản thân chỉ lang thang trong hang động khoảng "một hoặc hai ngày".
 *
-Our team at first attributed this to a case of delirium brought on by dehydration, but with no supplies on his person when he went missing, dehydration would have been severe enough to cause death long before a month had passed.
+Ban đầu, đội chúng tôi cho rằng đây là trường hợp mê sảng do mất nước. Tuy nhiên, khi mất tích, đối tượng không mang theo bất kỳ vật dụng tiếp tế nào. Tình trạng mất nước đáng lẽ phải nghiêm trọng đến mức gây tử vong từ lâu trước khi một tháng trôi qua.
 
-Subject’s team was approaching the Mother Stone at time of disappearance. Our team is now working under the hypothesis that the stone <fill>can warp localized pockets of time and space</fill>.
+Đội của đối tượng đang tiến đến Đá Mẹ vào thời điểm mất tích. Hiện tại, đội chúng tôi đang làm việc dựa trên giả thuyết rằng khối đá này <fill>có thể làm biến dạng những vùng không gian và thời gian cục bộ</fill>.
 
 
 // ========================================================
@@ -277,45 +277,45 @@ Subject’s team was approaching the Mother Stone at time of disappearance. Our 
 
 
 *___city_hvn/book_elfbody b00
-The Brain
+Não Bộ
 
-The command center of your nervous system. The brain is a specialized organ housed in your skull that is responsible for receiving and processing information from the sensory nervous system.
+Trung tâm điều khiển của hệ thần kinh. Não là một cơ quan chuyên biệt nằm trong hộp sọ, chịu trách nhiệm tiếp nhận và xử lý thông tin từ hệ thần kinh cảm giác.
 
-The cerebrum controls logical thinking and language, the cerebellum coordinates movement, and the brainstem is responsible for automating breathing, heartbeat, and other vital functions.
+Đại não kiểm soát tư duy logic và ngôn ngữ, tiểu não điều phối vận động, còn thân não tự động điều khiển hô hấp, nhịp tim và các chức năng sống thiết yếu khác.
 
-Everything that you do, think, and experience is a result of your brain reacting to the data it takes in.
+Mọi hành động, suy nghĩ và trải nghiệm của bạn đều là kết quả của việc não bộ phản ứng với dữ liệu mà nó tiếp nhận.
 *
-Stomach
+Dạ Dày
 
-A muscular, hollow organ that plays a vital role in the digestion of food.
+Một cơ quan rỗng có cấu tạo cơ bắp, đóng vai trò thiết yếu trong quá trình tiêu hóa thức ăn.
 
-Enzymes and acids are secreted by gastric glands which break down and soften food before sending it to the small intestine. 
+Các tuyến dạ dày tiết ra enzyme và axit để phân giải, làm mềm thức ăn trước khi chuyển chúng đến ruột non.
 *
-Small and large intestine
+Ruột Non Và Ruột Già
 
-The small intestine is where the majority of nutrients from food are absorbed into the body. It has three distinct regions - the duodenum, jejunum, and ileum.
+Ruột non là nơi phần lớn chất dinh dưỡng từ thức ăn được hấp thụ vào cơ thể. Nó gồm ba phần riêng biệt: tá tràng, hỗng tràng và hồi tràng.
 
-The large intestine is where any remaining liquids are absorbed into the body and where waste matter begins to accumulate. There are also bacteria within the intestine which help with vitamins and immunity.
+Ruột già hấp thụ lượng chất lỏng còn lại vào cơ thể, đồng thời là nơi chất thải bắt đầu tích tụ. Trong ruột cũng có các vi khuẩn hỗ trợ quá trình tổng hợp vitamin và tăng cường miễn dịch.
 *
-Liver and pancreas
+Gan Và Tuyến Tụy
 
-The liver is the largest organ inside your body and performs a variety of functions, including metabolizing nutrients, breaking down toxins, and the decomposition of red blood cells. Actihol and other drugs are also processed here.
+Gan là cơ quan lớn nhất bên trong cơ thể, thực hiện nhiều chức năng khác nhau, bao gồm chuyển hóa chất dinh dưỡng, phân giải độc tố và phân hủy hồng cầu. Actihol cùng các loại thuốc khác cũng được xử lý tại đây.
 
-The pancreas works with the small intestine to break down fats, sugars, and proteins. It also helps regulate blood sugar levels.
+Tuyến tụy phối hợp với ruột non để phân giải chất béo, đường và protein. Nó cũng giúp điều hòa lượng đường trong máu.
 *
-Kidneys
+Thận
 
-A pair of bean-shaped organs located on both sides of your waist. Kidneys help filter waste from the body and send it to the bladder to be excreted. They also play a key role in red blood cell production and regulate your body’s water and electrolyte levels.
+Một cặp cơ quan có hình dạng giống hạt đậu, nằm ở hai bên eo. Thận giúp lọc chất thải khỏi cơ thể và đưa chúng đến bàng quang để bài tiết. Chúng cũng đóng vai trò quan trọng trong quá trình sản xuất hồng cầu và điều hòa lượng nước cùng chất điện giải trong cơ thể.
 *
-Dilators
+Cơ Quan Điều Tiết
 
-A pair of small organs found on both sides of your chest. A subset of the respiratory system, these organs take mana from the air you breathe and store it in red blood cells to circulate throughout your body.
+Một cặp cơ quan nhỏ nằm ở hai bên lồng ngực. Chúng hấp thụ mana từ không khí bạn hít thở và lưu trữ nó trong hồng cầu để vận chuyển khắp cơ thể.
 
-Mana can still be drawn out once metabolized, but may be painful depending on the method.
+Mana vẫn có thể được rút ra sau khi đã chuyển hóa, nhưng tùy theo phương pháp mà quá trình này có thể gây đau đớn.
 *
-Heart
+Tim
 
-Part of the circulatory system. Pumps blood throughout your body to get oxygen and mana to organs that need it. Has four chambers and works by expanding and contracting based on electrical signals.
+Một bộ phận của hệ tuần hoàn. Tim bơm máu đi khắp cơ thể để đưa oxy và mana đến các cơ quan cần chúng. Tim có bốn ngăn và hoạt động bằng cách co bóp dựa trên các tín hiệu điện.
 
 
 // ========================================================
@@ -324,39 +324,39 @@ Part of the circulatory system. Pumps blood throughout your body to get oxygen a
 // グラティア正教 (the Grazian Orthodoxy)
 
 *___city_hvn/book_orthodoxy b00
-In the beginning, chaos and strife ruled the world.
+Thuở ban đầu, hỗn loạn và xung đột thống trị thế giới.
 
-From the heavens, Medusa scorched the earth with thunder and lightning.
+Từ thiên đường, Medusa thiêu đốt mặt đất bằng sấm sét.
 
-From the sea, crimson and black monsters devoured all traces of life.
+Từ biển cả, những con quái vật đỏ thẫm và đen tuyền nuốt chửng mọi dấu vết của sự sống.
 
-From the land, goblins dug tunnels deep underground, despoiling any chance of the world recovering.
+Từ lòng đất, goblin đào những đường hầm sâu xuống dưới, phá hủy mọi cơ hội để thế giới phục hồi.
 *
-Our Father looked upon the devastation and wept.
+Đức Cha nhìn xuống cảnh tượng tàn phá và bật khóc.
 
-His tears became the stone; the stone became soil, and took root our hope.
+Nước mắt của Người hóa thành đá; đá hóa thành đất, và gieo mầm hy vọng của chúng ta.
 *
-Our Mother had arrived. Through her grace, love spread to every corner of the world.
+Đức Mẹ đã giáng thế. Nhờ ân điển của Người, tình yêu lan tỏa đến mọi ngóc ngách của thế giới.
 
-From the ashes of chaos arose her children, the elves.
+Từ tro tàn của hỗn loạn, những đứa con của Người đã ra đời: các Elf.
 
-Sheltered by her benevolence, we grew strong. Touched by her wisdom, we flourished.
+Được chở che bởi lòng nhân từ của Người, chúng ta trở nên mạnh mẽ. Được soi sáng bởi trí tuệ của Người, chúng ta phát triển thịnh vượng.
 *
-Her breath, the lifeblood that flows through us.
+Hơi thở của Người là dòng sinh lực chảy trong chúng ta.
 
-Her voice, that taught us to love one another.
+Tiếng nói của Người dạy chúng ta yêu thương lẫn nhau.
 
-Her hair, that shields us from the thunder of chaos.
+Mái tóc của Người che chở chúng ta khỏi sấm sét của hỗn loạn.
 
-Her hands, that push back the raging waves.
+Đôi tay của Người đẩy lùi những con sóng dữ dội.
 
-Her feet, that level the soil to keep the monsters underground.
+Đôi chân của Người san phẳng đất đai, giữ lũ quái vật dưới lòng đất.
 *
-Her body, that gave life to countless wise beasts.
+Thân thể của Người đã ban sự sống cho vô số loài thú thông thái.
 
-It is through their wisdom, their tenacity, that we elves survived. May they continue to <rb c="serve">teach</rb> us forever more.
+Chính nhờ trí tuệ và sự kiên trì của chúng mà các Elf chúng ta mới sống sót. Mong rằng chúng sẽ mãi mãi tiếp tục <rb c="phụng sự">dạy dỗ</rb> chúng ta.
 *
-Above the clouds that bring the blessed rains, cradled high atop the Mother Tree, our Father lies in sleep.
+Phía trên những đám mây mang đến những cơn mưa phước lành, được nâng niu trên ngọn Cây Mẹ cao vút, Đức Cha đang say ngủ.
 
-Two children, heirs of Mother’s spirit.
-May their life be eternal, and may we prosper.
+Hai người con, những người thừa kế linh hồn của Đức Mẹ.
+Mong cuộc sống của họ trường tồn và chúng ta được thịnh vượng.

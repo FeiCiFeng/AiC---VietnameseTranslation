@@ -13,131 +13,131 @@
 // ========================================================
 
 *___city_bar/u_enter n_00
-<think>There's a combination lock on the door.
+<think>Cánh cửa có ổ khóa mật mã trên đó.
 
 *n_01
-<think>Even if I knew the combination, I shouldn't be doing this without permission...
+<think>Dù có biết mật mã thì mình cũng không nên tự ý vào đây khi chưa được cho phép...
 
 
 // ========================
 // ベルを鳴らす回数を間違えた
 
 *___city_bar/u_exit_wrong_count n_00
-<think>Hmm...how many times was I supposed to ring the bell?
+<think>Ừm... mình phải rung chuông mấy lần nhỉ?
 
 // ========================
 // ベルを3回鳴らした
 *___city_bar/u_t00 bt_00
-Welcome.
+Chào mừng.
 *
-I am unable to meet with you in person as I am busy tending the bar.
+Hiện tại ta không thể trực tiếp gặp cô vì còn bận trông coi quầy rượu.
 
 // バーで粗相をした
 
 *n_00
-<m fadein>Sorry for giving you extra work with the mess I made...
+<m fadein>Xin lỗi vì đã khiến ngươi phải dọn dẹp thêm do mớ hỗn độn ta gây ra...
 
 *bt_01
-Hm? Oh, don't worry about that. You didn't do anything wrong.
+Hửm? À, đừng lo chuyện đó. Cô đâu có làm gì sai.
 
 *n_01
-But...
-<m fadein>...uuu.
+Nhưng mà...
+<m fadein>...ư...
 
 *n_02
-<think><m fadein>I never thought I'd see the day when a monster would try to comfort me...
+<think><m fadein>Mình chưa từng nghĩ sẽ có ngày được một con quái vật an ủi thế này...
 
 // => bt_03
 
 // バーで粗相をしてない
 *bt_02
-Tell me, who gave you the combination to the lock?
+Cho ta hỏi, ai đã cho cô biết mật mã của ổ khóa này vậy?
 *
-Did the Great Tree send you a divine message? Or, did you just guess at it?
+Hay là Mẫu Thụ đã gửi cho cô một thông điệp thần thánh sao? Hay cô chỉ đơn giản là đoán ra?
 
 // => bt_03
 
 *bt_03
-Glad to see you here, at any rate. Let us toast to our meeting.
+Dù sao thì, thật vui khi thấy cô đến đây. Hãy cùng nâng ly chúc mừng cuộc gặp gỡ này.
 *
-I can't offer you any actihol right now, but I can offer you a deal.
+Hiện tại tôi không thể mời cô Actihol, nhưng tôi có một thỏa thuận muốn đề nghị.
 
 *n_04
-Umm...what kind of deal?
+Ừm...thỏa thuận gì vậy?
 
 *bt_05
-There's a special bottle down in that storeroom. What do you suppose would happen if you drank from it?
+Có một chai rượu đặc biệt ở trong kho phía dưới. Cô nghĩ chuyện gì sẽ xảy ra nếu uống thứ bên trong?
 
 *bt_06
-I'll tell you...
-<m joy>You would gain otherworldly insight<m>.
+Để tôi nói cho cô biết...
+<m joy>Cô sẽ có được nhãn quan siêu phàm<m>.
 *
-You'd be able to see to the other side, and rewrite the rules of reality.
+Cô sẽ nhìn thấy thế giới bên kia và viết lại những quy luật của thực tại.
 
 // * bt_06のバックログでの上書き
 *bt_06_b
-I'll tell you...<font color="ff:#000000">You'll unlock new options in the "Settings" menu.<b>
+Để tôi nói cho cô biết...<font color="ff:#000000">Cô sẽ mở khóa các tùy chọn mới trong mục "Cài Đặt".<b>
 *
-<font color="ff:#000000">I would like to help you reach the optimal "Kawaisou is kawaii" levels you desire.
+<font color="ff:#000000">Tôi muốn giúp cô đạt được mức độ "Kawaisou is kawaii" tối ưu mà cô mong muốn.
 
 
 *n_07
-I'm not sure I understand...
-Are you talking about making the effects of actihol stronger?
+Ta không chắc là ta hiểu lắm...
+ngươi đang nói đến việc khiến tác dụng của Actihol mạnh hơn sao?
 
 *bt_08
-Sorry, that was a bit abstract...
+Xin lỗi, tôi nói hơi trừu tượng rồi...
 *
-Use<key add/>to think back on what I said, and I'm sure the meaning will be clear.
+Hãy dùng<key add/>để nhớ lại những gì tôi vừa nói, rồi cô sẽ hiểu ý nghĩa của nó thôi.
 
 *n_09
-Okay. So, how much do I have to pay for this?
+Được rồi. Vậy ta phải trả bao nhiêu cho thỏa thuận này?
 
 *bt_10
-I'm sure you're well aware there's something we monsters value much more than money.
+Chắc cô cũng biết rõ rằng có một thứ mà chúng tôi, những con quái vật, coi trọng hơn tiền bạc rất nhiều.
 *
-<c5>Your body fluids<c0>.
-Ingesting the mana contained within is a source of great pleasure for us.
+<c5>Dịch thể cơ thể của cô<c0>.
+Việc hấp thụ lượng mana chứa bên trong đó là một nguồn khoái cảm lớn đối với chúng tôi.
 
 *n_11
-<m fadein>Uuu...I had a hunch it would be something like this...
+<m fadein>Ư...Ta cũng đoán trước là sẽ có chuyện như thế này...
 
 *bt_12
-Of course, I'd be happy with anything that came from your body, not just fluids.
+Tất nhiên, tôi sẽ rất vui nếu nhận được bất cứ thứ gì từ cơ thể cô, chứ không chỉ riêng dịch thể.
 
 // * bt_12のバックログでの上書き
 *bt_12_b
-<font color="ff:#000000">I will accept Noel Juice, Noel Milk, and Noel Eggs.
+<font color="ff:#000000">Tôi sẽ chấp nhận Dịch Ngọt của Noel, Sữa của Noel và Trứng của Noel.
 
 *bt_13
-The barrel beneath this speaker should work to store your products. Place them in when you want to trade.
+Cái thùng bên dưới chiếc loa này có thể dùng để cất những thứ cô muốn trao đổi. Khi nào muốn giao dịch thì cứ đặt chúng vào đó.
 
 *n_14
-P-product...
+S-sản phẩm...
 
 *bt_14
-Here's what I have available. I hope there's something to your liking.
+Đây là những thứ hiện có. Hy vọng sẽ có món nào đó khiến cô hài lòng.
 
 // 2回目以降
 *bt_20
-So glad to see you again. Let's trade.
+Rất vui được gặp lại cô. Chúng ta giao dịch thôi.
 
 
 // ver0.25特殊処理
 // 橋野のメモ
 *bt_15
-Oh? How long has that been there? Looks like it depicts a girl with pink hair.
+Ồ? Thứ này ở đây từ bao giờ vậy? Trông giống hình vẽ một cô gái tóc hồng.
 *
-Probably just a doodle someone made.
+Chắc chỉ là nét vẽ nguệch ngoạc của ai đó thôi.
 
 
 
 *___city_bar/u_paper_mizuha board_00
 
-We'll be using this store to expand the Settings menu
-to accommodate requests from fans and supporters.
-If there is anything you would like to see added,
-please send us a request on our official Discord
-or semi-official Bilibili!
+Chúng tôi sẽ sử dụng cửa hàng này để mở rộng mục Cài Đặt,
+nhằm bổ sung các tùy chọn theo yêu cầu của người hâm mộ và những người ủng hộ.
+Nếu có điều gì muốn được thêm vào,
+hãy gửi yêu cầu cho chúng tôi trên Discord chính thức
+hoặc Bilibili bán chính thức!
 
-M.H
+M.H.

@@ -14,17 +14,17 @@
 
 
 *___PuppetNpc/t01 n_00
-<I><m ple>Eek! What’s a monster doing here...
+<I><m ple>Á! Con quái vật ở đây làm gì vậy...
 
 *n_01
-...it doesn’t seem to be hostile, though. Let’s see, what does this sign say?
+...Nhưng có vẻ nó không có ý định tấn công. Để xem nào, tấm biển này viết gì vậy?
 
 
 // ver 0.24d now you can write the script of boards here!
 *pp_board
-elv an beest...helo.
-hav roks or wod u no nid?
-us want...traed u...
+elf va thu nhan...chao xin.
+co da hoac go ban ko can?
+bon toi muon...doi trao...
 
 // エルフと獣人の皆様。こんにちは。いらない木や石はありますか?町の皆様が欲しいものと取引したいです。
 
@@ -33,12 +33,12 @@ us want...traed u...
 
 *n_02
 
-So this scale is...for trading?
+Vậy cái cân này là...dùng để trao đổi sao?
 *n_03
-Hmm...this could be dangerous. 
-But it doesn’t even have a weapon drawn...
+Ừm...có thể nguy hiểm đấy.
+Nhưng nó thậm chí còn chẳng có vũ khí để lấy ra...
 *
-I guess it couldn’t hurt to browse.
+Chắc xem thử một chút cũng không sao đâu nhỉ.
 
 
 
@@ -49,25 +49,25 @@ I guess it couldn’t hurt to browse.
 
 
 *___PuppetNpc/t02 pp_board
-elv an beest...helo.
-hav roks or wod u no nid?
-us want...traed u...
+elf va t\\u n||an...chao xin.
+co da hoac g0 bn ko can?
+bonta muon...doi trao...
 
 
 *n_00
-This sign is pretty worn out. It must be quite old.
+Tấm biển này cũ kỹ quá. Chắc nó đã ở đây từ lâu rồi.
 *
-Do they know how to write, or did someone else make this for them?
+Không biết chúng có biết viết không, hay có ai đó viết tấm biển này giúp chúng?
 
 *pp_01
 <evil>......
 
 *n_01
-That glowing square part isn’t an eye, it’s their sex organ.
-Still...it feels like I’m being watched...
+Phần hình vuông phát sáng đó không phải mắt, mà là cơ quan sinh dục của nó.
+Dù vậy...mình vẫn có cảm giác như đang bị theo dõi...
 
 *n_02
-W...What do you have today?
+H-hôm nay có gì vậy?
 
 
 
@@ -75,28 +75,28 @@ W...What do you have today?
 
 
 *___PuppetNpc/t03 pp_board
-lph ledy
-than q
+tieu thw
+c^m on
 
 
 *n_00
-This is much less legible than before.
+Lần này còn khó đọc hơn trước nữa.
 *
-Did you write this yourself?
+Ngươi tự viết cái này à?
 
 *pp_01
 <evil>......
 
 *n_02
 <m ple>Whoa!
-<W2><m>What was that warm fuzzy feeling?!
+<W2><m>Cảm giác ấm áp mềm mại vừa rồi là gì vậy?!
 
 *
-Monsters are dangerous. I can't be letting my guard down around them.
+Quái vật nguy hiểm lắm. Mình không thể mất cảnh giác khi ở gần chúng được.
 *n_03
-None of my classmates would believe me if I told them about this...
+Nếu mình kể chuyện này, chắc chẳng bạn cùng lớp nào tin đâu...
 
- 
+
 // ======================== 撃破 1
 
 // ノエルが彼を殺すと、しばらく彼が徘徊することはなくなる。
@@ -107,24 +107,24 @@ None of my classmates would believe me if I told them about this...
 
 // エルフの女、お前は買い物役（の仲間）を殺した。また殺したら再度お前を潰す。
 *___PuppetNpc/t_killed01 pp_board
-elf lady. yu kil sel frend.
-if kil sel frend agen
-we kil yu.
+elf tieu thw. nguoi giet bn ban hag.
+neu giet bn ban hag nwa 
+tui giet bn.
 
 
 *n_00
-Is that what that g-giant...
-Ohh...
+Đó là...cái g-gã khổng lồ...
+À...
 *n_01
-I’m sorry...
-please forgive me.
+Tôi xin lỗi...
+Làm ơn tha thứ cho tôi.
 
 *pp_01
 <evil>......
 
 *n_02
-I can definitely sense an aura of hostility from it...
-But it looks like we can still trade.
+Mình có thể cảm nhận rõ ràng sự thù địch tỏa ra từ nó...
+Nhưng có vẻ chúng ta vẫn có thể giao dịch.
 
 
 // その後もちろん逆襲覚悟で彼を殺すことは可能。
@@ -134,9 +134,9 @@ But it looks like we can still trade.
 // 逆襲戦に敗北後: 2回目
 // 
 *___PuppetNpc/t_killed02 pp_board
-elf lady kil sel frend
-we wil rivenj
-traed be hard.
+elf tieu thw giet bn ban hag
+bonta se tra t||u
+doi trao se kh0.
 
 // エルフの女が買い物役（の仲間）を殺す度、私達は復讐を再度行う。取引の価格は引き上げられる。
 *pp_01
@@ -144,10 +144,10 @@ traed be hard.
 
 
 *n_00
-...So every time I kill their “Sell Friend”, they’ll send a horde after me looking for revenge.
+...Vậy là mỗi lần mình giết “Bạn Bán Hàng” của chúng, chúng sẽ kéo cả đàn đến tìm mình để trả thù.
 
 *n_01
-And they’ll increase their prices afterwards...
+Sau đó, chúng còn tăng giá hàng hóa nữa...
 
 
 
@@ -155,10 +155,10 @@ And they’ll increase their prices afterwards...
 // 逆襲戦に敗北後: 3回目
 
 *___PuppetNpc/t_killed03 pp_board
-elf lady
-yu fool?
-we wil rivenj
-agen an agen.
+elf tieu thw
+bn ngu?
+bonta se tra t||u 
+nwa va nwa.
 
 *pp_01
 <evil>......

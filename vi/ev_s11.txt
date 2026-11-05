@@ -14,209 +14,209 @@
 
 
 *s11_swamp n_00
-There's a lot of small, magic-resistant monsters here...attacking them is useless.
+Có rất nhiều con dòi nhỏ lúc nhúc kháng phép ở đây ... tấn công chúng cũng vô ích thôi.
 *n_01
-They're all over the ceiling, too...I'll have to be careful to not jump into them.
+Trên trần cũng đầy rẫy chúng... mình phải cẩn thận, kẻo nhảy trúng chúng mất.
 
 *n_02
-If I need extra hang time or distance after jumping, I can <c blue>dodge in mid-air<c>.
+Nếu cần kéo dài thêm thời gian lơ lửng hoặc tăng khoảng cách sau khi nhảy, mình có thể <c blue>né tránh giữa không trung<c>.
 
 
 
 *s11_1a cane_00
-<device>SOS signal detected.
-SOS signal detected.
+<device>Phát hiện tín hiệu SOS.
+Phát hiện tín hiệu SOS.
 
 *n_01
-Wah...!
+Oa...!
 
 *cane_02
-<device>Estimated Bearing: 
+<device>Phương vị ước tính: 
 112.347 / -62.589
-Distance: 83.055
+Khoảng cách: 83.055
 *
-<device>Searching for 
-nearby magical devices...
+<device>Đang tìm kiếm 
+thiết bị ma thuật lân cận...
 ......
-Found: 1
-Transmit distress signal?
+Tìm thấy: 1
+Truyền tín hiệu cầu cứu?
 
 *n_03
-Ah, um...y-yes.
+À, ừm... v-vâng.
 
 *cane_04
-<device>Transmitting distress signal
+<device>Đang truyền tín hiệu cầu cứu
 .........
-Completed.
+Hoàn tất.
 
 *n_05
-Wow! This must be one of the "WiFu" features...
+Wow! Đây chắc hẳn là một trong những tính năng của "WiFu"...
 *
-The secondhand staff I was using until two weeks ago didn't have anything like this! I can't believe it understands and responds to my voice...
+Cây trượng cũ mình dùng cho đến hai tuần trước chẳng có thứ gì như thế này cả! Không thể tin nổi nó có thể hiểu và phản hồi giọng nói của mình...
 *n_05_2
-Umm...can you please tell me more about the distress signal.
+Ừm... có thể cho mình biết thêm về tín hiệu cầu cứu được không?
 
 *cane_06
-<device>Requesting user info...
+<device>Đang truy xuất thông tin người dùng...
 ......
-Completed.
+Hoàn tất.
 *
-<device>User affiliation: 
-Bermit Academy
-Post: Cadet Student
-Class: III
+<device>Đơn vị trực thuộc: 
+Học viện Bermit
+Chức vụ: Học viên
+Lớp: III
 
 *n_07
-That's Ixia...!
-I have to go save her quickly...!
+Là Ixia...!
+Mình phải nhanh chóng đến cứu cậu ấy...!
 
 *n_08
-The nearby device I sent the distress signal to probably belongs to that guard back home... 
+Thiết bị ở gần mà mình vừa gửi tín hiệu cầu cứu đến có lẽ thuộc về tên lính gác ở nhà...
 *
-I don't think he'll be coming...
+Mình không nghĩ anh ta sẽ đến đâu...
 
 *n_09
-I should mark the position of the distress signal on my map. Let's see, it should be right about...here...
+Mình nên đánh dấu vị trí phát tín hiệu cầu cứu trên bản đồ. Để xem nào, chắc là ở ngay... đây...
 
 *n_10
-Ixia, please be safe...!
+Ixia, cậu nhất định phải bình an nhé...!
 
 // ========================================================
 // MARK : s11_2a
 // ========================================================
 
 *s11_2a_0 i_00
-<angry><m scary><big>Noooooooo!!
+<angry><m scary><big>Khônggggggg!!
 
 *n_01
-That's Ixia's voice...! She's down there!
+Đó là giọng của Ixia...! Cậu ấy ở dưới kia!
 
 
 // 2-B 近付く
 // ヘビに巻き付かれてるイクシャ
 *s11_2a_1 noelcane_00
-<device>Distress signal source detected.
+<device>Đã phát hiện nguồn phát tín hiệu cầu cứu.
 
 *ixiacane_01
-<device>Alert: Rescue unit and medium-sized monsters detected nearby. Prepare for battle. Repeat─
+<device>Cảnh báo: Phát hiện đơn vị cứu hộ và quái vật cỡ trung ở gần. Chuẩn bị chiến đấu. Nhắc lại─
 
 *i_02
-<m scary>A-ah, no... 
-<m fadein>don't hurt me... 
+<m scary>Á-á, không...
+<m fadein>Đau quá, dừng lạiii...
 *
-<m scary>ugh... 
-<m joy>ohh...!
+<m scary>Ư...
+<m joy>Ưm...!
 
 *n_03
 <m ple>Ixia!
 
 *i_04
-Noel Cor...<m scary>Ah, no,
-<m fadein>not my nipples─
+Noel Cor...<m scary>Á, không,
+<m fadein>đừng động chạm vào núm vú của ta─
 
 *n_05
-Awawa...Hang on!
-I'm here to help!
+Awawa... Cố lên nhé!
+Tớ đến đây!
 
 
 
 
 *s11_2a_2 i_00
-<angry><m scary>Oof!
+<angry><m scary>Ư!
 
 *n_01
 Kya!
 
 *i_02
-<m fadein>Uuu...now I'll never get to be a bride...
+<m fadein>Ưuu... thế này thì tớ chẳng bao giờ có bạn đời mất...
 
 
 *n_03
-S-Stay strong!
+C-Cố lên!
 
 *i_04
-...That thing is still hiding underground! 
-Come on, Noel, we have to fight it!
+...Con quái vật đó vẫn đang ẩn dưới lòng đất!
+Nào, Noel, chúng ta phải tiêu diệt nó!
 
 *n_05
-Ixia, you're in no condition to fight! Rest up, I'll deal with the monster.
+Ixia, tình trạng của cậu không thích hợp để chiến đấu đâu! Nghỉ ngơi đi, để tớ xử lý con quái đó.
 
 *i_06
-No, I can still help! Besides, if you fight it head-on, you'll probably end up like me.
+Không, tớ vẫn có thể giúp mà! Hơn nữa, nếu cậu trực tiếp đối đầu với nó, có khi cũng sẽ kết thúc như mình đấy.
 *
-It's faster than it looks and its senses are sharp enough for it to reflect our spells. But, maybe there's a way we can trick it?
+Nó nhanh hơn vẻ ngoài và giác quan của nó đủ nhạy bén để phản lại phép thuật của chúng ta. Nhưng biết đâu chúng ta có cách đánh lừa nó thì sao?
 *
-I don't think it can tell exactly what's happening above ground while it's burrowing.
+Tớ không nghĩ nó có thể xác định chính xác những gì đang diễn ra trên mặt đất khi nó đào dưới lòng đất.
 *
-Try <c blue>placing a bomb before the monster emerges and luring it in<c>.
+Thử <c blue>đặt một quả địa lôi trước khi con quái trồi lên rồi dụ nó lao vào<c> xem.
 
 
 
 
 *s11_3a i_use_bomb
-Use a bomb!
+Dùng địa lôi!
 
 // ボム食わせ成功時
 *i_bomb_success
-Now's our chance!
+Cơ hội của chúng ta đến rồi!
 
 
 // ノエルが敗ける
 
 *i_noel_dead
-This...can't be...
+Chuyện này... không thể nào...
 
 
 
 *s11_4a n_00
-Haa..haa...
+Haa... haa...
 
 *i_01
-T-Thank you. 
-I would expect nothing less from my rival...
+C-Cảm ơn cậu.
+Đúng là đối thủ của tớ có khác...
 *n_02
-Ixia... 
-let's get you cleaned up.
+Ixia...
+để tớ giúp cậu lau sạch người nhé。
 
 
 *i_03
-You really saved me this time, Noel Cornehl.
+Lần này cậu thực sự đã cứu tớ, Noel Cornehl.
 *
-I was wrapped up so tight I couldn't even move. I didn't know what was going to happen for a moment there.
+Mình bị quấn chặt đến mức chẳng thể cử động nổi. Có một lúc tớ còn chẳng biết chuyện gì sẽ xảy ra nữa.
 
 *n_04
-How are you feeling? It must've absorbed a lot of your mana...
+Cậu thấy thế nào rồi? Chắc nó đã hấp thụ rất nhiều mana của cậu rồi á...
 
 *i_05
-Oh, don't worry about that. My mana storing abilities are second to none!
+Ôi, đừng lo chuyện đó. Khả năng tích trữ mana của tớ là số một đấy!
 *
-My body won't break down like yours did even with twice as much damage to my blood!
+Dù lượng máu trong cơ thể bị tổn hại gấp đôi thì cơ thể tớ cũng không bị suy yếu như cậu đâu!
 
 
 *n_06
-Hey, I'm not that weak...
+Này, tớ đâu có yếu đến thế...
 
 *i_07
-Yeah, I know. I shouldn't discredit you after you helped me. This is supposed to be a thank you after all...
+Ừ, tớ biết. Cậu đã giúp tớ rồi thì tớ không nên xem thường cậu mới phải. Dù sao đây cũng là lời cảm ơn mà...
 
 *i_08
-Anyway, I brought you a spell. Make good use of it!
+À phải rồi, tớ có mang cho cậu một phép thuật. Hãy sử dụng nó thật tốt nhé!
 
 
 
 
 
 *s11_5a i_00
-It's rather large and easily blocked by terrain. But, there's a function that lets you control it to compensate!
+Nó khá lớn và dễ bị địa hình cản lại. Nhưng có một chức năng cho phép điều khiển nó để khắc phục nhược điểm đó!
 
 
 *n_01
-Is it the same spell you used in the battle a moment ago?
+Đó có phải là phép thuật cậu đã dùng trong trận chiến vừa rồi không?
 *i_02
-Indeed! Its power and versatility are awe-striking! For example...
+Chính xác! Sức mạnh và tính linh hoạt của nó thật đáng kinh ngạc! Ví dụ như...
 
 
 *s11_5b_2 i_00
-See that switch hanging above the pit?
+Thấy cái công tắc treo phía trên ở trong cái hố ngược kia không?
 *
-Fire the energy ball into the opening, then use <key ta/> to redirect it upwards!
+Bắn quả cầu năng lượng giữa những khe hở, sau đó dùng <key ta/> để chuyển hướng nó lên trên!

@@ -16,145 +16,145 @@
 *___city_museum/t00 n_00
 ...?
 *ow_00
-<m scary>Welcome...
-to the Horus Museum...
+<m scary>Chào mừng...
+đến với Bảo tàng Horus...
 
 *n_01
 <angry><m pla>Hya!?
 
 *ow_01
-Admission...
+Vé vào cửa...
 *
-...is <img mesh="money_icon" width="18" />90000...
+...có giá <img mesh="money_icon" width="18" />90000...
 
 // 払う／払わない／払えない
 
 *ow_100
-I was just kidding.
-That'd be way too much for this dump.
+Tôi chỉ đùa thôi.
+Giá đó thì quá đắt đối với cái nơi tồi tàn này.
 
 // ここから分岐 払う ========================
 *ow_101
-...were seriously going to pay?
+...cô thật sự định trả tiền à?
 *
-Heh...wow. What's it like to never want for anything?
+Heh...chà. Cảm giác được sống mà chẳng bao giờ phải lo thiếu thốn là thế nào nhỉ?
 
 // 払えない ========================
 *n_102
-I think it looks okay...
+Tôi thấy nơi này trông cũng ổn mà...
 
 // 払わない ========================
 *ow_102
-I know it's obvious I was joking, but could you have at least played along a little?
+Tôi biết rõ là mình đang đùa, nhưng cô cũng có thể giả vờ hùa theo một chút được không?
 *
-Ah, forget it. The only real joke here is the museum itself.
+À, thôi bỏ đi. Trò đùa thực sự ở đây chính là cái bảo tàng này.
 
 *n_103
-Oh, um...
-I'm sorry?
+À, ừm...
+Gì cơ?
 
 // 合流 ========================
 
 
 *n_02
-Is everything okay?
-All the black smoke I saw outside made me think there was a fire...
+Ông vẫn ổn chứ?
+Lúc nãy tôi thấy khói đen bốc lên bên ngoài nên cứ tưởng có hỏa hoạn...
 
 *n_03
-<I><angry>...but it looks like
-<m ple>it's coming from that crystal ball!?
+<I><angry>...nhưng có vẻ như
+<m ple>khói lại bốc ra từ quả cầu pha lê kia!?
 
 *ow_03
-That's the centerpiece of the museum. Well, really the
-only installation...
-The "Eye of Truth".
+Đó là vật trưng bày trung tâm của bảo tàng. À, thật ra thì...
+cũng là vật trưng bày duy nhất...
+"Con Mắt Chân Lý".
 
 *ow_04
-Sigh...
+Haiz...
 *
-I was born in Grazia, 400 years ago...
+Tôi sinh ra ở Grazia, cách đây 400 năm...
 *
-I've always been too slow, too dumb, and too weak to do anything right.
+Tôi vốn luôn chậm chạp, ngốc nghếch và yếu đuối, chẳng làm được việc gì nên hồn.
 *
-Even when I was doing simple jobs for the city, I managed to screw things up.
+Ngay cả khi chỉ làm những công việc đơn giản cho thành phố, tôi cũng luôn gây ra rắc rối.
 *
-<I><angry><m scary><S3>I couldn't live like that anymore!!
+<I><angry><m scary><S3>Tôi không thể tiếp tục sống như vậy được nữa!!
 *
-So I decided to make a change and got a loan to rent a building. 
+Vì thế, tôi quyết định thay đổi cuộc đời mình và vay tiền để thuê một tòa nhà.
 *
-Sigh...and of course, I...
+Haiz...và tất nhiên, tôi...
 
 
 *n_05
-Wait...so this place really is a museum?
+Khoan đã...vậy nơi này thật sự là một bảo tàng sao?
 
 *ow_05
-Yes.
+Đúng vậy.
 *ow_06
-I mean, I'd <i>planned</i> to make it into a museum, but...
+Ý tôi là, tôi <i>đã dự định</i> biến nơi này thành bảo tàng, nhưng...
 *
-Everyone knows how useless I am.
+Ai cũng biết tôi vô dụng đến mức nào.
 *
-So nobody is willing to trust me with a work of art.
+Vì vậy, chẳng ai muốn giao cho tôi một tác phẩm nghệ thuật để trưng bày.
 *
-Except for this crystal ball...
+Ngoại trừ quả cầu pha lê này...
 
 *ow_07
-...but, now I'm thinking I was sweet-talked into buying junk.
+...nhưng giờ tôi lại nghĩ mình đã bị dụ mua phải thứ đồ bỏ đi.
 *
-The elves said it embodies the bearer's spirit or something.
+Elf đó nói rằng nó có thể là hiện thân cho linh hồn của cầm nó hay gì đó.
 *
-What a load of crap. All it does is blast out black smoke. So does a bonfire, but at least that keeps you warm.
+Toàn chuyện nhảm nhí. Nó chỉ biết phun ra khói đen. Đốt lửa trại cũng tạo ra khói, nhưng ít nhất còn giúp người ta sưởi ấm.
 *
-I can't even tell if a work of art is genuine or not. Just one more job I'm not cut out for...
+Tôi thậm chí còn chẳng phân biệt nổi một tác phẩm nghệ thuật thật hay giả. Lại thêm một công việc mà tôi không có khả năng đảm đương...
 
 *n_06
-<think>If this crystal really does embody the bearer's spirit...I'd say it's working perfectly.
+<think>Nếu quả cầu này thật sự phản chiếu linh hồn của cầm nó... thì có vẻ nó đang hoạt động rất tốt.
 
 // 話しかけ直す
 
 *___city_museum/t01 ow_00
-Sigh...I give up.
+Haiz...tôi chịu thua rồi.
 *n_01
-<think>The crystal embodies the bearer's spirit...
-I wonder what would happen if I touched it?
+<think>Quả cầu phản chiếu linh hồn của cầm nó...
+Không biết sẽ có chuyện gì nếu mình chạm vào nó nhỉ?
 
 // 持つ
 *___city_museum/t02 ow_00
-Hm? Ah.
+Hm? A.
 *
-<W1>Yeah, as you can see, all it does is put out black smoke. Still, be careful with-
+<W1>Đúng như cô thấy đấy, nó chỉ phun ra khói đen thôi. Dù vậy, hãy cẩn thận kẻo...
 
 // 明るくなる
 *___city_museum/t03 ow_01
-Huh...?
+Hả...?
 
 *n_02
-Just as I thought.
+Đúng như tôi nghĩ.
 *
-The black smoke was a reflection of all your negative thoughts.
+Khói đen chính là sự phản chiếu những suy nghĩ tiêu cực của ông đấy.
 
 *ow_02
-I see...
+Ra vậy...
 *
-Are you certain that's what it was, Miss Elf?
+Cô có chắc đó là nguyên nhân không, tiểu thư Elf?
 
 *n_03
-My name is Noel Cornehl. I'm not 100% certain, but-
+Tên tôi là Noel Cornehl. Tôi không chắc chắn hoàn toàn, nhưng...
 
 *ow_03
-A crystal ball that manifests one's thoughts...
-That could certainly be construed as a valuable work of art.
+Một quả cầu pha lê có thể hiện thực hóa suy nghĩ của con người...
+Quả thực có thể xem đó là một tác phẩm nghệ thuật quý giá.
 *
-So, were you thinking "This guy sucks. He must be the slowest talker in the world!", or something?
+Vậy lúc nãy cô đã nghĩ kiểu như "Ông này tệ thật. Chắc là người nói chậm nhất thế giới!", hay đại loại vậy sao?
 
 *n_04
-<I><m ple>Nonono! Nothing like that!
+<I><m ple>Không, không, không! Không phải vậy đâu!
 *
-I was thinking about a different beastman altogether!
+Tôi đang nghĩ đến một thú nhân khác cơ!
 
 *ow_05
-Don't worry, I'm not offended. I'm used to people feeling that way about me.
+Đừng lo, tôi không phật ý đâu. Tôi đã quen với việc người khác nghĩ như vậy về mình rồi.
 *
 Hm?
 
@@ -167,208 +167,208 @@ Hm?
 Wah!
 
 *ow_07
-That was unexpected. Is that you on the left, Miss Cornehl?
+Không ngờ lại xảy ra chuyện này. Cô gái bên trái là cô sao, cô Cornehl?
 *n_08
-Yes, and on the right is...my teacher, Miss Primula.
+Vâng, còn người bên phải là...cô giáo của tôi, cô Primula.
 
 *n_09
-<think>I was thinking about Primula when I touched the crystal. It must've captured one of my memories of her.
+<think>Lúc chạm vào quả cầu, mình đã nghĩ đến Primula. Chắc nó đã ghi lại một ký ức của mình về cô ấy.
 *ow_10
-This is...wonderful. Simply marvelous.
+Đây là...tuyệt phẩm. Thật sự tuyệt vời.
 *ow_11
-Elves are normally quite cold towards beastmen, but I can tell the two of you are very close.
+Thông thường, người Elf khá lạnh nhạt với thú nhân, nhưng tôi có thể thấy hai người rất thân thiết.
 
 *n_12
-Oh...th-thank you. It's a little embarrassing to have someone stare into my thoughts like this...
+À...c-cảm ơn ông nhé. Để người khác nhìn thấu suy nghĩ của mình thế này khiến tôi hơi xấu hổ...
 
 *ow_13
-<m scary>Ah! <W1><m>Sorry, I didn't mean to intrude!
+<m scary>Ah! <W1><m>Xin lỗi, tôi không có ý xâm phạm đâu!
 *
-But...this really is quite amazing.
+Nhưng...chuyện này quả thực rất đáng kinh ngạc.
 
 *ow_14
-If you don't mind me asking...
-Could I buy this memory from you as a work of art?
+Nếu cô không phiền...
+Liệu tôi có thể mua lại ký ức này để trưng bày như một tác phẩm nghệ thuật không?
 
 *n_13
-<m ple>W-what!?
-<m>But...how will you-
+<m ple>C-cái gì cơ!?
+<m>Nhưng...ông định làm thế nào-
 *ow_15
-I have an idea. Give me a moment.
+Tôi có ý tưởng rồi. Chờ tôi một lát.
 
 *ow_16
-Okay, that should do it.
+Được rồi, thế này chắc là ổn.
 *
-This structure will amplify the light from the crystal and focus it onto the canvas so we can capture it.
+Cấu trúc này sẽ khuếch đại ánh sáng từ quả cầu pha lê, rồi tập trung nó lên tấm vải để chúng ta có thể chụp lại hình ảnh.
 
 
 
 *___city_museum/t04 n_17
-That's incredible.
+Thật không thể tin được.
 
 *ow_17
-Here...
+Đây...
 *ow_18
-Try picturing the scene in your mind again. When you're ready, press the button to capture it.
+Hãy thử hình dung lại khung cảnh đó trong đầu. Khi nào sẵn sàng, cô chỉ cần nhấn nút để ghi lại nó.
 
 *n_18
-Okay, here goes-
+Được rồi, bắt đầu thôi-
 
 
 *n_19
-It's a proper work of art!
-<W2><small>...where did the frame come from?
+Đúng là một tác phẩm nghệ thuật!
+<W2><small>...mà khung tranh ở đâu ra vậy?
 
 *ow_20
-Hah...it really worked.
+Hah...thành công thật rồi.
 *
-I can't thank you enough for this, Miss Cornehl.
+Tôi không biết phải cảm ơn cô thế nào cho đủ, cô Cornehl.
 
 *n_21
-Oh, it was nothing. The crystal did all the work.
+À, không có gì đâu. Quả cầu mới là thứ làm nên tất cả.
 
 *ow_22
-No need to be modest. Here, a token of my appreciation.
+Đừng khiêm tốn thế. Đây, coi như chút quà cảm ơn của tôi.
 
 *n_23
-Uh, this is a lot of money.
+Ơ, số tiền này nhiều quá.
 
 *ow_24
-Don't worry, I can spare it. I'll just have to cut back on expenses a bit.
+Đừng lo, tôi có thể chi trả được. Chỉ cần cắt giảm một chút chi tiêu là ổn thôi.
 
 *n_24
-<think>I don't feel right accepting this...
-But it'd be rude to reject his kindness.
+<think>Mình không thấy thoải mái khi nhận số tiền này...
+Nhưng từ chối lòng tốt của ông ấy thì cũng bất lịch sự quá.
 
 *n_25
-W-well, I'm sure visitors will come flooding in to see this.
+C-cứ đà này, chắc chắn sẽ có rất nhiều khách kéo đến tham quan cho xem.
 
 *ow_25
-I certainly hope so.
+Tôi cũng hy vọng vậy.
 *
-Oh, and of course, as the savior of the museum, admission is free for you.
+À, tất nhiên, với tư cách là vị cứu tinh của bảo tàng, cô sẽ được vào cửa miễn phí.
 *n_26
-"S-Savior" is a bit of an
-exaggeration...but...
-if you say so...
+"V-Vị cứu tinh" nghe hơi quá lời rồi
+...nhưng...
+nếu ông đã nói vậy...
 
 // 映写機
 *___city_museum/t_camera ow_00
-We need a name for this contraption. Let's call it the "Soulopticon".
+Chúng ta cần đặt tên cho cỗ máy này. Gọi nó là "Soulopticon" đi.
 *
-I'll keep displaying it as the centerpiece of the museum.
+Tôi sẽ tiếp tục trưng bày nó ở vị trí trung tâm của bảo tàng.
 *
-I might be getting ahead of myself, but I think we'll be able to make more wonderful memories with people just like you.
+Có lẽ tôi đang quá tự tin, nhưng tôi nghĩ chúng ta sẽ còn tạo ra được nhiều ký ức tuyệt vời hơn nữa với những người giống như cô.
 *n_01
-<think>He's so positive all of the sudden. It's certainly an improvement.
+<think>Tự nhiên ông ấy trở nên lạc quan hẳn. Nhưng đúng là tốt hơn trước nhiều.
 
 *n_02
-If I use it again, do you think it will produce another image?
+Nếu tôi sử dụng nó lần nữa, liệu nó có tạo ra một bức ảnh khác không?
 
 *ow_01
-Oh, I couldn't ask you to do that, not after everything you've already done.
+Ồ, tôi không thể nhờ cô làm vậy được, sau tất cả những gì cô đã giúp đỡ tôi.
 *
-...but, if you really want to...
-Press the button and we'll see what happens.
+...nhưng nếu cô thật sự muốn thử...
+Cứ nhấn nút rồi chúng ta xem chuyện gì sẽ xảy ra nhé.
 
 
 
 // DIY
 *___city_museum/t_structure n_00
-That thing really is amazing. The way it captures and frames memories...
+Thứ đó đúng là tuyệt vời. Cách nó ghi lại và đóng khung những ký ức...
 
 *ow_00
-Ehh, it's no big deal.
+Ehh, cũng chẳng có gì to tát đâu.
 *
-I just copied the design of something I saw in a book about relics, back when I worked at a library.
+Tôi chỉ sao chép thiết kế của một món đồ mình từng thấy trong cuốn sách về di vật, hồi còn làm việc ở thư viện thôi.
 *
-In all my jobs as a tradesman, civil worker, or day laborer, I've never lasted more than 6 months...
+Trong tất cả những công việc tôi từng làm, từ thợ thủ công, nhân viên công vụ cho đến lao động thời vụ, tôi chưa bao giờ trụ nổi quá 6 tháng...
 *
-So, as someone who has only known failure until now, thank you for all your help.
+Vì vậy, với tư cách là một kẻ từ trước đến nay chỉ biết thất bại, tôi thật sự cảm ơn cô rất nhiều vì đã giúp đỡ.
 *n_01
-<think>This guy might just be the worst jack-of-all-trades.
+<think>Người này đúng là chẳng có nghề nào làm nên hồn nhỉ.
 
 // もう一度カメラを握る
 
 
 *___city_museum/t_newimage_first n_00
-<think>If I focus on a different memory, it might generate a new image.
+<think>Nếu tập trung vào một ký ức khác, có lẽ nó sẽ tạo ra một bức ảnh mới.
 *n_01
-<think><m fadein>Let's see...on the way to town, I-
+<think><m fadein>Để xem nào...trên đường đến thị trấn, mình đã...
 *
-<think><m fadein>-saved Ixia, and then...
+<think><m fadein>...cứu Ixia, rồi sau đó...
 
 
 
 *___city_museum/t_newimage ow_00
-Ohh! A new picture!
+Ồ! Một bức ảnh mới!
 *
-Please wait while I prepare it...
+Xin hãy chờ một chút trong lúc tôi chuẩn bị nhé...
 
 *ow_01
-Thank you as always for your donation.
+Cảm ơn cô như mọi khi vì đã quyên góp ký ức.
 *
-Here is your payment.
+Đây là khoản thù lao của cô.
 
 // 2階増設
 *ow_02
-The first floor is feeling a little cramped with so many exhibits.
+Tầng một đang trở nên hơi chật chội vì có quá nhiều vật trưng bày.
 *
-I'll set up another floor. Please wait a moment...
+Tôi sẽ xây thêm một tầng nữa. Xin chờ một lát...
 
 // 性的なイラストが出た
 *ow_10
 Ah!
 
 *n_11
-Um...what's wrong?
+Ừm...có chuyện gì vậy?
 
 *ow_12
-Oh, nothing...it's just that, uh...
+Ồ, không có gì...chỉ là, ừm...
 *
-How should I say this...
-That last one was of a very <i>sensitive</i> nature.
+Nói thế nào nhỉ...
+Bức ảnh vừa rồi có nội dung khá <i>nhạy cảm</i>.
 
 *n_12
 <I>...!
 
 *ow_13
-<I><m scary>But, it's okay! I covered it up immediately! Barely even saw anything!
+<I><m scary>Nhưng không sao đâu! Tôi đã che nó lại ngay lập tức! Gần như chẳng nhìn thấy gì cả!
 
 *n_14
-<m fadein>Ah...thank you...
+<m fadein>À...cảm ơn ông nhé...
 
 *ow_15
-We'll keep that one confined to the backroom. You can see it for yourself if you'd like.
+Chúng tôi sẽ giữ bức ảnh đó ở mật phòng. Nếu muốn, cô có thể tự mình đến xem.
 
 // 何も出なかった場合
 
 
 
 *___city_museum/t_noimage n_10
-...nothing happened.
+...không có chuyện gì xảy ra cả.
 
 *ow_11
-Are you donating another memory?
+Cô lại muốn quyên góp một ký ức nữa sao?
 *
-I can't thank you enough for your kindness. Here's paymen-
+Tôi thật sự không biết phải cảm ơn lòng tốt của cô thế nào. Đây là khoản thù la-
 *n_12
-<m ple>N-no, no! There's no new memory, so please keep your money.
+<m ple>K-không, không! Không có ký ức mới nào cả, ông cứ giữ tiền đi.
 *ow_13
-Oh...I see.
+Ồ...ra vậy.
 *n_14
-<think>I need to make more memories for it to capture. I'll come back after I've had more adventures.
+<think>Mình cần tạo thêm nhiều ký ức để nó có thể ghi lại. Đợi sau khi trải qua thêm vài cuộc phiêu lưu, mình sẽ quay lại.
 
 
 // ========================================================
 // MARK : けんぜんスチルを健全モードで見たとき
 // ========================================================
 *___city_museum/t_kenzen n_00
-Uuu...I can't bear to look at this one.
+Uuu...mình không dám nhìn bức này đâu.
 
 *board_not_kenzen
-SFW mode is on.
-Turn it off to view this picture.
+Chế độ An Toàn đang bật.
+Hãy tắt chế độ này để xem bức ảnh.
 
 
 
@@ -377,91 +377,91 @@ Turn it off to view this picture.
 // ========================================================
 
 *___city_museum/cm_pic_pvv010_vn n_00
-This is a memory of my sister taking a guest into "The Break Room" to provide them with a <i>special</i> service.
+Đây là ký ức về lần chị hai đưa một vị khách vào "Phòng Nghỉ Ngơi" để cung cấp dịch vụ <i>đặc biệt</i> cho người đó.
 *ow_01
-I've heard rumors about this place. Apparently you can buy all sorts of things there. Aphrodisiac apples, talismans, and the like...
+Tôi từng nghe đồn về nơi này. Hình như ở đó có thể mua đủ thứ, từ táo kích dục, bùa chú cho đến nhiều món khác...
 *
-The purple smoke coming from that room gives off a frightening aura.
+Làn khói tím bốc ra từ căn phòng ấy toát lên một luồng khí đáng sợ.
 *
-I imagine the witch takes the guest in there and does something horrible like eating them.
+Tôi đoán mụ phù thủy đưa vị khách vào đó rồi làm những chuyện kinh khủng như ăn thịt họ.
 
 *n_02
-Well, she does sometimes eat <i>something</i> of the guest's...
+Ừm, đôi khi chị ấy cũng ăn <i>một thứ gì đó</i> của khách thật...
 
 
 
 *___city_museum/cm_pic_pvv010_pn n_00
-This is a memory of Primula examining me after I came back from running an errand for my sister.
+Đây là ký ức về lần cô Primula kiểm tra cho tôi sau khi tôi trở về từ chuyến đi làm việc vặt cho chị hai.
 *ow_00
-Beastmen are supposed to labor under the elves and be subservient to them.
+Thú nhân được cho là phải lao động dưới quyền người Elf và phục tùng họ.
 *
-That ideology is meant to create a society of peace, where elves and beastment coexist.
+Hệ tư tưởng đó được tạo ra nhằm xây dựng một xã hội hòa bình, nơi người Elf và thú nhân có thể chung sống.
 *
-This causes many elves treat beastmen poorly, as if we're nothing more than tools.
+Nhưng điều này lại khiến nhiều người Elf đối xử tệ bạc với thú nhân, như thể chúng tôi chẳng khác gì công cụ.
 *
-But, here, I can clearly see the deep bond between the two of you. It is one of respect and trust.
+Thế nhưng, ở đây, tôi có thể thấy rõ mối liên kết sâu sắc giữa hai người. Đó là mối quan hệ dựa trên sự tôn trọng và tin tưởng.
 *
-In an ideal world, this is how it would be between all beastmen and elves. Living together in harmony at the foot of the great Mother Tree.
+Trong một thế giới lý tưởng, tất cả thú nhân và người Elf đều có thể đối xử với nhau như vậy. Cùng chung sống hòa thuận dưới chân Đại Thụ Mẫu.
 
 
 
 *___city_museum/cm_pic_pvv103_ixia ow_00
-This must be you bravely charging into battle against a monster. Who's the girl on the right?
+Đây hẳn là cảnh cô dũng cảm xông vào chiến đấu với quái vật. Cô gái bên phải là ai vậy?
 *n_01
-That's my friend, Ixia. She's quite strong, but she can be careless at times...
+Đó là bạn tôi, Ixia. Cậu ấy khá mạnh, nhưng đôi khi cũng hơi bất cẩn...
 *ow_02
-I see...
-Well, I get the feeling you swooped in and saved her just in the nick of time.
+Ra vậy...
+Chà, tôi có cảm giác cô đã lao đến cứu cô bé ngay vào khoảnh khắc cuối cùng.
 *
-How lucky she is to have a friend like you.
+Cô ấy thật may mắn khi có một người bạn như cô đấy.
 *n_02
-<think>I don't think I'll tell him that this moment was later than Ixia would've liked for me to arrive.
+<think>Mình nghĩ tốt hơn hết là không nói với ông ấy rằng mình đã đến muộn hơn nhiều so với mong muốn của Ixia.
 
 
 
 *___city_museum/cm_pic_pvv104_nusi ow_00
-I wasn't expecting so many images to appear at once. I grouped them together so people could see the story they tell.
+Tôi không ngờ lại có nhiều hình ảnh xuất hiện cùng lúc đến vậy. Tôi đã nhóm chúng lại để mọi người có thể nhìn ra câu chuyện mà chúng kể.
 *
-This must be the large monster everyone was talking about recently. Even in picture form, its presence is overwhelming.
+Đây hẳn là con quái vật khổng lồ mà mọi người gần đây vẫn bàn tán. Ngay cả khi chỉ nhìn qua tranh, sự hiện diện của nó vẫn thật áp đảo.
 *
-And the little elf girl it's holding captive must be...
+Còn cô bé Elf đang bị nó bắt giữ chắc hẳn là...
 *n_01
 Ixia...
-The same girl from the previous picture.
+Chính là cô gái trong bức ảnh trước.
 *ow_02
-I thought so. 
+Tôi cũng đoán vậy.
 *
-This must have been a fierce battle for both of you.
+Hẳn đó là một trận chiến khốc liệt đối với cả hai người.
 
 // 超健全以外
 *n_02
-<think>I wish the puddle reflecting my underwear had been left out. I can't say anything about it, though. It wouldn't be fair to Ixia.
+<think>Mình ước gì hình ảnh chiếc quần lót phản chiếu trên vũng nước đã bị lược bỏ. Nhưng mình không thể nói gì về chuyện đó được. Làm vậy thì không công bằng với Ixia.
 *ow_03
-Something wrong, Miss Cornehl?
+Có chuyện gì vậy, cô Cornehl?
 
 *n_03
-<m fadein>N-no, it's nothing...
+<m fadein>K-không có gì đâu...
 
 
 
 *___city_museum/cm_pic_pvv105_alma n_00
-This is a memory of when I sat next to Alma during class after being absent for a long time.
+Đây là ký ức về lần tôi ngồi cạnh Alma trong lớp sau một thời gian dài vắng mặt.
 *ow_01
-Bermit Academy students are called "Cadets". It's for training new Grazian soldiers.
+Học viên của Học viện Bermit được gọi là "Cadet". Học viện này có nhiệm vụ đào tạo binh sĩ mới cho Grazia.
 *
-Female students mostly take classes for combat. While male students mostly take ones for research and development.
+Học viên nữ chủ yếu tham gia các lớp học về chiến đấu, trong khi học viên nam phần lớn theo học những môn liên quan đến nghiên cứu và phát triển.
 *n_02
-That's right. You sure know your stuff.
+Đúng vậy. Ông am hiểu thật đấy.
 *ow_03
-I worked at Bermit for a short while.
+Tôi từng làm việc ở Bermit trong một thời gian ngắn.
 *
-I was an advisor for the Magic Handicrafts Club. One time one of the kids needed some of my feathers to make something.
+Tôi từng là cố vấn cho Câu lạc bộ Thủ Công Ma Thuật. Có lần, một học viên cần vài chiếc lông của tôi để chế tạo thứ gì đó.
 *
-But, they ended up plucking a few too many from a rather sensitive area.
+Nhưng cuối cùng, họ lại nhổ hơi quá nhiều lông ở một chỗ khá nhạy cảm.
 *
-The sound of all those kids laughing burned into my brain. I had to quit the next day.
+Tiếng cười của đám học viên ấy đã in sâu vào tâm trí tôi. Ngày hôm sau, tôi phải nghỉ việc.
 *n_04
-How awful...
+Thật quá đáng mà...
 
 
 // ========================================================
@@ -470,21 +470,21 @@ How awful...
 
 
 *___city_museum/cm_pic_dojo_intro n_00
-This is...from the time I visited the dojo here in Grazia.
+Đây là...ký ức về lần tôi ghé thăm võ đường ở Grazia.
 
 *ow_01
-I was originally going to put this one in the backroom...
+Ban đầu tôi định đưa bức này vào phòng phía sau...
 *
-But then I got a scathing letter from the assistant instructor saying, "<m scary><c black>There's nothing shameful about our sacred uniforms!<c><m>"
+Nhưng sau đó, tôi nhận được một lá thư chỉ trích gay gắt từ trợ giảng, trong đó viết rằng: "<m scary><c black>Chẳng có gì đáng xấu hổ về bộ đồng phục thiêng liêng của chúng tôi cả!<c><m>"
 *
-So I re-evaluated it, and upon a second viewing, I could feel the tension and dedication of a pupil going through training.
+Vì vậy, tôi đã đánh giá lại bức ảnh. Khi xem xét lần thứ hai, tôi có thể cảm nhận được sự căng thẳng và lòng tận tụy của một học trò đang trải qua quá trình huấn luyện.
 *
-...almost even smell the sweat. And the martial arts are an art form themselves, so...
+...thậm chí gần như có thể ngửi thấy mùi mồ hôi. Hơn nữa, võ thuật cũng là một loại hình nghệ thuật, nên...
 *
-This one gives us two perspectives on the wavering resolve of a young elf.
+Bức ảnh này cho chúng ta thấy hai góc nhìn về quyết tâm còn lung lay của một cô Elf trẻ tuổi.
 
 *n_02
-I think we could do without the second perspective...
+Tôi nghĩ chúng ta có thể bỏ qua góc nhìn thứ hai...
 
 
 // ========================================================
@@ -492,38 +492,38 @@ I think we could do without the second perspective...
 // ========================================================
 
 *___city_museum/cm_pic_scl_garage n_00
-This is from when I helped Tigrina set up her holograms for simulated combat.
+Đây là cảnh tôi giúp Tigrina lắp đặt các ảnh chiếu ba chiều để mô phỏng chiến đấu.
 
 *ow_01
-If I’m not mistaken, that technology is still top secret.
+Nếu tôi không nhầm thì công nghệ đó vẫn còn là bí mật tuyệt đối.
 
 *ow_02
-Though it's not evident that's what you were doing from these pictures...
+Dù vậy, nhìn những bức ảnh này thì cũng khó nhận ra hai người đang làm việc đó...
 
 *n_03
-Does that mean we can keep this one on display?
+Vậy nghĩa là chúng ta có thể tiếp tục trưng bày bức ảnh này sao?
 
 *ow_04
-Yes, as long as your friend has an engineering license for the adjustments she’s making to your staff.
+Đúng vậy, miễn là bạn của cô có giấy phép kỹ thuật cho những điều chỉnh mà cô ấy thực hiện trên trượng của cô.
 
 *n_05
-She does!
-<W4><small>I think…</small>
+Có mà!
+<W4><small>Mình nghĩ vậy...</small>
 
 *ow_06
-It reminds me of when beastmen first descended the mountain and met the “Weavers”, the elves of the forest.
+Nó khiến tôi nhớ đến thời điểm thú nhân lần đầu xuống núi và gặp gỡ những "Thợ dệt", tức người Elf sống trong rừng.
 *
-They were so taken with the elves' magical abilities that they put forth all their wisdom into creating a device that anyone could use to cast spells.
+Họ bị mê hoặc bởi năng lực ma thuật của người Elf đến mức đã dốc hết trí tuệ để tạo ra một thiết bị mà bất kỳ ai cũng có thể sử dụng để thi triển phép thuật.
 *
-–and that device became a bridge between the two species...
-staves.
+–và thiết bị ấy đã trở thành cầu nối giữa hai chủng tộc...
+những cây trượng.
 *
-This technology is taken for granted these days, especially by elves. But, the hard work that went into their creation can still be felt.
+Ngày nay, công nghệ này đã trở nên quá đỗi bình thường, đặc biệt là với người Elf. Nhưng tôi vẫn có thể cảm nhận được công sức mà người ta đã bỏ ra để tạo nên chúng.
 *
-I find this one quite moving. There's history in it, even if you have to squint a bit to see it.
+Tôi thấy bức ảnh này rất xúc động. Nó chứa đựng cả một câu chuyện lịch sử, dù phải nhìn thật kỹ mới nhận ra.
 
 *n_07
-<think>...Great Mother Tree, I pray the modifications we made don’t get this one taken down...
+<think>...Đại Thụ Mẫu ơi, mong rằng những cải tiến mà chúng ta thực hiện sẽ không khiến bức ảnh này bị gỡ xuống...
 
 
 
@@ -533,52 +533,52 @@ I find this one quite moving. There's history in it, even if you have to squint 
 // ========================================================
 
 *___city_museum/cm_pic_td n_00
-This is Tigrina helping us defend Grazia with her cannons.
+Đây là cảnh Tigrina giúp chúng tôi bảo vệ Grazia bằng những khẩu pháo của cô ấy.
 
 *ow_01
-Things got a bit hectic there for a moment.
+Lúc đó tình hình có hơi hỗn loạn một chút.
 *
-Especially since this place is so close to the barrier.
+Nhất là khi nơi này lại nằm gần kết giới đến vậy.
 
 *n_02
-Oh, that's right...
-Did any monsters attack the museum?
+À, phải rồi...
+Có con quái vật nào tấn công bảo tàng không?
 
 *ow_03
-No, thanks to the preventative measures I took.
+Không, nhờ những biện pháp phòng ngừa mà tôi đã thực hiện.
 *
-It didn't feel right abandoning the museum when the evacuation notice was given.
+Tôi cảm thấy không đành lòng nếu bỏ mặc bảo tàng khi có thông báo sơ tán.
 *
-I knew I had to stay and protect my life's work.
+Tôi biết mình phải ở lại bảo vệ thành quả cả đời mình.
 *
-I figured if the crystal ball saved this place once, maybe it could do it again.
+Tôi nghĩ nếu quả cầu pha lê từng cứu được nơi này một lần, biết đâu nó có thể làm được điều đó lần nữa.
 
 *n_04
-You used the crystal?
+Ông đã sử dụng quả cầu sao?
 *
-But, the first time you did that...
+Nhưng lần đầu tiên ông làm vậy...
 
 *ow_05
-Yep.
+Đúng thế.
 *
-Except this time, I actually wanted it to fill the museum with black smoke.
+Chỉ khác là lần này, tôi thực sự muốn nó khiến bảo tàng chìm trong khói đen.
 *
-The monsters would assume the museum was already under attack and move on to other targets.
+Lũ quái vật sẽ nghĩ rằng bảo tàng đã bị tấn công và chuyển sang nhắm vào những mục tiêu khác.
 *
-A literal smokescreen.
+Một màn khói đúng nghĩa.
 
 *n_06
-Did it work?
+Có hiệu quả không?
 
 *ow_07
-A little too well, actually.
+Thật ra là hiệu quả hơi quá mức.
 *
-The fire department showed up and broke down the door.
+Đội cứu hỏa đã kéo đến và phá cửa xông vào.
 *
-It was nice of them to just give me a talking to instead of a fine.
+May mà họ chỉ nhắc nhở tôi một trận chứ không phạt tiền.
 
 *n_08
-...well, at least you weren't injured.
+...ít nhất thì ông cũng không bị thương là được rồi.
 
 
 // ========================================================
@@ -586,39 +586,39 @@ It was nice of them to just give me a talking to instead of a fine.
 // ========================================================
 
 *___city_museum/pic_200s n_00
-This one is from the time my sister saved me.
+Bức ảnh này là từ lần chị hai cứu tôi.
 
 *ow_01
-Must have happened a while ago. Look how small you are.
+Chắc chuyện này xảy ra lâu lắm rồi. Nhìn cô bé nhỏ xíu này xem.
 
 *n_02
-Do you have any memories from when you were little?
+Ông có ký ức nào về thời thơ ấu của mình không?
 
 *ow_03
-Well, I was never truly little, but...
+À, tôi chưa bao giờ thực sự là một đứa trẻ, nhưng...
 *
-I do remember my earliest reincarnations when I was part of the mountain expedition team.
+Tôi vẫn nhớ những kiếp tái sinh đầu tiên của mình, khi còn là thành viên trong đội thám hiểm núi.
 *
-Ahh...that was so long ago.
+Ahh...đã lâu lắm rồi.
 *
-I’d always bumble my way into dangerous situations.
+Lúc nào tôi cũng vô tình lâm vào những tình huống nguy hiểm.
 *
-Like the times I’d step on a mana plant and get mauled by monsters.
+Chẳng hạn như giẫm phải Cây Mana rồi bị quái vật tấn công.
 *
-Or when my safety lines would break on the mountainside and I’d fall for minutes before hitting the ground.
+Hoặc dây an toàn bị đứt khi tôi đang ở sườn núi, khiến tôi rơi tự do suốt mấy phút trước khi chạm đất.
 *
-And the countless mana poisonings I got from eating improperly sealed food.
+Hay vô số lần bị ngộ độc mana vì ăn phải thức ăn không được bảo quản đúng cách.
 
 *n_04
-...I guess it’s a good thing you’re a beastman.
+...Tôi đoán làm thú nhân cũng có cái lợi nhỉ.
 
 *ow_05
-My teammates started a betting pool on how long I would last each time I came back. They seemed to have fun with it.
+Đồng đội tôi thậm chí còn lập cả một nhóm cá cược xem mỗi lần tôi tái sinh thì sẽ sống được bao lâu. Có vẻ họ thấy chuyện đó rất vui.
 *
-I was just happy to offer them some form of stress-relief.
+Tôi chỉ thấy vui vì có thể giúp họ giải tỏa căng thẳng theo một cách nào đó.
 
 *n_06
-<think><m fadein>If we put his memories on display, I think they’d be stress-causers...
+<think><m fadein>Nếu đem ký ức của ông ấy ra trưng bày, chắc chúng sẽ khiến người xem căng thẳng hơn mất...
 
 
 // このテキストは029では正攻法では表示できません。
@@ -628,19 +628,19 @@ I was just happy to offer them some form of stress-relief.
 <W4>Alice......
 
 *n_01
-Mr. Curator?
-What’s wrong?
+Ngài Giám Tuyển?
+Ông bị sao vậy?
 
 *ow_02
-<s2>Oh, nothing...
+<s2>Ồ, không có gì...
 
 *ow_03
-Seeing this just reminded me of an old colleague.
+Chỉ là bức ảnh này khiến tôi nhớ đến một đồng nghiệp cũ.
 
 *ow_04
-<font size="0">I wonder if their research ever came to fruition...</font>
+<font size="0>Không biết nghiên cứu của họ cuối cùng có thành công không nhỉ...</font>
 
 *ow_05
-I can’t really explain why this memory of yours is triggering my own.
+Tôi cũng không thể giải thích tại sao ký ức này của cô lại khơi gợi ký ức của chính tôi.
 *
-Almost as if they're connected...
+Cứ như thể chúng có liên hệ với nhau vậy...

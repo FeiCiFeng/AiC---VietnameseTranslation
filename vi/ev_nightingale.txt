@@ -10,118 +10,118 @@
 // ========================================================
 // MARK : t01
 // ========================================================
- 
+
 *___Nightingale/t01 t_00
-Whoa, that's an Elf Village healer uniform!
+Ồ, đây là đồng phục trị liệu sư của Làng Elf ư!
 
 *n_00 
-Ah, i-it's...um...
+À, ừ-ừm...
 
 *t_01
-Hmm, but it's an old model. Kinda like the ones buried in the back of the closet at my parents' place.
+Hmm, nhưng đây có vẻ là mẫu cũ rồi. Trông giống bộ đồ bị chôn ở tận góc tủ nhà bố mẹ tôi ấy.
 *
-What gives? You don't look old enough to be wearing something like that...
+Mà này, em trông đâu có lớn tuổi đến mức phải mặc kiểu này nhỉ...
 
 *n_01 
-I'm a cadet at Bermit Academy. I'm just borrowing this outfit for a bit.
+Em là học viên của Học viện Bermit. Em chỉ mượn bộ trang phục này mặc tạm một chút thôi.
 
 *t_02
-Oh, I see. That can only mean one thing... 
+Ồ, ra vậy. Thế thì chỉ có thể là một chuyện...
 
 *t_03
-<m joy>You're cosplaying!</m>
-<W2><m ples>Oh man, that really brings out my inner prince's desire to protect you!
+<m joy>Em gái đây đang cosplay!</m>
+<W2><m ples>Ôi trời, bộ đồ này khơi dậy bản năng hoàng tử muốn bảo vệ người khác trong tôi mất rồi!
 
 
 
 *t_04
-<m fadein><W2 />Princess, if you walk around here, your shoes will get dirty...!
+<m fadein><W2 />Công chúa, nếu người cứ đi lại quanh đây thì giày của em sẽ bị bẩn mất...!
 
 
 *n_02
-<think>What is this...a mini drama?
+<think>Gì đây ạ... một vở kịch ngắn à?
 
 *t_05
-Oh, but princess, this is a dangerous area where monsters roam wild.
+Nhưng thưa công chúa, đây là khu vực nguy hiểm, nơi quái vật hoành hành.
 *
-Are you by any chance good with magic?
+Không biết công chúa có giỏi phép thuật không nhỉ?
 
 *n_04
 <normal>
-Um...w-well, I think I'm doing rather well at sc- 
+Ừm...E-Em nghĩ mình cũng khá giỏi trong việc- 
 <W2><m scary>KYAA!?
 
 
 *t_06
-<W1><m fadein>Hmm~ There's no doubt. Your boobs, biceps, and thighs...
+<W1><m fadein>Hmm~ Không thể nhầm được. Ngực, bắp tay và đùi của em...
 
 *
-<m fadein>I can feel the mana welling under your skin! Right here... *squish* *squish*
+<m fadein>Tôi có thể cảm nhận mana đang tuôn trào bên dưới làn da của em! Ngay đây này... *bóp* *bóp*
 
 *n_05
-<angry><m ple>Please stop groping me!
+<angry><m ple>Làm ơn đừng sờ mó em nữa mà!
 
 *t_07
-<W2>Oops, excuse me, princess. My inner prince's desires took control of my hands there for a moment.
+<W2>Ôi, xin lỗi thưa công chúa. Bản năng hoàng tử trong tôi vừa mất kiểm soát đôi tay một chút.
 
 *n_06
-<normal>Y-you are a female elf...aren't you?
+<normal>C-Chị là nữ Elf... đúng không?
 
 *t_08
-I am just a wandering...peddler.
+Tôi chỉ là một... người bán hàng rong đang chu du khắp nơi thôi.
 
 *
-As an apology, allow me to offer you a discount on the items I've collected throughout my travels.
+Để tạ lỗi, xin hãy nhận ưu đãi giảm giá cho những món hàng tôi thu thập được trong các chuyến hành trình.
 
 
 *n_09
-<m fadein>Huh...
+<m fadein>Hả...
 
 *t_09
-<m joy>With that said...!
+<m joy>Nói đến đây thì...!
 *
-Your cute ally on your perilous journey, <m ple>Nightingale's Whimsical Roadside Shop, is open for business~!
+Người sẽ đồng hành đáng yêu trên hành trình đầy hiểm nguy của em đây, <m ple>Cửa Hàng Ven Đường Kỳ Diệu Của Nightingale, xin được khai trương hôm nay~!
 
 
 // ========================================================
 // MARK : t_talk00
 // ========================================================
 *___Nightingale/t_talk00 n_00
-So, your name is Nightingale?
+Vậy tên chị là Nightingale à?
 
 *___Nightingale/t_talk00 t_00
-Yup! Isn't it cool? It's not my real name, though.
+Đúng vậy! Nghe hay đúng không? Nhưng đó không phải tên thật của tôi đâu nhé.
 
 *___Nightingale/t_talk00 t_00b
-A long time ago, I found a book on mythology while up in the mountains. I named myself after one of the goddesses in it!
+Từ lâu lắm rồi, khi đang ở trên núi, tôi tìm thấy một cuốn sách thần thoại. Tôi đã lấy tên một nữ thần trong đó để đặt cho mình!
 
 *___Nightingale/t_talk00 n_01
-A goddess?
+Một nữ thần sao?
 
 *___Nightingale/t_talk00 t_01
-Yup! She's really cool! Even in the middle of a fierce battle between the gods, she stayed true to her beliefs!
+Đúng vậy! Cô ấy tuyệt vời lắm! Ngay cả giữa trận chiến khốc liệt giữa các vị thần, cô ấy vẫn kiên định với niềm tin của mình!
 *
-She healed the injured gods with her power of compassion, whether they were allies or enemies!
+Cô ấy dùng sức mạnh của lòng trắc ẩn để chữa trị cho những vị thần bị thương, bất kể họ là đồng minh hay kẻ thù!
 *
-Ever since then, she became known as 'The White Angel'! What a name to be praised by!
+Kể từ đó, cô ấy được biết đến với cái tên 'Thiên Thần Trắng'! Thật là một danh hiệu đáng ngưỡng mộ!
 
 
 *___Nightingale/t_talk00 t_02
-I want to be just like her...someone who can show love and compassion to everyone, even their enemies.
+Tôi muốn trở thành người giống như cô ấy... một người có thể dành tình yêu thương và lòng trắc ẩn cho tất cả mọi người, kể cả kẻ thù của mình.
 
 *___Nightingale/t_talk00 n_02
-Nightingale...do you have any enemies?
+Nightingale...Chị có kẻ thù nào không?
 
 *___Nightingale/t_talk00 t_03
-Hmm, I guess...maybe someone who doesn't pay for their stuff?
+Hmm, để xem... có lẽ là những kẻ không chịu trả tiền mua hàng chăng?
 
 *___Nightingale/t_talk00 t_04
-...Now that I think about it, loving everyone in the world is probably impossible~ 
+...Giờ nghĩ lại thì, yêu thương tất cả mọi người trên thế giới này có lẽ là điều bất khả thi~ 
 *
-Speaking as an elf, it's important to draw a clear line between insiders and outsiders.
+Với tư cách là một Elf, việc phân biệt rõ ràng giữa người trong tộc và người ngoài tộc rất quan trọng.
 
 *___Nightingale/t_talk00 n_03
-<think>She's a straightforward one...
+<think>Chị ấy đúng là người thẳng thắn...
 
 
 
@@ -130,26 +130,26 @@ Speaking as an elf, it's important to draw a clear line between insiders and out
 // ========================================================
 
 *___Nightingale/t_talk01 n_00
-Nightingale, do you have a stationary shop set up somewhere?
+Nightingale, chị có cửa hàng cố định ở đâu không?
 
 
 *t_00
-Nah, I only have myself. Just call for my help and I'll deliver to you!
+Cố định á, nhàm chán lắm. Tôi chỉ có mỗi bản thân mình thôi. Cứ gọi tôi đến giúp là tôi sẽ giao hàng tận nơi!
 *
-Trekking through the wilderness and over the mountains with my endless love!
+Tôi rong ruổi khắp vùng hoang dã và vượt qua những ngọn núi bằng tình yêu bất tận của mình!
 
 *n_01
-That sounds pretty cool...
+Nghe cũng tuyệt thật đấy...
 *n_02
-But sometimes I get the urge to shop and it's difficult to find you, which is a hassle.
+Nhưng đôi khi em muốn mua sắm một chút mà lại khó tìm được chị, cảm giác khá bất tiện.
 
 *t_01
-Ahh, well, yeah...I am just a cute little girl. I can't be everywhere at once.
+À, ừ thì...tôi cũng chỉ là một cô bé đáng yêu thôi mà. Đâu thể có mặt ở khắp mọi nơi cùng lúc được.
 
 *t_02
-I pretty much go to wherever I sense someone might be around. 
+Tôi thường đi đến những nơi mà mình cảm nhận được có người ở gần.
 *
-I'm sure if you kill some time by waiting at a bench, there's a good chance I'll show up!
+Tôi nghĩ nếu em giết thời gian bằng cách ngồi chờ trên ghế băng thì khả năng cao tôi sẽ xuất hiện đấy!
 
 
 
@@ -157,142 +157,142 @@ I'm sure if you kill some time by waiting at a bench, there's a good chance I'll
 // MARK : t_talk02
 // ========================================================
 *___Nightingale/t_talk02 n_00
-My family runs an alchemy workshop on the outskirts of the forest.
+Gia đình em điều hành một xưởng giả kim ở vùng ven rừng.
 
 *t_00
-Ahh I know that place! So, you're one of the Cornehl's, princess?
+À, tôi biết nơi đó! Vậy em đây là tiểu thư nhà Cornehl sao, công chúa?
 
 *n_01
-Yes. We get a lot of patrons and there aren't many monsters nearby. I think it might be a good place for you to make some money.
+Vâng. Nơi đó có khá nhiều khách hàng và cũng không có nhiều quái vật ở gần. Em nghĩ đó sẽ là một nơi tốt để cô kiếm tiền.
 
 *t_01
-...Hmm~ I appreciate the offer, but...y'know~
+...Hmm~ Tôi rất cảm kích lời đề nghị của em, nhưng...em biết đấy~
 
 
 *n_02
-Did you have a bad experience there before?
+Trước đây chị từng có trải nghiệm không vui ở đó sao?
 
 *t_02
-Ahh, no, it's just that...the guards dispatched there are from the village.
+À, không phải, chỉ là... những người lính canh được điều đến đó đều là người của Làng Elf.
 *
-And well, my family has kind of reported me as being "missing"...
+Với cả, gia đình tôi đã báo cáo rằng tôi đang "mất tích"...
 
 
 *n_03
-...You ran away from home?
+...Hử, chị bỏ nhà đi à?
 
 *t_03
-Yeah, but I've got a good reason! It's just...complicated. Anyway, I don't want those guards catching me wandering around there.
+Đúng vậy đó tiểu thư, nhưng tôi có lý do chính đáng! Chỉ là... chuyện hơi phức tạp. Dù sao thì tôi cũng không muốn bị đám lính canh đó bắt gặp khi đang đi lại quanh đó.
 
 
 *n_04
-<think>Is she a wanted person? Maybe that's why she hasn't settled in one place...
+<think>Chị ấy là người bị truy nã sao? Có lẽ đó là lý do chị ấy không chịu định cư ở một nơi...
 
 // ========================================================
 // MARK : t_talk_hpred
 // ========================================================
 *___Nightingale/t_talk_hpred t_00
-Wah, princess, you're all torn up. Are you alright?
+Ôi, công chúa, người nàng đầy thương tích rồi. Nàng ổn chứ?
 
 *n_00
-<m fadein>I-I'm alright...I think I can still fight.
+<m fadein>E-Em ổn...em nghĩ mình vẫn có thể chiến đấu.
 
 *t_01
-If someone's really alright, they'd respond to that question with "Why do you ask?". 
+Nếu thực sự ổn thì đáng lẽ em phải hỏi lại tôi "Sao chị lại hỏi vậy?" mới đúng chứ.
 
 *t_02
-Don't push yourself so hard! Now, c'mere and let big sis give you a hug!
+Đừng cố quá sức nhé! Nào, lại đây để chị ôm một cái nào!
 
 *n_01
-...if you could sell me something that would help me recover, I think that would be enough.
+...Nếu chị có thể bán cho em thứ gì đó giúp hồi phục thì như vậy là đủ rồi.
 
 *t_03
-Sure thing! 
-<W3><m ple>...Wait, you don't want my hug?! Ehh?!
+Được thôi!
+<W3><m ple>...Mà khoan, em không muốn được tôi ôm sao?! Ơ kìa?!
 
 
 // ========================================================
 // MARK : t_store_debug
 // ========================================================
 *___Nightingale/t_store_debug t_00
-お店のテストはじまり
+Bắt đầu kiểm tra cửa hàng
 
 *t_01
-お店のテストおわり！
+Kết thúc kiểm tra cửa hàng!
 
 
 // ========================================================
 // MARK : t_talk_nusi
 // ========================================================
 *___Nightingale/t_talk_nusi n_00
-Is it true that large monsters have been showing up more frequently in this area?
+Có thật là gần đây quái vật cỡ lớn xuất hiện ở khu vực này thường xuyên hơn không?
 
 *t_01
-<I><m scary>Nope! <m>None! There's definitely nothing like that going on!
+<I><m scary>Không có đâu! <m>Chẳng có con nào cả! Chắc chắn không có chuyện như vậy đâu!
 
 *n_02
-But, the guard said there are eyewitness reports...
+Nhưng lính canh nói với em rằng đã có người tận mắt chứng kiến...
 
 *t_03
-<I><m ple>If word gets out that those dangerous things are swarming all over the place, my business will be doomed!
+<I><m ple>Nếu tin đồn rằng những thứ nguy hiểm đó đang tràn lan khắp nơi bị lan truyền, việc kinh doanh của tôi sẽ tiêu tùng mất!
 *t_04
-<m ple>People pass through this forest on their way between the city and the village, so for me it's a nice marketplace with a lot of customers!
+<m ple>Mọi người đi qua khu rừng này trên đường giữa thành phố và ngôi làng, nên đây là một khu chợ rất tốt với lượng khách hàng đông đảo!
 
 *n_05
-I think my friend might have been captured by the monsters. If you have any info, would you please tell me?
+Em nghĩ bạn em có thể đã bị quái vật bắt giữ. Nếu chị có thông tin gì, làm ơn nói cho em với nhé?
 
 *t_06
-<m joy>...Don't look at me like that~.
+<m joy>...Thôi mà, đừng nhìn tôi như thế mà~.
 *t_07
-The thought of the princess and her friend crying while in mortal danger is enough to give me nightmares...but I guess I have no choice.
+Nghĩ đến cảnh công chúa và bạn mình khóc lóc trong lúc gặp nguy hiểm đến tính mạng thôi cũng đủ khiến tôi gặp ác mộng rồi... nhưng xem ra tôi chẳng còn lựa chọn nào khác.
 
 *t_07b
-Okay, there's a massive cave-in near the drawbridge en route to the city...
+Được rồi, có một vụ sạt lở đất đá rất lớn gần cầu nâng trên đường đến thành phố...
 *
-Reported sightings of the large monster are spotty and disjointed, but I'm thinking that's probably its work.
+Những báo cáo về việc nhìn thấy con quái vật khổng lồ khá rời rạc và không xâu chuỗi, nhưng tôi nghĩ có lẽ chính nó đã gây ra chuyện đó.
 
 *n_08
-An intelligent monster?
+Một con quái vật có trí thông minh sao?
 *t_09
-Sounds unreal, right? The scholars in the village think
-<i>"monsters are primitive organisms, with no capacity for intelligence"</i>,
+Nghe khó tin đúng không? Các học giả trong làng cho rằng
+<i>"quái vật là những sinh vật nguyên thủy, không có khả năng tư duy"</i>,
 *
-but I disagree.
-I saw them work systematically to protect the mana plants.
+nhưng tôi không đồng ý.
+Tôi từng thấy chúng phối hợp có hệ thống để bảo vệ các Cây Mana.
 *
-It's very possible that they sense the danger of being outnumbered by an army of elves and are hiding to wait out the storm.
+Rất có thể chúng cảm nhận được nguy cơ bị áp đảo về quân số bởi đội quân Elf và đang ẩn náu để chờ mọi chuyện lắng xuống.
 
 *n_10
-Then, what if Ixia...my friend was captured?
+Vậy nếu Ixia...bạn của em bị bắt thì sao?
 
 *t_11
-...She might be kept alive as a hostage.
+...Có thể cô ấy đang bị giữ lại làm con tin.
 
 *n_12
-...I have to go save her.
+...Em phải đi cứu cậu ấy ngay đây.
 *t_13
-<m ple>W-Wait! Judging by the scale of the cave-in, the monster is really big and powerful!
+<m ple>K-Khoan đã! Xét theo quy mô của vụ sạt lở, con quái vật đó hẳn phải rất to lớn và mạnh mẽ!
 *t_14
-I probably shouldn't mention this, but worst-case scenario if you lose to that thing and the elven forces arrived late...
+Có lẽ tôi không nên nói điều này, nhưng trong trường hợp xấu nhất, nếu em thua con quái vật đó và lực lượng Elf đến muộn...
 *
-...at that point, saving just two cadets won't be the first thing on their minds...
+...thì lúc ấy, cứu hai học viên thôi sẽ không phải ưu tiên hàng đầu của bọn họ đâu...
 
 *n_15
-They would prioritize the extermination of the large monster over saving our lives...to protect the city?
+Họ sẽ ưu tiên tiêu diệt con quái vật khổng lồ thay vì cứu mạng tụi em... để bảo vệ thành phố sao?
 
 *t_16
-I'm just saying it's a possibility! I might be biased since I don't trust people from the village, but still, just in case!
+Tôi chỉ nói đó là một khả năng thôi! Có thể tôi hơi thiên vị vì không tin tưởng người của Làng Elf, nhưng cứ đề phòng vẫn hơn!
 *
-So, princess,
-make sure you are prepared for anything!
+Vậy nên, công chúa,
+hãy đảm bảo nàng đã chuẩn bị sẵn sàng cho mọi tình huống!
 *t_17
-<m joy>If you purchase from Nightingale's Whimsical Shop now, I can offer you great items for 0% off the price!
+<m joy>Nếu mua hàng tại Cửa Hàng Kỳ Diệu Của Nightingale ngay bây giờ, tôi có thể tặng em những món đồ tuyệt vời với mức giảm giá 0%!
 
 *n_18
-Y-You're not giving a discount...?
+C-Chị đâu có giảm giá...?
 
 *t_19
-It's one thing to make a sale, it's another thing to make a profit!
+Bán được hàng là một chuyện, kiếm được lợi nhuận lại là chuyện khác!
 
 
 // ========================================================
@@ -300,48 +300,48 @@ It's one thing to make a sale, it's another thing to make a profit!
 // ========================================================
 
 *___Nightingale/quest00 t_00
-Hey, Princess, you live at that store on the hill with the little seductress, don’tcha?
+Này, công chúa, nàng sống ở cửa hàng trên đồi cùng cô nàng quyến rũ nhỏ nhắn kia phải không?
 
 *n_00
-<think>She's probably talking about my sister...
+<think>Chắc cô ấy đang nói đến chị mình...
 *n_01
-Yes, with my sister, Laevi. I help gather materials for her.
+Đúng vậy, em sống cùng chị Laevi. Em giúp chị ấy thu thập nguyên liệu.
 
 *t_01
-Lemme ask you something.
-Is it true you sell <c pink>special apples</c> that can’t be found anywhere else?
+Để tôi hỏi em một chuyện.
+Có thật là em bán <c pink>loại táo đặc biệt</c> mà không thể tìm thấy ở bất cứ nơi nào khác không?
 
 *n_02
-You mean the ones we grow in our backyard?
-Those are...
+Ý chị là loại táo mà nhà em trồng ở sân sau sao?
+Chúng là...
 *
-<m joy>“Laevi’s Luxury Brand Apples~! Sink your teeth into something extraordinary!”</m>
+<m joy>“Táo Thương Hiệu Cao Cấp Của Laevi~! Hãy cắn thử một miếng và tận hưởng điều phi thường!”</m>
 *
-She uses all kinds of alchemical ingredients to grow them.
+Chị ấy sử dụng đủ loại nguyên liệu giả kim để trồng chúng.
 
 *t_03 
 <m fadein>Hmm~<W3>
-How very interesting...
+Thú vị thật đấy...
 // 興味津々を隠そうとする顔で
 
 *n_04
-If you want them wholesale, please speak with my sister.
+Nếu chị muốn mua số lượng lớn thì hãy nói chuyện với chị em nhé.
 
 *t_05
-Oh, I’m not looking to make a business proposal, my interest is purely for personal reasons.
+Ồ, tôi không định đưa ra đề nghị hợp tác kinh doanh đâu, tôi chỉ quan tâm vì lý do cá nhân thôi.
 *
-I’ve been hearing rumors here and there about how good they are and thought I might like to try one.
+Tôi đã nghe được vài lời đồn về hương vị tuyệt vời của chúng nên muốn nếm thử một quả.
 
 *n_06
-Then why not go buy one yourself?
+Vậy sao chị không tự đến mua một quả?
 
 *t_07
-Because, like I told you earlier, I’m trying to keep a low profile.
+Bởi vì, như tôi đã nói lúc nãy, tôi đang cố gắng giữ kín tung tích.
 *
-Guess I'll just have to wait for my princess in shining armor to sell me some. But what are the odds of that happening?
+Xem ra tôi chỉ còn cách nhờ nàng công chúa trong bộ giáp sáng ngời mang táo đến cho mình thôi. Nhưng khả năng đó là bao nhiêu chứ?
 
 *n_08
-<think>I wouldn’t mind getting them for her if she’d just ask me directly. But I guess I'd be embarrassed by such a strange request too.
+<think>Mình cũng chẳng ngại mua giúp chị ấy nếu chị ấy chịu hỏi thẳng. Nhưng nghĩ lại thì, một lời nhờ vả kỳ lạ như vậy cũng khiến mình ngại thật.
 
 
 // ================================
@@ -349,20 +349,20 @@ Guess I'll just have to wait for my princess in shining armor to sell me some. B
 // ================================
 
 *___Nightingale/quest00_1 t_08
-Is...is this the apple they sell at Princess’ grocery store?
-Can I really have it?
+Đ-Đây là quả táo bán ở cửa hàng của công chúa sao?
+Tôi thực sự có thể nhận nó à?
 
 *n_09
-My sister says...
+Chị em nói rằng...
 *
-<m joy>”No matter how prim, stern, or experienced you are, this supreme food will reduce even the mightiest of warriors into a hot, wet, sticky mess~”</m>
+<m joy>”Dù cô có đoan trang, nghiêm nghị hay dày dạn kinh nghiệm đến đâu, món ăn thượng hạng này cũng sẽ khiến chiến binh hùng mạnh nhất phải trở nên nóng bừng, ướt át và dính nhớp~”</m>
 *
-So please...be careful with it.
+Vậy nên... hãy cẩn thận khi ăn nó nhé.
 
 *t_10
-Of course!
-Don’t worry, it’s just for <i><c pink>personal use</c></i>.
-Here, this is for you, as thanks!
+Tất nhiên rồi!
+Đừng lo, tôi chỉ dùng nó cho <i><c pink>mục đích cá nhân</c></i> thôi mà.
+Đây, tôi có món này tặng nàng coi như lời cảm ơn!
 
 
 // ================================
@@ -370,43 +370,43 @@ Here, this is for you, as thanks!
 // ================================
 
 *___Nightingale/quest00_2 t_00
-<m joy>Hey, Princess! Sorry you had to see me like that.
+<m joy>Hỡi công chúa! Xin lỗi vì để nàng phải thấy tôi trong bộ dạng đó.
 
 *n_01
-<m scary>I...i-it’s not your fault! I just had bad timing...
+<m scary>E-Em... không trách chị đâu! Chỉ là em đến không đúng lúc thôi...
 
 *t_02
-Remember that apple you sold me the other day?
+Nàng còn nhớ quả táo mà nàng bán cho tôi hôm trước không?
 *t_02_2
-It was <m joy>incredible</m>! One bite and my whole body started to tingle~.
+Nó thật <m joy>tuyệt vời</m>! Chỉ một miếng thôi mà toàn thân tôi đã tê tê rồi~.
 
 *t_03
-<m fadein>You know how...
-you just can’t fight your urges sometimes?
+<m fadein>Em biết đấy...
+đôi khi chúng ta không thể cưỡng lại ham muốn của bản thân, đúng không?
 *
-So you dive into a bed of monsters and find yourself with an egg afterwards...
+Thế là em lao vào một ổ quái vật, rồi sau đó phát hiện bên trong mình có một quả trứng...
 
 *n_04
-<m fadein>Not...really.
+<m fadein>Không...hẳn là vậy.
 
 *t_05
-Well, have no fear. With the brand new <c pink><m joy>SENKA EGG</m></c>, pain is a thing of the past!
+Đừng lo! Với sản phẩm mới nhất <c pink><m joy>TRỨNG SENKA</m></c>, đau đớn sẽ chỉ còn là quá khứ!
 
 *n_05
-<think>Is she saying that laying those eggs felt good!?
+<think>Chị ấy đang nói rằng việc đẻ những quả trứng đó ra rất dễ chịu sao!?
 
 *t_06
-Keep those troublesome eggs out of your cute little tummy and experience the joy of egg laying, Princess!
-Pick one up today!
+Hãy để những quả trứng phiền phức tránh xa chiếc bụng nhỏ xinh của em và tận hưởng niềm vui khi đẻ trứng, công chúa!
+Mua ngay hôm nay nhé!
 
 *n_07
-I...think I’ll pass...
+Em...nghĩ mình xin kiếu ạ...
 
 *t_08
-If price is a concern, I can sell you a used one for cheap.
+Nếu em đang lo về giá cả, tôi có thể bán cho em cái đã qua sử dụng với giá rẻ.
 
 *n_09
-<angry><m ple>NO THANK YOU!
+<angry><m ple>KHÔNG, CẢM ƠN Ạ!
 
 
 // ================================
@@ -415,31 +415,32 @@ If price is a concern, I can sell you a used one for cheap.
 
 // ナイチンゲールさんのカバンを発見。自慰シーンを見るかどうか
 *___Nightingale/quest00_bag n_00 
-I see clothes...and a bag...
-But no Nightingale...
+Mình thấy quần áo... và một chiếc túi...
+Nhưng không thấy Nightingale đâu cả...
 
 // 以下、健全モードの場合のシーンスキップ
 *n_01
 ...Nightingale?
 
 *t_02
-<I><m scary>AH!
+<I><m scary>Á!
+
 *t_03
-<m scary>HE-, ahem,<m joy>Hello, Princess!
-<m>When did you get here?
+<m scary>Ô-Ồ, khụ,<m joy>Kính chào công chúa!
+<m>Nàng đến đây từ khi nào vậy?
 
 *n_03
-Just now…
-Um...why did you take off all your clothes?
+Vừa mới đây thôi...
+Ừm...sao chị lại cởi hết quần áo vậy?
 
 *t_04
-Oh, y-y’know, <m ple>I just thought it might be a good change of pace!
-It’s very refreshing, dontcha know?
+Ồ, e-em biết đấy, <m ple>tôi chỉ nghĩ thay đổi không khí một chút cũng tốt thôi!
+Cảm giác thoải mái lắm, em biết không?
 
 *n_05
-<m fadein>N-no, I can't say that I do...
-<m>Sorry if I was interrupting.
+<m fadein>K-Không, em không thể nói là mình biết...
+<m>Xin lỗi nếu em đã làm phiền chị.
 
 *t_06
-<m ple>Oh no, no, not at all!
-I’m sorry if I embarrassed you!
+<m ple>Ồ không, không hề!
+Tôi mới phải xin lỗi nếu đã khiến em ngượng ngùng mới phải!

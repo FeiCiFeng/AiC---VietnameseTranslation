@@ -5,125 +5,125 @@
 // ========================================================
 
 /* ___ Skill_desc_punch ___ */
-Bash enemies with your staff at close range.
-Weak attack power, but can be used to knock mana out of enemies.
+Đập kẻ địch ở cự ly gần bằng trượng.
+Sát thương yếu, nhưng có thể đánh bật mana ra khỏi kẻ địch.
 
 &&Skill_title_shotgun Shotgun
-&&Skill_manipulate_shotgun Press <key z/> while chanting.
+&&Skill_manipulate_shotgun Nhấn <key z/> trong khi niệm phép.
 
 /* ___ Skill_desc_shotgun ___ */
-Hit enemies with a burst of mana at close range, dealing significant damage.
-The power and effect depends on the magic being chanted.
+kích nổ luồng mana vào kẻ địch ở cự ly gần, gây sát thương lớn.
+Sức mạnh và hiệu ứng phụ thuộc vào phép thuật đang được niệm.
 
-&&Skill_title_sliding Sliding
+&&Skill_title_sliding Trượt
 &&Skill_manipulate_sliding <key ba/>+<key z/>
 
 /* ___ Skill_desc_sliding ___ */
-An unreliable downward attack.
-If you hit an enemy or slide off a ledge, you will be knocked down.
+Một đòn tấn công hướng xuống khá khó kiểm soát.
+Nếu đánh trúng kẻ địch hoặc trượt khỏi mép vực, bạn sẽ bị ngã.
 
-&&Skill_title_guard Shield
+&&Skill_title_guard Khiên
 &&Skill_manipulate_guard <key lsh/>
 
 /* ___ Skill_desc_guard ___ */
-Protect yourself from enemy attacks and toxic fumes.
-The shield will break if it takes too many attacks.
+Bảo vệ bản thân khỏi đòn tấn công của kẻ địch và khí độc.
+Khiên sẽ vỡ nếu phải chịu quá nhiều đòn đánh.
 
-&&Skill_title_evade Dodge
+&&Skill_title_evade Né
 &&Skill_manipulate_evade <key lsh/>+<key la/><key ra/>
 
 /* ___ Skill_desc_evade ___ */
 
-Briefly become invincible and avoid enemy attacks.
-Distanced traveled can be increased by holding<key la/>or<key ra/>longer.
-Can also be used in mid-air to extend hang time.
+Tạm thời trở nên bất khả xâm phạm để tránh đòn tấn công của kẻ địch.
+Giữ <key la/> hoặc <key ra/> lâu hơn để lướt xa hơn.
+Cũng có thể sử dụng giữa không trung để kéo dài thời gian lơ lửng.
 
-&&Skill_title_guard_bush Shield Bash
+&&Skill_title_guard_bush Khiên phản kích
 &&Skill_manipulate_guard_bush <key lsh/>+<key z/>
 
 /* ___ Skill_desc_guard_bush ___ */
-Release the shield's energy.
-Can be used to parry an enemy's attack and knock them down.
+Giải phóng năng lượng của khiên.
+Có thể dùng để đỡ đòn tấn công của kẻ địch và đánh ngã chúng.
 
 
-&&Skill_title_guard_lariat Orbital Shield
+&&Skill_title_guard_lariat Khiên Quỹ Đạo
 &&Skill_manipulate_guard_lariat <key lsh/>+<key la/><key ra/>+<key z/>
 
 /* ___ Skill_desc_guard_lariat ___ */
-The shield is separated from the user and swung around.
-A hit consumes the shield's durability, so it cannot be used many times in a row.
-Note that if an enemy gets inside the orbit while you are swinging your shield,
-you will become defenseless.
+Tách khiên khỏi người dùng và xoay nó xung quanh.
+Mỗi lần đánh trúng sẽ tiêu hao độ bền của khiên, nên không thể sử dụng liên tục nhiều lần.
+Lưu ý: nếu kẻ địch tiến vào bên trong quỹ đạo khiên đang xoay,
+bạn sẽ không được bảo vệ.
 
-&&Skill_title_burst Burst
-&&Skill_manipulate_burst Press and hold <key PR_BURST/>
+&&Skill_title_burst Bộc Phát
+&&Skill_manipulate_burst Nhấn giữ <key PR_BURST/>
 
 /* ___ Skill_desc_burst ___ */
-Detonates mana and knocks back surrounding enemies. 
-Can be used at any time as long as the caster has consciousness.
+Kích nổ mana, đẩy lùi những kẻ địch xung quanh.
+Có thể sử dụng bất cứ lúc nào, miễn là người thi triển vẫn còn tỉnh táo.
 
 
-&&Skill_title_wheel Cyclone Slash
-&&Skill_manipulate_wheel <key z/>+<key la/><key ra/>in mid-air
+&&Skill_title_wheel Trảm Xoáy
+&&Skill_manipulate_wheel <key z/>+<key la/><key ra/> khi đang ở giữa không trung
 
 /* ___ Skill_desc_wheel ___ */
-Spin wildly and rush towards the enemy.
-Applies shotgun effect on hit, if one is held.
-You will be vulnerable for a brief moment after landing.
+Xoay người điên cuồng và lao về phía kẻ địch.
+Khi đánh trúng, đòn đánh sẽ áp dụng hiệu ứng Shotgun nếu đang giữ phép.
+Sau khi tiếp đất, bạn sẽ dễ bị tấn công trong thoáng chốc.
 
 
-&&Skill_title_comet Comet Dive
-&&Skill_manipulate_comet <key z/>+<key ba/>in mid-air
+&&Skill_title_comet Sao Băng Đột Kích
+&&Skill_manipulate_comet <key z/>+<key ba/>khi đang ở giữa không trung
 
 /* ___ Skill_desc_comet ___ */
-Attack by dropping down at high speed. You will be almost invincible while falling.
-Applies shotgun effect on hit, if one is held.
-Has the same power as a weak attack.
+Tấn công bằng cách lao xuống với tốc độ cao. Bạn gần như bất khả xâm phạm trong lúc rơi.
+Khi đánh trúng, đòn đánh sẽ áp dụng hiệu ứng Shotgun nếu đang giữ phép.
+Sát thương tương đương một đòn đánh thường.
 
 &&Skill_title_hp5 HP+5
 &&Skill_manipulate_hp5 
 
 /* ___ Skill_desc_hp5 ___ */
-Maximum HP increased by 5.
+HP tối đa tăng 5 điểm.
 
 &&Skill_title_hp10 HP+10
 &&Skill_manipulate_hp10 
 
 /* ___ Skill_desc_hp10 ___ */
-Maximum HP increased by 10.
+HP tối đa tăng 10 điểm.
 
 &&Skill_title_hp20 HP+20
 &&Skill_manipulate_hp20 
 
 /* ___ Skill_desc_hp20 ___ */
-Maximum HP increased by 20.
+HP tối đa tăng 20 điểm.
 
 &&Skill_title_mp5 MP+5
 &&Skill_manipulate_mp5 
 
 /* ___ Skill_desc_mp5 ___ */
-Maximum MP increased by 5.
+MP tối đa tăng 5 điểm.
 
 &&Skill_title_mp10 MP+10
 &&Skill_manipulate_mp10 
 
 /* ___ Skill_desc_mp10 ___ */
-Maximum MP increased by 10.
+MP tối đa tăng 10 điểm.
 
 &&Skill_title_mp20 MP+20
 &&Skill_manipulate_mp20 
 
 /* ___ Skill_desc_mp20 ___ */
-Maximum MP increased by 20.
+MP tối đa tăng 20 điểm.
 
 
 
 /* ___ Skill_title_sp_bird ___ */
-Wing Talisman
+Bùa Cánh Chim
 /* ___ Skill_desc_sp_bird ___ */
-A talisman with the image of the lost civilization's 'Bird' drawn on it.
-Enables the use of a shield to protect yourself from enemy attacks and miasmas.
-You can also now perform a dodge that grants a small window of invincibility.
+Một lá bùa có khắc hình 'Chim' của nền văn minh đã mất.
+Cho phép sử dụng khiên để bảo vệ bản thân khỏi đòn tấn công của kẻ địch và khí độc.
+Bạn cũng có thể thực hiện động tác né tránh, giúp bản thân bất khả xâm phạm trong một khoảnh khắc.
 
 
 // ========================================================
@@ -131,21 +131,21 @@ You can also now perform a dodge that grants a small window of invincibility.
 // ========================================================
 
 /* ___ Skill_title_sp_difficulty0 ___ */
-Statue Talisman
+Bùa Tượng Đá
 
 /* ___ Skill_desc_sp_difficulty0 ___ */
-Greatly increases HP and MP, but decreases
-the probability of obtaining treasure chests.
-To use it, Press <key menu/> and open Skill Tab,
-then check the "Use" checkbox.
+Tăng mạnh HP và MP, nhưng giảm
+tỉ lệ nhận được rương báu.
+Để sử dụng, nhấn <key menu/> và mở thẻ Kỹ năng,
+sau đó đánh dấu vào ô "Sử dụng".
 
-&&Skill_title_ukemi Feline Reflexes
+&&Skill_title_ukemi Phản xạ của loài mèo
 &&Skill_manipulate_ukemi <key lsh/>+<key la/><key ra/>
 
 /* ___ Skill_desc_ukemi ___ */
 
-When knocked back by an enemy, perform a dodge when you land to immediately get back on your feet.
-If used while you have a condition that prevents dodging (e.g. Exhausted), you will fall over afterwards.
+Khi bị kẻ địch đánh bật đi, thực hiện động tác né tránh lúc tiếp đất để lập tức đứng dậy.
+Nếu sử dụng khi đang chịu trạng thái khiến bạn không thể né tránh (ví dụ: Kiệt sức), bạn sẽ ngã xuống sau đó.
 
 
 // ========================================================
@@ -153,96 +153,96 @@ If used while you have a condition that prevents dodging (e.g. Exhausted), you w
 // ========================================================
 
 /* ___ Skill_title_dashpunch ___ */
-Dash Strike
+Tốc Kích
 
-&&Skill_manipulate_dashpunch <key z/>after running for a short distance
+&&Skill_manipulate_dashpunch <key z/>sau khi chạy một quãng ngắn
 
 /* ___ Skill_desc_dashpunch ___ */
-Dash forward and strike enemies at high speed.
-Held shotgun effects will be applied to the first enemy hit.
-Power is the same as a normal weak attack.
+Lao nhanh về phía trước và tấn công kẻ địch.
+Hiệu ứng Shotgun đang giữ sẽ được áp dụng lên kẻ địch đầu tiên trúng đòn.
+Sát thương tương đương một đòn đánh thường.
 
 /* ___ Skill_title_airpunch ___ */
-Air Slash
-&&Skill_manipulate_airpunch <key z/>in midair
+Không Kích
+&&Skill_manipulate_airpunch <key z/>khi đang ở giữa không trung
 
 /* ___ Skill_desc_airpunch ___ */
-Lunge forward in midair to strike enemies.
-Held shotgun effects will be applied to the first enemy hit.
-Power is the same as a normal weak attack.
+Lao về phía trước giữa không trung để tấn công kẻ địch.
+Hiệu ứng Shotgun đang giữ sẽ được áp dụng lên kẻ địch đầu tiên trúng đòn.
+Sát thương tương đương một đòn đánh thường.
 
 
 // ver 022d: 変更
 // ========================================================
 /* ___ Skill_desc_burst ___ */
-Releases a blast of magical energy to blow away nearby enemies.
-Can be used as long as the user is not unconscious.
+Giải phóng một luồng năng lượng, thổi bay những kẻ địch ở gần.
+Có thể sử dụng miễn là người dùng chưa bất tỉnh.
 
 
 // ========================================================
 // MARK : ver027
 // ========================================================
 /* ___ Skill_title_smash ___ */
-Fatal Smash
-&&Skill_manipulate_smash Press and hold<key ba/>+<key z/>
+Cú Đập Chí Tử
+&&Skill_manipulate_smash Nhấn giữ <key ba/>+<key z/>
 
 /* ___ Skill_desc_smash ___ */
-Charges up to deliver a powerful blow. Doubles the damage of a held shotgun attack, but releases the spell even when the attack misses.
+Tích lực để tung ra một đòn mạnh mẽ. Tăng gấp đôi sát thương của đòn Shotgun, nhưng phép sẽ được phóng ra ngay cả khi đòn đánh trượt.
 
 
 // ========================================================
 // MARK : ver028
 // ========================================================
 /* ___ Skill_title_justguard ___ */
-Justiguard
-&&Skill_manipulate_justguard Release<key lsh/>
+Đỡ đòn chuẩn xác
+&&Skill_manipulate_justguard Thả <key lsh/>
 
 /* ___ Skill_desc_justguard ___ */
-While your shield is up, release<key lsh/>just before an enemy attack lands.
-If you time it right, your shield's health will be restored.
+Khi đang giương khiên, hãy thả <key lsh/> ngay trước khi đòn tấn công của kẻ địch chạm tới.
+Nếu căn thời điểm chính xác, độ bền của khiên sẽ được phục hồi.
 
 
-&&Skill_title_evade_dancing Dancing Slash
+&&Skill_title_evade_dancing Vũ Điệu Trảm Kích
 &&Skill_manipulate_evade_dancing <key la/><key ra/>+<key z/>
 /* ___ Skill_desc_evade_dancing ___ */
-Only works after a Shield Bash or successful Justiguard.
-Delivers a multi-target blow with a fanciful step.
-Held shotgun effects are applied to all targets, at slightly reduced damage.
+Chỉ có thể sử dụng sau khi Khiên phản kích hoặc Đỡ đòn chuẩn xác thành công.
+Thực hiện một đòn tấn công nhiều mục tiêu bằng những bước di chuyển hoa mỹ.
+Hiệu ứng Shotgun đang giữ sẽ áp dụng lên tất cả mục tiêu, nhưng sát thương giảm nhẹ.
 
 
 // ========================================================
 // MARK : ver029
 // ========================================================
 
-&&Skill_title_shine_booster Shine Booster
+&&Skill_title_shine_booster Quang Tốc
 &&Skill_manipulate_shine_booster <key run/>+<key la/>/<key ra/>
-&&Skill_title_shine_booster_spark Sparkshine
-&&Skill_manipulate_shine_booster_spark <key ba/>+<key jump/>while Shine Boosting
+&&Skill_title_shine_booster_spark Quang Kích
+&&Skill_manipulate_shine_booster_spark <key ba/>+<key jump/> khi đang Quang Tốc
 
 /* ___ Skill_desc_shine_booster ___ */
-Run for a short while to build up speed.
+Chạy một lúc để tích lũy tốc độ.
 
 /* ___ Skill_desc_shine_booster_spark ___ */
-While Shine Boosting, press <key ba/> to store Shine energy. Then, press <key jump/> to perform a powerful dash attack.
+Khi đang Quang Tốc, nhấn <key ba/> để tích trữ Quang Năng. Sau đó, nhấn <key jump/> để thực hiện một đòn tấn công mạnh mẽ.
 
-&&Skill_title_evade_jump Meta-dodge
-&&Skill_manipulate_evade_jump Tap and hold <key la/>or<key ra/> mid-dodge
+&&Skill_title_evade_jump Huyễn Ảnh
+&&Skill_manipulate_evade_jump Nhấn và giữ <key la/> hoặc <key ra/> trong khi né
 
 /* ___ Skill_desc_evade_jump ___ */
-Consumes MP to perform a more powerful dodge.
-Allows you to pass through certain obstacles.
+Tiêu hao MP để thực hiện một cú né tránh vượt trội.
+Cho phép bạn xuyên qua một số chướng ngại vật nhất định.
 
 &&Skill_title_hp15 HP +15
 &&Skill_manipulate_hp15 
 
 /* ___ Skill_desc_hp15 ___ */
-Max HP increased by 15.
+HP tối đa tăng 15 điểm.
 
 &&Skill_title_mp15 MP+15
 &&Skill_manipulate_mp15 
 
 /* ___ Skill_desc_mp15 ___ */
-Max MP increased by 15.
+MP tối đa tăng 15 điểm.
 
 
-&&Skill_manipulate_evade_jump__1 Tap <key run/> mid-dodge
+&&Skill_manipulate_evade_jump__1 Tap <key run/> trong khi né

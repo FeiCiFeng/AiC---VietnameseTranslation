@@ -1,0 +1,240 @@
+%FAMILY vi
+
+&&Enemy_WORMS Sâu Bọ
+&&Enemy_OTHER Kẻ Địch
+&&Enemy_MUSH Nấm Độc
+&&Enemy_MAGE Kẻ Khờ
+&&Enemy_TENTACLE Xúc Tu
+
+&&Summoner_forest_mush_coroseum Chúa tể Bào Tử Nấm
+&&Summoner_forest_cliff_portal Vô Nguyệt
+
+&&Summoner_forestS_swamp Tiếng Gầm Đầm Lầy
+
+// ========================================================
+// MARK : 220121追加
+// ========================================================
+
+&&Summoner_forest_mushpot2 Thảm Bào Tử
+&&Summoner_forest_mush_narrowroad Cẩn Thận Trên Đầu
+&&Summoner_forest_foxhall Vũ Điệu Lửa Thiêng
+&&Summoner_forest_buibui Vòng Quay Ngựa Gỗ
+&&Summoner_forest_wood_slash Lòng Thác
+&&Summoner_forest_senzyo Hang Chuột Chũi
+&&Summoner_forest_tikuwar Lính Tiếp Tế Ranh Ma
+&&Summoner_forest_wood_nightlake Ảo Mộng Đêm Hồ
+&&Summoner_forest_clocktower Con Rối
+&&Summoner_forest_acid_lake Nhím Tắm Acid
+&&Summoner_forest_tomato Kẻ Chinh Phục Đẫm Máu
+&&Summoner_forest_treecrack Hộ Vệ Khe Nứt
+&&Summoner_forest_darkpotu Hộp Hề Ma Quái
+&&Summoner_forest_toybox Kẻ Đào Mỏ Không Mời
+&&Summoner_forest_senzyo2cliff  Sân Chơi Của Chó
+&&Summoner_forest_wood_hall Món Khai Vị Acid
+&&Summoner_forest_wood_right_exit  Hành Lang Gió
+&&Summoner_forest_nightacid Vực Thẳm Acid
+
+&&Enemy_PUPPY Cún Con
+
+
+&&Enemy_GOLEM Rối Gỗ
+&&Enemy_GOLEM_OD Gã Khổng Lồ
+&&Enemy_GOLEM_OD2 Gã Khổng Lồ
+&&Enemy_FOX Cáo Chín Đuôi
+&&Enemy_UNI Nhím Biển
+// Sea Urchin
+&&Enemy_SNAKE Rắn Chuột Chũi
+&&Enemy_SPONGE Động Vật Thân Lỗ
+
+&&Summoner_can_battle_in_night Chỉ xuất hiện vào ban đêm
+
+
+
+
+&&Summoner_forest_nightlake Ảo Mộng Đêm Hồ
+
+
+// ========================================================
+// MARK : ver022
+// ========================================================
+
+&&Enemy_GECKO Thằn Lằn
+&&Enemy_FROG Ếch
+&&Enemy_FROG_VORE Ếch Nuốt Chửng
+&&Enemy_BEAM Tia Kích Dục
+&&Enemy_BOSS_NUSI Chúa Tể Rừng Sâu
+&&Summoner_forest_toylabo Phòng Thí Nghiệm Chắp Vá
+&&Summoner_forest_coroseum_frog Đầm Ếch Tham Lam
+&&Summoner_forest_rwood_column Yến Tiệc Đêm
+&&Summoner_forest_geckoland Thằn Lằn Trơn Tuột
+&&Summoner_forest_swamp Đầm Lầy Quyến Rũ
+&&Summoner_forest_wind_senzyo Sảnh Gió
+
+&&Summoner_forest_nusi_coroseum Chúa Tể Rừng Sâu
+
+&&Enemy_MKB Ngựa Gỗ
+
+// ========================================================
+// MARK : ver 0.24
+// ========================================================
+
+&&Enemy_MECHGOLEM Rối Thiết Giáp
+
+
+// ========================================================
+// MARK : 0.27
+// ========================================================
+
+/* ___ Enemy_description_SLIME ___ */
+Một con quái vật nguyên thủy có trí tuệ thấp, thường lao thẳng vào kẻ thù.
+
+/* ___ Enemy_description_SLIME_OD ___ */
+Một con quái vật nguyên thủy có cơn thèm khát mana không đáy. Ngay khi nuốt chửng một Elf, nó sẽ lập tức tìm cách đẻ trứng bên trong họ.
+
+/* ___ Enemy_description_GOLEM ___ */
+Một loài quái vật sống theo bầy đàn, thường được tìm thấy gần các khu khai thác mỏ. Chúng dùng kỹ năng chế tạo để lắp ráp những cỗ máy nguy hiểm. Nếu thấy một con đang chế tạo thứ gì đó, hãy hạ gục nó trước khi nó hoàn thành.
+
+/* ___ Enemy_description_GOLEM_OD ___ */
+Một con quái vật có kích thước khổng lồ nhưng trí tuệ cũng cao tương xứng. Tốt nhất hãy dụ nó tung đòn, sau đó né ra phía sau để phản công.
+
+/* ___ Enemy_description_MUSH ___ */
+Một con quái vật phun bào tử, thường xuất hiện ở những nơi ẩm thấp. Chúng rút xuống lòng đất khi có kẻ đến gần, nhưng một phát Shotgun mạnh vẫn có thể xuyên thủng lớp phòng thủ của chúng.
+
+/* ___ Enemy_description_MUSH_OD ___ */
+Một con quái vật phun bào tử hoạt động hết công suất. Lượng bào tử của nó sẽ dần giảm xuống, khiến những đám khói bào tử thưa đi rõ rệt. Tận dụng khoảng thời gian đó để hạ gục nó.
+
+/* ___ Enemy_description_PUPPY ___ */
+Một con quái vật được bao phủ bởi giun, di chuyển với tốc độ cực cao. Lũ giun bảo vệ nó khỏi mọi sát thương nhận vào. Hãy đánh bật chúng bằng vài đòn nhanh, sau đó kết liễu con quái vật.
+
+/* ___ Enemy_description_SPONGE ___ */
+Một con quái vật tích trữ mana trong những quả cầu ở đầu các cuống của nó. Khi các quả cầu sẵn sàng, nó phóng chúng vào những quái vật khác để hồi phục mana cho chúng. Hãy giữ khoảng cách khi nó bắt đầu quẫy mạnh.
+
+/* ___ Enemy_description_UNI ___ */
+Một con quái vật lơ lửng lười biếng, đồng thời phóng gai vào kẻ thù. Chúng có thể gây phiền toái khi bạn chiến đấu với những quái vật khác, vì vậy tốt nhất hãy tiêu diệt chúng trước.
+
+/* ___ Enemy_description_UNI_OD ___ */
+Một con quái vật nặng nề, lăn lộn khắp nơi và bám vào tường hoặc trần nhà bằng những chiếc gai sắc nhọn. Hãy tránh xa khi nó gầm lên để không bị đâm xuyên.
+
+/* ___ Enemy_description_SNAKE ___ */
+Một con quái vật bò dưới lòng đất, sau đó bất ngờ trồi lên bên dưới con mồi và quấn chặt lấy nạn nhân. Có thể làm nó choáng bằng cách dụ nó nhảy lên trúng một quả Địa Lôi.
+
+/* ___ Enemy_description_GECKO ___ */
+Một con quái vật chạy bằng cả bốn chân nhanh như gió. Giáng một đòn thật mạnh khi nó nhảy về phía bạn để đánh ngã nó.
+
+/* ___ Enemy_description_MAGE ___ */
+Một con quái vật chỉ xuất hiện vào ban đêm. Nó thi triển một phiên bản sao chép của phép thuật "Thiên Lôi". Khi bị nhắm đến, chúng dịch chuyển tức thời để né đòn. Hãy cố đoán trước hướng di chuyển của chúng rồi tung đòn thật nhanh và mạnh.
+
+/* ___ Enemy_description_FOX ___ */
+Một con quái vật hiếm chỉ xuất hiện tại một địa điểm trong rừng. Ngọn lửa của nó lưu lại khá lâu, vì vậy hãy chú ý chọn những vị trí an toàn để tiếp tục chiến đấu. Nó chỉ có thể di chuyển đến những nơi có cây Mana mọc.
+
+/* ___ Enemy_description_FROG ___ */
+Một con quái vật hiếm sống trong đầm lầy. Nó rất ranh mãnh và chỉ tấn công khi thấy sơ hở. Hãy quay lưng lại để dụ nó ra đòn trước, sau đó phản công.
+
+/* ___ Enemy_description_BOSS_NUSI ___ */
+Một con quái vật khổng lồ sống trong rừng.
+...Đáng lẽ phải cần cả một đội quân mới có thể đánh bại nó.
+
+
+// 敵属性
+&&Enattr_atk Tăng ATK
+&&Enattr_def Tăng DEF
+&&Enattr_mp_stable MP Ổn Định
+&&Enattr_fire Lửa
+&&Enattr_ice Băng
+&&Enattr_thunder Điện
+&&Enattr_slimy Nhầy Nhụa
+&&Enattr_acme Khí Kích Dục
+&&Enattr_invisible Vô Hình
+
+&&Enemy_GOLEMTOY_MKB Ngựa Gỗ
+// 「雑念」を撒き散らす奴
+&&Enemy_GOLEMTOY_RM Bệ Tạo Mưa
+&&Enemy_GOLEMTOY_POD Bệ Phóng Tên Lửa
+&&Enemy_GOLEMTOY_BOW Pháo Laser
+
+&&Enemy_PENTAPOD Quái Năm Chân
+&&Enemy_PIG Lợn Rừng
+
+&&Enemy_ROAPER Quái Vật Xúc Tu
+
+&&Enemy_GOLEM_0_NM Rối Gỗ (Không Xây Dựng)
+
+
+/* ___ Enemy_description_PIG ___ */
+Một con quái vật sống trên núi. Dù có kích thước lớn, nó vẫn cực kỳ nhanh nhẹn. Chiến đấu từ xa để tránh bị nanh của nó tấn công.
+
+/* ___ Enemy_description_PENTAPOD ___ */
+Một con quái vật sống trên núi. Nó bắn ra tia hóa đá từ đỉnh đầu. Dùng Địa Lôi đánh vào phần gốc để làm choáng, sau đó tấn công đầu của nó.
+
+/* ___ Enemy_description_ROAPER ___ */
+Một con quái vật sống trên núi. Nó dùng nhiều xúc tu để trói mục tiêu và hút cạn mana. Nó sẽ hét lên trước khi nghiền nát mục tiêu bằng một lượng xúc tu khổng lồ.
+
+
+&&EnemyKind_devil Quái vật
+&&EnemyKind_machine Máy móc
+
+
+// ========================================================
+// MARK : 028
+// ========================================================
+&&Enemy_RAMDA Lambda
+/* ___ Enemy_description_RAMDA ___ */
+Một con quái vật sống trên núi, có thể nuốt chửng con mồi lớn hơn bản thân rất nhiều. Sau khi hút cạn mana, nó sẽ nôn con mồi ra để con non của mình có thể an toàn ăn chúng.
+
+
+// Hive
+&&Enemy_EHOME Tổ Quái
+
+/* ___ Enemy_description_EHOME ___ */
+Những chiếc tổ sống bén rễ và nhanh chóng sinh ra quái vật mới. Tốt nhất hãy triệt tiêu chúng càng sớm càng tốt.
+
+
+&&Summoner_SmnC_garage Mô Phỏng
+
+&&Summoner_SmnC_td Phòng Thủ Grazia
+
+&&Enattr_big Gã Khổng Lồ
+
+&&Enemy_HONEYCOMB Tổ Ấu Trùng
+
+/* ___ Enemy_description_HONEYCOMB ___ */
+Một con quái vật có hoa văn hình lục giác trên cơ thể, bên trong chứa những bầy ấu trùng quái vật. Nó sử dụng đặc tính kháng mana của lũ con non làm lá chắn để chặn phép thuật. Hãy dùng Giếng Trọng Lực làm nó mất thăng bằng, rồi lao vào kết liễu!
+
+&&Enemy_SYABON Bong Bóng
+
+
+// ========================================================
+// MARK : 029
+// ========================================================
+
+&&Enemy_LEECH Đỉa
+&&Enemy_LEECHQUEEN Nữ Hoàng Đỉa
+&&Enemy_EMPRESS Hoàng Hậu
+
+/* ___ Enemy_description_LEECH ___ */
+Những con quái vật nhỏ sống trên núi. Chúng dễ dàng bị đánh bại bằng phép thuật yếu hoặc Địa Lôi, nhưng hãy cẩn thận với những đòn tấn công lén.
+
+&&Summoner_mount_windtower Cơn Gió Thất Thường
+&&Summoner_mount_honeypit Cạm Bẫy Mật Ngọt
+&&Summoner_mount_ruinroad Đồng Cỏ Núi Cao
+&&Summoner_mount_busstop Hầm Bắn Tỉa
+&&Summoner_mount_trash_cr Suối Nước Nóng Nhiễm Độc
+&&Summoner_mount_junk_senzyo Kẻ Nghiện Phế Thải
+&&Summoner_mount_mine0 Bóng Tối Vĩnh Hằng
+&&Summoner_mount_sand_senzyo Cặp Kìm Độc
+&&Summoner_mount_poison_lake Hồ Nhiễm Độc
+&&Summoner_mount_poison_cave Bóng Tối Sục Sôi
+&&Summoner_mount_mine_1 Nữ Hoàng Của Ta
+&&Summoner_mount_honey_darkpit Hố Mật Ong
+&&Summoner_mount_cave_honey0 Giọt Mật Nhớp Nháp
+&&Summoner_mount_spider_coroseum Mạng Nhện
+&&Summoner_mount_mine_lt Tăng Ca Không Ngừng
+&&Summoner_mount_cannon_senzyo Tiệc Pháo Binh
+&&Summoner_mount_darkcave Quằn Quại Trong Bóng Tối
+&&Summoner_mount_woodslash Chân Giếng Mỏ
+
+&&Enattr_acme_on_fear_mode Bóng Tối
+
+&&Enemy_BOSS_SPIDER Nhện Núi
+
+&&Enemy_MIMIC Rương Quái

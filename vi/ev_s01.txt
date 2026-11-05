@@ -15,12 +15,12 @@
 
 // ノエル
 *s01_0a n_00
-It's getting late... 
+Trời cũng muộn rồi...
 
 
 // 1-B: s00 で敗北した
 *n_01
-...It's completely dark...
+...Trời tối đen như mực rồi...
 
 
 
@@ -28,63 +28,65 @@ It's getting late...
 // 1-C: 1-Aまたは1-B のあと、森に戻ろうとする
 // ================
 *s01_1c n_00
-<think>Let's just go home and rest for the day.
+<think>Hôm nay cứ về nhà nghỉ ngơi thôi.
 
 
 // ========================================================
 // MARK : s01_ixia_2a_00
 // ========================================================
 // 2-A イクシャ登場: s00 で敗北していない
- 
+
 *s01_ixia_2a_00 i_00
-<angry /><m joy><big>Oh-ho-ho-ho-ho!</big></m>
+<angry /><m joy><big>Ô hố hô hô hồ!</big></m>
 
 *i_01
-I got here before you, Noel Cornehl!
+Mình đến trước cậu rồi nhé, Noel Cornehl!
 
 *n_02
-Ixia! I haven't seen you in two weeks.
+Ixia! Hai tuần nay ta chưa gặp nhau lần nào.
 
 
 *i_03
-Um, if you don't mind me asking...How are you feeling? Any pain still?
+À thì... nếu không phiền, cho tớ hỏi cậu thấy trong người thế nào rồi? Còn đau ở đâu không?
 
 *n_04
-I'm fine. I was even able to defeat a monster earlier.
+Tớ ổn. Hồi nãy tớ còn đánh bại được một con quái vật nữa cơ.
 
 *i_05
-You were fighting!? How could you be so reckless!
+Cậu đã chiến đấu sao!? Sao cậu lại liều lĩnh đến thế chứ!
 
 
 
 
 *n_06
-T-there was only one...and it didn't look like I could just avoid it.
+C-Chỉ có một con thôi... với lại trông nó cũng không giống loại có thể dễ dàng tránh được.
 
 *n_07
-Just a little bit on the way back...I was able to use my new staff; it didn't hurt or anything.
+Tớ chỉ gặp nó một chút trên đường về thôi... Tớ đã thử dùng cây trượng mới, cũng chẳng bị thương gì cả.
 
 
 
 
 *i_08
-Hmph! For the past two weeks, your teachers and friends have been so worried about you. 
+Hừm! Suốt hai tuần qua, thầy cô và bạn bè ở học viện lo cho cậu lắm đấy.
+
 *i_09
-But, that's actually a relief to hear. Even though so much of your mana was absorbed during the incident...
+Nhưng nghe vậy thì tớ cũng yên tâm phần nào. Dù lượng mana của cậu đã bị hút mất khá nhiều trong vụ việc hôm đó...
 *
-It sounds like you'll still be able to compete against me as my rival.
+Có vẻ cậu vẫn đủ sức làm đối thủ của tớ đấy.
 
 *n_09
-...Have I ever lost to you, Ixia?
+...Bộ tớ từng thua cậu lần nào chưa, Ixia?
 
 *i_10
-<angry /><m scary>The audacity!</m><W2 />
-Next time you come to school I'm going to beat you for sure!
+<angry /><m scary>Cậu đang trêu tớ à!</m><W2 />
+Lần tới cậu đến học viện, tớ nhất định sẽ đánh bại cậu đấy!
 
 *n_11
-If you say so. I'll talk to sensei today about potentially returning to school.
+Nếu cậu đã nói vậy. Hôm nay mình sẽ hỏi cô giáo xem liệu tớ có thể quay lại học viện chưa.
+
 *i_12
-<W3 />Well, just don't let the monsters get you again!
+<W3 />Thế thì đừng để quái vật tóm được lần nữa đấy!
 
 
 // 去る
@@ -92,42 +94,42 @@ If you say so. I'll talk to sensei today about potentially returning to school.
 // すぐ戻ってくる
 
 *i_13
-Almost forgot~~!
+Suýt nữa thì quên mất~~
 
 
 *i_14
-One of the spells you broke during the incident has finally been remade...So I brought it with me today!
+Một trong những phép thuật cậu làm hỏng trong vụ việc hôm đó cuối cùng cũng được chế tạo lại rồi... nên hôm nay tớ mang đến cho cậu đây!
 
 *n_15
-And here I thought you had come to visit me.
+Thế mà tớ còn tưởng cậu chỉ muốn thăm tớ đấy.
 
 *i_16
-Don't get so full of yourself! Let's see, I think it was...ah, that's right. 
+Này! Đừng có tự mãn! Để xem nào, hình như là...À, đúng rồi.
 
 *i_17
-Ms. Primula came by earlier, so I gave it to her!
+Cô Primula vừa ghé qua đây, nên mình đưa cho cô ấy rồi!
 
 
 *n_17
-Sensei is already here? She's a little earlier than usual.
+Cô ấy đến đây rồi sao? Hôm nay cô ấy đến sớm hơn mọi khi một chút nhỉ.
 
 *i_18
-I'm sure she's waiting for you in your room.
+Chắc cô ấy đang đợi cậu trong phòng đấy.
 *
-You can thank me by learning to use that spell with your new staff!
+Cứ học cách sử dụng phép thuật đó với cây trượng mới đi, coi như cảm ơn tớ nhé!
 
 *n_19
-Thank you, Ixia. See you in school.
+Cảm ơn cậu, Ixia. Hẹn gặp ở học viện nhé.
 
 *i_20
-Hmph! ...Make sure you're there!
+Hừm! ...Nhớ phải đến đấy!
 
 
 *n_21
-Ixia is the same as always. I'm glad she wasn't hurt during the incident.
+Ixia vẫn chẳng thay đổi gì cả. May mà cậu ấy không bị thương trong vụ việc hôm đó.
 
 *n_22
-...She said sensei is waiting in my room. I'd better go see her.
+...Cậu ấy nói cô đang đợi mình trong phòng. Mình nên đến gặp cô ấy thôi.
 
 
 // ========================================================
@@ -138,93 +140,93 @@ Ixia is the same as always. I'm glad she wasn't hurt during the incident.
 
 *s01_ixia_2b_00 i_00
 <m ple>Noel Cornehl!?
-What...what happened to you!?
+Cậu... cậu bị làm sao thế này!?
 
 *n_01
-Ixia...I was out gathering materials for my sister...
-and then...I tripped and fell.
+Ixia...Tớ ra ngoài thu thập nguyên liệu cho chị hai...
+rồi sau đó thì...Tớ trượt chân vấp ngã.
 
 *i_02
-<m ple>Liar!  You're covered in monster fluids!
-<m>...The same as...two weeks ago...
+<m ple>Nói dối! Người cậu toàn là dịch nhầy của quái vật này!
+<m>...Giống hệt... hai tuần trước...
 
 *n_03
-Don't worry. This one was nowhere near as strong.
+Đừng lo. Con lần này yếu hơn nhiều so với đợt đó đâu.
 
 *i_04
 ...
 *n_05
-Ixia, are you here to visit me? Shall we go inside?
+Ixia, cậu đến thăm tớ đấy à? chúng ta vào trong nhà nhé?
 
 *i_06
-Can't. It's already really close to curfew. I have to get back to the dorm...
+Không được rồi. Sắp đến giờ giới nghiêm mất rồi. Tớ phải về ký túc xá...
 
 *n_07
-I see...sorry. It's my fault I got back so late.
+Vậy à... Xin lỗi nhé. Tại tớ về muộn quá.
 
 *n_07b
-I see...sorry. I'm such an idiot.
+Vậy à... Xin lỗi nhé. Tớ đúng là đồ ngốc.
 
 *i_08
-<m ple>Don't apologize!
+<m ple>Đừng xin lỗi!
 
 *i_08b
-...I'm sure Ms. Primula is waiting for you up in your room. I'll let her take care of you.
+...Chắc cô Primula đang đợi cậu trên phòng rồi. Cứ để cô ấy chăm sóc cho cậu nhé.
 *
-Oh, and about the spell you broke during the attack...it's been remade and is already seeing production.
+À, còn phép thuật cậu làm hỏng trong vụ tấn công hôm đó... người ta đã chế tạo lại xong rồi.
 *
-I gave one to Ms. Primula earlier.
+Hồi nãy tớ đã đưa một bản cho cô Primula rồi đấy.
 
 *n_09
-The spell? Thank you. Hope it wasn't too much trouble.
+Phép thuật đó sao? Cảm ơn cậu nhé. Mong rằng tớ không làm phiền cậu quá nhiều.
 
 
 *i_10
-Hmph! If you're going to worry about anything, worry about your tattered state!
+Hừm! Nếu có thời gian lo lắng thì lo cho bộ dạng tả tơi của mình trước đi!
 
 *i_10b
-Ok, I really have to go now. Please take care of yourself. Stay away from monsters and perverts!
+Thôi, tớ phải đi thật đây. Nhớ giữ gìn sức khỏe nhé. Tránh xa quái vật với mấy tên biến thái ra!
 
 
 // 去る
 *n_11
-...I'm sure Ms. Primula is also worried. Let's get home...
+...Chắc cô Primula cũng đang lo cho mình. Về nhà thôi...
 
 
 // ========================================================
 // MARK : s01_laevi_3a
 // ========================================================
 
-    
+
 *s01_laevi_3a v_00
-Noel, welcome home~
+Noel, em về rồi đấy à~
 
 *n_01
-I'm back, sister.
+Em về rồi, chị hai.
 
 
 *v_02
-Hmm~, as expected of my beloved sister~
-You've collected everything I asked for~
+Hmm~, đúng là em gái yêu quý của chị có khác~
+Đã thu thập đủ mọi thứ chị nhờ rồi này~
 
 
 *v_03
-Oh! You mined some ores for me too! Such a model student! Thank you so much for your help~
+Ồ! Em còn đào cả quặng cho chị nữa à! Đúng là học sinh gương mẫu! Cảm ơn em đã giúp chị nhé~
 
 
 *n_04
-Well, it's not like you asked for much...
+Có gì đâu, chị cũng đâu nhờ em làm nhiều đến thế...
 
 *v_05
-I was afraid your delicate arms would break from the weight of the materials. 
+Chị cứ lo cánh tay mảnh mai của em sẽ gãy mất vì phải mang đống nguyên liệu nặng trịch ấy chứ.
 *
-I'm glad you made it back safely.
+May mà em đã về nhà an toàn.
 
 *n_06
-...Thank you.
+...Cảm ơn chị.
 
 *v_07
-These materials look good, now if only I could obtain that...
+Nguyên liệu trông ổn đấy, giờ chỉ còn thiếu thứ đó nữa thôi...
 
 
 // ========================================================
@@ -234,35 +236,35 @@ These materials look good, now if only I could obtain that...
 
 
 *s01_laevi_3b v_00
-Noel, welcome back~ ...Ah, what happened? That's a rather lewd look for you.
+Noel, em về rồi à~ ...Ơ, có chuyện gì vậy? Trông em hơi...dâm dục đấy~
 
 *n_01
-Sister, p-please forgive my shameful appearance...
+Chị! l-làm ơn tha thứ cho bộ dạng đáng xấu hổ này của em đi màaaa...
 
 *v_02
-There's nothing shameful about your beautiful body and porcelain skin. I'm grateful for the opportunity to admire you like this.
+Có gì đáng xấu hổ đâu chứ. Cơ thể xinh đẹp cùng làn da trắng như sứ của em thế này, được ngắm nhìn quả là một niềm vinh hạnh đối với chị rồi.
 
 *n_03
-I'm not dressed like this on purpose! Monsters attacked me while I was gathering materials...!
+Em đâu có cố tình ăn mặc thế này! Em bị quái vật tấn công lúc đang thu thập nguyên liệu màaa...!
 
 *v_04
-Ah, is that so.
+À, vậy ư?
 *v_04_2
-Monster semen and eggs are miraculous alchemical ingredients. The only problem is they are difficult to collect and spoil easily.
+Tinh dịch và trứng của quái vật là những nguyên liệu giả kim thuật kỳ diệu. Chỉ có điều chúng rất khó thu thập, lại còn dễ hỏng nữa.
 *
-I know, the next time you get covered in monster fluid, come back quickly so I can collect it.
+Chị nghĩ ra rồi, lần sau nếu em bị dịch thể của quái vật dính đầy người thì mau quay về nhé, để chị thu thập chúng.
 
 *n_05
-...I'll pass.
-Anyway, here are the materials you asked for.
+...Em xin kiếu.
+Mà thôi, đây là nguyên liệu chị nhờ em lấy.
 
 *v_06
-Wow, good work!
+Ồ, làm tốt lắm!
 *
-Even after being ravaged by the monsters' big black thing, you still came through for me.
+Dù bị cái thứ đen sì to lớn của lũ quái vật giày vò, em vẫn hoàn thành nhiệm vụ cho chị cơ đấy.
 
 *n_07
-Please stop!
+Chị làm ơn đừng nói nữa!
 
 
 // ========================================================
@@ -272,29 +274,29 @@ Please stop!
 
 
 *s01_laevi_4a b_00
-Um, e-excuse me...Laevi.
+À... x-xin lỗi đã làm phiền, Laevi.
 
 *v_01
-Huh?  Can I help you?
+Hửm? Có chuyện gì sao?
 
 *b_02
-Uhh, I, erm...about my reservation...
+À thì... ừm... về lịch hẹn trong phòng riêng của tôi ấy...
 
 *v_03
-<m ple>Ah! You're a customer of 
-'The room'! <m>You're here a little earlier than your appointment time. Did you want to see me that badly?
+<m ple>À! Anh là khách đã đặt lịch ở
+'Căn Phòng đó'! <m>Anh đến sớm hơn giờ hẹn một chút đấy. Mong gặp tôi đến thế cơ à?
 
 *b_04
-No, it's just that...well...yes.
+Không, chỉ là... ừm... đúng vậy.
 
 *v_05
-Ehehe, happy to hear it! I like your honesty, Jade.
+Ehehe, nghe anh nói vậy tôi vui lắm! Tôi thích sự thành thật của anh đấy, Jade.
 
 *b_06
-<m joy>Well, you know me...<m>haha.
+<m joy>Chà, cô biết tôi mà...<m> haha.
 
 *v_07
-I'll show you to the back. Let's enjoy today, just the two of us, together...
+Để tôi dẫn anh vào trong nhé. Hôm nay, hãy tận hưởng khoảng thời gian chỉ có hai chúng ta bên nhau...
 
 
 
@@ -304,11 +306,11 @@ I'll show you to the back. Let's enjoy today, just the two of us, together...
 
 
 *v_09
-Noel, go upstairs and get Tilde. I need him to watch the store.
+Noel, lên tầng gọi Tilde xuống đây nhé. Chị cần nó trông cửa hàng.
 
 
 *n_10
-O-Okay.
+V-Vâng.
 
 
 // ========
@@ -318,30 +320,30 @@ O-Okay.
 
 
 *n_11
-Eek...!
+Á...!
 
 *b_12
-Ah, um, 'scuse me...
+À, ừm, xin lỗi...
 
 *v_13
-Noel~ If you stand there looking like that, people might think you're using the room with us.
+Noel~ Em cứ đứng đó với vẻ mặt như vậy, người ta lại tưởng em cũng định vào phòng với bọn chị đó.
 *
-...Although, I'm fine with that if you are.
+...Mà nếu em muốn thì chị cũng chẳng phản đối đâu~
 
 *n_14
-N-no! Not in my current state...
+K-Không! Với bộ dạng hiện tại của em thì...
 
 *v_15
-I know you're a bit worn-out right now, but can you go upstairs and get Tilde? I need him to watch the store.
+Chị biết em đang mệt mỏi một chút, nhưng em lên tầng gọi Tilde xuống được không? Chị cần nó trông cửa hàng.
 
 
 *n_16
-...Okay.
+...Vâng.
 
 
 
 *n_20
-...Where might Tilde be?
+...Không biết Tilde đang ở đâu nhỉ?
 
 
 
@@ -355,35 +357,35 @@ I know you're a bit worn-out right now, but can you go upstairs and get Tilde? I
 Tilde.
 
 *d_01
-Noel, welcome back. Were you able to gather the materials safely?
+Noel, em về rồi à. Thu thập nguyên liệu an toàn chứ?
 
 *n_02
-Yeah. Well...I ran into some monsters along the way, but I managed just fine.
+Vâng. À thì... trên đường về em có gặp vài con quái vật, nhưng em vẫn xử lý ổn.
 
 *d_03
-Dang. I bet 40G on you losing big time again.
+Chết tiệt. Anh cá 40G là lần này em lại thua thảm hại cơ đấy.
 
 *n_04
 ...
 
 *d_05
-You're more or less a grown woman, so when the monsters go for your mana, they target your womb and those uselessly big boobs, right?
+Em cũng lớn tướng rồi, nên lúc quái vật nhắm đến mana của em, chúng sẽ tấn công vào tử cung với cặp ngực to tướng vô dụng đó, đúng không?
 
 *n_06
-Eek!! Please don't touch me!
+Á!! Đừng có chạm vào em!
 
 *d_07
-I'm thinking of entering the Department of Magical Biology at Grazia. 
+Anh đang tính vào Khoa Sinh học Ma thuật ở Grazia đây.
 *
-Monsters prefer young female elves who have a lot of mana like yourself, right?
+Quái vật thích những Elf trẻ tuổi có nhiều mana như em lắm, đúng không?
 
 *n_08
-Prefer...
-I'd rather not be targeted at all.
+Thích...
+Em chỉ mong chúng đừng nhắm vào mình thì hơn.
 
 
 *d_09
-But, you can get them to make you feel really good, right? Where does your mana leak out when you are attacked? Hm?
+Nhưng chúng có thể khiến em sung sướng lắm mà, đúng không? Khi bị tấn công, mana của em rò rỉ ra từ đâu vậy? Hửm?
 
 
 // 5-Dへ
@@ -398,31 +400,31 @@ But, you can get them to make you feel really good, right? Where does your mana 
 Tilde.
 
 *d_01
-Noel, welcome ba...whoa, you got beaten to a pulp.
+Noel, mừng em v... Ồ, em bị chơi cho tơi tả rồi kìa.
 
 *n_02
-Sorry, I know I'm a bit unsightly right now...
+Xin lỗi, em biết bộ dạng mình bây giờ trông hơi khó coi...
 
 *d_03
-Eh, it's okay. I bet 40G on you losing.
+Không sao đâu. Anh cá 40G là em sẽ thua tả tơi mà.
 
 *n_04
 ...
 
 *d_05
-Still, I must say elven women make for the best mages. Those huge breasts can store so much mana.
+Dù sao thì, phải công nhận phụ nữ Elf là pháp sư giỏi nhất đấy. Cặp ngực khổng lồ đó có thể chứa được nhiều mana thật đấy.
 
 *n_06
-Nngh...please don't touch me.
+Nngh...Đừng sờ mó lung tung...
 
 *d_07
-Oh, sorry~ Are you still sensitive after being violated? Which part would feel best if touched it?
+Ồ, xin lỗi nhé~ Em vẫn còn nhạy cảm sau khi bị làm nhục à? Chạm vào đâu thì em sẽ thấy dễ chịu nhất nhỉ?
 
 *n_08
-...Maybe that wall over there.
+...Có lẽ là cái bức tường đằng kia.
 
 *d_09
-Hey, don't glare at me like that. I was just trying to help you feel better.
+Này này, đừng trừng mắt nhìn anh như thế chứ. Anh chỉ muốn giúp em thấy khá hơn thôi mà.
 
 
 // 5-Dへ
@@ -433,22 +435,22 @@ Hey, don't glare at me like that. I was just trying to help you feel better.
 
 
 *s01_5d n_00
-...Tilde, your sister wants you to watch the shop.
+...Tilde, chị bảo anh ra trông cửa hàng.
 
 *d_01
-Geez, not again. What a pain.
+Trời ạ, lại nữa rồi. Phiền phức thật.
 *
-When I'm working at the store, sometimes I can hear her and the male customers going at it, and it really bothers me.
+Mỗi khi anh trông cửa hàng, đôi lúc anh lại nghe thấy tiếng chị với mấy gã khách đang hú hí với nhau, khó chịu thật đấy.
 
 
 *n_02
-...But she needs to do it to gather materials for her alchemy.
+...Nhưng chị ấy cần làm vậy để thu thập nguyên liệu cho thuật giả kim.
 
 *d_03
-Fine, I'll go. Hey, if you're ever up for it, tell me about how you lost your virginity to the monsters.
+Được rồi, anh đi đây. Này, nếu có dịp thì kể anh nghe chuyện em đã mất trinh với lũ quái vật thế nào nhé.
 
 *n_04
-Never!
+Không đời nào!
 
 
 
@@ -456,21 +458,21 @@ Never!
 
 
 *s01_5z n_00
-...I should probably 
-go meet sensei...
-She's waiting for me in my room.
+...Mình nên đi gặp
+cô giáo thôi...
+Cô ấy đang đợi mình trong phòng.
 
 *s01_5z n_01
-...She's waiting in the garden behind the kitchen.
+...Cô ấy đang đợi mình ở khu vườn phía sau nhà bếp.
 
 *s01_5z n_02
-...Let's go take sensei's lesson.
+...Đến giờ học với cô giáo rồi.
 
 *s01_5z n_03
-...Let's go meet sensei.
+...Mình đi gặp cô giáo thôi.
 
 *s01_5z n_04
-...I'm hungry.
+...Mình đói bụng rồi.
 
 *s01_5z n_05
-...Let's go say good morning to big sis as well.
+...Mình cũng nên sang chào buổi sáng chị hai nữa.

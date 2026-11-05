@@ -3,11 +3,11 @@
 // ギルドクエスト
 &&GuildQ_categ_collectnew Thu thập
 /* ___ GuildQ_categ_desc_collectnew ___ */ 
-Thu thập các vật phẩm được chỉ định. Chỉ những vật phẩm thu thập sau khi nhận nhiệm vụ mới được tính.
+Thu thập các vật phẩm được chỉ định. Chỉ những vật phẩm thu thập sau khi nhận ủy thác mới được tính.
 
 &&GuildQ_categ_collect Cung cấp
 /* ___ GuildQ_categ_desc_collect ___ */
-Giao các vật phẩm được chỉ định cho hội. Có thể sử dụng những vật phẩm đã thu thập trước khi nhận nhiệm vụ.
+Giao các vật phẩm được chỉ định cho hội. Có thể sử dụng những vật phẩm đã thu thập trước khi nhận ủy thác.
 
 &&GuildQ_categ_defeat Tiêu diệt
 /* ___ GuildQ_categ_desc_defeat ___ */
@@ -18,11 +18,11 @@ Tiêu diệt toàn bộ kẻ địch tại các địa điểm được chỉ đ
 
 &&GuildQ_categ_rescue Cứu hộ
 /* ___ GuildQ_categ_desc_rescue ___ */
-Tìm và giải cứu người được chỉ định trong khu vực. Thất bại trong loại nhiệm vụ này sẽ chịu một mức phạt lớn.
+Tìm và giải cứu người được chỉ định trong khu vực. Thất bại trong loại ủy thác này sẽ chịu một mức phạt lớn.
 
 &&GuildQ_categ_weapon Thử vũ khí
 /* ___ GuildQ_categ_desc_weapon ___ */
-Một yêu cầu đặc biệt từ thợ rèn.
+Một ủy thác đặc biệt từ thợ rèn.
 Sử dụng vũ khí họ cung cấp để tham gia một số trận chiến nhất định.
 
 &&GuildQ_categ_deliver Vận chuyển
@@ -42,271 +42,271 @@ Chúng tôi cần một ít &1 cho công trình xây dựng. Và chúng phải l
 Tôi rất thích hương vị của &1 tươi mới. Làm ơn tìm thêm cho tôi một ít nhé!
 　
 /* ___ GuildQ_categ_comment_collectnew_4 ___ */ 
-I’m in a real catch-22 here. I need new &1 to do my job efficiently, but it’s inefficient to gather it myself! Can you help me out?
+Tôi đang rơi vào tình thế tiến thoái lưỡng nan. Tôi cần &1 mới để làm việc hiệu quả, nhưng tự đi thu thập thì lại không hiệu quả chút nào! Bạn giúp tôi được không?
 　　
 /* ___ GuildQ_categ_comment_collectnew_5 ___ */ 
-My kids asked for some &1, but they’re very picky and don’t want the old ones lying around. Could you gather some new ones for them?
+Các con tôi muốn có một ít &1, nhưng chúng kén chọn lắm và không muốn dùng những thứ cũ còn sót lại. Bạn có thể thu thập vài món mới cho chúng được không?
 
 
 /* ___ GuildQ_categ_comment_collect_0 ___ */
-I need &1 for my alchemy. It’s a little urgent, so I don’t mind if it’s used.
+Tôi cần &1 để làm giả kim thuật. Hơi gấp một chút, nên đồ đã qua sử dụng cũng không sao.
 
 /* ___ GuildQ_categ_comment_collect_1 ___ */
-We need to replenish our stock of &1.
+Chúng tôi cần bổ sung thêm lượng &1 dự trữ.
 
 /* ___ GuildQ_categ_comment_collect_2 ___ */
-My grandpa has a bad knee and needs some &1.
+Ông tôi bị đau đầu gối nặng và cần một ít &1.
 
 /* ___ GuildQ_categ_comment_collect_3 ___ */
-Our warehouse is out of &1. It’s keeping me up at night, so I’ll take any, even if it’s old.
+Kho hàng của chúng tôi đã hết &1. Chuyện này khiến tôi mất ăn mất ngủ, nên loại nào cũng được, kể cả đồ cũ.
 
 /* ___ GuildQ_categ_comment_collect_4 ___ */　
-I have a fun idea for a game and need some &1.
+Tôi có một ý tưởng thú vị cho trò chơi và cần một ít &1.
 
 /* ___ GuildQ_categ_comment_collect_5 ___ */　
-I use &1 to help jumpstart my mornings. Could I trouble you for some?
+Tôi dùng &1 để lấy tinh thần vào mỗi buổi sáng. Phiền bạn kiếm giúp tôi một ít được không?
 　
 /* ___ GuildQ_categ_comment_collect_6 ___ */　
-My neighbor is being a pest and I need some &1 to deal with it.
+Hàng xóm của tôi thật phiền phức, nên tôi cần một ít &1 để xử lý chuyện đó.
 　
 /* ___ GuildQ_categ_comment_collect_7 ___ */　
-I wanna zhuzh up my party dress a little. Some &1 should do the trick!
+Tôi muốn trang trí thêm một chút cho chiếc váy dự tiệc. Một ít &1 chắc sẽ có ích!
 
 /* ___ GuildQ_categ_comment_collect_8 ___ */　
-I need &1 to patch a leak in my house.
+Tôi cần &1 để vá chỗ rò rỉ trong nhà.
 
 /* ___ GuildQ_categ_comment_collect_9 ___ */　
-My baby won’t stop crying without &1. They’re just gonna chew on it again…
+Em bé nhà tôi cứ khóc mãi nếu không có &1. Thể nào nó cũng lại nhai thứ đó thôi...
 
 /* ___ GuildQ_categ_comment_collect_10 ___ */ 
-I’m struggling to finish my masterpiece...
-I think what it needs is &1!
+Tôi đang chật vật hoàn thành kiệt tác của mình...
+Tôi nghĩ thứ còn thiếu chính là &1!
 
 /* ___ GuildQ_categ_comment_collect_11 ___ */　
-Give me...&1...
-I NEED IT!
+Đưa cho tôi... &1...
+TÔI CẦN NÓ!
 
 /* ___ GuildQ_categ_comment_collect_12 ___ */ 
-I heard &1 is trendy these days, so I’d like to try it out.
+Tôi nghe nói dạo này &1 đang là xu hướng, nên muốn thử xem sao.
 
 /* ___ GuildQ_categ_comment_collect_13 ___ */　
-Could I trouble you for some &1 so I can finish painting my sign?
+Phiền bạn kiếm giúp tôi một ít &1 để tôi hoàn thành việc vẽ bảng hiệu nhé?
 
 /* ___ GuildQ_categ_comment_collect_14 ___ */
-My favorite chair broke and my spouse told me to get some &1 for repairs. I’m not sure that’s right...
+Chiếc ghế yêu thích của tôi bị hỏng, và người bạn đời bảo tôi kiếm ít &1 để sửa. Nhưng tôi không chắc dùng thứ đó có đúng không...
 
 /* ___ GuildQ_categ_comment_collect_15 ___ */
-My lover snores really loud. Could I have some &1?
+Người yêu tôi ngáy to khủng khiếp. Bạn có thể cho tôi một ít &1 không?
 　
 /* ___ GuildQ_categ_comment_collect_16 ___ */　
-&1 is all the rage at my daughter’s school, but I can’t seem to get my hands on any...
+&1 đang rất thịnh hành ở trường con gái tôi, nhưng tôi chẳng biết kiếm đâu ra...
 
 /* ___ GuildQ_categ_comment_collect_17 ___ */
-I need some &1 to make my secret broth. Without it, I’ll have to close down...
+Tôi cần một ít &1 để nấu món nước dùng bí truyền. Nếu không có nó, tôi sẽ phải đóng cửa mất...
 
 /* ___ GuildQ_categ_comment_collect_18 ___ */
-I ate something weird and the doctor told me I needed &1 asap.
-...Am I gonna die?
+Tôi ăn phải thứ gì đó kỳ lạ và bác sĩ bảo tôi cần &1 càng sớm càng tốt.
+...Tôi sắp chết rồi sao?
 
 /* ___ GuildQ_categ_comment_collect_19 ___ */ 
-My gambling luck has been terrible lately. Someone told me that &1 works as a lucky charm.
+Dạo gần đây vận may cờ bạc của tôi tệ hại quá. Có người bảo &1 có thể đem lại may mắn.
 
 /* ___ GuildQ_categ_comment_collect_20 ___ */　
-I really need some &1. Don’t ask why.
+Tôi thực sự cần một ít &1. Đừng hỏi lý do.
 
 /* ___ GuildQ_categ_comment_collect_21 ___ */　
-I’m locked out of my house. Get me &1 so I can break down the door.
+Tôi bị khóa ngoài nhà rồi. Kiếm cho tôi &1 để tôi phá cửa vào.
 
 /* ___ GuildQ_categ_comment_collect_22 ___ */　
-My dearly departed spouse used to love &1. Could you please get me some so I can remember the good times.
+Người bạn đời quá cố của tôi từng rất thích &1. Bạn có thể kiếm giúp tôi một ít để tôi nhớ lại những ngày tháng đẹp đó được không?
 
 /* ___ GuildQ_categ_comment_collect_23 ___ */
-I need &1 to keep away troublemakers.
+Tôi cần &1 để ngăn lũ gây rối.
 
 /* ___ GuildQ_categ_comment_collect_24 ___ */　
-The forest and mountains are dangerous. I’d like some &1 to help ward away evil.
+Rừng và núi đều rất nguy hiểm. Tôi muốn có một ít &1 để xua đuổi tà khí.
 
 /* ___ GuildQ_categ_comment_cook_0 ___ */　
-I’m in the mood for &1 today.
-Please and thank you.
+Hôm nay tôi muốn ăn &1.
+Làm phiền bạn nhé, xin cảm ơn.
 　
 /* ___ GuildQ_categ_comment_cook_1 ___ */
-I used to eat &1 at my parent’s house all the time. Can anyone recreate my mom’s special recipe?
+Hồi ở nhà bố mẹ, tôi thường xuyên được ăn &1. Có ai có thể tái hiện lại được công thức đặc biệt của mẹ tôi không?
 
 /* ___ GuildQ_categ_comment_cook_2 ___ */　
-Just once I’d like to try &1.
+Tôi chỉ muốn được thử &1 một lần thôi.
 
 /* ___ GuildQ_categ_comment_cook_3 ___ */　
-I miss the &1 my dad used to make on his days off…
-Could you please make it for me?
+Tôi nhớ món &1 mà bố thường làm vào những ngày nghỉ…
+Bạn làm giúp tôi một phần được không?
 
 /* ___ GuildQ_categ_comment_cook_4 ___ */　
-I’m a bit of a picky eater, but I’d like to try &1 for once.
-I’ll try not to criticize it too much.
+Tôi hơi kén ăn, nhưng muốn thử &1 một lần xem sao.
+Tôi sẽ cố không chê bai quá nhiều.
 
 /* ___ GuildQ_categ_comment_cook_5 ___ */
-I usually eat &1 before I go to work, but my usual diner is closed today. Could you make it for me instead, please?
+Tôi thường ăn &1 trước khi đi làm, nhưng quán quen hôm nay đóng cửa rồi. Bạn có thể làm giúp tôi một phần được không?
 
 /* ___ GuildQ_categ_comment_cook_6 ___ */　　
-I forgot to order &1 hors d'oeuvres for my party. Could you make some fresh ones for me pretty please?
+Tôi quên đặt món khai vị &1 cho bữa tiệc. Bạn có thể làm vài phần cho tôi được không? Cảm ơn nhé!
 
 
 /* ___ GuildQ_categ_comment_defeat_0 ___ */　　
-We’ve got reports of nocturnal monsters now attacking during the day. Please stop them before they become even more emboldened.
+Có tin báo rằng những con quái vật hoạt động về đêm giờ đang tấn công cả ban ngày. Xin hãy ngăn chặn chúng trước khi chúng càng lúc càng hung hăng.
 
 /* ___ GuildQ_categ_comment_defeat_1 ___ */　　
-An outbreak of powerful monsters has been reported. Please be careful with this one.
+Có báo cáo về một đợt bùng phát quái vật mạnh. Xin hãy hết sức cẩn thận với ủy thác này.
 
 /* ___ GuildQ_categ_comment_defeat_2 ___ */　　
-An abnormal energy fluctuation has been reported. We urge any available guild members to look into this.
+Đã có báo cáo về sự dao động năng lượng bất thường. Chúng tôi kêu gọi các thành viên hội có thể tham gia hãy đến điều tra.
 
 /* ___ GuildQ_categ_comment_defeat_3 ___ */　　
-Monsters are swarming around mana plant groves. Please take them out before things get out of control.
+Quái vật đang tụ tập đông quanh những lùm Cây Mana. Xin hãy tiêu diệt chúng trước khi tình hình vượt khỏi tầm kiểm soát.
 
 /* ___ GuildQ_categ_comment_defeat_4 ___ */　　
-I sensed something unusual on my way into town. It might be nothing, but could you please check, just in case?
+Tôi cảm nhận được điều gì đó bất thường trên đường vào thị trấn. Có thể chẳng có gì đâu, nhưng bạn có thể kiểm tra để đề phòng không?
 
 
 /* ___ GuildQ_categ_comment_rescue_0 ___ */　　
-My daughter is missing. I’m worried the monsters might have gotten her. This was where she was last sighted. Please find her.
+Con gái tôi mất tích rồi. Tôi lo rằng nó đã bị quái vật bắt đi. Đây là nơi người ta nhìn thấy con bé lần cuối. Xin hãy cứu bé nó với.
 
 /* ___ GuildQ_categ_comment_rescue_1 ___ */　　
-I got separated from my friend and can’t find them. Here’s where we were last together...
+Tôi bị lạc mất bạn mình và không thể tìm thấy người ấy. Đây là nơi chúng tôi ở cùng nhau lần cuối...
 
 /* ___ GuildQ_categ_comment_rescue_2 ___ */　　
-My lover was captured by monsters! I’m not a fighter, so I need someone to help.
-Here’s where the monsters attacked us...
+Người yêu tôi bị quái vật bắt rồi! Tôi không biết chiến đấu, nên cần người giúp đỡ.
+Đây là nơi quái vật tấn công chúng tôi...
 
 /* ___ GuildQ_categ_comment_rescue_3 ___ */　　
-One of our students didn’t make it to school today after leaving their village. Here’s where we suspect they might be...
+Một trong các học viên của chúng tôi đã không đến trường hôm nay sau khi rời làng. Chúng tôi nghi ngờ em ấy đang ở khu vực này...
 
 /* ___ GuildQ_categ_comment_weapon_0 ___ */　　
-I need someone to test out the new staff I made. Defeat some monsters with it and report the performance back to me.
+Tôi cần người thử cây trượng mới chế tác. Hãy dùng nó để đánh bại một vài con quái vật rồi báo cáo lại hiệu năng cho tôi.
 
 
 /* ___ GuildQ_categ_comment_deliver_0 ___ */　　
-I have a delivery request for a client of mine. It’s delicate, so please be careful with it.
+Tôi có một đơn giao hàng cho khách. Hàng khá dễ vỡ, nên xin hãy cẩn thận.
 
 /* ___ GuildQ_categ_comment_deliver_1 ___ */　　
-My kid forgot the materials for their presentation today. Can you please take it to them?
+Con tôi quên mang tài liệu cho buổi thuyết trình hôm nay. Bạn có thể đem chúng đến cho con bé được không?
 
 /* ___ GuildQ_categ_comment_deliver_2 ___ */　　
-Our delivery person fell asleep and we have a quota to meet. Can you pitch in for them?
+Người giao hàng của chúng tôi ngủ quên mất, trong khi chúng tôi vẫn còn chỉ tiêu phải hoàn thành. Bạn có thể làm thay phần người đó không?
 
 /* ___ GuildQ_categ_comment_deliver_3 ___ */　　
-It’s my girlfriend’s birthday and I left my present for her at home! Can you go get it for me?
+Hôm nay là sinh nhật bạn gái tôi, nhưng tôi lại để quà cho cô ấy ở nhà mất rồi! Bạn có thể lấy giúp tôi được không?
 
 // ========================
 
 /* ___ Guild_alert_progressing ___ */
-You currently have &1 requests in progress. If you accept this request, they will be cancelled and you will be penalized &2 GP.
-Proceed?
+Bạn hiện có &1 ủy thác đang thực hiện. Nếu chấp nhận ủy thác này, các ủy thác đó sẽ bị hủy và bạn sẽ bị phạt &2 GP.
+Bạn có muốn tiếp tục không?
 
 /* ___ Guild_alert_progressing_one ___ */
 
-If you cancel &1, you will be penalized &2 GP.
-Proceed?
+Nếu hủy &1, bạn sẽ bị phạt &2 GP.
+Bạn có muốn tiếp tục không?
 
 
-&&Guild_rank Guild Rank:
+&&Guild_rank Cấp bậc hội:
 &&Guild_current_gp &1 GP
 &&Guild_progress_gp <font color="&2"> → &1 GP</font>
 
-&&Guild_tab_current_prgoress Current requests
+&&Guild_tab_current_prgoress ủy thác hiện tại
 
 &&Guild_entry_title 【&1】
 &&Guild_entry_title_collect &1 &2 x&3
 
-&&Guild_detail_obtain_money <img mesh="money_icon" width=18 />Earned &1
-&&Guild_detail_obtain_rank GP Earned &1 / GP Lost &2
-&&Guild_detail_receivable_quest Available &1 / &2
+&&Guild_detail_obtain_money <img mesh="money_icon" width=18 />Kiếm được &1
+&&Guild_detail_obtain_rank GP nhận được: &1 / GP mất: &2
+&&Guild_detail_receivable_quest Có thể nhận &1 / &2
 
 
-&&Guild_total_reward_money Total: <img mesh="money_icon" width="30" scale="1" /><font size="120%" color="ff:#4150FF">&1</font>
+&&Guild_total_reward_money Tổng cộng: <img mesh="money_icon" width="30" scale="1" /><font size="120%" color="ff:#4150FF">&1</font>
 /* ___ Guild_collect_detail ___ */
-Target: &1
+Mục tiêu: &1
 
-&&Guild_recieving_ask Accept this request?
-&&Guild_recieving_temp You cannot cancel after you leave the reception counter.
-&&Guild_recieving_already You’ve already accepted this request.
+&&Guild_recieving_ask Chấp nhận ủy thác này?
+&&Guild_recieving_temp Bạn không thể hủy sau khi rời quầy tiếp tân.
+&&Guild_recieving_already Bạn đã chấp nhận ủy thác này rồi.
 
-&&Guild_Btn_recieve_quest Accept
-&&Guild_Btn_abort_quest_ask Cancel request
-&&Guild_Btn_abort_quest Cancel request
-&&Guild_Btn_abort_quest_temp I've changed my mind
-&&Guild_Btn_deliver_ask Turn in
-&&Guild_Btn_deliver Turn in
-&&Guild_Btn_recipebook <key d/>+<key a/>Confirm on map
+&&Guild_Btn_recieve_quest Chấp nhận
+&&Guild_Btn_abort_quest_ask Hủy ủy thác
+&&Guild_Btn_abort_quest Hủy ủy thác
+&&Guild_Btn_abort_quest_temp Mình đổi ý rồi
+&&Guild_Btn_deliver_ask Nộp ủy thác
+&&Guild_Btn_deliver Nộp ủy thác
+&&Guild_Btn_recipebook <key d/>+<key a/>Xác nhận trên bản đồ
 
-&&Guild_Btn_abort_recieve_new Cancel old, accept new
-&&Guild_Btn_confirm_quest Accept
-&&Guild_Btn_confirm_quest_cancel Cancel
+&&Guild_Btn_abort_recieve_new Hủy ủy thác cũ, nhận ủy thác mới
+&&Guild_Btn_confirm_quest Chấp nhận
+&&Guild_Btn_confirm_quest_cancel Hủy
 
 
-&&Guild_Inventory_mine Inventory/Storage
-&&Guild_Inventory_deliver Target
-&&Guild_item_deliver_count Need &1 more
+&&Guild_Inventory_mine Túi đồ/Kho chứa
+&&Guild_Inventory_deliver Mục tiêu
+&&Guild_item_deliver_count Cần thêm &1
 
-&&Guild_cmd_map_return <key cancel/>Return
+&&Guild_cmd_map_return <key cancel/>Quay lại
 
-&&KD_guild_add <key add/>Accept
-&&KD_guild_rem <key rem/>Cancel
+&&KD_guild_add <key add/>Chấp nhận
+&&KD_guild_rem <key rem/>Hủy
 
 /* ___ Guild_alert_cannotreceive_max ___ */
-You have reached the limit of concurrent requests for your guild level.
+Bạn đã đạt giới hạn số ủy thác có thể nhận cùng lúc ở cấp bậc hội hiện tại.
 
 /* ___ Guild_alert_cannotreceive_not_discovered ___ */
-You have not yet discovered this location.
+Bạn vẫn chưa khám phá địa điểm này.
 
 
 // ========================
-&&subquest_gq_report Report to the guild.
+&&subquest_gq_report Báo cáo với hội.
 
 
-&&Guild_pickup_fof_fieldguide このクエストのピックアップ
+&&Guild_pickup_fof_fieldguide Tiêu Điểm ủy thác
 
 
-&&subquest_gq_collect Hand in the items
-&&subquest_gq_collect_new Collect the items
-&&subquest_gq_defeat Defeat the monsters at
+&&subquest_gq_collect Nộp vật phẩm
+&&subquest_gq_collect_new Thu thập vật phẩm
+&&subquest_gq_defeat Tiêu diệt quái vật tại
 
 &&subquest_gq_defeat_count x&1
 // 【雨】 などなど
-&&subquest_gq_defeat_dangerousness Danger level +&1
+&&subquest_gq_defeat_dangerousness Cấp độ nguy hiểm +&1
 &&subquest_gq_defeat_weather 【&1】
-&&subquest_gq_defeat_attr 【Attribute】
+&&subquest_gq_defeat_attr 【Thuộc tính】
 &&subquest_gq_defeat_attr_detail 【&1】
 &&subquest_gq_defeat_fix_enemy 【&1】
 
 
 // ========================
-&&Guild_reel_submit Open all chests\n<font size="12">(Consumes all reels)</font>
+&&Guild_reel_submit Mở tất cả rương\n<font size="12">(Tiêu hao toàn bộ cuộn quay)</font>
 
-&&Guild_reward Reward reel
-&&Guild_Btn_open_quest_tab Open request tab
-&&Submit_gohome_abort_quest Leave (abandon requests)
+&&Guild_reward Cuộn thưởng
+&&Guild_Btn_open_quest_tab Mở mục ủy thác
+&&Submit_gohome_abort_quest Rời đi (bỏ ủy thác)
 
 /* ___ Guild_reel_hold ___ */
-&1 reel(s) and &2 chest(s) stored in the guild.
+Hiện đang lưu &1 cuộn rương và &2 rương tại hội mạo hiểm.
 
 /* ___ Guild_reel_hold_2 ___ */
-Max &1 chests can be stored.
+Có thể lưu tối đa &1 rương.
 
 /* ___ Guild_reel_hold_over ___ */
-Max number of chests has been exceeded. Please open them to claim your reward.
+Đã vượt quá số rương có thể lưu. Hãy mở rương để nhận phần thưởng.
 
 
 /* ___ Guild_reel_failure_penalty ___ */
-As penalty for failing, all chests will now open.
+Do thất bại, tất cả rương sẽ được mở ngay lập tức.
 
 
 /* ___ Guild_alert_goout_another_area ___ */
-You currently have &1 request(s) in progress for the guild. If you leave, you might not be able to complete them.
+Bạn hiện có &1 ủy thác của hội đang thực hiện. Nếu rời đi, bạn có thể sẽ không hoàn thành được chúng.
 
 /* ___ Guild_alert_backhome_without_clear ___ */
-You accepted &1 request(s) from the guild, and &2 remain incomplete. If you leave now, incomplete quests will be failed.
+Bạn đã nhận &1 ủy thác từ hội, trong đó còn &2 ủy thác chưa hoàn thành. Nếu rời đi lúc này, các ủy thác chưa hoàn thành sẽ bị tính là thất bại.
 
-&&Guild_reward_multi_quest Streak Bonus
+&&Guild_reward_multi_quest Thưởng chuỗi ủy thác
 
 &&Guild_reward_chip Chip
 
@@ -315,18 +315,18 @@ You accepted &1 request(s) from the guild, and &2 remain incomplete. If you leav
 // MARK : 0.27c ギルド終了画面用の修正
 // ========================================================
 
-&&Guild_whole_quit Quit
-&&Guild_back_quest_selection Return 
+&&Guild_whole_quit Thoát
+&&Guild_back_quest_selection Quay lại  
 
 
 // ========================================================
 // MARK : 030 ニュース
 // ========================================================
 
-&&EvTitle_news_p104_nusi Who will stop its rampage?
-&&EvTitle_news_p105_lost Missing persons
-&&EvTitle_news_p107_td State of emergency
-&&EvTitle_news_p200_lost Who is behind the disappearances?
-&&EvTitle_news_p200_spider Mountain perils
-&&EvTitle_news_p200_claim Statement on the attack
-&&EvTitle_news_ad Ad
+&&EvTitle_news_p104_nusi Ai sẽ ngăn chặn cơn cuồng nộ của nó?
+&&EvTitle_news_p105_lost Người mất tích
+&&EvTitle_news_p107_td Tình trạng khẩn cấp
+&&EvTitle_news_p200_lost Ai đứng sau những vụ mất tích?
+&&EvTitle_news_p200_spider Hiểm họa vùng núi
+&&EvTitle_news_p200_claim Tuyên bố về vụ tấn công
+&&EvTitle_news_ad Quảng cáo

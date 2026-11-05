@@ -15,32 +15,32 @@
 
 //中央の二人組
 *___mountain/_caravan_center_t00 mb1_00
-Yo, Merch! Over here!
+Này, Thương nhân! Ở đằng này, đằng này!
 
 *n_01
-Uh...are you talking to me?
+Ơ... chú đang gọi cháu à?
 
 *mb2_02
-<m fadein>Huh? Oh, whoops!
+<m fadein>Hả? Ồ, nhầm rồi!
 *
-We thought you were that elf merchant that stops by occasionally.
+Bọn tôi tưởng cô bé là nữ thương nhân Elf thỉnh thoảng ghé qua đây.
 
 *mb1_03
-She's the only elf that ever comes here. I just saw the ears and thought you were her, <m scary>gahaha!
+Cô ấy là Elf duy nhất thường xuyên đến đây mà. Tôi vừa thấy tai cô nên tưởng là cô ấy, <m scary>gahaha!
 
 // 2回目
 
 *mb1_10
-Think her name was Nightingale or something. She carries a whole pack of stuff up here from the forest.
+Hình như tên cô ấy là Nightingale hay gì đó. Cô ấy mang cả đống đồ từ trong rừng lên tận đây.
 
 *mb2_11
-Dunno how she does it, being as skinny as she is.
+Không biết cô ấy đem theo đống đó kiểu gì được nhỉ, người thì gầy nhẳng như vậy.
 
 *mb1_12
-She's probably stronger than you. You should try arm-wrestling her next time she's around.
+Có khi cô ấy còn khỏe hơn chú đấy. Lần sau gặp thì thử vật tay với cô ấy khi cô ấy ghé qua xem.
 
 *mb2_13
-Haha, I'm pretty sure I would win, but I don't think it's worth the potential embarrassment.
+Haha, tôi khá chắc là mình sẽ thắng, nhưng nghĩ đến cảnh thua mất mặt thì thôi vậy.
 
 
 // ========================================================
@@ -48,79 +48,79 @@ Haha, I'm pretty sure I would win, but I don't think it's worth the potential em
 // ========================================================
 
 *___mountain/_caravan_church_t00 mb_0
-This is the Mount Fallen branch of the Heavenly Facilities. We also look after orphaned children here.
+Đây là chi nhánh cô nhi viện Núi Fallen của Cơ Sở Thiên Giới. Tại đây chúng tôi cũng chăm sóc những đứa trẻ mồ côi ở đây.
 
 *mb_10
-Us beastment were born from our Father, who we were separated from when he ascended to Heaven.
+Chúng tôi, những thú nhân, được sinh ra từ Đức Cha, nhưng đã bị chia cắt khỏi Người khi Người lên trời.
 *
-In that sense, we are kindred spirits with the children we look after.
+Xét theo khía cạnh đó, chúng tôi cũng có chung hoàn cảnh với những đứa trẻ mà mình đang chăm sóc.
 
 
 // ちゃらそうなお姉さん
 
 *___mountain/_caravan_church_t01 mb_00
-Why do orphans even exist?
+Chị thắc mắc...Tại sao lại có trẻ mồ côi nhỉ?
 
 *mb_01
-The Heavenly Facilities only prepare as many bodies as are needed, so there shouldn't be any extras.
+Cơ Sở Thiên Giới chỉ tạo ra số lượng cơ thể vừa đủ cần thiết, vậy nên đáng lẽ không thể có cơ thể dư thừa mới phải.
 
 *mb_02
-So then, are orphans made by accident or something?
+Vậy thì trẻ mồ côi được tạo ra do nhầm lẫn hay gì đó à?
 
 *n_03
-Well, that's not an entirely incorrect way to phrase it, but...
+Nói như vậy cũng không hẳn là sai, nhưng...
 *
-You see...elves and beastmen differ in how they're created.
+Chuyện là...Cách mà Elf và thú nhân được tạo ra khác nhau.
 
 *mb_04
-<angry><m ple>They do!? Then, how is an elf made!?
+<angry><m ple>Thật á!? Vậy Elf được tạo ra như thế nào!?
 
 *n_05
-<m scary>W-Well...when a man and a woman get together...they...uh...
+<m scary>Ch-Chuyện đó... khi một người đàn ông và một người phụ nữ ở bên nhau... thì... ừm...
 *
-<m ple>I'm sorry, I have to go!
+<m ple>Em xin lỗi, em phải đi đây!
 
 
 //夜に話を聞く
 *mb_10
-Before I got assigned here, I failed at everything I did.
+Trước khi được phân công đến đây, tôi đã thất bại trong mọi việc mình làm.
 *
-Watching over these children, playing with them...
-I think I've found my calling.
+Nhưng khi trông nom những đứa trẻ này, chơi đùa cùng chúng...
+Tôi nghĩ tôi đã tìm được nơi thuộc về mình.
 *
-I hope one day each of them will find their passion too.
+Tôi hy vọng một ngày nào đó, mỗi đứa trẻ ở đây cũng sẽ tìm được điều mà chúng yêu thích.
 
 
 // 獣人のシスター。小さなお墓の前で
 
 *___mountain/_caravan_church_t10 mb1_0
-This is the graveyard for elf children who passed away here.
+Đây là nghĩa trang dành cho những đứa trẻ Elf đã qua đời tại nơi này.
 *
-We do not understand why our Father calls them back to him so soon, but perhaps that is not for us to know.
+Bọn tôi không hiểu tại sao Đức Cha lại gọi các em về bên Người sớm đến vậy, nhưng có lẽ đó không phải điều mà chúng tôi cần biết.
 *
-Their souls watch down on us all the same.
+Dù sao thì linh hồn của các em vẫn luôn dõi theo chúng ta.
 *
-Us beastmen do not know such joy. Our souls are called back to the Mother Tree.
+Còn thú nhân chúng tôi thì không biết đến niềm hạnh phúc ấy. Linh hồn chúng tôi sẽ được đưa trở về Mẫu Thụ.
 *
-And when the time comes, we are given a new body and reborn at the Heavenly Facilities.
+Và khi đến lúc, chúng tôi sẽ được ban cho một cơ thể mới và tái sinh tại Cơ Sở Thiên Giới.
 
 *mb1_10
-Does each individual beastman even have a proper soul?
+Liệu mỗi thú nhân có thực sự sở hữu một linh hồn riêng biệt không?
 *
-With a new body, memories, and function given to them each time, how can you tell where one soul ends and another begins?
+Mỗi lần đều được ban cho một cơ thể, ký ức và sứ mệnh mới, vậy làm sao có thể xác định linh hồn của người này kết thúc và người khác bắt đầu từ đâu?
 *
-Some have claimed that beastmen don't have souls at all.
+Có người cho rằng thú nhân hoàn toàn không có linh hồn.
 *
-That we're just empty husks doing what we're programmed to do.
+Rằng chúng tôi chỉ là những cái vỏ rỗng, làm theo những gì đã được lập trình sẵn.
 *
-The love that I feel for each child I care for tells me otherwise.
+Nhưng tình yêu tôi dành cho từng đứa trẻ mình chăm sóc đã cho tôi biết điều ngược lại.
 
 
 // ========================================================
 // MARK : 天辺施設ドア
 // ========================================================
 *___mountain/_caravan_church_door n_00
-This door is locked with a keycard reader. It says “No entry for unauthorized personnel.”
+Cánh cửa này được khóa bằng đầu đọc thẻ từ. Trên đó có ghi “Không phận sự miễn vào”.
 
 
 // ========================================================
@@ -129,44 +129,44 @@ This door is locked with a keycard reader. It says “No entry for unauthorized 
 
 // 牧場作業を監督してそうな人
 *___mountain/_caravan_farm_t00 mb1_00
-There's a great fishing spot just out past the orphanage.
+Có một địa điểm câu cá khá tuyệt vời ngay bên ngoài cô nhi viện.
 *
-Our chickens get first dibs on whatever we catch.
+Đàn gà của chúng tôi sẽ được ăn bất cứ thứ gì mà chúng tôi câu được.
 *
-Children get the next bite, then the rest of us.
+Sau đó đến lượt bọn trẻ, rồi mới đến chúng tôi.
 *
-We don't mind starving a little bit if it's for the sake of our chicken and children. We're easy to replace!
+Chúng tôi chẳng ngại chịu đói một chút nếu điều đó tốt cho lũ gà và bọn trẻ. Dù sao thì chúng tôi cũng dễ dàng được thay thế mà!
 
 *mb1_10
-Jeff told me he saw a black ghost or something come outta the water down in the caves th' other day.
+Hôm trước Jeff bảo tôi rằng cậu ta thấy một bóng ma đen hay thứ gì đó trồi lên khỏi mặt nước dưới hang động.
 *
-Prob'ly just a hallucination from the higher concentration of mana down there.
+Chắc chỉ là ảo giác do nồng độ mana ở dưới đó cao hơn thôi.
 *
-He'd best check his filters to make sure they're workin' properly, or a hallucination'll be the least of his worries.
+Tốt nhất cậu ta nên kiểm tra lại bộ lọc xem có hoạt động bình thường không, nếu không thì ảo giác sẽ là chuyện nhỏ nhất mà cậu ta phải lo đấy.
 
 
 *n_11
-<think>A black ghost? That sounds unrelated to the mystery girl. Still, it's kinda creepy...
+<think>Một bóng ma đen à? Nghe chẳng liên quan gì đến cô gái bí ẩn kia. Dù vậy, cũng hơi đáng sợ thật...
 
 // ファーストに出会っている
 *n_12
-<think>A black ghost...down in the caves...near water...
-That sounds like the fishing monster I ran into.
+<think>Một bóng ma đen... dưới hang động... gần mặt nước...
+Nghe giống con quái vật câu cá mà mình từng gặp.
 
 
 // 牧場に遊びに来ている孤児院のキッズ
 
 *___mountain/_caravan_farm_t01 mb2_00
-Aren't chickens just adorable~?
+Đàn gà dễ thương quá đi~!
 
 *n_01
-<think>Are these really chickens?
+<think>Đây thực sự là gà sao?
 
 *mb2_02
-Oh, it's eating the fish! Look at it go!!
+Ồ, nó đang ăn cá kìa! Nhìn nó ăn ngon lành chưa!!
 
 *n_03
-<think>Do chickens normally eat fish? Now I'm even more doubtful.
+<think>Gà bình thường cũng ăn cá à? Giờ mình càng thấy nghi ngờ chúng hơn rồi.
 
 
 // ========================================================
@@ -176,31 +176,31 @@ Oh, it's eating the fish! Look at it go!!
 // 露天商のお姉さん
 
 *___mountain/_caravan_market_t00 n_00
-Um, excuse me.
+Ừm, xin lỗi.
 
 *mb1_01
-Yes? What can I do for you?
+Gì đó? Chị có thể giúp gì cho cô bé đây?
 
 *n_02
-I'm looking for someone. She looks like an elf, but she has round ears, pink hair...
+Em đang tìm một người. Cô ấy trông giống Elf, nhưng lại có đôi tai tròn, tóc hồng...
 
 *mb1_03
-Sorry, I don't know anyone like that.
+Xin lỗi, chị không biết ai như vậy cả.
 
 *mb1_04
-Try asking in the tavern. Lots of people pass through there.
+Thử hỏi ở quán rượu xem. Rất nhiều người thường ghé qua đó.
 *
-I'll keep an eye out for her, though. Does she have any other distinguishing features?
+Dù vậy, chị sẽ để ý giúp em. Cô gái ấy còn có đặc điểm nào dễ nhận biết nữa không?
 
 *n_05
-Um...her outfit is very revealing.
+Ừm... trang phục của cô ấy khá hở hang.
 
 *mb1_06
-<m fadein>Oh-...k-a-a-y-y...
-Did you want to browse my wares?
+<m fadein>Ồ... à-à...
+Cô có muốn xem qua hàng của tôi không?
 
 *n_07
-Yes, please.
+Vâng, làm phiền chị.
 
 
 // ========================================================
@@ -210,16 +210,16 @@ Yes, please.
 //おかみさん
 
 *___mountain/_caravan_bar_t00 mb_00
-Had a Grazian soldier come in here the other day lookin' for trouble.
+Hôm trước có một tên lính Grazia đến đây kiếm chuyện.
 
 *mb_01
-He blamed the whole Bermit attack on us. Called us <m scary>“a bunch of lazy, good-for-nothing, slackers!”
+Hắn đổ hết trách nhiệm cho vụ tấn công Bermit lên đầu chúng tôi. Còn gọi chúng tôi là <m scary>“một lũ lười biếng, vô dụng, chẳng làm nên trò trống gì!”
 
 *mb_02
-I told him the beastmen in Grazia are responsible for the barrier, go yell at them.
+Tôi bảo hắn rằng chính đám thú nhân ở Grazia chịu trách nhiệm về kết giới, muốn chửi thì đi mà chửi chúng.
 
 *mb_03
-But he didn't care. If one beastman is a screw-up, we all are, I guess...
+Nhưng hắn chẳng thèm quan tâm. Chỉ cần một thú nhân làm hỏng chuyện thì tất cả chúng tôi đều bị xem là như vậy, chắc thế...
 
 
 // ---
@@ -229,90 +229,90 @@ But he didn't care. If one beastman is a screw-up, we all are, I guess...
 
 
 *___mountain/_caravan_bar_t01 mb_00
-Hey girl. Never seen you before. What brings you around?
+Này cô bé. Chưa từng thấy cô ở đây bao giờ. Cô đến đây có việc gì vậy?
 
 *n_00
-I'm looking for someone.
+Cháu đang tìm một người ạ.
 
 *mb_01
-A friend, I'd wager.
+Chắc là một người bạn nhỉ, đúng chứ?
 
 *mb_01_2
-Why don't you pour me a drink?
+Sao không rót cho ta một ly nhỉ?
 
 *n_02
-Oh, um...okay.
+Ồ, ừm...dạ.
 
 *mb_03
-Hehe, thanks. Drinking's about the only fun thing to do when you get to my age.
+Hehe, cảm ơn nhé. Ở cái tuổi này, uống rượu gần như là thú vui duy nhất của ta rồi.
 
 *mb_04
-So, who'r y'lookin' for? An elf? A beastman?
+Thế cô bé đang tìm ai? Một Elf? Hay một thú nhân?
 
 *n_05
-I'm actually not sure what she is.
+Thật ra cháu cũng không rõ cô ấy là thứ gì đi nữa.
 *
-She's got pink hair, round ears, red eyes, and a monster that follows her around.
+Cô ấy có mái tóc hồng, tai tròn, mắt đỏ và một con quái vật luôn đi theo bên cạnh.
 
 *mb_06
-Hmm, doesn't sound like anyone I know.
+Hmm, nghe không giống ai mà ta biết cả.
 *
-Sorry, girl.
+Xin lỗi nhé, cô bé.
 
 *mb_06_2
-Although...hmm...
-It's a long shot, but you might check Tunnel One.
+Mặc dù... hmm...
+Cũng khó nói lắm, nhưng cô có thể thử đến Đường Hầm số Một xem.
 
 *n_06
-Where's that?
+Dạ..? chỗ đó ở đâu vậy ạ?
 
 *mb_07
-Underneath the settlement, just to the west.
+Bên dưới khu định cư, về phía tây một chút.
 
 *mb_08
-We sealed it off after the mana plants became too much for us to handle.
+Chúng tôi đã phong tỏa nó sau khi đám cây mana sinh sôi quá mức, không thể kiểm soát nổi nữa.
 
 *mb_08_2
-<c5>Check the mine shaft where the coal elevators are<c0>. The entrance is about halfway up.
+<c5>Kiểm tra lưng chừng giữa đường nơi có thang nâng than trong hầm mỏ<c0>. Lối vào nằm ở đó.
 *
-The rubble we blasted to close it off years ago shouldn't be as sturdy as it once was.
+Đống đất đá mà chúng tôi cho nổ để bịt kín nó từ nhiều năm trước chắc cũng chẳng còn vững chắc như ngày đó đâu.
 
 *n_10
-<c5>Halfway up the elevator shaft<c0>...
-Got it, thanks!
+<c5>lưng chừng giữa giếng thang nâng<c0>...
+cháu hiểu rồi, cảm ơn chú nhiều!
 
 *mb_09
-Think our security system used to run through that tunnel.
+Tôi nghĩ hệ thống an ninh của chúng tôi trước đây được kết nối thông qua đường hầm đó.
 *
-Ah, smart girl like you...you'll figure a way around it...(hic).
+Một cô gái thông minh như cô bé... chắc sẽ tìm được cách vượt qua thôi...(hic).
 
 *mb_11
-If you find your friend, tell her to stop playin' around with monsters. Ain't good gettin' ‘em all riled up like they been...
+Nếu tìm được bạn mình, bảo cô bé ấy đừng có đùa giỡn với lũ quái vật nữa. Chọc cho chúng nổi điên lên như thế chẳng tốt chút nào đâu...
 
 
 // 酔っ払い1 (アリス発見前)
 *___mountain/_caravan_bar_t02 mb1_00
-Did I tell you what I saw the other day?
+Tôi đã kể cho anh nghe chuyện mình thấy hôm trước chưa?
 
 *mb2_01
-No.
+hả, chuyện gì?
 
 *mb1_02
-<m scary>A ghost came out of the underground river!!
-<m0>It was black and shaped like a person!
+<m scary>Có một bóng ma trồi lên từ dòng sông ngầm!!
+<m0>Nó có màu đen và hình dáng giống con người!
 *
-It was all like “Woo, woo!”, and then it ran towards me and disappeared.
+Nó cứ “Woo, woo!” rồi lao về phía tôi, sau đó đột nhiên biến mất.
 
 *mb2_03
-You're drunk.
+Ông bạn say sỉn rồi à.
 
 *mb1_10
-I'm telling you, I know what I saw!
+Tôi nói thật mà, tôi biết mình đã thấy gì lúc đó!
 *
-We gotta report this to the boss!
+Chúng ta phải báo chuyện này cho sếp biết!
 
 *mb2_11
-Go for it. He'll put you on mining duty until you die of exhaustion for wasting his time.
+Cứ việc đi. Ông ta sẽ bắt anh đi đào mỏ cho đến chết vì kiệt sức để trừng phạt chuyện phí thời gian của ông ấy thôi.
 
 
 // ========================================================
@@ -320,21 +320,21 @@ Go for it. He'll put you on mining duty until you die of exhaustion for wasting 
 // ========================================================
 
 *___mountain/_caravan_labo_t00 mb_00
-Do you know about the subterranean civilization?
+Cô bé có biết về nền văn minh dưới lòng đất không?
 *
-Well, it's just a theory for now, but the artifacts we've dug up suggest that a whole race lived underground around here.
+Chà, hiện tại nó vẫn chỉ là một giả thuyết thôi, nhưng những cổ vật mà bọn ta khai quật được cho thấy từng có cả một chủng tộc sinh sống dưới lòng đất ở khu vực này.
 *
-We're working on building a timeline based on the strata where each artifact was found.
+Bọn chú đang cố gắng xây dựng lại dòng thời gian dựa trên các tầng địa chất nơi tìm thấy từng cổ vật.
 
 
 *mb_10
-Some of us believe the underground civilization still exists today!
+Một số người trong bọn chú tin rằng nền văn minh dưới lòng đất ấy vẫn còn tồn tại cho đến ngày nay!
 *
-The Grazian Orthodoxy even mentions “goblins” that were driven underground.
+Giáo hội Chính thống Grazia thậm chí còn nhắc đến “goblin”, những sinh vật từng bị đẩy xuống lòng đất.
 *
-How connected the religious texts are with actual history is still unknown, though.
+Tuy nhiên, vẫn chưa rõ các văn bản tôn giáo có liên hệ với lịch sử thực tế đến mức nào.
 *
-I'm making it my life's work to discover the truth!
+Chú sẽ dành cả đời mình để tìm ra sự thật!
 
 
 // ========================================================
@@ -342,16 +342,16 @@ I'm making it my life's work to discover the truth!
 // ========================================================
 
 *___mountain/_caravan_elevator_t00 mb_00
-Elevator's dead. Must've been an outage at the power plant.
+Thang máy hỏng rồi. Chắc nhà máy điện bị gặp sự cố hỏng hóc rồi.
 *
-I'd go check on it, but a bunch of mana plants have sprouted up near the entrance.
+Cũng muốn đến kiểm tra, nhưng có một đám cây mana mọc lên gần lối vào.
 *
-Sigh, when it rains, it pours.
+Haiz, đúng là họa vô đơn chí.
 
 *mb_10
-We're already short-handed with all the workers they took to clean up the Grazia attack.
+Chúng tôi vốn đã thiếu nhân lực vì có quá nhiều công nhân bị điều đi dọn dẹp hậu quả vụ tấn công Grazia.
 *
-Now they want to take even more of us for monster extermination operations. It just never ends.
+Giờ họ còn muốn điều thêm người đi tham gia các chiến dịch tiêu diệt quái vật nữa. Chuyện này chẳng bao giờ kết thúc.
 
 
 // ========================================================
@@ -359,50 +359,50 @@ Now they want to take even more of us for monster extermination operations. It j
 // ========================================================
 
 *200/40_mine_alice n_00
-<m ple>Ah!?
-<m0>What are you doing here!?
+<m ple>Á!?
+<m0>Cậu đang làm gì ở đây vậy!?
 
 *a_01
 <dwarf>!!!
 
 *n_02
-<think>Actually, this is perfect. There's nowhere for her to -
+<think>Thật ra, thế này lại quá tốt. Cô ta chẳng còn đường nào để -
 
 *n_03
-<angry>Wh-<m scary>What!?
+<angry>H-Hả!?
 
 *n_04
-How did she do that?
+Cô ta làm thế nào hay vậy..?
 
 // 看板
 *board_10
-Tunnel One is hereby closed indefinitely
-due to monster occupation.
+Đường Hầm số Một chính thức bị đóng cửa vô thời hạn
+do bị quái vật chiếm đóng.
 
 // 酒場で話を聞いてる
 *n_11
-Ah, so this is the tunnel the old beastman was talking about.
+À, vậy đây chính là đường hầm mà ông thú nhân kia đã nhắc đến.
 
 // 酒場で話を聞いていない
 *n_12
-Hmm, this must be an old mining tunnel the beastmen used.
+Hmm, chắc đây là một đường hầm khai thác mỏ cũ mà các thú nhân từng khai thác.
 
 // 合流
 
 *n_13
-And this must be the entryway.
+Và đây chắc chắn là lối vào.
 
 // まだメタイベイドを持ってない
 *n_14
-I don't see a way around the barrier...
+Mình không thấy cách nào để vượt qua kết giới điện này cả...
 
 *n_15
-No matter! I'll just have to find one!
+Không sao! Mình sẽ tìm ra cách thôi!
 
 
 // 既にメタイベイドを持っている
 *n_20
-Luckily I've got just the thing to slip past this barrier!
+May mà mình có đúng thứ cần thiết để vượt qua kết giới này!
 
 
 // 被弾して痺れる
@@ -411,155 +411,155 @@ Luckily I've got just the thing to slip past this barrier!
 <angry><m scary>Kyaaaah!
 
 *n_01
-<m fadein>Ooh...ow...
-Okay, that's not gonna work...
+<m fadein>Ư... đau quá...
+Được rồi, cách này không ổn...
 
 *n_02
-No use banging my head against a wall here. I'll have to look for a solution elsewhere.
+Cứ cố đâm đầu vào tường cũng chẳng ích gì. Mình phải tìm giải pháp ở nơi khác thôi.
 
 
 // オストレアと遭遇
 *200/42_ostrea_cannon s_00
-<angry><m scary>Waaaah! I'm gonna die down here! Why was I being so reckless!?
+<angry><m scary>Ááá! Mình sắp chết ở dưới này mất! Sao mình lại liều lĩnh đến thế chứ!?
 
 *n_01
-<m ple>Hey, hey, what's wrong!?
+<m ple>Này, này, anh có sao không ạ!?
 
 // ついにステレオタイプなおばけまで〜
 
 // まだ名乗られてない場合
 *s_02
-Oh, it's just you.
+Ồ, cô bé lúc trước đây mà.
 
 *s_03
-We never got the chance to introduce ourselves, did we?
+Chúng ta vẫn chưa có dịp giới thiệu bản thân với nhau nhỉ?
 
 *s_04
-My name is Ostrea. Thanks for your help earlier. My partner Walross sends his regards as well.
+Tên anh là Ostrea. Cảm ơn cô bé vì đã giúp đỡ anh lúc trước. Cả gã Walross cũng gửi lời cảm ơn đến cô bé đấy.
 
 *n_05
-Pleased to meet you. My name is Noel Cornehl.
-<MT l=-1>Wait, don't change the subject!
+Rất vui được gặp anh. Em tên là Noel Cornehl.
+<MT l=-1>Khoan, đừng có đánh trống lảng!
 
 
 // 名乗済み
 
 *s_03_2
-Oh, it's just you, Noel. What are you doing here?
+Ồ, Noel đấy à. Cô bé đang làm gì ở đây vậy?
 
 *n_05_2
-Exploring, mostly.
-<MT l=-1>Wait, don't change the subject!
+Chủ yếu là em đi khám phá thôi.
+<MT l=-1>Khoan, đừng có đánh trống lảng!
 
 
 // 合流
 *n_06
-You sounded like you were in trouble. Is everything okay?
+Nghe có vẻ anh đang gặp rắc rối. Mọi chuyện vẫn ổn chứ?
 
 *s_07
-Far from it.
+Không ổn chút nào.
 *
-The monsters used these tunnels to get to Grazia for their most recent attack.
+Lũ quái vật đã sử dụng những đường hầm này để tiến vào Grazia trong đợt tấn công gần đây nhất.
 *
-They wrecked everything on their way through. Even our coal elevator is busted.
+Chúng phá hỏng mọi thứ trên đường đi. Ngay cả thang nâng than cũng bị hỏng.
 
 *s_09
-I fired up this old cannon to help clear the rubble, but I didn't bring enough fuel.
+Vậy nên anh đã khởi động khẩu đại bác cũ này để dọn đống đổ nát, nhưng lại không mang đủ nhiên liệu.
 *
-It caused just enough of a rumble to cave-in my only exit.
+Nó chỉ tạo ra một tiếng rung đủ lớn để làm sập lối thoát duy nhất của anh.
 
 *s_10
-I tried a more relaxed approach to my work like Walross does, but it just doesn't work for me. I'm a “measure twice” kind of guy.
+Anh đã thử làm việc thong thả hơn như Walross, nhưng cách đó chẳng hợp với anh chút nào cả. Anh thuộc kiểu người phải đo đạc cẩn thận hai lần mới làm.
 
 *n_11
-Well, at least you didn't get hurt.
+Ít nhất thì anh cũng không bị thương nhỉ.
 
 *s_12
-Hey, I've got an idea. Why don't you try firing the cannon?
+Này, anh có ý này. Sao cô bé không thử sử dụng khẩu đại bác xem?
 
 *n_13
-<m ple>M-Me!?
-<m0>But, you said there wasn't enough fuel! And I didn't bring any with me!
+<m ple>E-Em á!?
+<m0>Nhưng anh nói không đủ nhiên liệu mà! Với cả em cũng đâu có mang theo nhiên liệu đâu!
 
 *s_14
-Sure you did. Mana is the fuel.
+Em có mang đấy chứ. đó chính là Mana. Mana chính là nhiên liệu!
 
 *s_15
-Just <c5>channel some into your staff and give it a good whack from the back</c5>.
+Chỉ cần <c5>niệm mana vào trượng rồi dùng nó đập mạnh vào phía sau<c5> là được.
 
 *n_16
-You mean my <c5>shotgun ability<c0>?
+Ý anh là <c5>kỹ năng Shotgun<c0> của em à?
 
 *s_17
-Yeah, that.
+Ừ, chính là nó đó.
 *
-<c5>It'll take a fully charged one<c0> to get it movin'.
+<c5>Phải dùng một phát được tích tụ đầy đủ<c0> thì mới khiến nó hoạt động được.
 
 
 // 2度目
 
 *n_30
-I've never fired a cannon before...
-Are you sure it'll be alright?
+Em chưa từng bắn đại bác bao giờ...
+Anh chắc là sẽ ổn chứ?
 
 *s_31
-Should be. Just remember to <c5>fully charge your shotgun<c0> before striking it.
+Sao lại không nhỉ? Chỉ cần nhớ <c5>Shotgun được tích tụ đầy đủ<c0> trước khi đánh vào nó.
 
 *s_32
-Don't worry about scattering excess mana everywhere. I've got plenty of filters on me.
+Đừng lo chuyện mana dư thừa bị phân tán khắp nơi. Anh mang theo rất nhiều bộ lọc cho chính mình rồi.
 
 
 // 大砲起動・破壊
 
 *200/43_ostrea_cannon_broken s_00
-<m ple>Ohh, that was clean!<m0>
-I knew you could do it.
+<m ple>Ồ, cú đó chuẩn đấy!<m0>
+Anh biết cô bé làm được mà.
 
 *n_01
-It wasn't anything special, but I'm glad it worked out.
+Thường thôi mà, nhưng em mừng vì mọi chuyện đã ổn.
 
 *n_02
-Looks like the elevator is still down, though...
+Có vẻ thang máy vẫn chưa hoạt động...
 
 *s_03
-Yeah, we're pretty sure the monsters damaged the power plant during their rampage.
+Ừ, anh khá chắc rằng lũ quái vật đã làm hỏng nhà máy điện trong lúc chúng hoành hành.
 
 *s_04
-It's just up ahead through that opening.
+Nó nằm ngay phía trước, qua lối mở kia.
 
 *s_05
-We need to restart the power, but there's some mana plants growing just outside the facility.
+Chúng ta cần khởi động lại nguồn điện, nhưng có vài cây mana mọc ngay bên ngoài cơ sở.
 *
-I'm not sure what to do...
-Should I assemble an extermination team?
+Anh không biết phải làm sao...
+Có nên lập một đội tiêu diệt chúng không?
 
 *n_06
-If it's just a few monsters, I can take care of them.
+Nếu chỉ có vài con quái vật thì em có thể xử lý được.
 
 *s_07
-Really!?
-<m joy>Oh, thank you!
+Thật sao!?
+<m joy>cảm ơn em, Noel!
 
 *s_08
-Sigh, every time I think I've reached the end of my tale, you show up and save me.
+Haiz, cứ mỗi lần anh nghĩ cuộc đời anh sắp chấm dứt rồi, thì em lại xuất hiện và cứu anh.
 
 *n_08
-<think>The end of your tail?
+<think>cuộc đời anh sắp chấm mứt...hả? gì cơ?
 
 *s_09
-It's not a proper thank you, but if you find anything useful in the power plant, feel free to take it.
+Đây không phải món quà cảm ơn gì to tát, nhưng nếu tìm thấy thứ gì hữu ích trong nhà máy điện thì cứ tự nhiên mà cầm đi nhé.
 *
-There's probably some stuff in there that's <c5>only useful to an elf<c0>.
+Có lẽ trong đó có vài thứ <c5>chỉ Elf mới dùng được<c0>.
 
 
 //再度話しかけ
 *s_20
-The power plant is just up ahead.
+Nhà máy điện đang nằm ngay phía trước mình.
 
 *s_21
-There's some strong winds and mana plants growing nearby.
+Gần đó có nguồn gió mạnh và cây mana mọc um tùm.
 *
-I can't do much for you, except pray that you'll be safe.
+Anh cũng chẳng giúp được gì nhiều, chỉ có thể cầu mong cô bé sẽ an toàn trở về.
 
 
 // ========================================================
@@ -567,72 +567,72 @@ I can't do much for you, except pray that you'll be safe.
 // ========================================================
 
 *200/44_elec_facil_enter n_00
-It's so dark!
+Tối quá!
 
 *n_01
-Ostrea said we need to restart the power. I should look for some kind of control panel.
+Ostrea nói chúng ta cần khởi động lại nguồn điện. Mình nên tìm một bảng điều khiển hay gì đó giống vậy.
 *
-I'll just have to rely on my staff as a light source until then.
+Trước mắt thì mình sẽ phải dùng cây trượng làm nguồn sáng đã.
 
 *200/45_elec_facil_recover n_00
-Let's see...power, power...
-Maybe...this button?
+Để xem nào... điện, điện...
+Có lẽ... cái nút này à?
 
 *dev_10
-<device><s2>Switching to emergency power<s6>...<s2><W3> Success.
-<W4>Elevator operational.
+<device><s2>Đang chuyển sang nguồn điện dự phòng<s6>...<s2><W3> Thành công.
+<W4>Thang máy đã hoạt động.
 
 *n_11
-Phew, that's the elevators taken care of. No sign of that girl here, though.
+Phù, vậy là đã xử lý xong thang máy. Nhưng ở đây chẳng có dấu vết nào của cô gái đó đó cả.
 
 *n_12
-And I don't think there's a button to disable the barrier in that tunnel next to the elevators. I'll have to keep looking around.
+Và mình cũng không nghĩ có nút nào để vô hiệu hóa kết giới trong đường hầm số một cả. Mình có lẽ phải tiếp tục tìm kiếm thêm thôi.
 
 
 // 扉が電流で閉まる
 
 *200/45b_elec_facil_alert n_03
-<angry><m ple>Wah!!
+<angry><m ple>Á!!
 
 *dev_10
-<device>Unauthorized console access detected. Activating security barriers. All personnel evacuate immediately.
+<device>Phát hiện truy cập trái phép vào bảng điều khiển. Đang kích hoạt kết giới an ninh. Toàn bộ nhân viên lập tức sơ tán.
 
 *n_11
-<m scary>If it was unauthorized, why did you let me do it!?
-<m ple>What kind of security system is this!?
+<m scary>Nếu đó là truy cập trái phép, sao lại để ta làm cơ chứ!?
+<m ple>Hệ thống an ninh kiểu gì thế này!?
 
 
 // 警報状態でコンソールを調べる
 
 *n_20
-<m scary><W2>There's gotta be a way to disable it!
+<m scary><W2>Chắc chắn phải có cách vô hiệu hóa nó chứ!
 
 *dev_21
-<device>Error: Insufficient privileges. Please contact a system administrator.
+<device>Lỗi: Không đủ quyền truy cập. Vui lòng liên hệ quản trị viên hệ thống.
 
 *n_22
-<m cry>Y-You hunk of junk!
+<m cry>Đồ sắt vụn!
 
 // 物置の箱を調べる
 
 
 
 *200/46a_elec_facil_search n_00
-<m scary><angry>Please let there be something useful in here!
+<m scary><angry>Làm ơn, mong là trong này có thứ gì hữu ích!
 
 *n_01
-<I><m ple><angry>Ah!
+<I><m ple><angry>Á!
 
 *n_02
-A skill chip! It's old, but I bet it's still compatible!
+Một chip kỹ năng! Dù trông có vẻ khá cũ, nhưng chắc vẫn tương thích với trượng của mình!
 
 *n_03
-Please work!
+Làm ơn, hoạt động đi!
 
 //メタイベイド
 
 *200/46b_elec_facil_skill_after n_00
-Perfect! This should let me pass through the barrier!
+Tuyệt! Thứ này sẽ giúp mình thoát khỏi thế khó này!
 
 // 物置に設置されたトラップ作動
 
@@ -640,35 +640,35 @@ Perfect! This should let me pass through the barrier!
 <angry><m ple>!?
 
 *n_03
-They put an extra layer of security just for the storage room!?
+Họ còn lắp thêm một lớp an ninh riêng cho phòng kho nữa sao!?
 
 *n_04
-Well, we'll just call this extra practice!
+Thôi thì cứ xem như được luyện tập thêm vậy!
 
 
 // 脱出した
 *200/46c_elec_facil_escaped n_00
-Phew. That was dangerous. Did that girl have any hand in this?
+Phù. Nguy hiểm thật. Không biết cô gái đó có nhúng tay vào chuyện này không?
 
 *n_01
-At least I found exactly what I needed with this new skill chip.
+Ít nhất thì mình cũng tìm được chính xác thứ mình cần nhờ con chip kỹ năng này.
 
 // 第一坑道を見つけてる
 *n_02
-That was quite a detour. Let's get back to Tunnel One.
+Vậy là mình đã tìm thấy thứ có thể giải quyết chuyện này. Quay lại Đường Hầm số Một thôi.
 
 // 見つけてない
 *n_10
-But still no trace of her...
+Nhưng vẫn chẳng có chút tung tích nào của cô ấy...
 
 *n_11
-That old man in the bar said he saw her <c5>in the tunnels by the elevators<c0>. I should check there.
+Ông già ở quán rượu nói đã thấy cô ấy <c5>trong những đường hầm gần thang máy<c0>. Mình nên đến đó kiểm tra.
 
 
 // そもそも酒場で話を聞いてない
 
 *n_20
-Maybe someone back in the beastmen settlement has spotted her recently. I should ask around.
+Có lẽ gần đây có ai đó trong khu định cư của thú nhân nhìn thấy cô ấy. Mình nên hỏi thử vài người xem sao.
 
 // ===== ===== ===== ===== ===== =====
 // 電力回復後、施設からオービタルシールドを使い、メタイベを取らずに脱出した
@@ -676,10 +676,10 @@ Maybe someone back in the beastmen settlement has spotted her recently. I should
 // ===== ===== ===== ===== ===== =====
 
 *n_01_no_metaevade_0
-I didn't explore the power plant very thoroughly. I might've left something behind.
+Mình có vẻ chưa khám phá nhà máy điện kỹ lắm. Có lẽ mình đã bỏ sót thứ gì đó.
 
 *n_02_no_metaevade_0
-But at least I know how to get past the barrier in the tunnel now.
+Nhưng ít nhất giờ mình cũng biết cách vượt qua kết giới trong đường hầm đó rồi.
 
 
 // ===== ===== ===== ===== ===== =====
@@ -689,66 +689,66 @@ But at least I know how to get past the barrier in the tunnel now.
 // 鶏の名前は重要ではないのでアレンジしてOK
 
 *___mountain/_caravan_church_treasure_t00 mb_00
-C'mere, Percy! Dinnertime!
-<m joy>Waddle waddle waddle~<m0>
+Lại đây nào, Percy! Đến giờ ăn tối rồi!
+<m joy>Đáng yêu quá đi~<m0>
 
 *n_01
-Is that the chickens name?
+Đó là tên bạn gà đó à?
 
 *mb_02
-Yeah! I also take care of Sandy~!
+Đúng rồi chị! Em còn chăm sóc cả Sandy nữa~!
 *
-Speaking of, she was pecking at a photo on the ground the other day.
+À mà, hôm nọ nó cứ mổ liên tục vào một tấm ảnh nằm dưới đất ấy ạ.
 
 *n_03
-A photo?
+Hử, một tấm ảnh ư?
 
 *mb_04
-Yeah, this one.
+Vâng, đây ạ. chính là tấm này.
 *
-I have no idea what it is. Do you want it?
+Em chẳng biết nó là gì cả. Chị muốn lấy không?
 
 *n_05
-Um, sure, I'll take it. Thank you.
+Ừm, vậy chị xin nhé. Cảm ơn em nhiều.
 
 // 街の宝探しを既にやっている
 *n_06
-It looks similar to the one I got from the kid in Grazia.
+Trông nó giống tấm ảnh mình nhận được từ đứa trẻ ở Grazia.
 *
-I have a feeling I'm about to go on a journey.
+Mình có linh cảm rằng sắp tới mình sẽ bị kéo vào một chuyến hành trình dài đây.
 
 // やってない
 *n_06_2
-Maybe I should see if I can find where this was taken.
+Có lẽ mình nên thử tìm đến địa điểm chụp trong này xem bức ảnh này được chụp ở đâu.
 
 // 2度目の会話
 *mb_20
-I think that's part of the bridge in the corner.
+Em đoán có một phần cây cầu nằm ở góc ảnh này.
 *
-I'd go check it out myself, but the caretakers would get mad at me for wandering off.
+Em cũng muốn tự mình đến xem, nhưng những người chăm sóc sẽ mắng nếu em tự ý đi lung tung mà không được phép.
 
 
 // 最後の一枚（釣り人の場所を示す）
 // 釣り人を見つけている
 *__treasurehunt/_final_photo n_100
-This looks like the fisherman's house.
+Trông giống nhà của người câu cá.
 *
-...did he take these photos?
+...Ông ấy đã chụp những tấm ảnh này à?
 
 // 釣り人を見つけていない
 //ここが山岳である
 
 *n_110
-Where could this be?
+Đây có thể là nơi nào nhỉ?
 *
-Probably somewhere nearby, I'd guess.
+Chắc là ở đâu đó gần đây thôi.
 
 // 山岳ではない
 
 *n_120
-Where could this be?
+Đây có thể là nơi nào nhỉ?
 *
-My first guess is <c5>somewhere in the mountains<c0.
+Nơi đầu tiên mình nghĩ đến là <c5>một nơi nào đó trên núi<c0>.
 
 
 // ========================================================
@@ -758,59 +758,59 @@ My first guess is <c5>somewhere in the mountains<c0.
 // バーで出会うヴァーロス
 
 *___mountain/_caravan_bar_w_t00 w_00 
-Heh-hey, look who's struttin' in like she owns the place!
+Này này~, xem nhóc con đang bước vào đây như thể nơi này là của mình kìa!
 
 *n_01
-Hello, Walross. Nice to see you too.
+Chào anh, Walross. Gặp anh cũng vui quá nhỉ.
 
 *w_02
-Heard things were goin' down back in town.
+Nghe nói trong thị trấn đang có chuyện lớn xảy ra.
 *
-Oh well, not my problem. I'll let the other five deal with it. <m joy>Cheers!
+Thôi kệ, chẳng phải chuyện của tôi đâu. Cứ để năm người còn lại lo liệu thôi. <m joy>Cạn ly!
 
 
 // ヴァーロスと自己紹介をしなかった場合は ___city/bar_w_s12_10a が代わりに再生し、「奇遇だな」からここに繋がる
 *w_10
-Yer lookin' a bit more fierce than the last time I saw ya'.
+Trông cô có vẻ dữ dằn hơn lần trước chúng ta gặp nhau đấy.
 
 // 街の襲撃について
 
 *___city/bar_w_t_about_td w_00 
-Heard a horde attacked.
+Anh nghe nói rồi, có vẻ đã có một đàn quái vật tấn công.
 
 *n_00
-Yes. There were so many...
-But we managed to rally and drive them back.
+Đúng vậy. Chúng đông khủng khiếp luôn...
+Nhưng bọn em đã hợp lực và đẩy lùi được chúng rồi.
 
 *w_01
-Damn right ya did, haha! Nobody beats the elves.
+Phải thế chứ, haha! Elf là bất bại mà.
 *
-The beastmen here could learn a thing or two from you. They been runnin' and hidin' from every mana plant in sight.
+Đám thú nhân ở đây nên học hỏi các cô một chút. Họ cứ chạy trốn và trốn biệt mỗi khi thấy cây mana xuất hiện.
 
 *n_02
-Have they...seen anyone suspicious around the plants?
+Họ có... nhìn thấy ai khả nghi quanh những cây mana không?
 
 *w_03
-What're you gettin' at?
-<m ple>You think someone was behind the attack!?
+Cô bé đang định hỏi gì vậy?
+<m ple>Cô bé nghĩ có kẻ đứng sau các vụ tấn công sao!?
 
 *n_04
-I...don't know for sure yet.
-I'm trying to gather clues.
+Em... vẫn chưa chắc chắn.
+Em đang cố thu thập manh mối.
 
 *w_05
-A <m scary>terrorist<m0> using monsters for their attacks!
-This is serious!
+<m scary>Một tên khủng bố<m0> điều khiển quái vật để tấn công!
+Chuyện này khá nghiêm trọng đấy!
 
 *w_06
-Wish I could help ya, but I dunno nothin'.
+Ước gì tôi có thể giúp cô bé, nhưng anh chẳng biết gì cả.
 *
-Got my hands full with the cleanup anyway.
+Dù sao thì anh cũng đang bận dọn dẹp hậu quả mà.
 
 *w_07
-But I'll ask around, I know a looootta beastmen.
+Nhưng anh sẽ hỏi thăm xung quanh. Anh quen nhìều thú nhân lắm.
 *
-Trust me, <m joy>you're in good hands!
+Cứ tin ở anh đi, <m joy>cô bé đang ở trong tay người đáng tin cậy lắm đấy!
 
 
 // ========================================================
@@ -818,55 +818,55 @@ Trust me, <m joy>you're in good hands!
 // ========================================================
 
 *___mountain/_caravan_bar_s_t00 s_00 
-Thanks for getting the power plant up and running. You've saved the day yet again.
+Cảm ơn cô bé đã khởi động lại nhà máy điện. Cô bé lại cứu nguy cho mọi người một lần nữa rồi.
 
 *n_01
-It was nothing. I just happened to be looking for clues there.
+Không có gì đâu ạ... Em chỉ tình cờ tìm manh mối ở đó thôi.
 
 // 電力施設を無視してクリアした時
 *s_10
-Hello, Noel. Haven't seen you in a while.
+Chào Noel. Cảm giác lâu rồi không gặp nhỉ.
 
 
 // 街の襲撃について
 
 *___city/bar_s_t_about_td s_00
-News of the attack made it all the way back here. It must've been pretty bad.
+Tin tức về vụ tấn công đã lan đến tận đây. Chắc hẳn tình hình tồi tệ lắm.
 
 *n_00
-It was. Bermit became a battlefield.
-But we managed to stop them.
+Vâng ạ. Bermit đã trở thành chiến trường.
+Nhưng tụi em đã ngăn chặn được chúng.
 
 *s_01
-Really? That's amazing!
+Thật sao? Tuyệt vời quá đấy!
 *
-Wish we could've helped, but we were busy with repairs up here.
+Ước gì chúng tôi có thể giúp được, nhưng lúc đó chúng tôi đang bận sửa chữa ở trên này.
 
 *s_02
-Something tells me the two events are connected.
+Có điều gì đó mách bảo tôi rằng hai sự kiện này có liên quan với nhau.
 
 *n_03
-Connected? Are you sure?
+Có liên quan sao? Ý anh là gì ạ?
 
 *s_04
-No, but...someone tampering with the barrier between here and the city -
+Không, nhưng...có kẻ đã can thiệp vào kết giới giữa nơi này và thành phố -
 *
-- coupled with the monster's unusual coordination during the attack...it can't just be a coincidence.
+- cộng thêm sự phối hợp ăn ý bất thường của lũ quái vật trong vụ tấn công... Không thể chỉ là trùng hợp được.
 
 *s_04_2
-Someone must have been leading them.
+Chắc chắn đã có kẻ chỉ huy chúng.
 
 // まだアリスを助ける前ならノエルのコメントが続く
 *n_05
-I did see a strange girl in the armory.
+Em đã thấy một cô gái kỳ lạ trong kho vũ khí.
 *
-She stole an installer and disappeared like a ghost. She might be connected to the attack.
+Cô ta đánh cắp một thiết bị cài đặt rồi biến mất như một bóng ma. Có thể cô ta có liên quan đến vụ tấn công.
 
 
 *s_06
-A guh-guh-guh-<m scary>ghost!?
+M-M-Một <m scary>bóng ma<m0> sao!?
 *
-I don't think I have the stomach to hear the details on that one.
+Tôi không nghĩ mình đủ can đảm để nghe chi tiết chuyện đó đâu, thôi nhé...
 
 
 // ========================================================
@@ -876,472 +876,472 @@ I don't think I have the stomach to hear the details on that one.
 // 記憶の引き継ぎ
 
 *___city/bar_w_t_reincarnation n_00
-There's a beastman at my school who reincarnated without transferring her memories.
+Ở trường của em có một giáo viên thú nhân đã tái sinh mà không chuyển giao ký ức.
 
 *w_00
-Oh?
+Ồ?
 
 *n_01
-Her name is Primula. Do you know her?
+Tên cô ấy là Primula. Anh có biết cô ấy không?
 
 *w_02
-Can't say that I do. My reincarnation facility is here in the mountains, so I don't get many chances to talk to city-folk.
+Không thể nói là anh biết. Cơ sở tái sinh của anh nằm ở vùng núi, nên anh hiếm khi có dịp trò chuyện với những người ở thành phố.
 
 *w_03
-But if she didn't transfer her memories, she'd have forgotten her name, too. Maybe I just don't know her as "Primula".
+Nhưng nếu cô ấy không chuyển giao ký ức thì ngay cả tên mình chắc chắn cũng sẽ quên mất. Có lẽ anh chỉ không biết cô ấy dưới cái tên “Primula” thôi.
 
 *n_04
-Oh, right. I didn't think about that.
+À, phải rồi. Em chưa từng nghĩ đến chuyện đó.
 
 *w_05
-Don't worry about it. It's just<s6>...
-<s1>really strange.
+Đừng bận tâm. Chỉ là<s6>...
+<s1>chuyện này thực sự rất kỳ lạ thôi.
 
 *n_06
 ...?
 
 *w_07
-Look, I don't know how they do things in the city, but...
-Not transferring your memories isn't really something that's ever done.
+Nghe này, anh không biết ở thành phố họ làm mọi thứ thế nào, nhưng...
+Chuyện không chuyển giao ký ức vốn chưa bao giờ xảy ra cả.
 *
-We're under the jurisdiction of the facilities.
+Tụi anh chịu sự quản lý của các cơ sở.
 *
-Our memories are their assets, their tools.
+Ký ức của tụi anh là tài sản, là công cụ của bọn họ.
 *
-They catalogue us and meticulously make sure each reincarnation goes smoothly.
+Họ lập hồ sơ về tụi anh và cẩn thận đảm bảo mỗi lần tái sinh đều diễn ra suôn sẻ.
 
 *n_08
-S-So you're saying-
+V-Vậy ý anh là-
 
 *w_09
-They wouldn't just let someone fail to transfer their memories.
+Họ sẽ không tùy tiện để một người tự ý không chuyển giao ký ức.
 *
-They'd have to retrain them, give them a new identity...it's a lot of work. They'd be better off making a brand new beastman if they wanted a blank-slate.
+Họ sẽ phải huấn luyện lại người đó, cấp cho họ một danh tính mới... tốn rất nhiều công sức. Nếu muốn có một thú nhân hoàn toàn mới với ký ức trắng, họ thà tạo ra một người mới toanh còn hơn.
 
 *n_10
 ......
 
 *w_11
-Maybe your "Primula" went through something so traumatic she had no choice but to discard her memories.
+Có lẽ cô “Primula” mà cô bé nói đã trải qua một chuyện đau thương đến mức không còn lựa chọn nào khác ngoài việc vứt bỏ ký ức đó đi.
 *
-Or maybe...
+Hoặc là...
 
 *w_12
-<I><s3>She committed atrocities so heinous that the higher-ups executed her by wiping her memories.
+<I><s3>Cô ấy đã gây ra những tội ác tàn bạo đến mức cấp trên phải xử tử cô ấy bằng cách xóa sạch ký ức.
 
 *n_13
-Wha-...?
+Hả-...?
 
 *w_14
-<s5>...<s1><MT l=-1>Ha ha, just kiddin'. That'd be crazy.
+<s5>...<s1><MT l=-1>Ha ha, anh đùa thôi. Chuyện đó hơi điên rồ quá nhỉ.
 
 *w_15
-We've all got things we'd like to keep buried. Don't go diggin' 'em up unless you've got a good reason.
+Ai cũng có những chuyện muốn chôn giấu. Đừng đào bới chúng lên trừ khi cô bé có lý do chính đáng.
 
 
 // プリムラは悪人？
 
 *___city/bar_w_t_primula_is_villain n_00
-Do you really think Primula might be...a criminal?
+Anh thực sự nghĩ cô Primula có thể là... một tội nhân sao?
 
 *w_01
-It was a joke, lass.
-One you're makin' me regret.
+Anh chỉ đùa thôi, cô nhóc.
+Đùa một câu mà giờ khiến anh phải hối hận rồi đây.
 *
-Forget I said anything.
+Cứ quên những gì anh vừa nói đi.
 
 
 *n_02
-But she's important to me.
+Nhưng cô ấy rất quan trọng với em.
 *
-I don't have anyone else to talk to for this. Consider it repayment for helping you in the forest.
+Em không còn ai khác để hỏi về chuyện này. Có lẽ em sẽ xem như đây là lời cảm ơn từ anh vì việc em đã giúp anh trong khu rừng đi.
 
 *w_03
-(<i>sigh</i>)...I haven't had nearly enough to drink.
+(<i>thở dài</i>)... Anh vẫn chưa uống đủ.
 
 *n_04
-I'll buy you one, if that's what it takes for you to open up.
+Nếu anh chịu mở lời thì em sẽ mua cho anh một ly.
 
 *w_05
-Well, if you're offering...
+Nếu cô bé đã nói vậy...
 
 *w_06
-Go get me <c5>my favorite drink</c5> from the bar in Grazia.
+Đến quán rượu ở Grazia và mua cho anh <c5>loại đồ uống yêu thích<c5>.
 
 *n_07
-All the way back in town!?
-...Fine. What's your favorite drink?
+Tận trong thị trấn cơ à!?
+...Mà được thôi. Loại đồ uống anh thích là gì?
 
 *w_08
-I already told you once before.
-Or did you <W3><s6><i>forget</i><W3><s1>?
+Anh đã nói với cô bé một lần rồi mà.
+Hay là cô bé <W3><s6><i>quên</i><W3><s1> rồi?
 
 *n_09
-<m joy>Umm...
-<m9>Maybe?
+<m joy>Ừm...
+<m9>Có vẻ em đã quên rồi...
 
 *w_10
-Wait, did I actually tell you?
+Khoan, anh đã thực sự nói với cô bé rồi à?
 
 *w_11
-Shoot, now <i>I</i> can't remember...
-Oh well, I'm sure you'll figure it out.
+Chết thật, giờ <i>anh</i> cũng chẳng nhớ nữa...
+Thôi kệ, chắc cô bé sẽ tự tìm ra thôi.
 
 *n_12
-<think>I think he's trying to avoid the discussion entirely.
+<think>Mình nghĩ anh ta đang cố né tránh cuộc nói chuyện này hoàn toàn.
 
 *n_13
-Okay, I'll be back with your drink.
+Được rồi, em sẽ quay lại với đồ uống mà anh muốn.
 
 *w_14
-No rush.
+Không cần vội đâu.
 
 
 *___city/bar_w_t_cocktail_wrong w_00
-Hell's this?
+Cái quái gì đây?
 
 *n_01
-Umm, your favori-
+Ừm, đồ uống yêu thí-
 
 *w_02
-Not even close, lass. This one's yours.
+Còn lâu mới đúng, cô nhóc. Ly này là của cô.
 
 *n_03
-Huh? B-But...I'm not-
+Hả? N-Nhưng... tôi đâu có-
 
 *w_04
-Interested in what I have to say? C'mon, join the party.
+Không hứng thú nghe tôi nói à? Nào, nhập tiệc đi.
 
 *n_05
-Uuu...
+Ư...
 
 
 // ↓ここもテロップで出す (260711現在まだ未実装)
 
 *actihol_06
-Note: Drinks containing Actihol in this game are not alcoholic beverages. \bThe intoxication effects are for dramatic effect only.\b We do not condone underage drinking, smoking, or any other criminal activity. 
+Lưu ý: Đồ uống có chứa Actihol trong trò chơi này không phải là đồ uống có cồn. \bCác hiệu ứng say xỉn chỉ nhằm mục đích tạo kịch tính. \bChúng tôi không cổ súy việc trẻ vị thành niên uống rượu, hút thuốc hay tham gia bất kỳ hoạt động phạm pháp nào.
 
 // 飲まない
 *w_07
-Well that's a mood killer. Now I really don't feel like talkin'.
+Thật mất hứng. Giờ thì anh chẳng còn muốn nói chuyện nữa với ai nữa.
 
 *n_08
-<think><m fadein>I need him to open up.
-I might...<m scary><i>have</i> to drink this!
+<think><m fadein>Mình phải khiến anh ấy chịu mở lời.
+Có lẽ mình...<m scary><i>phải</i> uống thứ này thôi!
 
 *n_09
-<angry><s4><m scary>Uu...!
+<angry><s4><m scary>Ư...!
 
 
 // 飲む
 *n_10
-<I><angry>Grk, <W3><m ple>(cough), <m scary><s3>(choke)......
+<I><angry>Khụ, <W3><m ple>(ho), <m scary><s3>(sặc)......
 
 *w_11
-<m joy>Gahaha, that's how ya do it!
+<m joy>Gahaha, phải thế chứ!
 
 *n_12
-<think>Gah! <m scary>That was awful!
-<m fadein>But it's all for Primula's sake!
+<think>Ặc! <m scary>Kinh khủng thật!
+<m fadein>Nhưng tất cả là vì cô Primula!
 
 *n_13
 <think><s3>Ahh...
-<m joy>My head feels all...fuzzy...
+<m joy>Đầu mình... cứ lâng lâng ấy nhỉ...
 *
-<think><m joy><s3>What's...<m fadein>happening...?
+<think><m joy><s3>Chuyện gì...<m fadein>đang xảy ra vậy...?
 *
 <think><s3>......？
-<W4><s4>There's...two Walrosses?
-Three?
+<W4><s4>Có... hai Walross à?
+Hay là ba?
 *
-<think><W2><s5>And four, five...
-<W2><s6>six Ostraea?
+<think><W2><s5>Rồi bốn, năm...
+<W2><s6>Sáu Ostrea?
 
 *s_16
-You're a jerk sometimes, Walross, you know that?
+Đôi khi tôi thấy cậu đúng là đồ tồi đấy, Walross. Cậu biết chứ?
 
 *w_17
-Yeah, I feel kinda bad.
-I didn't think she'd actually do it.
+Ừ, tôi cũng thấy hơi có lỗi.
+Tôi không nghĩ cô ấy thực sự sẽ uống nó.
 
 *s_18
-You could've just told her to get you a <c5>Heatshot 197<c0> instead of playing mind games.
+Anh có thể bảo cô ấy mua <c5>Heatshot 197<c0> cho anh thay vì giở trò tâm lý như thế mà.
 
 *n_19
-<s5><m joy>Hehehe...sensei...
-your tail is so...fluffy...
+<s5><m joy>Hehehe...cô giáo...
+đuôi của cô...bông xù mềm mại quá...
 
 *w_20
-S'pose I should take her to the inn so she can sleep this off.
+Chắc tôi nên đưa cô ấy đến nhà trọ để ngủ cho tỉnh rượu.
 *
-Least I can do.
+Ít nhất đó là những gì tôi có thể làm.
 
 
 // 休んで宿から出る
 *n_21
-Uu, that wasn't the right drink...
-I'll have to <c1>get another one from the bar in Grazia<c0>.
+Ư... đó không phải loại đồ uống đúng rồi...
+Mình phải <c1>mua một ly khác ở quán rượu tại Grazia<c0> thôi.
 
 
 //お酒を飲む
 
 // C:1回目正解する(ヴァーロスの好みを聞いている。
 *___city/bar_w_t_cocktail_correct w_00
-Huh, I didn't think you'd actually remember.
+Hả, anh không nghĩ cô bé thực sự nhớ được đấy.
 
 *w_01
-Welp, you got me, lass.
+Chà, cô thắng rồi, cô nhóc.
 
 // C2:1回目正解する(ヴァーロスの好みを聞いていない。
 *w_10
-Did I actually tell you what my favorite drink was? Or was this a lucky guess?
+Anh đã thực sự nói cho cô bé biết loại đồ uống yêu thích của mình à? Hay chỉ là cô bé đoán trúng?
 *
-Either way, you got it right.
+Dù sao thì cô bé cũng chọn đúng rồi.
 
 
 // C3:2回目以降正解する
 *w_20
-Kinda hoped you'd drop it after what happened last time.
+Tôi cứ hy vọng sau chuyện lần trước cô bé sẽ bỏ cuộc.
 *
-Yer a persistent one.
+Cô bé đúng là kiên trì thật đấy.
 
 
 // E C1-3から合流
 *w_100
-And now you have to drink half of it.
+Và giờ cô bé phải uống một nửa ly này.
 
 *n_101
-<I><m ple>Wh-what!?
+<I><m ple>C-Cái gì cơ!?
 
 *w_102
-You want me to loosen up so I'll talk, yeah? Joining me in a drink will help me feel at ease.
+Cô bé muốn tôi thoải mái hơn để chịu nói chuyện, đúng không? Cùng uống một ly sẽ giúp tôi cảm thấy dễ chịu hơn.
 
 *n_103
-<think>That doesn't make sense to me, but I don't really have a choice.
+<think>Mình thấy chẳng hợp lý chút nào, nhưng mình cũng đâu có lựa chọn nào khác.
 
 *n_104
-Uu...okay.
+Ư... được rồi.
 
 //お酒を飲む
 *n_105
-<I><angry>Grk, <W3><m ple>(cough), <m scary><s3>(choke)......
+<I><angry>Khụ, <W3><m ple>(ho), <m scary><s3>(sặc)......
 
 *w_106
 <m scary>Gahaha,
-<m ple>nicely done!
+<m ple>khá lắm!
 
 *n_107
 <think><m scary>Ugh!
-<m cry>My throat's on fire!
+<m cry>Cổ họng mình đang nóng rát!
 
 *w_108
-Alright, my turn.
+Được rồi, đến lượt anh.
 
 *w_109
-Cheers!
+Cạn ly!
 
 *w_110
 <m joy><s4>Ahhh.
-<W2><s1><m ple>Nothin' like a drink on someone else's tab!
+<W2><s1><m ple>Không gì tuyệt bằng uống rượu bằng tiền của người khác!
 *
-Now then...
+Nào, tiếp tục thôi...
 
 
 // TALK
 *w_111
-To be honest, I don't really have anything all that interesting to say.
+Thành thật mà nói, anh chẳng có gì thú vị để kể cả.
 *
-The only reason they'd wipe someone's memories is because there's trauma affecting their work or as a punishment.
+Lý do duy nhất khiến họ xóa ký ức của một người là vì tổn thương tâm lý ảnh hưởng đến công việc của họ, hoặc như một hình phạt.
 
 *w_111_2
-I'm guessin' yer more interested in hearing about the second reason?
+Anh đoán cô quan tâm đến lý do thứ hai hơn nhỉ?
 
 *n_112
-What would someone have to do to receive such a punishment?
+Một người phải làm gì quá mức mới bị trừng phạt như vậy?
 
 *w_113
-(sigh)
-Please keep in mind that this is all purely speculation.
+(thở dài)
+Xin hãy nhớ rằng tất cả những điều này chỉ là suy đoán của riêng anh thôi.
 *
-Murdering another beastman isn't a serious crime. After all, they can just reincarnate the victim.
+Giết một thú nhân khác không phải tội nghiêm trọng. Dù sao thì nạn nhân cũng có thể tái sinh mà.
 *
-The murderer would get a stern warning and maybe 1 - 2 years of hard labor.
+Kẻ sát nhân sẽ bị cảnh cáo nghiêm khắc và có thể phải lao động khổ sai từ 1 - 2 năm.
 *
-In a location with high mana concentration, if they committed the act with malice.
+Nếu họ cố ý thực hiện hành vi đó thêm nữa, họ sẽ phải làm việc ở một nơi có nồng độ mana cao.
 
 *w_114
-If they were to murder an elf...
+Còn nếu họ giết một Elf...
 *
-That'd be execution with no reincarnation.
+Thì sẽ bị xử tử mà không được tái sinh.
 *
-Lettin' 'em walk the streets, even without their memories would prob'ly piss off the townsfolk.
+Ngay cả khi đã mất ký ức, việc để họ tự do đi lại trên phố có lẽ vẫn khiến người dân trong thị trấn thấy phẫn nộ.
 
 *n_115
-So there's no situation where the punishment would be reincarnation without their memories?
+Vậy không có trường hợp nào bị phạt bằng cách tái sinh mà không có ký ức sao?
 
 *w_116
-None that I can think of.
+Anh không nghĩ ra trường hợp nào cả.
 
 *w_117
-If they committed the crime here, the worst punishment might be exile from the mountains.
+Nếu họ phạm tội ở đây, hình phạt nặng nhất có lẽ là trục xuất khỏi vùng núi.
 *
-You said her name was "Primula"? I've lived here a long time and I've never known anyone by that name.
+Cô bé nói tên cô ấy là “Primula” đúng không? Tôi đã sống ở đây lâu rồi nhưng chưa từng biết ai mang cái tên đó.
 
 *n_118
-I see.
+Ra vậy.
 
 *w_119
-The whole criminal theory is probably wrong to begin with. Could've just been an oversight by the facility.
+Ngay từ đầu, giả thuyết cô ấy là tội phạm có lẽ đã sai rồi. Có thể chỉ là sơ suất của cơ sở mà thôi.
 *
-Or something else I can't even begin to guess at.
+Hoặc là một chuyện gì đó khác mà anh chẳng thể đoán ra.
 
 *n_120
-Got it. Sorry for asking such a difficult question.
+Em hiểu rồi. Xin lỗi vì đã hỏi một câu khó trả lời như vậy.
 
 *w_121
-Just don't go blabbin' about this to anyone, especially your teacher.
+Đừng đi kể chuyện này với bất kỳ ai, đặc biệt là cô giáo của em.
 *
-This stays between you, me, an' this empty bottle.
+Chuyện này chỉ giữa cô bé, tôi và cái chai rỗng này thôi.
 
 *n_122
-Understood.
+Em hiểu rồi.
 <W4><MT l=-1>......
 
 *w_123
-Go on, git, ya lightweight.
+Đi đi, đồ tửu lượng kém.
 *
-Or are you plannin' to put on an after-hours show for us?
+Hay cô bé định biểu diễn gì đó sau giờ đóng cửa cho bọn tôi xem?
 
 *n_124
-<I><m ple>Sh-<W3><m cry>shut up!
-<W3><m ple>That's harassment!
+<I><m ple>Đ-<W3><m cry>im đi!
+<W3><m ple>Đó là quấy rối đấy!
 
 
 // 強制労働 ===================
 
 *___city/bar_w_t_forced_lavour n_00
-Speaking of hard labor in areas with high concentrations of mana...
+Nhắc đến chuyện lao động khổ sai ở những nơi có nồng độ mana cao...
 *
-I saw some beastmen that look just like you in the lower area of Grazia. What's that about?
+Em từng thấy vài thú nhân trông giống hệt anh ở khu vực dưới đáy sâu của Grazia. Chuyện đó là sao vậy?
 
 *w_01
-Y'know, just because we shared a drink doesn't mean you can ask me anything about my personal life.
+Này, chỉ vì chúng ta đã uống cùng nhau không có nghĩa là cô bé có thể hỏi bất cứ điều gì về đời tư của tôi đâu.
 
 *n_02
-<m cry>Oh...<W2><m0>I-I'm sorry.
+<m cry>Ồ...<W2><m0>E-Em xin lỗi.
 
 *w_03
-I already told you hard labor is what they do to criminals.
+Tôi đã nói với cô bé rồi, lao động khổ sai là hình phạt dành cho tội phạm.
 *
-<W2><s3>The only reason they're down there and I'm not is because I'm on the run.
+<W2><s3>Lý do duy nhất khiến họ phải ở dưới đó còn tôi thì không là vì tôi đang bỏ trốn.
 
 *w_03_2
-<W2><s5><m fadein>And now that you know, I have to-<MT l=-1>
+<W2><s5><m fadein>Và giờ cô đã biết rồi, tôi buộc phải-<MT l=-1>
 
 *s_04
-Knock it off, Walross.
+Thôi đi, Walross.
 *
-Just tell her the truth.
+Cứ nói sự thật cho cô bé ấy nghe đi.
 
 *w_05
-<m fadein>...you are <i>zero</i> fun.
-(sigh)
+<m fadein>...Cậu đúng là <i>chẳng</i> biết đùa gì cả.
+(thở dài)
 
 *w_05_2
-<W2>I sold my identity.
+<W2>Tôi đã bán danh tính của mình.
 
 *n_06
-Your identity?
+Danh tính của anh?
 
 *w_07
-Yes. They made clones of me at the facility.
+Đúng vậy. Họ đã tạo ra các bản sao của tôi tại cơ sở.
 *
-It's not something I'm proud of. Whole thing's been a hassle, honestly.
+Đó không phải chuyện tôi tự hào. Thành thật mà nói, toàn bộ chuyện này khá phiền phức.
 
 *n_08
-How so?
+Phiền phức thế nào?
 
 *w_09
-Well, imagine if you had five identical subordinates you needed to give orders to.
+Thử tưởng tượng cô bé có năm cấp dưới giống hệt nhau và cần phải giao nhiệm vụ cho họ xem.
 *
-I can't tell which one I spoke to from one day to the next.
+Tôi chẳng thể phân biệt được hôm nay mình đã nói chuyện với người nào.
 
 *s_10
-Not to mention the ethics of reincarnation. Only one version's memories can be passed on.
+Chưa kể đến vấn đề đạo đức của việc tái sinh. Chỉ ký ức của một phiên bản được chuyển giao.
 *
-The rest effectively die.
+Những phiên bản còn lại về cơ bản đều sẽ chết.
 
 *n_11
-I see.
-Then, why did you do it?
+Ra là vậy.
+Thế tại sao anh lại làm chuyện đó?
 
 *w_12
-Working so close to the Mother Stone is a difficult job. Most don't even last a week.
+Làm việc gần Cự Thạch Khởi Nguyên là một công việc vô cùng vất vả. Hầu hết mọi người thậm chí không trụ nổi một tuần.
 *
-But it has to be done, so I volunteered.
+Nhưng công việc đó vẫn phải có người làm, nên tôi đã tình nguyện.
 
 *w_13
 <m scary>GAHAHAHA!
-That's just a story I tell people. In reality, I lost all my money in a bet.
+Đó chỉ là câu chuyện tôi kể cho mọi người thôi. Sự thật là tôi đã thua sạch tiền trong một vụ cá cược.
 
 *w_14
-So I sold my identity to pay everything off and the facility uses my clones as disposable workers.
+Thế là tôi bán danh tính của mình để trả hết nợ, còn cơ sở thì sử dụng các bản sao của tôi làm công nhân dùng một lần.
 
 *n_15
 ...
 
 *w_16
-The ones working down there are from three generations ago. They don't even know you exist.
+Những người đang làm việc dưới đó thuộc ba thế hệ trước. Họ thậm chí còn không biết cô bé có tồn tại.
 
 *w_17
-So don't bother talking to them.
+Vậy nên đừng phí công nói chuyện với họ.
 *
-I'd like to keep you all to myself.
+Tôi muốn giữ cô bé cho riêng mình thôi.
 <W3><m scary><MT l=-1>GAHAHA!
 
 *w_18
-That's my life story. Pretty mundane, huh?
+Đó là toàn bộ câu chuyện cuộc đời tôi rồi. Bình thường quá nhỉ?
 
 
 // 追加会話: なぜ、そこまで？
 
 *___city/bar_w_t_reason_walross n_00
-Are you really okay with living your life in an endless cycle of grueling labor? Why do you push yourself so hard?
+Anh thực sự ổn với việc sống cả đời trong vòng lặp lao động cực nhọc bất tận sao? Tại sao anh lại ép bản thân đến mức đó?
 
 *w_01
-It's who I am.
+Vì tôi vốn là như vậy.
 
 *n_02
-That's not a satisfying answer...
+Câu trả lời đó chẳng thỏa đáng chút nào...
 
 *w_03
-Isn't it the same for you?
+Chẳng phải cô bé cũng vậy sao?
 *
-Why do you risk your life fighting monsters?
-Why did you come all the way out to this trash heap just to hear my stupid ramblings?
+Tại sao cô bé lại liều mạng chiến đấu với quái vật?
+Tại sao cô bé lại đi xa đến tận cái nơi tồi tàn này chỉ để nghe tôi đang lảm nhảm về cuộc đời tôi?
 
 *n_04
-U-um...I-
+Ừ-ừm... em-
 
 *w_05
-It's because it's who you are. It's who you want to be.
+Bởi vì cô bé vốn là như vậy. Đó là con người mà cô bé muốn trở thành.
 *
-<m fadein>...Am I wrong?
+<m fadein>...Hử? Tôi nói sai sao?
 
 
 *n_06
 <s4>......
 
 *w_07
-<I><m ple>Anyway, I'm tired of talking about myself.
-It's your turn!
+<I><m ple>Thôi nào, tôi chán nói về bản thân rồi.
+Đến lượt cô bé đấy!
 *
-<m joy>Tell me about a super tough monster you killed <m0>or a <m scary>crazy difficult puzzle you solved <m0>just to get <m cry>that one chest!
+<m joy>Kể cho tôi nghe về một con quái vật cực kỳ mạnh mà cô bé đã hạ gục <m0>hoặc một <m scary>câu đố khó điên rồ mà cô bé đã giải được <m0>chỉ để lấy được <m cry> những chiếc rương đó!
 *
-<m ple>Barkeep! Another round! And make it a double!
+<m ple>Chủ quán! Thêm vài ly nữa!
 
 *s_08
-Walross, I have to go home at some point. My wife is gonna kill me...
+Walross, tôi phải lượn về nhà rồi. muộn tí nữa là vợ tôi sẽ thịt tôi mất...
 
 *n_09
 <m fadein>Ahahaha...
