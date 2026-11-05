@@ -3,22 +3,22 @@
 
 /* ___ _eventboard_house_witchboard_00 ___ */
 ☆ Chúc mừng bạn đã hoàn thành chuyến hành trình gian nan! ☆
-Cornehl's Workshop is just up ahead.
+Xưởng của nhà Cornehl ở ngay phía trước.
 
-The glowing mushrooms will play a tune as you walk along the path.
-You can reset them by stepping on the stone next to the lamp.
+Những cây nấm phát sáng sẽ ngân lên một giai điệu khi bạn bước dọc theo con đường.
+Bạn có thể đặt lại chúng bằng cách giẫm lên phiến đá bên cạnh ngọn đèn.
 
-~ Let's enjoy a wonderful moment together today ~
+~ Hôm nay, hãy cùng nhau tận hưởng những khoảnh khắc tuyệt vời nhé ~
 
 
 
 /* ___ _eventboard_s01_letter ___ */
 
-Dear Noel,
+Gửi Noel,
 
-Well done on completing your sister's errand.
-I'm in the garden out back, adjusting my spell device.
-It might take a while, so feel free to take your time getting here.
+Làm tốt lắm, em đã hoàn thành việc vặt mà chị em giao rồi.
+Cô đang ở khu vườn phía sau, điều chỉnh thiết bị phép thuật của mình.
+Có thể sẽ mất một lúc, nên em cứ thong thả đến đây nhé.
 
 Primula
 
@@ -26,15 +26,15 @@ Primula
 
 Noel Cornehl!
 
-You're probably still rubbing your sleepy li'l eyes while reading this, so
-good morning! It's a beautiful day!
+Chắc lúc đọc lá thư này em vẫn còn đang dụi đôi mắt ngái ngủ của mình nhỉ, vậy nên
+chào buổi sáng nhé! Hôm nay là một ngày tuyệt đẹp đấy!
 
-Me and my fabulous legs are going to be delivering a spell to your house today!
-(Although I won't be using my legs to get there!)
+Hôm nay, cô và đôi chân tuyệt vời của mình sẽ mang một phép thuật đến nhà em!
+(Mặc dù cô sẽ không dùng chân để đến đó đâu!)
 
-I'll be sad if we miss each other, so before you head out to school
-or to gather materials, maybe do some warm-up stretches
-and wait for my cute arrival!
+Cô sẽ buồn lắm nếu chúng ta lỡ mất nhau, vậy nên trước khi em đến trường
+hoặc đi thu thập nguyên liệu, hãy thử khởi động bằng vài động tác giãn cơ
+rồi chờ cô đến thật đáng yêu nhé!
 
 Ixia Polystachya
 
@@ -43,57 +43,57 @@ Ixia Polystachya
 // MARK : 2202追加
 // =====================================
 
-&&Select_scary 　　Yes
-&&Select_not_scary No
+&&Select_scary 　　Có
+&&Select_not_scary Không
 
-&&Select_tellme No, please teach me
-&&Select_iknow Yes, I remember
+&&Select_tellme Không ạ, xin hãy chỉ em
+&&Select_iknow Có ạ, em có nhớ
 
 
-&&Select_s04_3d Try again
-&&Select_s04_3e Go to the next lesson
-&&Select_s04_5e Stop for today
+&&Select_s04_3d Thử lại
+&&Select_s04_3e Chuyển sang bài học tiếp theo
+&&Select_s04_5e Hôm nay dừng ở đây
 
 
 
 
 /* ___ _eventboard_forest_witchboard_03 ___ */
 ←←←
-This way to Cornehl's Alchemy Atelier.
-Watch out for thorns growing overhead.
+Lối này đến Xưởng Giả Kim nhà Cornehl.
+Cẩn thận những bụi gai mọc phía trên đầu.
 
 /* ___ _eventboard_house_witchboard_01 ___ */
-~Cornehl Family Workshop~
+~ Xưởng Gia Đình Cornehl ~
 
-Welcome! Thank you for visiting the Cornehl Family Workshop,
-the one-stop shop for all your alchemical needs ☆
+Hoan nghênh! Cảm ơn bạn đã ghé thăm Xưởng Gia Đình Cornehl,
+cửa hàng đáp ứng mọi nhu cầu về giả kim thuật của bạn ☆
 
-For custom-made orders, please contact Laevigata.
+Để đặt hàng theo yêu cầu, vui lòng liên hệ Laevigata.
 
 
 /* ___ _eventboard_grave_0 ___ */
 Shasta Cornehl
 BE 144 ～ BE 170
-Denied Transfer
+Không rõ nguyên nhân qua đời
 
-My descendants!
-Live your limited lives to the fullest!
+Hỡi con cháu của ta!
+Hãy sống trọn vẹn những tháng năm hữu hạn của mình!
 
 
 /* ___ _eventboard_grave_1 ___ */
 Beryl Cornehl
 BE 136 ～ BE 201
-Old age
+Tuổi già
 
-I have no regrets for the choices we made.
+Ta không hối tiếc về những lựa chọn mà chúng ta đã đưa ra.
 
 /* ___ _eventboard_grave_2 ___ */
 Citrus Cornehl
 BE 168 ～ BE 196
-Passed away after giving birth to her fourth child 
+Qua đời sau khi sinh đứa con thứ tư 
 
-I pray that our children will be healthy 
-and not cursed by life itself.
+Ta cầu mong các con của chúng ta sẽ luôn khỏe mạnh
+và không bị chính cuộc đời nguyền rủa.
 
 
 
@@ -103,21 +103,21 @@ and not cursed by life itself.
 
 
 /* ___ _eventboard_hirobau ___ */
-→　Giant Acid Tree
-←　Temptress’ Hill (Above the gate at the ruins)
+→　Cây Axit Khổng Lồ
+←　Đồi Yêu Nữ (Phía trên cổng tại khu phế tích)
 
 
 /* ___ _eventboard_hiroba ___ */
-→　Giant Acid Tree
-←　Temptress’ Hill
+→　Cây Axit Khổng Lồ
+←　Đồi Yêu Nữ
 
 
 /* ___ _eventboard_ver022_remove_magic ___ */
 
-The Holy Burst spell found in its temporary location
-in ver021 has been relocated and disabled.
+Phép Bộc Phá Thánh Quang được tìm thấy tại vị trí tạm thời
+trong phiên bản ver021 đã được chuyển đến nơi khác và vô hiệu hóa.
 
-You can unlock it again by progressing through the story.
+Bạn có thể mở khóa nó một lần nữa bằng cách tiếp tục tiến triển cốt truyện.
 
 
 // ========================================================
@@ -127,9 +127,9 @@ You can unlock it again by progressing through the story.
 
 /* ___ _eventboard_ver023_announce ___ */
 
-For players who have collected the recipe 
-in Laevigata's Atelier before ver022 :
+Dành cho những người chơi đã thu thập công thức
+tại Xưởng Giả Kim của Laevigata trước phiên bản ver022:
 
-Visit the atelier again and get a gift from her.
-Check the "Scenarios" -> "Subquests" Tab for details!
+Hãy ghé thăm xưởng một lần nữa để nhận quà từ cô ấy.
+Kiểm tra thẻ "Kịch Bản" -> "Nhiệm Vụ Phụ" để biết thêm chi tiết!
 

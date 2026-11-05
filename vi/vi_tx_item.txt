@@ -845,7 +845,7 @@ Uống sữa vào thì nhớ chống nạnh, ngẩng mặt lên trời nhé!
 %ITEM tool_bread_oven Lò Nướng Bánh Mì
 Có thể ngửi thấy mùi bánh mì mới nướng vào bất cứ lúc nào trong ngày là một trong những thứ giúp cải thiện chất lượng cuộc sống tuyệt vời nhất
 
-%RECIPE_REPLACE tool_bread_oven Lò Nướng
+%RECIPE_REPLACE tool_bread_oven Nướng bằng lò:
 
 %ITEM tool_keg Ủ
 Một thiết bị lượng tử khiến bạn không thể biết thứ bên trong đang thối rữa hay lên men cho đến khi mở nó ra.
