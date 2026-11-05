@@ -10,7 +10,8 @@ This is a small personal project aimed at bringing a Vietnamese translation of A
 ---
 
 ## Progress
-- Not yet implemented / Chưa được triển khai.
+- Đã Hoàn Thành (Lần Cuối Cùng: 0.30i)
+- Sẽ còn chỉnh sửa sai sót
 
 ---
 
