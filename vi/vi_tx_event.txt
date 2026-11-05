@@ -131,5 +131,5 @@ Dành cho những người chơi đã thu thập công thức
 tại Xưởng Giả Kim của Laevigata trước phiên bản ver022:
 
 Hãy ghé thăm xưởng một lần nữa để nhận quà từ cô ấy.
-Kiểm tra thẻ "Kịch Bản" -> "Nhiệm Vụ Phụ" để biết thêm chi tiết!
+Kiểm tra tab "Kịch Bản" -> "Nhiệm Vụ Phụ" để biết thêm chi tiết!
 
