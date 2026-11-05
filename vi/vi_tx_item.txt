@@ -1089,7 +1089,7 @@ Một cây trượng cân bằng dành cho những người mới bắt đầu. 
 %ITEM cane_bermit Trượng Tiêu Chuẩn Bermit
 Trang bị tiêu chuẩn dành cho học viên và binh lính. Được thiết kế để chiến đấu tầm xa, hỗ trợ cho tuyến đầu.
 
-%ITEM cane_hammer Búa CHiến
+%ITEM cane_hammer Búa Chiến
 Được thiết kế cho những pha áp sát và cận chiến. Sở hữu sát thương cực cao với cả đòn đánh cận chiến lẫn shotgun, nhưng không có chức năng khóa mục tiêu.
 Đập tanh bành.
 
