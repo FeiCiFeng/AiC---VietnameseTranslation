@@ -45,7 +45,7 @@ Aah, cứ như thiên thần Fiolet đã trở về với chúng con vậy.
 <I><angry>N-Này, dừng lại đi!!
 
 *dj_08
-Xin lỗi. Tôi là trợ giảng của võ đường này.
+Xin lỗi. Ta là trợ giảng của võ đường này.
 *
 Ngươi đã chăm chỉ học những "kỹ năng" mới chưa?
 
@@ -308,7 +308,7 @@ Kỹ thuật đầu tiên.
 
 
 *dj_02
-Nào, ta biết ngưi có thể làm tốt hơn nữa!
+Nào, ta biết ngươi có thể làm tốt hơn nữa!
 Hãy dồn ý chí chiến đấu vào nắm đấm!
 *
 Kỹ thuật thứ hai.
@@ -345,7 +345,7 @@ Giờ chúng ta sẽ luyện tập thêm một chút theo cách gần giống v�
 *dj_10
 Làm tốt lắm!
 *
-Ngươi khá có năng khiếu đấy! Tôi rất mong chờ được thấy ngươi trong buổi tập thực chiến.
+Ngươi khá có năng khiếu đấy! Ta rất mong chờ được thấy ngươi trong buổi tập thực chiến.
 *
 Nếu ngươi chọn cùng một kỹ thuật với đối thủ 3 lần, hoặc chọn sai kỹ thuật, ngươi sẽ mất một điểm sinh lực.
 *

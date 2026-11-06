@@ -80,7 +80,7 @@ Hồi HP.
 // ========================================================
 
 
-%ITEM mtr_wheat Lúa mì
+%ITEM mtr_wheat Lúa Mì
 Một loại cây lương thực chủ yếu ở các thành phố trên mặt đất.
 Là nguyên liệu để chế biến thức ăn tiện lợi.
 
@@ -157,11 +157,11 @@ Một số điều kiện nhất định có thể khiến nó tạm thời ng�
 &&recipe_categ_cook Nấu ăn
 &&recipe_categ_alchemy Giả kim
 
-&&recipe_item_categ_wheat Ngũ cốc
-&&recipe_item_categ_vegi Rau củ
+&&recipe_item_categ_wheat Ngũ Cốc
+&&recipe_item_categ_vegi Rau Củ
 &&recipe_item_categ_meat Thịt
-&&recipe_item_categ_fish Hải sản
-&&recipe_item_categ_fruit Hoa quả
+&&recipe_item_categ_fish Hải Sản
+&&recipe_item_categ_fruit Hoa Quả
 &&recipe_item_categ_mush Nấm
 &&recipe_item_categ_egg Trứng
 &&recipe_item_categ_water Nước
@@ -174,12 +174,12 @@ Một số điều kiện nhất định có thể khiến nó tạm thời ng�
 &&recipe_effect_punch_drain Lượng mana có thể cướp được từ các đòn đánh thường
 
 &&recipe_effect_how_much &1 (Sức mạnh:&2%) 
-&&__adding &1 &2
+&&__adding &2 &1
 // ↑ In English, you should write here "&1 &2"
 
 &&recipe_adj_enough_specific &1
-&&recipe_adj_manykind Độ đa dạng
-&&recipe_adj_manykind_specific Độ đa dạng &1
+&&recipe_adj_manykind Đa Dạng
+&&recipe_adj_manykind_specific Đa Dạng &1
 &&recipe_double_item &1 và &2
 
 &&recipe_adj_grade0 &1 Đáng ngờ
@@ -188,7 +188,7 @@ Một số điều kiện nhất định có thể khiến nó tạm thời ng�
 &&recipe_adj_grade3 Siêu &1
 &&recipe_adj_grade4 &1 Thần thánh
 
-&&Recipe_title_bread Bánh mì
+&&Recipe_title_bread Bánh Mì
 &&Recipe_desc_bread Rất hợp cho bữa sáng. Có thể dùng làm đĩa khi để khô.
 
 &&Recipe_title_sandwich Bánh Sandwich
@@ -375,7 +375,7 @@ Nghe nói ở làng elf, trẻ con được dạy từ nhỏ cách phân biệt 
 
 %ITEM mtr_rocksolt0 Muối đá
 Làm thịt ngon hơn hẳn và khiến rau củ ít nhất cũng ăn được.
-%RECIPE_REPLACE mtr_rocksolt0 Ướp muối
+%RECIPE_REPLACE mtr_rocksolt0 Ướp Muối
 
 %ITEM mtr_pepper Hạt tiêu
 Đã từng có thời hạt tiêu được quý như vàng bạc, có giá trị chẳng kém gì chúng.
@@ -438,7 +438,7 @@ Cấp độ nguy hiểm khi mở rương càng cao, chất lượng và số lư
 
 
 &&recipe_item_categ_flower Hoa
-&&recipe_item_categ_seasoning Gia vị
+&&recipe_item_categ_seasoning Gia Vị
 &&recipe_item_categ_other Khác
 &&recipe_item_categ_fromnoel Bên trong Noel
 
@@ -519,7 +519,7 @@ Không hiển thị vị trí của rương và kẻ địch.
 Một lọ chứa đầy các loại gia vị bản địa của Núi Fallen.
 Ngửi thôi đã thấy ngon miệng.
 
-%RECIPE_REPLACE mtr_curry Cà ri
+%RECIPE_REPLACE mtr_curry Cà Ri
 
 %ITEM ostrea_bomb Chất Nổ Của Thú Nhân
 Một chiếc túi nhỏ gắn kèm một thiết bị. Có lẽ là chất nổ mà thú nhân làm rơi.
@@ -845,7 +845,7 @@ Uống sữa vào thì nhớ chống nạnh, ngẩng mặt lên trời nhé!
 %ITEM tool_bread_oven Lò Nướng Bánh Mì
 Có thể ngửi thấy mùi bánh mì mới nướng vào bất cứ lúc nào trong ngày là một trong những thứ giúp cải thiện chất lượng cuộc sống tuyệt vời nhất
 
-%RECIPE_REPLACE tool_bread_oven Nướng bằng lò:
+%RECIPE_REPLACE tool_bread_oven Bỏ Lò
 
 %ITEM tool_keg Ủ
 Một thiết bị lượng tử khiến bạn không thể biết thứ bên trong đang thối rữa hay lên men cho đến khi mở nó ra.
@@ -1131,7 +1131,7 @@ Nước bị nhiễm ma thuật cổ đại và mana ô uế. Rắc nó xung qua
 
 %ITEMREEL nitre_G0 Thuốc Nổ 1
 
-%ITEMREEL poisonwater_G0 Nước Độ 1
+%ITEMREEL poisonwater_G0 Nước Độc 1
 
 %ITEM anc_cure_poison Thuốc Giải Độc
 Giải được độc tố. Nhưng nó đắng kinh khủng...
