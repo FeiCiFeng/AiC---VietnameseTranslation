@@ -23,7 +23,7 @@
 
 &&EV_access_alchemy Luyện kim
 &&EV_access_cook Nấu ăn
-&&EV_access_atelier Atelier
+&&EV_access_atelier Xưởng Chế Tác
 &&EV_access_myroom Phòng của mình
 &&EV_access_shower Tắm
 &&EV_access_restroom Nhà vệ sinh
@@ -80,7 +80,7 @@
 // ========================================================
 
 &&Talker_elf_man Nam Elf
-&&Talker_elf_madam Quý bà Elf
+&&Talker_elf_madam Quý cô Elf
 &&Talker_elf_woman Nữ Elf
 &&Talker_elf_student Học sinh Elf
 &&Talker_NoelCane Trượng của Noel
@@ -218,7 +218,7 @@
 
 
 
-&&EvTitle_uniform Quần áo của bạn...
+&&EvTitle_uniform Quần áo của cậu...
 &&EvTitle_curemagic Phép hồi phục
 &&EvTitle_boring Cậu thấy chán à?
 &&EvTitle_4ascend_ixia Chơi với Ixia <img mesh="icon_4ascend" />
@@ -339,12 +339,12 @@
 &&EvTitle_t_enemydrop  Mẹo: Vật phẩm rớt từ quái
 &&EvTitle_t_elecboard  Mẹo: Bảng mạch
 
-&&Select_tilde_open_box  Mở rương hộ chị
+&&Select_tilde_open_box  Mở rương hộ em
 
 
 &&Select_osioki_progress Xác nhận
 &&Select_osioki_progress_sensitive Xác nhận (đã tắt chế độ siêu an toàn)
-&&Select_osioki_skip Đếm ô tren trần nhà (bỏ qua)
+&&Select_osioki_skip Đếm ô trên trần nhà (bỏ qua)
 
 
 // ========================================================
@@ -384,7 +384,7 @@
 
 &&Tuto_watershard_07 Khi đã chọn thủy phiến, đừng bấm phím định hướng nào
 
-&&Select_retry_again Em muốn thửu lại
+&&Select_retry_again Em muốn thử lại
 &&Select_finish_lecture Em nghĩ em hiểu rồi
 
 

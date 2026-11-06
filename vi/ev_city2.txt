@@ -690,11 +690,11 @@ Các cậu quay đi chỗ khác đi!
 *mb4_203
 Em vừa gây ra một phen náo loạn đấy.
 *
-Thầy sẽ lấy khăn từ phòng dụng cụ vệ sinh. Mau đi giặt quần áo đi.
+Cô sẽ lấy khăn từ phòng dụng cụ vệ sinh. Mau đi giặt quần áo đi.
 
 *n_204
 <m fadein>Ưư... em xin lỗi,
-thưa thầy...
+thưa cô...
 
 
 //～～暗転

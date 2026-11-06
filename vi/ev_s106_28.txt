@@ -76,7 +76,7 @@ Hừ, tớ không định để bản thân tụt lại phía sau chỉ vì bị
 Em Polystachya, không nói chuyện riêng.
 
 *i_11
-Em xin lỗi, thưa thầy.
+Em xin lỗi, thưa cô.
 
 
 // 杖を換装した // ============
@@ -91,7 +91,7 @@ E-em ổn ạ!
 Tốt, tôi đã lo rằng mình sẽ phải nhờ em Polystachya làm mẫu cho buổi học hôm nay.
 
 *i_15
-<angry><m ple>Ý thầy là sao cơ chứ!?
+<angry><m ple>Ý cô là sao cơ chứ!?
 
 *n_16
 Ixia!? Cậu không phải nên nghỉ ngơi đi sao!?
@@ -208,7 +208,7 @@ Em không nên quá bận tâm đến việc phải hoàn hảo ngay trong lần
 Được rồi, chúng ta sẽ thực hiện lại. Mọi người hãy quan sát thật kỹ.
 
 *bs_10
-Đến lượt các em, học viên. Hãy làm theo ví dụ của em Cornehl!
+Đến lượt các em, học viên. Hãy làm theo ví dụ của bạn Cornehl!
 
 *bs_20
 Buổi luyện tập đến đây thôi! Tất cả tập hợp lại!
@@ -239,7 +239,7 @@ Mặc dù dạo này tớ thấy đói hơn bình thường thật.
 Chắc là do luyện tập nhiều hơn thôi, ehehe...
 
 *bs_06
-Để kết thúc buổi học hôm nay, chúng ta đã chuẩn bị một trò chơi nhỏ. Cornehl, Polystachya, bước lên đây.
+Để kết thúc buổi học hôm nay, Bọn cô đã chuẩn bị một trò chơi nhỏ. Cornehl, Polystachya, bước lên đây.
 
 *i_07
 <m joy>Ohohoho</m>, biết ngay mà! Không phải buổi học của Giáo sư Oleander nếu cuối giờ không có một trận đấu!
@@ -517,7 +517,7 @@ Em xin phép được phát biểu ạ.
 Em cứ nói đi, Tigrina.
 
 *so_13
-Cảm ơn thầy.
+Cảm ơn cô.
 *
 Bọn em là học viên ngành kỹ thuật, bình thường không trực tiếp giao chiến với quái vật. Bọn em không được huấn luyện cho việc đó.
 
@@ -628,13 +628,13 @@ Em thuộc khoa nào?
 Chúng ta đang chuẩn bị phòng thủ thành phố trước đàn quái vật! Không có thời gian làm theo thủ tục đâu!
 
 *so_04
-Thầy không biết câu chuyện ngụ ngôn về con chuột và Elf sao?
+Cô không biết câu chuyện ngụ ngôn về con chuột và Elf sao?
 *
 Con chuột sống một cuộc đời yên bình, mỗi ngày chạy trong chiếc bánh xe của nó.
 *
 Hoàn toàn không biết rằng có một Elf vẫn luôn tra dầu để bánh xe ấy tiếp tục quay.
 *
-<MT l="-1"><I><big><m ple>THẦY CÓ HIỂU Ý EM KHÔNG!?
+<MT l="-1"><I><big><m ple>CÔ CÓ HIỂU Ý EM KHÔNG!?
 
 *bs1_05
 Không. Làm sao có ai hiểu nổi em chứ?
@@ -667,8 +667,8 @@ Nhà trường phải bỏ tiền để vận hành, đào tạo chúng em và c
 Tôi không muốn trở thành nguyên nhân khiến bất kỳ học viên nào phải bỏ mạng. Tôi sẽ cho phép em sử dụng mọi thứ trong phạm vi quyền hạn của mình.
 
 *so_10
-OÁI OÁI-I-I! CẢM ƠN THẦY～～
-<m joy>Em yêu thầy nhiều lắm! <emoji>❤️❤️</emoji>
+OÁI OÁI-I-I! CẢM ƠN CÔ～～
+<m joy>Em yêu cô nhiều lắm! <emoji>❤️❤️</emoji>
 
 *bs1_11
 <m fadein>...còn nói kiểu đó lần nữa thì tôi vả em đấy.
@@ -818,4 +818,4 @@ Họ cũng có những lựa chọn tùy chỉnh khác, nếu mẫu của Bermit
 Biết đâu cô còn tìm được cây trượng mình thích hơn cả cây cũ ấy chứ.
 
 *n_31
-Em hiểu rồi. Cảm ơn anh đã giúp đỡ nhé.
+Em hiểu rồi. Cảm ơn ạ.

@@ -468,16 +468,16 @@ Nếu ccậu nhắm phép thuật vào chúng, chúng sẽ lập tức dịch ch
 *s12_megane x_00
 Con đường phía trước đã bị sụp đổ nên chúng ta không thể đến Grazia.
 *
-Sáng nay tôi ngủ quên, nên đã cầm bữa sáng rồi chạy một mạch xuống dốc từ trong làng.
+Sáng nay tớ ngủ quên, nên đã cầm bữa sáng rồi chạy một mạch xuống dốc từ trong làng.
 *
-Vì quá vội nên tôi chỉ kịp cắn vài miếng bánh mì nướng, vậy mà tất cả vẫn thành công cốc!
+Vì quá vội nên tớ chỉ kịp cắn vài miếng bánh mì nướng, vậy mà tất cả vẫn thành công cốc!
 *
-Tôi nghĩ mình có thể leo cầu thang rồi đi dọc theo thân cây để sang phía bên kia, nhưng...hiện giờ tôi cảm thấy hơi mệt, chẳng muốn quay lại làng chút nào cả~
+Tớ nghĩ mình có thể leo cầu thang rồi đi dọc theo thân cây để sang phía bên kia, nhưng...hiện giờ tớ cảm thấy hơi mệt, chẳng muốn quay lại làng chút nào cả~
 
 *x_01
 Nghe nói họ đã gọi một nhóm...công nhân thú nhân gì đó đến để giúp dọn dẹp đống đổ nát. Không biết họ có thể dọn sạch hết trong một đêm không nhỉ?
 *
-Thôi thì cứ viện cớ hôm nay tôi không đến được rồi nghỉ học vậy.
+Thôi thì cứ viện cớ hôm nay tớ không đến được rồi nghỉ học vậy.
 Có nên không nhỉ?
 
 

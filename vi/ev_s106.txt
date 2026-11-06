@@ -63,10 +63,10 @@ Thế nào đội trưởng cũng đổ hết trách nhiệm lên đầu mình c
 // ========================================================
 
 *___Tigrina/board00 board00
-Câu lạc bộ Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật
+Câu lạc bộ Nghiên cứu Kỹ thuật và Thân Hòa với Quái Vật
 
 *___Tigrina/board01 board01
-Câu lạc bộ Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật
+Câu lạc bộ Nghiên cứu Kỹ thuật và Thân Hòa với Quái Vật
 Nội quy câu lạc bộ (nói đúng hơn là hướng dẫn)
 
 一Không được sử dụng phép thuật bên ngoài Holoshed!
@@ -447,7 +447,7 @@ Nếu cô không hợp tác, tôi sẽ phải áp giải cô về đồn.
 Hmm...
 
 *n_24
-<m fadein>Tôi...có thể thả váy xuống được chưa?
+<m fadein>Em...có thể thả váy xuống được chưa?
 
 *mb_25
 Chưa...
@@ -691,7 +691,7 @@ Lần này tự tìm đường ra đi. Chỉ cần đừng để những lính g
 Ah, ư...
 
 *mb_230
-Tôi chắc chắn chúng ta sẽ sớm gặp lại nhau thôi...
+Tôi cá chắn chúng ta sẽ sớm gặp lại nhau thôi...
 *
 Giờ thì đi đi.
 
@@ -805,7 +805,7 @@ Hy vọng Tigrina sẽ hiểu...
 Cô vừa đi từ kho vũ khí ra à?
 
 *n_101
-K-không, tất nhiên là không! Tôi chỉ đang tìm nhà vệ sinh thôi...
+K-không, tất nhiên là không ạ! Em chỉ đang tìm nhà vệ sinh thôi...
 
 *mb_102
 Ở đây không có nhà vệ sinh dành cho cô đâu. Đi tiếp đi.
@@ -830,7 +830,7 @@ Câu lạc bộ này còn hoạt động được bao lâu thì phải xem Mẫu
 
 *so_03
 Không dài dòng nữa, chào mừng cậu đến với
-<m joy><c5>Câu lạc bộ Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật<m><c0>!
+<m joy><c5>Câu lạc bộ Nghiên cứu Kỹ thuật và Thân Hòa với Quái Vật<m><c0>!
 
 *n_03
 Tớ cứ tưởng đây chỉ là một nhà kho chứa đồ...
@@ -849,7 +849,7 @@ Hơn nữa, tớ cũng chẳng mong nhận được sự giúp đỡ từ nhữn
 
 *n_05
 bặt vô âm tín sao?
-Với cả, cái phần "Quan hệ với Quái Vật" trong tên câu lạc bộ nghĩa là gì?
+Với cả, cái phần "Thân Hòa với Quái Vật" trong tên câu lạc bộ nghĩa là gì?
 
 //無視してホログラム機に歩み寄る
 *so_06
@@ -1129,7 +1129,7 @@ Không.
 Ahahaha! Tớ chỉ định hỏi cậu có muốn tham gia câu lạc bộ không thôi!
 
 *n_05
-Câu lạc bộ...Nghiên cứu Kỹ thuật và Quan hệ với Quái Vật?
+Câu lạc bộ...Nghiên cứu Kỹ thuật và Thân Hòa với Quái Vật?
 
 *so_06
 <m joy>Đú-úng rồi!
@@ -1331,7 +1331,7 @@ Cậu có biết...cách tốt nhất để thu thập chúng không?
 *
 <MT l=2>Chà, tớ chắc chắn không muốn bị tụt hậu về công nghệ so với đám quái vật...
 *
-Nếu vậy, tớ sẽ phải đổi tên câu lạc bộ thành <m cry>Câu lạc bộ Nghiên cứu Giả Kỹ thuật và Quan hệ với Quái Vật<m0> mất!
+Nếu vậy, tớ sẽ phải đổi tên câu lạc bộ thành <m cry>Câu lạc bộ Nghiên cứu Kỹ thuật và Thân Hòa với Quái Vật<m0> mất!
 
 *n_07
 Cậu...đang mong chuyện đó xảy ra sao...?

@@ -238,7 +238,7 @@ Cả bạn và tất cả quái vât đều có tỷ lệ chịu ảnh hưởng 
 &&cannot_take_other_reason Vì lý do nào đó, bạn không thể lấy thứ này. // Debug txt
 
 &&KD_start_manage <key add/>Quản lý vật phẩm
-&&KD_itemmove_whole <key add/>Chuyển vật phẩm đến &1 <key shift/>Đổi góc nhìn
+&&KD_itemmove_whole <key add/>Chuyển vật phẩm đến &1 <key shift/>Đổi bên
 
 // ========================================================
 // MARK : Scenario

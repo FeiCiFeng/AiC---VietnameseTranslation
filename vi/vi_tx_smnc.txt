@@ -210,7 +210,7 @@ Dùng để chữa trị cho đồng minh bị thương. Các học viên đư�
 Tigrina sẽ trút mưa pháo ma thuật từ trên cao! Nhấn <key submit/> để kiểm tra và chỉnh sửa lượng đạn của cô ấy. Bạn cũng có thể bố trí học viên ở đây để giúp cô ấy nạp đạn pháo nhanh hơn.
 
 
-/* ___ Smnc_alert_td_notice ___ */
+/* ___ smnc_alert_td_notice ___ */
 Chặn đứng và đánh tan quái vật.
 Noel, các học viên, chúng tôi trông cậy vào mọi người.
 
@@ -439,19 +439,19 @@ Chỉ kẻ địch mới có thể đứng trên đó.
 &&Smnc_cc_name_woman_elf_thin_student_sister_3 Tiana
 
 /* ___ Smnc_alert_no_cc_generator ___ */
-Chưa đặt vị trí xuất phát cho khách mờ. Khách sẽ xuất hiện tại vị trí bắt đầu của Noel.
+Chưa đặt vị trí xuất phát cho khách mời. Khách mời sẽ xuất hiện tại vị trí bắt đầu của Noel.
 
-&&UiSmnCreator_smnc_generate_cc Vị trí xuất phát của khách
+&&UiSmnCreator_smnc_generate_cc Vị trí xuất phát của khách mời
 
 /* ___ smnc_desc_generate_cc ___ */
-Khách sẽ xuất phát từ vị trí được chỉ định. Nếu có nhiều vị trí, họ sẽ lần lượt xuất hiện theo thứ tự được thêm vào.
+Khách mời sẽ xuất phát từ vị trí được chỉ định. Nếu có nhiều vị trí, họ sẽ lần lượt xuất hiện theo thứ tự được thêm vào.
 
 &&Smnc_ui_enemy_position Vị trí xuất hiện của kẻ địch:
 
 &&Smnc_ui_enemy_position_all Ngẫu nhiên
 &&Smnc_ui_seed_previous Hạt giống trước đó: &1
 
-&&UiSmnCreator_cc_attack_ratio Tần suất tấn công của khách
+&&UiSmnCreator_cc_attack_ratio Tần suất tấn công của khách mời
 
 
 // ========================================================
@@ -459,3 +459,5 @@ Khách sẽ xuất phát từ vị trí được chỉ định. Nếu có nhiề
 // ========================================================
 
 &&Smnc_td_play_fatal Xem lại cảnh thất bại
+
+&&Smnc_td_cleard_max Điểm cao nhất (cấp độ): &1
