@@ -5,11 +5,6 @@ vi      VI      Vietnamese
 // 3rd word: Full name in the option
 %VERSION 0.30
 
-%DEFAULT_LANGUAGE 0
-// the family will be chosen as default when no other family
-// which has %SYSTEM_LANGUAGE setting is matched.
-
-
 %SPACE_DELIMITER 1
 // If you insert spaces when remove line breaks, enter 1.
 // ex: EN, KR
@@ -36,10 +31,11 @@ vi      VI      Vietnamese
 
 // ================================================
 
+%SYSTEM_LANGUAGE Vietnamese
 %BUNDLE_PATH __AdditionalFonts vi_font
 %FONT Panton-Regular Panton-Bold
 %USE_ARIEL 1
 %FONT_BASE_HEIGHT 0.84
 %FONT_YSHIFT 0.88
-%FONT_XRATIO 1.0
-%FONT_XRATIO_1BYTE 1
+%FONT_XRATIO 1.1
+%FONT_XRATIO_1BYTE 1.05

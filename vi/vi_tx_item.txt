@@ -35,7 +35,7 @@ Một loại quả bí ẩn trông giống quả táo.
 Trông nó có vẻ liên quan đến
 một huyền thoại từ một quá khứ bị quên lãng...?
 
-%ITEM gummy_mp0 Kẹo dẻo ma lực
+%ITEM gummy_mp0 Kẹo Dẻo Ma Lực
 Thức ăn tiện lợi được làm từ
 gel và tinh thể ma thuật.
 Được các pháp sư hỗ trợ
@@ -64,7 +64,7 @@ Một chất lỏng sền sệt thu được từ
 việc đánh bại quái vật hắc ám.
 %RECIPE_REPLACE mtr_essence0 Chất Nhầy
 
-%ITEM mtr_water0 Nước sạch
+%ITEM mtr_water0 Nước Sạch
 Nước sạch, trong lành.
 Hãy giữ cho cơ thể đủ nước.
 
@@ -84,25 +84,25 @@ Hồi HP.
 Một loại cây lương thực chủ yếu ở các thành phố trên mặt đất.
 Là nguyên liệu để chế biến thức ăn tiện lợi.
 
-%ITEM mtr_lettuce Rau diếp
+%ITEM mtr_lettuce Rau Diếp
 Một loại rau xanh tươi mát.
 
 // ========================================================
 // MARK : 貴重品
 // ========================================================
 
-%ITEM precious_noel_cloth Đồng phục cũ
+%ITEM precious_noel_cloth Đồng Phục Cũ
 Một bộ quân phục từng được sử dụng tại ngôi làng của tộc Elf, được bà của mình truyền lại.
 
-%ITEM precious_dangerous_meter Máy đo ma lực
+%ITEM precious_dangerous_meter Máy Đo Ma Lực
 Một vật phẩm không thể thiếu đối với các nhà thám hiểm, có khả năng phát hiện dòng chảy ma thuật và cho người dùng biết mức độ nguy hiểm ước tính tại khu vực hiện tại. Khi màu sắc của nó sậm lại, lúc đó bạn nên trở về nhà ngay.
 
 &&desc_dangerous_meter Bạn có thể kiếm tra mức độ nguy hiểm trong menu Trạng thái.
 
-%ITEM precious_noel_shorts Đồ lót vải cotton
+%ITEM precious_noel_shorts Đồ Lót Vải Cotton
 Quần lót màu trắng có một chiếc nơ ở phía trước.
 
-%ITEM enhancer_slot Ô cường hóa
+%ITEM enhancer_slot Ô Cường Hóa
 Một phần mở rộng cho trượng phép, cho phép bạn trang bị các vật cường hóa.
 Một số điều kiện nhất định có thể khiến nó tạm thời ngừng hoạt động.
 
@@ -217,11 +217,11 @@ Một viên nang thời gian mà chị mình với mình chôn vùi từ rất l
 T-Thật ư....?
 
 
-%ITEM mtr_lily_bulb0 Củ Muguet ánh trăng
+%ITEM mtr_lily_bulb0 Củ Muguet Ánh Trăng
 Cực kỳ độc. Chị đã dặn tui không được cắn thử nó.
 
 
-%ITEM mtr_black_harb0 Thảo dược sọc đen
+%ITEM mtr_black_harb0 Thảo Dược Sọc Đen
 Theo lời của chị, tinh dầu từ loại thảo dược này khiến người ta cảm thấy cực kỳ dễ chịu, cứ như đang lơ lửng trên mây vậy~!
 
 %ITEM mtr_coal0 Than
@@ -230,7 +230,7 @@ Tui không thích chạm vào thứ này vì nó làm bẩn tay, nhưng làm gi�
 %ITEM mtr_quartz0 Thạch Anh
 Một viên đá nhỏ lấp lánh.
 
-%ITEM mtr_amethyst0 Thanh anh tím
+%ITEM mtr_amethyst0 Thanh Anh Tím
 Một loại đá khá phổ biến. Nghe nói nó gần như giống hệt thạch anh. Đây là loại đá chị mình thích nhất; mỗi khi mình nhặt được chúng, chị mình vui lắm.
 
 %ITEM mtr_iron0 Sắt
@@ -243,53 +243,53 @@ Không có nhiều vật liệu có thể chống lại sự ăn mòn do mana nh
 
 
 
-%ITEM nightingale_bell Chuông của thương nhân
+%ITEM nightingale_bell Chuông Của Thương Nhân
 Một chiếc chuông có bán tại cửa hàng của Nightingale.
 Nếu đặt nó vào túi, cô ấy sẽ nghe thấy tiếng chuông và bắt đầu đi về phía bạn... theo đúng tốc độ của cô ấy.
 
 
-%ITEM cooking_pan Chảo tập sự
+%ITEM cooking_pan Chảo Tập Sự
 Chiếc chảo cũ được trao lại Tilde.
 Kể từ ngày hôm nay thì mình cũng là đầu bếp rồi!
 
 
 
-%ITEM mtr_beast_skin0 Da quái vật
+%ITEM mtr_beast_skin0 Da Quái Vật
 Da của một con quái vật.
 Có khả năng ngăn mana cực tốt.
 
-%ITEM mtr_glass0 Mảnh kính
+%ITEM mtr_glass0 Mảnh Kính
 Những mảnh vỡ cứng và trong suốt.
 Một số quái vật hình thành loại vật chất này trong bộ xương.
 
-%ITEM mtr_organ0 Gan quái vật
+%ITEM mtr_organ0 Gan Quái Vật
 Biểu tượng cho lòng tham của quái vật.
 Đắng đến mức không thể dùng để nấu ăn.
 %RECIPE_REPLACE mtr_organ0 Gan
 
 
-%ITEM mtr_meat_demon0 Thịt quái vật
+%ITEM mtr_meat_demon0 Thịt Quái Vật
 miếng thịt màu đen.
 Ma lực bên trong sẽ nằm lì trong bụng như một cục đá. Chẳng ngon lành gì.
 %RECIPE_REPLACE mtr_meat_demon0 Thịt Đen
 
 
-%ITEM mtr_meat_chicken0 Gà núi
+%ITEM mtr_meat_chicken0 Gà Núi
 Thịt từ những con gia súc được nuôi trên núi.
 Bổ dưỡng và thơm ngon, nhưng toát ra vẻ quý tộc kì lạ.
-%RECIPE_REPLACE mtr_meat_chicken0 Thịt gà
+%RECIPE_REPLACE mtr_meat_chicken0 Thịt Gà
 
 &&recipe_effect_atk Sức mạnh vật lý
 &&recipe_effect_atk_magic Sức mạnh phép thuật
 
-%ITEM mtr_cabbage Bắp cải
+%ITEM mtr_cabbage Bắp Cải
 Cần thêm nước sốt.
 
 &&recipe_effect_arrest_hpdamage_reduce Sát thương HP khi bị khống chế
 &&recipe_effect_arrest_mpdamage_reduce Sát thương MP khi bị khống chế
 
 
-%ITEM mtr_tomato Cà chua
+%ITEM mtr_tomato Cà Chua
 Mình không thích cái cảm giác nhão nhão này.
 Nhưng tương cà thì được.
 &&recipe_effect_evade_nodam_extend Tăng thời gian bất tử khi né đòn
@@ -303,37 +303,37 @@ Cùng hội với ớt xanh đấy.
 Đừng hòng đánh lừa mình bằng mấy màu sắc bắt mắt đó.
 &&recipe_effect_arrest_escape Hiệu quả giãy giụa
 
-%ITEM mtr_celery Cần tây
+%ITEM mtr_celery Cần Tây
 Chất xơ.
 Chất xơ ngập tràn mọi nơi.
 
 &&recipe_effect_elec_damage_reduce Kháng sét
 
-%ITEM mtr_waterplant Cà tím
+%ITEM mtr_waterplant Cà Tím
 Vị khá ngon khi được trộn cùng thịt và nước sốt.
 Nhưng cái ngon đó thực ra là do sốt, chứ không phải cà tím.
 &&recipe_effect_fire_damage_reduce Kháng lửa
 
 
-%ITEM mtr_burdock Ngưu bàng
+%ITEM mtr_burdock Ngưu Bàng
 Trông nó giống nguyên liệu làm thuốc hơn là một loại rau.
 &&recipe_effect_ser_fast thời gian từ hiệu ứng bất lợi
 
 
-%ITEM mtr_carrot Cà rốt
+%ITEM mtr_carrot Cà Rốt
 Ăn cái này khiến mình cảm thấy mình như gia súc.
 &&recipe_effect_sink_reduce Giảm sự vụng về
 
-%ITEM mtr_beets Củ dền
+%ITEM mtr_beets Củ Dền
 Ngọt và rất ngon.
 Dùng ép nước hoặc làm gia vị đều được. Ước gì Tilde trồng thêm loại này.
 
 
-%ITEM mtr_cucumber Dưa chuột
+%ITEM mtr_cucumber Dưa Chuột
 Nó chứa tới 90% là nước. Uống nước luôn cho rồi.
 
 
-%ITEM mtr_turnip Củ cải
+%ITEM mtr_turnip Củ Cải
 Nhai nhai nhai nhai...
 &&recipe_effect_chant_speed_overhold Tốc độ niệm chú khi cạn MP
 
@@ -343,7 +343,7 @@ Một loại trái rất ngon, vừa ngọt vừa no. Có thể ép lấy dầu 
 Nếu cứ thế mà cắn thì xác định cả ngày ngồi lấy bắp dính trong kẽ răng.
 &&recipe_effect_reel_speed Tốc độ quay rương
 
-%ITEM mtr_onion Hành tây
+%ITEM mtr_onion Hành Tây
 Thật ra chỉ có tác dụng làm trợ thủ cho thịt mềm hơn thôi.
 &&recipe_effect_ser_resist Kháng hiệu ứng
 
@@ -351,18 +351,18 @@ Thật ra chỉ có tác dụng làm trợ thủ cho thịt mềm hơn thôi.
 Không thể thiếu khi áp chảo thịt.
 &&recipe_effect_lost_mp_when_chanting Mana mất đi khi bị đánh trong lúc niệm phép
 
-%ITEM mtr_broccoli Bông cải 
+%ITEM mtr_broccoli Bông Cải 
 Đừng vì một món ăn bổ dưỡng mà đi khuyên người khác phải ăn nó.
 &&recipe_effect_mp_gaze_resist Độ bền thanh MP
 
-%ITEM mtr_noel_egg Trứng của Noel
+%ITEM mtr_noel_egg Trứng Của Noel
 ...Nó đau.
 Có thể thu thập chúng khi không chiến đấu.
 Cơ mà, mình không muốn nhặt nó chút nào...
 &&recipe_effect_chant_speed Tốc độ niệm phép
-%RECIPE_REPLACE mtr_noel_egg Trứng của Noel
+%RECIPE_REPLACE mtr_noel_egg Trứng Của Noel
 
-%ITEM mtr_egg Trứng gia súc
+%ITEM mtr_egg Trứng Gia Súc
 Trứng của những con gia súc được nuôi trên núi.
 Thật tội lỗi khi nấu và ăn một thứ còn chưa kịp chào đời.
 Có lẽ vì thế mà nó mới ngon đến vậy.
@@ -373,14 +373,14 @@ Nghe nói ở làng elf, trẻ con được dạy từ nhỏ cách phân biệt 
 &&recipe_effect_random Hiệu ứng ngẫu nhiên
 &&recipe_effect_dish_variable Sức mạnh của món ăn hiện tại
 
-%ITEM mtr_rocksolt0 Muối đá
+%ITEM mtr_rocksolt0 Muối Đá
 Làm thịt ngon hơn hẳn và khiến rau củ ít nhất cũng ăn được.
 %RECIPE_REPLACE mtr_rocksolt0 Ướp Muối
 
-%ITEM mtr_pepper Hạt tiêu
+%ITEM mtr_pepper Hạt Tiêu
 Đã từng có thời hạt tiêu được quý như vàng bạc, có giá trị chẳng kém gì chúng.
 May mà mình sinh ra vào thời đại mà hạt tiêu đã rẻ hơn nhiều.
-%RECIPE_REPLACE mtr_pepper Ướp tiêu
+%RECIPE_REPLACE mtr_pepper Ướp Tiêu
 
 %ITEM rotten_food Đồ ăn ôi thiu
 Thức ăn bị hỏng do tiếp xúc với mana.
@@ -445,7 +445,7 @@ Cấp độ nguy hiểm khi mở rương càng cao, chất lượng và số lư
 &&Recipe_title_salad Salad
 &&Recipe_desc_salad Món dành cho những tín đồ mê rau củ.
 
-&&Recipe_title_oil Dầu ăn
+&&Recipe_title_oil Dầu Ăn
 /* ___ Recipe_desc_oil ___ */ 
 Ngon đấy, nhưng đừng dùng quá nhiều.
 Xét cho cùng, nó cũng giống như thuốc và chất độc vậy.
@@ -529,7 +529,7 @@ Chỉ cầm nó thôi cũng khiến tui thấy bất an...
 
 &&recipe_effect_frozen_damage_reduce Kháng đóng băng
 
-%ITEM mtr_rosemary Hương thảo
+%ITEM mtr_rosemary Hương Thảo
 Một loại thảo dược.
 Nó được phủ đầy những bông hoa xanh xinh xắn.
 
@@ -673,7 +673,7 @@ Lớp vỏ ngoài của một viên đạn ma thuật. Có vẻ ma lực bên tr
 // MARK : ver0.24
 // ========================================================
 // ↓ver0.24で修正される部分
-%ITEM recipe_collection Sổ Tay Công thức
+%ITEM recipe_collection Sổ Tay Công Thức
 Một cuốn sổ tay công thức được cấp phép, do chị gái đưa cho mình.
 Chứa thông tin về các công thức và vật phẩm đã biết.
 Nhấn <key d/>+<key a/> ở bất cứ đâu, bất cứ lúc nào để xem.
@@ -988,17 +988,17 @@ Hàm lượng Actihol cực cao do được chưng cất nhiều lần. Uống v
 
 
 
-%ITEM mtr_noel_milk Sữa của Noel
+%ITEM mtr_noel_milk Sữa Của Noel
 Thường thì sữa chỉ được tạo ra bởi những bà mẹ mới sinh, nhưng...
 
 %RECIPE_REPLACE mtr_egg Trứng
 
-%ITEM mtr_elf_milk Sữa của Elf
+%ITEM mtr_elf_milk Sữa Của Elf
 Chắc hẳn có ai đó quanh đây phù hợp để uống thứ này...
 
 %RECIPE_REPLACE mtr_elf_milk Sữa
 
-%ITEM mtr_elf_egg Trứng của Elf
+%ITEM mtr_elf_egg Trứng Của Elf
 Thành quả từ sự khổ sở của một ai đó. Dù có ghét lũ quái vật đến đâu, chúng ta cũng không thể phủ nhận giá trị dinh dưỡng của nó.
 
 %RECIPE_REPLACE mtr_elf_egg Trứng
