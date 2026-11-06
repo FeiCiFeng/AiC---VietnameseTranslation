@@ -37,16 +37,16 @@
 &&AI_name_alma Alma
 &&AI_name_primula Primula
 
-&&Turn_manual Lượt của mình &1
-&&Turn_manual_1 Lượt người chơi 1 &1
-&&Turn_manual_2 Lượt người chơi 2 &1
-&&Turn_CPU Đang suy nghĩ...
+&&Turn_manual My Turn &1
+&&Turn_manual_1 Player 1's Turn &1
+&&Turn_manual_2 Player 2's Turn &1
+&&Turn_CPU Thinking...
 
-&&RPL_Playing Đang xem lại
+&&RPL_Playing Replaying
 
 
-&&Cutin_gamestart ĐƯA RA QUYẾT ĐỊNH
-&&Cutin_backattack ĐÁNH ÚP!
+&&Cutin_gamestart SEND YOUR DECISION
+&&Cutin_backattack BACK ATTACK!
 
 
 &&TTR_rule_title_0 Tổng quan.1
@@ -72,7 +72,6 @@ dành cho 2 người chơi, lấy cảm hứng từ Cờ Caro.
 /* ___ TTR_rule_0_1 ___ */
 Hỗ trợ đấu với bạn bè trên cùng máy,
 đấu với máy và đấu trực tuyến.
-
 
 /* ___ TTR_rule_1 ___ */
 Hai người chơi lần lượt đặt quân cờ cho đội của mình:
@@ -172,15 +171,15 @@ cũng không mang lại lợi ích cộng thêm.
 // ========================================================
 
 
-&&ttr_announce_manual_1p NGƯỜI CHƠI 1 CHIẾN THẮNG!
-&&ttr_announce_manual_2p NGƯỜI CHƠI 2 CHIẾN THẮNG!
-&&ttr_announce_manual BẠN ĐÃ CHIẾN THẮNG!
-&&ttr_announce_cpu CPU CHIẾN THẮNG...
-&&ttr_announce_online_player BẠN ĐÃ THUA...
+&&ttr_announce_manual_1p Player 1 WIN!
+&&ttr_announce_manual_2p Player 2 WIN!
+&&ttr_announce_manual YOU WIN!
+&&ttr_announce_cpu CPU WIN...
+&&ttr_announce_online_player YOU LOSE...
 
-&&ttr_result_draw HÒA
-&&ttr_draw_in_record Hòa
-&&ttr_temporary_aborted_in_record Đầu hàng
+&&ttr_result_draw DRAW GAME
+&&ttr_draw_in_record Draw
+&&ttr_temporary_aborted_in_record Surrenders
 
 &&ttr_result_cause_defeat_0 <font color="ff:#B6D6FF">Quái vật đã bị đánh bại</font> (&1-&2)
 &&ttr_result_cause_defeat_1 <font color="ff:#FF88AA">Elf đã bị đánh bại</font> (&1-&2)
