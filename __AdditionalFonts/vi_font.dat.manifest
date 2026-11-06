@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 1342781901
+CRC: 2251889756
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: c5c3d6c43ae41658f3a6015eab5263f4
+    Hash: 061ee97bdda388bb777d9c52a9b200db
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8becd547c702b21343d9309dc05a5f64
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: c5c3d6c43ae41658f3a6015eab5263f4
+    Hash: 061ee97bdda388bb777d9c52a9b200db
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -22,6 +22,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundlesSrc/vi/OpenSans-Regular.ttf
-- Assets/AssetBundlesSrc/vi/OpenSans-Light.ttf
+- Assets/AssetBundlesSrc/vi_font/Panton-Bold.ttf
+- Assets/AssetBundlesSrc/vi_font/Panton-Regular.ttf
 Dependencies: []

@@ -25,14 +25,14 @@ Cần có lịch hẹn trước để thăm bệnh nhân, nhưng cô vẫn có t
 
 // フロントにいる獣人
 *___city_hvn/front_bst_00 mb_00
-Thú nhân được tái sinh với cơ thể trưởng thànhđã  để có thể nhanh chóng tiếp tục thực hiện vai trò của mình.
+Thú nhân được tái sinh với cơ thể trưởng thành để có thể nhanh chóng tiếp tục thực hiện vai trò của mình.
 *
-Điều đó thực sự khiến mình càng trân trọng cảnh trẻ em vui đùa ở công viên.
+Điều đó thực sự khiến tôi càng trân trọng cảnh trẻ em vui đùa ở công viên.
 
 *mb_01
 Nghe nói có một cô nhi viện trên núi, nơi thú nhân chăm sóc những Elf nhỏ tuổi.
 *
-Haiz, gần như cả đời mình đều sống ở Grazia. Có lẽ mình có thể thử chuyển công tác đến đó.
+Haiz, gần như cả đời tôi đều sống ở Grazia. Có lẽ tôi có thể thử chuyển công tác đến đó.
 
 
 // 図書室のエルフ

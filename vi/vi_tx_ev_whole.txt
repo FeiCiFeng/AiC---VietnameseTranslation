@@ -251,7 +251,7 @@
 
 &&EvTitle_bar Cơn gió nào đưa bạn tới đây?
 &&EvTitle_fight Về trận chiến
-&&EvTitle_forklore Kể cho mình nghe một câu chuyện
+&&EvTitle_forklore Kể cho em nghe một câu chuyện
 &&EvTitle_replacable Trường thọ
 
 
