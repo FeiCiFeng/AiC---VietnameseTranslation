@@ -73,7 +73,7 @@
 // MARK : TheRoom
 // ========================================================
 
-&&Trm_first_play Tân binh của Phòng Giải Lao
+&&Trm_first_play Tân binh của Phòng Nghỉ Ngơi
 
 
 &&quest_position_near_arrived Đang đến gần điểm đến
@@ -128,7 +128,7 @@
 &&Album_visible_term_106 Tham gia lớp học cùng Alma
 &&Album_visible_term_105_2weekattack Hồi tưởng về cuộc tấn công ở sân trường
 &&Album_visible_term_105_classroom Tham gia lớp học tại học viện
-&&Album_visible_term_troom Thực hiện các dịch vụ tại "Phòng Giải Lao"
+&&Album_visible_term_troom Thực hiện các dịch vụ tại "Phòng Nghỉ Ngơi"
 &&Album_visible_term_cuts_nightingale_0_0 Hoàn thành yêu cầu của Nightingale
 
 &&Album_Tab_Osok Trừng phạt
