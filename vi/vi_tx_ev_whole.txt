@@ -55,9 +55,9 @@
 &&Select_myroom Phòng của mình
 
 
-&&EvTitle_YourName Tên của bạn
+&&EvTitle_YourName Tên của chị
 &&EvTitle_ReasonForMoving Lí do lang thang
-&&EvTitle_Wanted Người bị truy nã
+&&EvTitle_Wanted Về người mất tích
 &&EvTitle_hp_red HP thấp
 
 &&Tuto_punch <key z/> Tấn công thường
