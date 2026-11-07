@@ -931,7 +931,7 @@ Mình nghĩ mình có thể... dạng chân qua dây rồi từ từ nhích sang
 <W2>Mấy nút thắt đó dùng để làm gì cơ chứ!?
 
 *n_01
-<m scary><W3><s2>N-Nếu cậu nghĩ thế là có thể ngăn được tôi... thì nhầm to rồi!
+<m scary><W3><s2>N-Nếu cậu nghĩ thế là có thể ngăn được tớ...thì nhầm to rồi!
 
 *n_02
 Lại có tàn dư mana.

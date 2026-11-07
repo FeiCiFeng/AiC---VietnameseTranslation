@@ -1,15 +1,15 @@
 ManifestFileVersion: 0
-CRC: 2251889756
+CRC: 521367695
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 061ee97bdda388bb777d9c52a9b200db
+    Hash: b7dda3fd65c2f8a2587b9e7a4398b574
   TypeTreeHash:
     serializedVersion: 2
     Hash: 8becd547c702b21343d9309dc05a5f64
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 061ee97bdda388bb777d9c52a9b200db
+    Hash: b7dda3fd65c2f8a2587b9e7a4398b574
 HashAppended: 0
 ClassTypes:
 - Class: 21
@@ -22,6 +22,6 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/AssetBundlesSrc/vi_font/Panton-Bold.ttf
-- Assets/AssetBundlesSrc/vi_font/Panton-Regular.ttf
+- Assets/AssetBundlesSrc/zh-cn_font2/SourceHanSerifSC-SemiBold.otf
+- Assets/AssetBundlesSrc/zh-cn_font2/ResourceHanRoundedCN-Medium.ttf
 Dependencies: []

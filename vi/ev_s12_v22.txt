@@ -189,7 +189,7 @@ Có thể chúng đã chìm xuống đầm lầy, nhưng trông nơi này cũng 
 Đây là chúng à? Bùn đất phủ kín thế này, khó mà nhận ra chúng là gì...
 
 *s_01
-<m joy>Tạ ơn Mẫu Thụ,<m> em làm được rồi! Anh không biết phải cảm ơn em thế nào cho đủ!
+<m joy>Tạ ơn Thần Mộc Khởi Nguyên,<m> em làm được rồi! Anh không biết phải cảm ơn em thế nào cho đủ!
 
 // 母なる大樹様＝ Oh my god! ぐらいのニュアンス。
 *s_02

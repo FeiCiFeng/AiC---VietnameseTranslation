@@ -88,7 +88,7 @@ Dữ Liệu Lưu Game &1
 
 
 &&Money_Counter <img mesh="money_icon" /> <b>&1</b>
-&&EmptyBottle_Counter <img mesh="itemicon_empty_bottle_filled" />Bình Rỗng: <b>&1/&2</b>
+&&EmptyBottle_Counter <img mesh="itemicon_empty_bottle_filled" />Chai Rỗng: <b>&1/&2</b>
 
 
 &&SerTitle_hp_reduce    Cận tử
@@ -275,7 +275,7 @@ Mức Hưng Phấn sẽ tăng nhanh hơn.
 &&Item_detail_dmg_ser <font color="#864788">Gây trạng thái &1 status</font>
 &&Item_detail_cure_mp_crack Hồi phục &1 thanh MP
 &&Item_detail_cannot_nest_multiple Không thể cộng dồn
-&&Item_detail_filled_bottle Để lại một bình rỗng
+&&Item_detail_filled_bottle Để lại một chai rỗng
 
 
 &&Item_cmd_use Sử dụng

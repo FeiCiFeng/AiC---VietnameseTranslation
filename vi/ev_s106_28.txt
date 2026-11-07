@@ -774,7 +774,7 @@ Cô muốn đổi sang cây trượng này chứ? <c1>Một khi đã đổi, cô
 
 // 試し撃ちとかできない？
 *n_10
-Tôi cũng đã quen dùng cây trượng này rồi. Tôi có thể thử cây trượng của Bermit trước khi quyết định không?
+Em cũng đã quen dùng cây trượng này rồi. Em có thể thử cây trượng của Bermit trước khi quyết định không?
 
 *mb_11
 Ừm, rất tiếc là không được. Chúng tôi không thể hỗ trợ việc đó ở đây.

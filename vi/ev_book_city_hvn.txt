@@ -268,7 +268,7 @@ Khi được thông báo rằng mình đã mất tích suốt một tháng, đ�
 *
 Ban đầu, đội chúng tôi cho rằng đây là trường hợp mê sảng do mất nước. Tuy nhiên, khi mất tích, đối tượng không mang theo bất kỳ vật dụng tiếp tế nào. Tình trạng mất nước đáng lẽ phải nghiêm trọng đến mức gây tử vong từ lâu trước khi một tháng trôi qua.
 
-Đội của đối tượng đang tiến đến Đá Mẹ vào thời điểm mất tích. Hiện tại, đội chúng tôi đang làm việc dựa trên giả thuyết rằng khối đá này <fill>có thể làm biến dạng những vùng không gian và thời gian cục bộ</fill>.
+Đội của đối tượng đang tiến đến Cự Thạch Khởi Nguyên vào thời điểm mất tích. Hiện tại, đội chúng tôi đang làm việc dựa trên giả thuyết rằng khối đá này <fill>có thể làm biến dạng những vùng không gian và thời gian cục bộ</fill>.
 
 
 // ========================================================
@@ -356,7 +356,7 @@ Thân thể của Người đã ban sự sống cho vô số loài thú thông t
 
 Chính nhờ trí tuệ và sự kiên trì của chúng mà các Elf chúng ta mới sống sót. Mong rằng chúng sẽ mãi mãi tiếp tục <rb c="phụng sự">dạy dỗ</rb> chúng ta.
 *
-Phía trên những đám mây mang đến những cơn mưa phước lành, được nâng niu trên ngọn Cây Mẹ cao vút, Đức Cha đang say ngủ.
+"Vượt lên trên những tầng mây mang lại cơn mưa phước lành, được ôm ấp chở che nơi Thần Mộc Khởi Nguyên chót vót trên cao, là nơi Phụ Thân của chúng ta đang an giấc".
 
 Hai người con, những người thừa kế linh hồn của Đức Mẹ.
 Mong cuộc sống của họ trường tồn và chúng ta được thịnh vượng.

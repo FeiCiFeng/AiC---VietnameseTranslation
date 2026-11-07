@@ -94,7 +94,7 @@ Nào, hỡi tinh thần tuổi trẻ!! Hãy cùng chúng ta nâng cao kỹ năng
 *___dojo/v_talk_statue dj_00
 Đó là Fiolet, thiên thần chiến tranh. Đồng phục của chúng tôi được thiết kế dựa theo trang phục của ngài ấy.
 *
-<c black><i>"Sinh ra từ Mẫu Thụ, mang dòng máu lai giữa thiên thần và con người; vượt qua vô vàn gian khó, ngài đã dẫn dắt tất cả chúng ta."
+<c black><i>"Sinh ra từ Thần Mộc Khởi Nguyên, mang dòng máu lai giữa thiên thần và con người; vượt qua vô vàn gian khó, ngài đã dẫn dắt tất cả chúng ta."
 *
 ...truyền thuyết kể lại như vậy.
 

@@ -666,7 +666,7 @@ Chẳng có gì nhiều để nói cả. Tôi chỉ là một Thú nhân chăm c
 Có vẻ lúc này mình chẳng moi được thông tin gì từ hắn ta. Có lẽ mình cần <c5>đợi đúng thời điểm</c5>.
 
 
-//*___city_bar/_arbeit_portal n_00
+*___city_bar/_arbeit_portal n_00
 Tôi có thể hỏi ngài một chuyện được không?
 
 *bt_01
@@ -685,7 +685,7 @@ Tôi đoán đồ uống "yêu thích" ở đây có nghĩa là món quen thuộ
 
 
 *n_04
-Ồ, tốt quá, ngài biết đó là món gì. Vậy tổng số tiền tôi phải trả là?
+Ồ, tốt quá, ngài biết đó là món gì ạ. Vậy tổng số tiền tôi phải trả là?
 
 *bt_05
 Khoan đã nào tiểu thư. Quán này không phục vụ đồ uống mang đi.
@@ -940,7 +940,7 @@ Tôi rất trân trọng sự chăm chỉ của cô, nhưng tôi mong cô đừn
 Tôi thật sự xin lỗi...
 
 *bt_02
-Tôi sẽ phải gửi bộ đồ này đến tiệm giặt. Chi phí sẽ được trừ vào tiền công của cô.
+Tôi sẽ phải gửi bộ đồ này đến tiệm giặt đấy. Chi phí sẽ được trừ vào tiền công của cô.
 
 // ログには別の文章が出力される
 // ログ上書き
@@ -1094,7 +1094,7 @@ Vậy họ làm thế để làm gì cơ chứ?
 Họ được lợi gì khi khách hàng của mình chết hết, còn chính quán rượu của họ thì bị biến thành đống đổ nát?
 
 *n_07
-T-Ta chỉ giả sử thôi mà, ngài còn nhớ chứ? Cứ quên chuyện tôi vừa nói đi.
+T-Tôi chỉ giả sử thôi mà, ngài còn nhớ chứ? Cứ quên chuyện tôi vừa nói đi.
 
 
 // ヴァーロスは複数いる

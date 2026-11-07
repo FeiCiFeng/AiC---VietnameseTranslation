@@ -34,7 +34,7 @@ Tôi nhớ bầu không khí trong lành trên núi quá.
 // ギルドで余ったポイントについて聞く
 
 *___city_guild/enough_point n_00
-Điểm Hội của tôi đạt mức tối đa thì sẽ thế nào?
+Điểm Hội của em đạt mức tối đa thì sẽ thế nào?
 
 *mb_01
 Điểm Hội gắn liền với giấy phép của cô.
@@ -44,10 +44,10 @@ Mỗi khi tăng hạng, cô sẽ nhận được phần thưởng.
 Chúng là biểu tượng cho sự tin tưởng giữa hội, các nhà mạo hiểm và khách hàng của chúng ta.
 
 *n_02
-V-Vâng, tôi biết điều đó...
-Ý tôi là -
+V-Vâng, em biết điều đó...
+Ý em là -
 *
-- số Điểm Hội dư ra sẽ có ích gì khi tôi đã đạt cấp 5?
+- số Điểm Hội dư ra sẽ có ích gì khi em đã đạt cấp 5?
 
 *mb_03
 <m joy>Ồ?
@@ -56,7 +56,7 @@ V-Vâng, tôi biết điều đó...
 <m0>Được rồi, tôi hiểu cô đang muốn hỏi gì rồi.
 
 *n_04
-...Ông...định nói cho tôi biết chứ?
+...Đó là gì vậy?
 
 *mb_05
 Nói ra thì còn gì thú vị nữa?
@@ -94,7 +94,7 @@ Xin lỗi nhé, cô Cornehl. Có vẻ hội chúng tôi không thể giúp cô s
 
 *n_28
 À, vậy sao...
-Dù sao cũng cảm ơn anh.
+Dù sao cũng cảm ơn ạ.
 
 
 //エセ関西弁の公園のじじい
@@ -131,7 +131,7 @@ Muốn trao đổi chút gì không?
 
 // ↑の話を聞いていた場合
 *n_06
-Tôi nghe nói ở đây có người trao đổi hàng hóa bằng Điểm Hội.
+Cháu nghe nói ở đây có người trao đổi hàng hóa bằng Điểm Hội.
 
 *mb_06
 Ừ, là ta đấy. Đưa giấy phép đây xem nào.
@@ -281,7 +281,7 @@ Chẳng hạn như một <c5>nhà khảo cổ học<c0> hay gì đó. Tớ cá l
 
 *n_08
 Nhà khảo cổ học...
-Tôi sẽ thử tìm xem!
+Tớ sẽ thử tìm xem!
 
 *so_09
 Xin lỗi vì không giúp cậu được nhiều hơn. Có phát hiện gì thì nhớ kể cho tớ nhé!
@@ -632,7 +632,7 @@ Có nghĩa là <c5>cậu có thể triệu hồi những học viên khác<c0> v
 <s6>...<s2>Vậy thì...
 
 *n_08_2
-Có nghĩa là tôi cũng có thể triệu hồi cậu sao?
+Có nghĩa là tớ cũng có thể triệu hồi cậu sao?
 
 *so_09
 <s4>......

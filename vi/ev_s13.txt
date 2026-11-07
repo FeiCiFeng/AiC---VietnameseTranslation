@@ -85,9 +85,9 @@ Mình phải đến kiểm tra tình hình của Ixia...!
 <device><noise>Người sống sót sao? Bình tĩnh lại. Hãy báo cáo tình hình cho tôi.
 
 *n_06
-...T-tôi là Noel Cornehl. Học viên lớp III của Học viện Bermit.
+...E-Em là Noel Cornehl. Học viên lớp III của Học viện Bermit.
 *
-Tôi nghĩ...một người bạn của tôi đã bị con quái vật bắt đi!
+Em nghĩ...một người bạn của em đã bị con quái vật bắt đi rồi!
 
 
 *ixiacane_07
