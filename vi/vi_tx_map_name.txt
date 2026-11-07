@@ -20,15 +20,15 @@
 &&MAP_forest_ruin_hall     Lộ Bia Cổ - Cầu Vượt Gai Góc
 &&MAP_forest_ruin_station_r     Lộ Bia Cổ - Trạm Phía Đông
 &&MAP_forest_hiroba     Đài Vọng Cảnh
-&&MAP_forest_hiroba_u     Lối Đi Bí Mật tới Cây Acid
-&&MAP_forest_cliff_portal     Cự Mộc Acid - Cổng Hắc Diện Thạch
+&&MAP_forest_hiroba_u     Lối Đi Bí Mật tới Cây Axit
+&&MAP_forest_cliff_portal     Cự Mộc Axit - Cổng Hắc Diện Thạch
 &&MAP_forest_coroseum_frog     Đầm Ếch Hắc Ám
 &&MAP_forest_frog_left    Đầm Ếch Hắc Ám - Cổng Hắc Diện Thạch
 
 &&MAP_forest_coroseum  Sào Huyệt của kẻ Lang Thang
 
 &&MAP_forest_athletic_ladder    Thử Thách Leo Thang
-&&MAP_forest_lava_secret    Mật Đạo Acid Dâng Trào
+&&MAP_forest_lava_secret    Mật Đạo Axit Dâng Trào
 &&MAP_forest_wood_extender_puzzle  Câu Đố Cửa Giao Nhau
 &&MAP_forest_senzyort  Câu Đố Cơ Quan Vượt Ngục
 &&MAP_forest_tc  Đường Bắn Vòng Cung

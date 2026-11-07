@@ -49,7 +49,7 @@ có thể gây khó chịu cho một số người chơi. Người chơi nên c�
 &&Destination Tới &1
 
 &&Area_forest   Rừng Thợ Dệt
-&&Area_city  Thành Phố Được Ban Phước, Grazia
+&&Area_city  Đất Thánh Ban, Grazia
 &&Area_house  Tiệm Phù Thủy
 
 

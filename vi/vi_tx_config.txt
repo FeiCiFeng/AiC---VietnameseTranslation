@@ -616,7 +616,7 @@ Thay đổi biểu cảm kích thích của Noel thành biểu cảm đau đớn
 /* ___ Config_desc_spconfig_ep_fear_mode_item ___ */
 Cho phép thiết lập riêng từng tùy chọn của chức năng chuyển biểu cảm kích thích của Noel thành đau đớn trong Chế độ Siêu An toàn.\nCài đặt này sẽ xuất hiện trong tab cấu hình thông thường.
 
-&&Config_spconfig_vore_digest Tắm acid
+&&Config_spconfig_vore_digest Tắm axit
 /* ___ Config_desc_spconfig_vore_digest ___ */
 Thiết lập việc kẻ địch có đòn tấn công nuốt chửng có tiêu hóa con mồi đến chết hay không. Giá trị càng cao thì thời gian cần thiết để tiêu hóa càng ngắn.
 Xem Field Guide để biết những kẻ địch nào bị ảnh hưởng.

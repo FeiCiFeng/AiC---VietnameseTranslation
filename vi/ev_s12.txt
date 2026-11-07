@@ -76,7 +76,7 @@ Có báo cáo về việc nhìn thấy quái vật lớn tại dinh thự nhìn 
 *
 Chúng tôi sẽ mở cầu kéo ngay khi nhận được tín hiệu xác nhận khu vực đã an toàn.
 *
-Có một đường hầm ngay dưới vách đá này dẫn đến <c blue>Cây Acid Khổng Lồ<c>.
+Có một đường hầm ngay dưới vách đá này dẫn đến <c blue>Cây Axit Khổng Lồ<c>.
 *
 Nếu đang vội thì em có thể đi lối đó.
 
@@ -92,7 +92,7 @@ Những bộ váy hở hang của nhân viên cùng đám dây leo xoắn vặn 
 *x_02
 Nếu cứ tiếp tục đi theo hướng ← này, cuối cùng cô sẽ đến được sườn đồi.
 *
-Nhưng nếu đang vội, <c blue>hãy xuống vách đá và tìm đường hầm dẫn đến Cây Acid Khổng Lồ<c>.
+Nhưng nếu đang vội, <c blue>hãy xuống vách đá và tìm đường hầm dẫn đến Cây Axit Khổng Lồ<c>.
 *
 Em có thể cứ nhìn tôi bao lâu tùy thích, nhưng tôi sẽ không hạ cầu kéo đâu.
 *
@@ -300,15 +300,15 @@ Nghe nói họ đang tiến triển khá tốt trong việc dọn dẹp đống 
 Những cây đại thụ ở đây có những hốc rỗng đủ lớn để Elf chúng ta đi xuyên qua. Chúng tôi đã dọn dẹp bên trong để sử dụng làm lối đi, nhưng...
 
 *
-Cái tên 'Cây Acid Khổng Lồ' đúng là không sai chút nào. Nhựa cây có tính acid nhỏ xuống rồi đọng lại thành những hồ acid lớn.
+Cái tên 'Cây Axit Khổng Lồ' đúng là không sai chút nào. Nhựa cây có tính axit nhỏ xuống rồi đọng lại thành những hồ axit lớn.
 *
 Nếu muốn đến làng bằng bất kỳ con đường nào khác ngoài tuyến đường trung tâm này, cô bé sẽ không thể tránh được chúng đâu.
 
 
 *x_01
-Đây là bộ quần áo tử tế duy nhất của tôi, và tôi cần nó để đi xin việc, nên không thể mạo hiểm để chúng bị acid làm cháy được.
+Đây là bộ quần áo tử tế duy nhất của tôi, và tôi cần nó để đi xin việc, nên không thể mạo hiểm để chúng bị axit làm cháy được.
 *
-Đó là lý do tôi không muốn đi qua con đường đầy Acid kia.
+Đó là lý do tôi không muốn đi qua con đường đầy axit kia.
 *
 Việc tuyến đường trung tâm bị sụp đổ đúng là họa vô đơn chí...
 *
@@ -318,7 +318,7 @@ Nếu vì chuyện này mà tôi đến muộn buổi phỏng vấn thì chắc 
 
 // ノエルの服が破れてる状態で青年と(何度も)話す
 *x_02
-Whoa, trông cô bé đây thảm hại quá. Cô rơi xuống hồ Acid hay gì vậy?
+Whoa, trông cô bé đây thảm hại quá. Cô rơi xuống hồ axit hay gì vậy?
 
 
 
@@ -429,7 +429,7 @@ Tuyến đường trung tâm là con đường an toàn nhất nối giữa làn
 *
 Một số người nhanh trí đang tìm đường vòng sang phía bên kia. Em cũng định làm vậy sao?
 *
-Dọc đường có một số khu vực khá nguy hiểm, nơi Acid phun trào. Hãy cẩn thận, kẻo bị thiêu cháy thành tro đấy.
+Dọc đường có một số khu vực khá nguy hiểm, nơi axit phun trào. Hãy cẩn thận, kẻo bị thiêu cháy thành tro đấy.
 
 
 *x_01

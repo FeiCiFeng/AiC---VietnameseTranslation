@@ -213,7 +213,7 @@ Bắn Cầu Năng lượng vào Giếng Trọng Lực
 sẽ làm tăng bán kính vụ nổ.
 
 /* ___ tips_watershard_for_lava ___ */
-Thủy Phiến giúp giảm sát thương từ lửa và acid
+Thủy Phiến giúp giảm sát thương từ lửa và axit
 khi tiếp xúc với cơ thể bạn.
 
 /* ___ tips_flowerycircle_1 ___ */

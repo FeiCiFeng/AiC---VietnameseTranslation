@@ -24,15 +24,15 @@
 &&Summoner_forest_tikuwar Lính Tiếp Tế Ranh Ma
 &&Summoner_forest_wood_nightlake Ảo Mộng Đêm Hồ
 &&Summoner_forest_clocktower Con Rối
-&&Summoner_forest_acid_lake Nhím Tắm Acid
+&&Summoner_forest_acid_lake Nhím Tắm Axit
 &&Summoner_forest_tomato Kẻ Chinh Phục Đẫm Máu
 &&Summoner_forest_treecrack Hộ Vệ Khe Nứt
 &&Summoner_forest_darkpotu Hộp Hề Ma Quái
 &&Summoner_forest_toybox Kẻ Đào Mỏ Không Mời
 &&Summoner_forest_senzyo2cliff  Sân Chơi Của Chó
-&&Summoner_forest_wood_hall Món Khai Vị Acid
+&&Summoner_forest_wood_hall Món Khai Vị Axit
 &&Summoner_forest_wood_right_exit  Hành Lang Gió
-&&Summoner_forest_nightacid Vực Thẳm Acid
+&&Summoner_forest_nightacid Vực Thẳm Axit
 
 &&Enemy_PUPPY Cún Con
 
