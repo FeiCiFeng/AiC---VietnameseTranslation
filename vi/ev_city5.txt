@@ -226,7 +226,7 @@ Nghe nói có một tên trên núi đang nghiên cứu mấy thứ này.
 // 1d: 山の獣人に聞く前にティグリナにオーパーツを渡した場合
 
 *___Tigrina/t_ooparts02 so_00
-Này, Noel! Cậu đến tham gia Câu lạc bộ Kỹ thuật và Quan hệ với Quái Vật à!?
+Này, Noel! Cậu đến tham gia Câu lạc bộ Kỹ thuật và Thân Hòa với Quái Vật à!?
 
 *n_01
 Thôi, cảm ơn. Tớ có thứ này muốn cho cậu xem. Nghe nói nó là một di vật cổ đại được tìm thấy bên dưới thành phố.

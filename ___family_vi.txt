@@ -31,7 +31,7 @@ vi      VI      Vietnamese
 
 // ================================================
 
-%BUNDLE_PATH __AdditionalFonts vi_font
+%BUNDLE_PATH __AdditionalFonts zh-cn_font2
 %FONT ResourceHanRoundedCN-Medium SourceHanSerifSC-SemiBold
 %USE_ARIEL 1
 %FONT_BASE_HEIGHT 0.84
