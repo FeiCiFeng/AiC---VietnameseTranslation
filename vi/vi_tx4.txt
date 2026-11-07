@@ -285,8 +285,8 @@ Trò chơi sẽ chạy ở chế độ im lặng.
 &&Alert_rebagacha Nhấn liên tục các phím di chuyển!
 
 
-&&Bench_Cmd_restroom_cure_egged_no_tool Trứng đã tự rơi ra
-&&Bench_Cmd_restroom_cure_egged_tool Đã sử dụng dụng cụ lấy trứng
+&&Bench_Cmd_restroom_cure_egged_no_tool Rặn trứng rơi ra
+&&Bench_Cmd_restroom_cure_egged_tool Sử dụng dụng cụ lấy trứng
 
 
 &&bomb_selfexplode Lựu đạn đã phát nổ...
