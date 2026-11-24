@@ -579,11 +579,11 @@ Hình như chị mình cần nó để làm bùa hộ mệnh.
 Một loại ngọc lục bảo hiếm.
 Màu đỏ rực như lửa, rất đẹp.
 
-%ITEM mtr_sapphire Sapphire
+%ITEM mtr_sapphire Ngọc Bích
 Một loại đá quý hiếm.
 Có ánh xanh lam nhạt đầy mê hoặc.
 
-%ITEM mtr_topaz Topaz
+%ITEM mtr_topaz Hoàng Ngọc
 Một loại đá quý hiếm.
 Loại màu vàng là phổ biến nhất.
 
