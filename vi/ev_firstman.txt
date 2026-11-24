@@ -117,7 +117,7 @@ Cháu sẽ tự thử xem sao. Cháu thích tự mình tìm hiểu hơn.
 Ôi...Mình câu cá dở thật đấy.
 
 *n_01
-Có lẽ mình nên dừng lại và học hỏi thêm từ một người chuyên nghiệp trước đã.
+Có lẽ mình nên dừng lại và học hỏi thêm từ người chuyên nghiệp trước đã.
 
 
 // やめておく

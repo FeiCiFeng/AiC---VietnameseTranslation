@@ -44,7 +44,7 @@
 &&Enemy_UNI Nhím Biển
 // Sea Urchin
 &&Enemy_SNAKE Rắn Chuột Chũi
-&&Enemy_SPONGE Động Vật Thân Lỗ
+&&Enemy_SPONGE Hải Miên
 
 &&Summoner_can_battle_in_night Chỉ xuất hiện vào ban đêm
 
@@ -152,7 +152,7 @@ Một con quái vật khổng lồ sống trong rừng.
 &&Enemy_GOLEMTOY_POD Bệ Phóng Tên Lửa
 &&Enemy_GOLEMTOY_BOW Pháo Laser
 
-&&Enemy_PENTAPOD Quái Năm Chân
+&&Enemy_PENTAPOD Quái Vật Ngũ Chi
 &&Enemy_PIG Lợn Rừng
 
 &&Enemy_ROAPER Quái Vật Xúc Tu

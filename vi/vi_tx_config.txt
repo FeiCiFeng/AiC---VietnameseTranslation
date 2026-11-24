@@ -548,7 +548,7 @@ Chọn việc Noel sẽ biến thành một bức tượng băng hay một khố
 Chọn việc các đoạn thoại của Noel có được phát hay không khi cô bị đóng băng hoàn toàn.
 
 
-&&Config_spconfig_stone_dmg_voice Stony Sự im lặng cứng nhắc
+&&Config_spconfig_stone_dmg_voice Sự im lặng cứng nhắc
 /* ___ Config_desc_spconfig_stone_dmg_voice ___ */
 Chọn việc các đoạn thoại của Noel có được phát hay không khi cô ấy bị hóa đá hoàn toàn.
 
@@ -619,7 +619,7 @@ Cho phép thiết lập riêng từng tùy chọn của chức năng chuyển bi
 &&Config_spconfig_vore_digest Tắm Axit
 /* ___ Config_desc_spconfig_vore_digest ___ */
 Thiết lập việc kẻ địch có đòn tấn công nuốt chửng có tiêu hóa con mồi đến chết hay không. Giá trị càng cao thì thời gian cần thiết để tiêu hóa càng ngắn.
-Xem Field Guide để biết những kẻ địch nào bị ảnh hưởng.
+Xem Sổ Tay Thực Địa để biết những kẻ địch nào bị ảnh hưởng.
 
 &&Config_spconfig_share_all_setting Kiến thức chung
 /* ___ Config_desc_spconfig_share_all_setting ___ */

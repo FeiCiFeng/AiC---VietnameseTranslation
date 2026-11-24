@@ -269,8 +269,8 @@ Phát huy tối đa tiềm năng "KAWAISOU".
 &&KD_catalog_history Lịch sử
 
 // 他のお店などのUIからカタログを開く
-&&KD_go_to_def_in_catalog <key d/>+<key a/>Xem trong Sổ Tay Công thức
-&&KD_show_catalog <key d/>+<key a/>Mở Sổ Tay Công thức
+&&KD_go_to_def_in_catalog <key d/>+<key a/>Xem trong Sổ Tay Thực Địa
+&&KD_show_catalog <key d/>+<key a/>Mở Sổ Tay Thực Địa
 
 
 // ========================================================

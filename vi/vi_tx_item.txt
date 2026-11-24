@@ -132,8 +132,8 @@ Một số điều kiện nhất định có thể khiến nó tạm thời ng�
 &&noel_juice_grade0 &1
 &&noel_juice_grade1 &1 Ấm nóng
 &&noel_juice_grade2 &1 Tươi mới
-&&noel_juice_grade3 &1 Hảo hạng
-&&noel_juice_grade4 &1 Nouveau
+&&noel_juice_grade3 &1 Hảo Hạng
+&&noel_juice_grade4 &1 Tinh Túy
 
 
 &&name_skill_book Kỹ năng: &1
@@ -182,11 +182,11 @@ Một số điều kiện nhất định có thể khiến nó tạm thời ng�
 &&recipe_adj_manykind_specific Đa Dạng &1
 &&recipe_double_item &1 và &2
 
-&&recipe_adj_grade0 &1 Đáng ngờ
+&&recipe_adj_grade0 &1 Đáng Ngờ
 &&recipe_adj_grade1 &1 Thường
-&&recipe_adj_grade2 &1 Thời thượng
+&&recipe_adj_grade2 &1 Thời Thượng
 &&recipe_adj_grade3 Siêu &1
-&&recipe_adj_grade4 &1 Thần thánh
+&&recipe_adj_grade4 &1 Thần Thánh
 
 &&Recipe_title_bread Bánh Mì
 &&Recipe_desc_bread Rất hợp cho bữa sáng. Có thể dùng làm đĩa khi để khô.
@@ -194,7 +194,7 @@ Một số điều kiện nhất định có thể khiến nó tạm thời ng�
 &&Recipe_title_sandwich Bánh Sandwich
 &&Recipe_desc_sandwich Tui nghe nói món này được đặt tên theo một người - Thật vậy sao?
 
-&&Food_unknown Không rõ
+&&Food_unknown Không Rõ
 &&Food_unknown_desc Có vị như món ăn được code ra từ hệ nhị phân. Đậm mùi tương lai.
 
 
@@ -673,8 +673,8 @@ Lớp vỏ ngoài của một viên đạn ma thuật. Có vẻ ma lực bên tr
 // MARK : ver0.24
 // ========================================================
 // ↓ver0.24で修正される部分
-%ITEM recipe_collection Sổ Tay Công Thức
-Một cuốn sổ tay công thức được cấp phép, do chị gái đưa cho mình.
+%ITEM recipe_collection Sổ Tay Thực Địa
+Một cuốn Sổ Tay Thực Địa được cấp phép, do chị gái đưa cho mình.
 Chứa thông tin về các công thức và vật phẩm đã biết.
 Nhấn <key d/>+<key a/> ở bất cứ đâu, bất cứ lúc nào để xem.
 
@@ -1056,8 +1056,8 @@ Bên trong chứa cả đống thông tin.
 &&recipe_effect_itemdrop_ratio Tỉ lệ rớt vật phẩm
 
 
-%ITEM mtr_essence_pentapod Cổ Pentapod
-Phần cổ dẻo dai của một con quái vật thuộc loài Pentapod.
+%ITEM mtr_essence_pentapod Cổ Quái Vật Ngũ Chi
+Phần cổ dẻo dai của một con quái vật thuộc loài Quái Vật Ngũ Chi.
 Cảm giác như mình có thể kéo giãn nó đến vô tận vậy. Giá mà tay mình dài hơn một chút nhỉ...
 
 %ITEM mtr_essence_pig Nanh Lợn Rừng
