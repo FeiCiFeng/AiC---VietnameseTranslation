@@ -836,7 +836,7 @@ Chỉ cần ngửi thoang thoảng mùi này thôi cũng khiến mình muốn �
 // ========================================================================
 // 240301 ver0.25
 
-%ITEM mtr_milk Trang Trại Sữa TƯơi
+%ITEM mtr_milk Sữa Tươi
 Uống sữa vào thì nhớ chống nạnh, ngẩng mặt lên trời nhé!
 
 %RECIPE_REPLACE mtr_milk Sữa
