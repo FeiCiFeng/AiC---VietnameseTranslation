@@ -54,4 +54,4 @@ Kinh nghiệm câu cá: &2 (Cấp &3)
 Cá đạt kích thước tối đa! EXP x2!
 
 /* ___ fish_result_no_miss ___ */
-Không trượt lần nào! EXP x2!
+Không trượt phát nào! EXP x2!
