@@ -271,7 +271,7 @@ Mức Hưng Phấn sẽ tăng nhanh hơn.
 &&Item_detail_cure_mp Hồi &1 MP
 &&Item_detail_cure_ep -&1 Hưng phấn
 &&Item_detail_dmg_ep <font color="#864788">+&1 Hưng phấn</font>
-&&Item_detail_cure_ser Cures &1 Trạng thái
+&&Item_detail_cure_ser Giải Trạng thái &1
 &&Item_detail_dmg_ser <font color="#864788">Gây trạng thái &1 status</font>
 &&Item_detail_cure_mp_crack Hồi phục &1 thanh MP
 &&Item_detail_cannot_nest_multiple Không thể cộng dồn
